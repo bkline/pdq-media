@@ -1,0 +1,40 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>low-grade squamous intraepithelial lesion-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>4</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2022-12-21</DateCreated>
+      <SourceFilename>Week_2022_49/410514_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "lesión escamosa intraepitelial de bajo grado"</ContentDescription>
+    </ContentDescriptions>
+  <Comment audience="Internal" date="2014-08-08" user="lsaucedo">Term revised and sent to Vanessa to re-record</Comment></MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000410514">low-grade squamous intraepithelial lesion</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2023-01-26</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2023-01-26</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-12-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced audio</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

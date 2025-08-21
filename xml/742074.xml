@@ -1,0 +1,45 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>stage 0 perihilar bile duct cancer (carcinoma in situ)</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>6</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2023-07-07</DateCreated>
+      <SourceFilename>Week_2023_25/739353_en_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="en">Pronunciation of dictionary term "stage 0 perihilar bile duct cancer (carcinoma in situ)"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000739353">stage 0 perihilar bile duct carcinoma in situ</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2023-07-13</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2023-07-13</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-28</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Term back from VR</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-27</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Audio sent to VR</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

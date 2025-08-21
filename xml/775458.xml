@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, bone marrow aspiration and, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Bone Marrow Aspiration and Biopsy</LabelName><LabelName language="en">Bone marrow needle</LabelName><LabelName language="en">Bone marrow</LabelName><LabelName language="en">Skin</LabelName><LabelName language="en">Hip bone</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-09-23</DateCreated>
+   <SourceFilename>BoneMarrowBiopsyChild AfricanAmer3.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Bone marrow aspiration and biopsy; drawing shows a child lying face down on a table and a bone marrow needle being inserted into the right hip bone. An inset shows the bone marrow needle being inserted through the skin into the bone marrow of the hip bone. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Bone marrow aspiration and biopsy. After a small area of skin is numbed, a bone marrow needle  is inserted into the child’s hip bone.  Samples of blood, bone, and bone marrow are removed for examination under a microscope.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia Treatment</Summary>
+       <Summary cdr:ref="CDR0000258000">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary><Summary cdr:ref="CDR0000258466">Childhood Rhabdomyosarcoma Treatment</Summary><Summary cdr:ref="CDR0000403689">Ewing Sarcoma Treatment</Summary><Summary cdr:ref="CDR0000258023">Neuroblastoma Treatment</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-09-09</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

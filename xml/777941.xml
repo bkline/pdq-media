@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - Wilms Tumor Figure 1</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Nucleus</LabelName><LabelName language="en">Transcription</LabelName><LabelName language="en">RNA Pol</LabelName><LabelName language="en">Pri-miRNA</LabelName><LabelName language="en">Cleavage</LabelName><LabelName language="en">Drosha</LabelName><LabelName language="en">DGCR8</LabelName><LabelName language="en">5'</LabelName><LabelName language="en">3'</LabelName><LabelName language="en">Pre-miRNA</LabelName><LabelName language="en">Exportin-5</LabelName><LabelName language="en">5'</LabelName><LabelName language="en">3'</LabelName><LabelName language="en">Pre-miRNA</LabelName><LabelName language="en">Cleavage</LabelName><LabelName language="en">Dicer</LabelName><LabelName language="en">TRBP</LabelName><LabelName language="en">5'</LabelName><LabelName language="en">3'</LabelName><LabelName language="en">3'</LabelName><LabelName language="en">5'</LabelName><LabelName language="en">Degradation</LabelName><LabelName language="en">Passenger strand</LabelName><LabelName language="en">3'</LabelName><LabelName language="en">5'</LabelName><LabelName language="en">Mature miRNA</LabelName><LabelName language="en">AGO2</LabelName><LabelName language="en">RISC complex formation, mRNA silencing </LabelName><LabelName language="en">Cytoplasm</LabelName><LabelName language="en">Degradation</LabelName><LabelName language="en">DIS3L2</LabelName><LabelName language="en">Uridylation</LabelName><LabelName language="en">TUT4/7</LabelName><LabelName language="en">5'</LabelName><LabelName language="en">3'</LabelName><LabelName language="en">Pre-Let-7 miRNA</LabelName><LabelName language="en">LIN28</LabelName><ImageDimensions>
+    <HeightPixels>1065</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Genes &amp; development</Creator>
+   <SourcePublication>Genes &amp; development, Volume 29 (Issue 5), Hohenstein, et. al, The yin and yang of kidney development and Wilms' tumors, Pages 467-82, Copyright 2015, Cold Spring Harbor Laboratory Press</SourcePublication><DateCreated>2016-01-11</DateCreated>
+   <SourceFilename>Genomics of Wilms Tumor Hohenstein Figure 1-11-16.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000777916">The yin and yang of kidney development and Wilms' tumors.</CitationLink><Comment audience="Internal" date="2016-01-14" user="kuhlmanna">Permissions not required; available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described at http://creativecommons.org/licenses/by-nc/4.0/.</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000775589">Wilms tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Diagram showing the miRNA processing pathway, which is commonly  mutated in Wilms' tumor.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The miRNA processing pathway is commonly mutated in Wilms’ tumor. Expression of mature miRNA is initiated by RNA polymerase-mediated transcription of DNA-encoded sequences into pri-miRNA, which form a long double-stranded hairpin. This structure is then cleaved by a complex of Drosha and DGCR8 (termed Pasha) into a smaller pre-miRNA hairpin, which is exported from the nucleus and then cleaved by Dicer (an RNase) and TRBP (with specificity for dsRNA) to remove the hairpin loop and leave two single-stranded miRNAs. The functional strand binds to Argonaute (Ago2) proteins into the RNA-induced silencing complex (RISC), where it guides the complex to its target mRNA, while the nonfunctional strand is degraded. Targeting of mRNAs by this method results in mRNA silencing by mRNA cleavage, translational repression, or deadenylation. Let-7 miRNAs are a family of miRNAs highly expressed in ESCs with tumor suppressor properties. In cases in which LIN28 is overexpressed, LIN28 binds to pre-Let-7 miRNA, preventing DICER from binding and resulting in LIN28-activated polyuridylation by TUT4 or TUT7, causing reciprocal DIS3L2-mediated degradation of Let-7 pre-miRNAs. Genes involved in miRNA processing that have been associated with Wilms’ tumor are highlighted in blue (inactivating) and green (activating) and include DROSHA, DGCR8, XPO5 (encoding exportin-5), DICER1, TARBP2, DIS3L2, and LIN28.  © 2015 Hohenstein et al.; Published by Cold Spring Harbor Laboratory Press. doi: 10.1101/gad.256396.114. Genes &amp; Dev. 2015.   29:  467–482. This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue publication date (see http://genesdev.cshlp.org/site/misc/terms.xhtml). After six months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described at http://creativecommons.org/licenses/by-nc/4.0/legalcode. This figure was not modified from the original article.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062789">Wilms Tumor and Other Childhood Kidney Tumors Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-04</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-04</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000778645">Hohenstein_GenomicsofWilmsTumor_CopyrightPermissions_2016-02-03</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

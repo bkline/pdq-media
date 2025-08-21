@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>stage II ovarian epithelial, fallopian tube, and primary peritoneal cancer-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>6</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2015-04-09</DateCreated>
+      <SourceFilename>45900_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "cáncer epitelial de ovario, de trompa de Falopio y primario de peritoneo en estadio II"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000045900">stage II ovarian epithelial, fallopian tube, and primary peritoneal cancer</Glossary>
+  </ProposedUse>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked revised audio</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

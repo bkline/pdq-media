@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bronchoscopy, with cancer-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Broncoscopia</LabelName><LabelName language="es">Broncoscopio</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Bronquios</LabelName><LabelName language="es">Cáncer</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2409</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000435997">bronchoscopy, with cancer</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>BroncoscopySpanish.jpg</SourceFilename><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image with titled image</Comment><Comment audience="Internal" date="2008-03-11" user="dbuchhagen">2008-03-11; Spanish image Bronchoscopy8Spanish.jpg with new copyright </Comment><Comment>2006-08-17 final Spanish image Bronchoscopy7Spanish.jpg; mm 2006-08-03 Waiting for publishable version of original English image; mm 2006-07-24 added Spanish labeled image,   Bronchoscopy6Spanish.jpg; mm</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Broncoscopia; el dibujo muestra un broncoscopio insertado a través de la boca, la tráquea y el bronquio hasta el pulmón; los ganglios linfáticos a lo largo de la tráquea y los bronquios, y el cáncer en un pulmón. El recuadro muestra al paciente acostado sobre una camilla mientras se le realiza la broncoscopia.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Broncoscopia. Se inserta un broncoscopio a través de la boca, la tráquea y los bronquios principales hasta el pulmón para ver si hay áreas anormales. Un broncoscopio es un aparato con forma de tubo delgado, con una luz y una lente para observar. También puede tener un instrumento para cortar. Se pueden tomar muestras de tejido y examinarlas al microscopio para determinar si hay señales de enfermedad.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       
+       <Summary cdr:ref="CDR0000256766">Cáncer de pulmón de células no pequeñas: Tratamiento</Summary><Summary cdr:ref="CDR0000256767">Cáncer de pulmón de células pequeñas: Tratamiento</Summary><Summary cdr:ref="CDR0000433305">Mesotelioma maligno: Tratamiento</Summary><Glossary cdr:ref="CDR0000045628">bronchoscopy</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QC, added Glossary term under ProposedUse</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-11</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Spanish-labeled image received 2006-07-12; mm</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2006-07-26 caption / content desc. completed; mm 2006-07-10 Labels completed. mm</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

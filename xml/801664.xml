@@ -1,0 +1,60 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Extracranial Germ Cell Tumor  - GCT Diagram</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">GCTs</LabelName><LabelName language="en">Precursor cell</LabelName><LabelName language="en">Totipotent Primordial Germ Cell</LabelName><LabelName language="en">Differentiation</LabelName><LabelName language="en">Normal</LabelName><LabelName language="en">Somatic</LabelName><LabelName language="en">Embryonic</LabelName><LabelName language="en">Extra-embryonic</LabelName><LabelName language="en">None: germinal state</LabelName><LabelName language="en">Tumor subtype</LabelName><LabelName language="en">Normal testis/ovary (no tumor development)</LabelName><LabelName language="en">Teratoma</LabelName><LabelName language="en">Mature</LabelName><LabelName language="en">Immature</LabelName><LabelName language="en">Embryonal carcinoma (EC)</LabelName><LabelName language="en">Yolk sac tumour (YST)</LabelName><LabelName language="en">Choriocarcinoma (CHC)</LabelName><LabelName language="en">Seminoma (testis)</LabelName><LabelName language="en">Dysgerminoma (ovary)</LabelName><LabelName language="en">Germinoma (extragonadal)</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Thomas Olson, M.D., Aflac Cancer and Blood Disorders Center of Children's Healthcare of Atlanta - Egleston Campus</Creator>
+   <DateCreated>2021-05-27</DateCreated>
+   <SourceFilename>EXT GCT Figure from TOlson Revision 5-27-21.jpg</SourceFilename>
+  <Comment audience="Internal" date="2021-05-27" user="kuhlmanna">Revised label for Normal testis/ovary to Normal testis/ovary (no tumor development)</Comment><Comment audience="Internal" date="2020-07-31" user="yousufzaimg">Updated image</Comment><Comment audience="Internal" date="2020-05-21" user="kuhlmanna">Figure created by PDQ Pediatric    Treatment Editorial Board member - permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Diagram showing extracranial germ cell development from primordial germ cells. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Extracranial germ cell development from primordial germ cells. Credit: Thomas Olson, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062854">Childhood Extracranial Germ Cell Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-27</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-05-27</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

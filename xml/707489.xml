@@ -1,0 +1,35 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>watchful waiting-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>1</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2011-06-17</DateCreated>
+      <SourceFilename>Week_024/45942_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "<Deletion UserName="lansberryic" Time="Tuesday, June 9, 2020 12:49:39 PM" RevisionLevel="proposed">espera</Deletion><Insertion UserName="lansberryic" Time="Tuesday, June 9, 2020 12:49:44 PM" RevisionLevel="proposed">observación</Insertion> cautelosa"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000045942">watchful waiting</Glossary>
+  </ProposedUse>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Term revised</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

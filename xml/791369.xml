@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Unusual Cancers - Varela Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Myofibroblastic inflammatory tumor</LabelName><LabelName language="en">Carcinoid</LabelName><LabelName language="en">Rhabdomyoma</LabelName><LabelName language="en">Granular cell tumor</LabelName><LabelName language="en">Mucoepidermoid K</LabelName><ImageDimensions>
+    <HeightPixels>1067</HeightPixels>
+    <WidthPixels>1583</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Seminars in Pediatric Surgery</Creator>
+   <SourcePublication>Seminars in Pediatric Surgery, Volume 25, Issue 3, 
+Patricio Varela, Luca Pio, Michele Torre, Primary tracheobronchial tumors in children, Pages 150-155, Copyright (2016)</SourcePublication><DateCreated>2017-11-07</DateCreated>
+   <SourceFilename>Varela Fig 1 for Unusual Cancers of Ch 11-7-27.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2017-10-31</PermissionResponseDate>
+    
+    <PublisherPermissionText>The most representative primary tracheobronchial tumors are described with their more frequent location. Reprinted from Seminars in Pediatric Surgery, Volume 25, Issue 3, 
+Patricio Varela, Luca Pio, Michele Torre, Primary tracheobronchial tumors in children, Pages 150-155, Copyright (2016), with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062872">Unusual Cancers of Childhood Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000791049">Primary tracheobronchial tumors in children.</CitationLink><Comment audience="Internal" date="2017-11-07" user="kuhlmanna">Per SQK, image will not be translated into Spanish, but okay to translate labels, caption, and content description</Comment><Comment audience="Internal" date="2017-11-07" user="yousufzaimg">Image approved by Pediatric Treatment Editorial Board; copyright permissions received</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing showing the most representative primary tracheobronchial tumors in children:  myofibroblastic inflammatory tumor, carcinoid, rhabdomyoma, granular cell tumor, and  mucoepidermoid K.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The most representative primary tracheobronchial tumors are described with their more frequent location. Reprinted from Seminars in Pediatric Surgery, Volume 25, Issue 3, 
+Patricio Varela, Luca Pio, Michele Torre, Primary tracheobronchial tumors in children, Pages 150-155, Copyright (2016), with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062872">Unusual Cancers of Childhood Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-11-29</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image approved by Pediatric Treatment Editorial Board</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000791324">Varela_Figure_Copyright&amp;Permissions_2017-10-31</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

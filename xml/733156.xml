@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>nonspecific immunomodulating agent-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>3</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2016-12-30</DateCreated>
+      <SourceFilename>693550_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "inmunomodulador inespecífico"</ContentDescription>
+    </ContentDescriptions><Comment audience="Internal" date="2016-11-03" user="saucedol">Term revised and sent to Vanessa. Revision as per terminology meeting.</Comment><Comment audience="Internal" date="2012-12-23" user="lsaucedo">Spn term revised from fármaco inmunomodulador no específicado TO sustancia inmunomoduladora no específica</Comment>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000693550">nonspecific immunomodulating agent</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-12-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spn term revised and audio re-recorded</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

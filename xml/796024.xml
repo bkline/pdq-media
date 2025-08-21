@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IIIB (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIB Squamous Cell Carcinoma of the Esophagus (2)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Airway</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Azygos vein</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Membrane (sac) around the heart</LabelName><LabelName language="en">d</LabelName><ImageDimensions>
+    <HeightPixels>2790</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-07-18</DateCreated>
+   <SourceFilename>EsophagusSquamousStage3BPart2.3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-07-19" user="yousufzaimg">Changed "cancer' to "carcinoma'</Comment><Comment audience="Internal" date="2018-12-19" user="kuhlmanna">Changed Trachea label to Airway</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">New image per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717462">stage IIIB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIB squamous cell cancer of the esophagus (2); drawing shows cancer in the esophagus and in the  (a) diaphragm, (b) azygos vein, (c) pleura, and (d) membrane (sac) around the heart. Also shown are the airway, lung, aorta, chest wall, heart, and rib.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIB squamous cell cancer of the esophagus (2); drawing shows cancer in the esophagus and in the (a) diaphragm, (b) azygos vein, (c) pleura, and (d) membrane (sac) around the heart. Also shown are the airway, lung, aorta, chest wall, heart, and rib.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIB squamous cell cancer of the esophagus (2). Cancer has spread into the (a) diaphragm, (b) azygos vein, (c) pleura, (d) sac around the heart, or peritoneum (not shown). Cancer may be found in 0 to 2 lymph nodes near the tumor.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIB squamous cell cancer of the esophagus (2). Cancer has spread into the (a) diaphragm, (b) azygos vein, (c) pleura, (d) sac around the heart, or peritoneum (not shown). Cancer may be found in 0 to 2 lymph nodes near the tumor.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062741">Esophageal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000720246">stage III esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Minor change to caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-12-19" user="kuhlmanna">Updated image to EsophagusSquamousStage3BPart2.2.jpg</Comment><Comment>Added EsophagusSquamousStage3BPart2.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

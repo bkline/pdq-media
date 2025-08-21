@@ -1,0 +1,116 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIA (3)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IIIA (Parte 3)</LabelName><LabelName language="es">a</LabelName><LabelName language="es">El tumor primario mide más de 7 cm</LabelName><LabelName language="es">7 cm</LabelName><LabelName language="es">a</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">c</LabelName><LabelName language="es">Carina</LabelName><LabelName language="es">d</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">e</LabelName><LabelName language="es">Esternón</LabelName><LabelName language="es">f</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">g</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">h</LabelName><LabelName language="es">Aorta</LabelName><LabelName language="es">i</LabelName><LabelName language="es">Vena cava</LabelName><LabelName language="es">Vértebra</LabelName><LabelName language="es">Esternón</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000682121">lung cancer, stage IIIA (3)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LungStage3APart3Male FP VSpanish1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2010-10-14" user="lsaucedo">Added new illustration</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IIIA (Parte 3). En la imagen se observa lo siguiente: a) un tumor primario que mide más de 7 cm en el pulmón izquierdo; b) tumores separados en un lóbulo del pulmón diferente al del tumor primario. También se observa cáncer que se diseminó a los siguientes sitios: c) la tráquea, d) la carina, e) el esófago, f) el esternón, g) el diafragma, h) el corazón, i) la aorta y la vena cava.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIA (Parte 3). En la imagen se observa lo siguiente: a) un tumor primario que mide más de 7 cm en el pulmón izquierdo; b) tumores separados en un lóbulo del pulmón diferente al del tumor primario. También se observa cáncer que se diseminó a los siguientes sitios: c) la tráquea, d) la carina, e) el esófago, f) el esternón, g) el diafragma, h) el corazón, i) la aorta y la vena cava.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IIIA (Parte 3). Es posible que el cáncer se haya diseminado a los ganglios linfáticos del mismo lado del tórax que el tumor primario. Los ganglios linfáticos cancerosos están en el pulmón o cerca del bronquio. Además, se presentan una o más de las siguientes situaciones: a) el tumor mide más de 7 cm; b) hay uno o más tumores separados en un lóbulo del pulmón diferente al del tumor primario. También es posible que el tumor sea de cualquier tamaño y el cáncer se haya diseminado a cualquiera de los siguientes sitios: c) la tráquea, d) la carina, e) el esófago, f) el esternón o la columna vertebral, g) el diafragma, h) el corazón, i) los vasos sanguíneos principales que entran o salen del corazón (aorta o vena cava), o el nervio que controla la laringe (no se muestra).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIA (Parte 3). Es posible que el cáncer se haya diseminado a los ganglios linfáticos del mismo lado del tórax que el tumor primario. Los ganglios linfáticos cancerosos están en el pulmón o cerca del bronquio. Además, se presentan una o más de las siguientes situaciones: a) el tumor mide más de 7 cm; b) hay uno o más tumores separados en un lóbulo del pulmón diferente al del tumor primario. También es posible que el tumor sea de cualquier tamaño y el cáncer se haya diseminado a cualquiera de los siguientes sitios: c) la tráquea, d) la carina, e) el esófago, f) el esternón o la columna vertebral, g) el diafragma, h) el corazón, i) los vasos sanguíneos principales que entran o salen del corazón (aorta o vena cava), o el nervio que controla la laringe (no se muestra).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045367">stage IIIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image to reflect recent skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to make changes to skin tone and facial features as per EN version</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised imagine</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new illustration</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>2010-10-11</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd labels, caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translations pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000682121">lung cancer, stage IIIA (3)</TranslationOf></Media>

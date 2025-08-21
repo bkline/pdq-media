@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IVA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA Lung Cancer</LabelName><LabelName language="en">b) Fluid or cancer nodules around the lungs or heart</LabelName><LabelName language="en">Primary tumor</LabelName><LabelName language="en">a</LabelName><LabelName language="en">c) Cancer has spread to one place in an organ or tissue not near the lung</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Adrenal gland</LabelName><LabelName language="en">Kidney</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Distant lymph nodes</LabelName><LabelName language="en">Bone</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-08-01</DateCreated>
+   <SourceFilename>LungStage4A MaleHispanicLatinoFP IV.4.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-08-01">Lightened up the area over the brain, faded the reproductive organs as they aren’t involved in the staging for this cancer,	moved the cancer nodule in the pull out and main figure slightly lower so that it borders the heart at a slightly lower place</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Diversity updates: Made figure a Hispanic/Latino male, updated skin tone to  FP IV, and added more facial features</Comment><Comment audience="Internal" date="2019-06-11" user="yousufzaimg">Changed the label to say "c) Cancer has spread to one place in an organ or tissue not near the lung"; removed the label “Sac around the heart"</Comment><Comment audience="Internal" date="2019-06-03" user="yousufzaimg">Changed the label under the left inset box to say “b) Fluid or cancer nodules around the lungs or heart” and the label for c) to say "Cancer has spread to the lining around the lungs or sac around the heart or to one place in an organ or tissue not near the lung", per reviewer</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Put a little box around the cancer spot labelled “a” and put the letter right outside the box</Comment><Comment audience="Internal" date="2019-01-18" user="yousufzaimg">Removed the “a)” from in front of the Primary tumor label</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Added a bracket on the right side of the figure that brackets all of the labels starting with “Brain” at the top to “Bone” at the bottom; and added the label “Sac around the heart” above “Adrenal gland”</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Changed the label “a) Other lung” to “Primary tumor”; added a letter “a” near the tumor in the other lung (left lung); changed the label next to “c” to say “Lung cancer has spread to one place in an organ or tissue not near the lung”; and •	changed the label next to “b” to say “Fluid around the lungs or heart”</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">New image per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000792121">stage IVA non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA lung cancer; drawing shows a primary tumor in the right lung and (a) a tumor in the left lung. Also shown is (b) fluid or cancer nodules around the lungs or heart (inset), and (c) other organs or tissues where lung cancer may spread, including the brain, adrenal gland, kidney, liver, bone, and distant lymph nodes.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVA lung cancer; drawing shows a primary tumor in the right lung and (a) a tumor in the left lung. Also shown is (b) fluid or cancer nodules around the lungs or heart (inset), and (c) other organs or tissues where lung cancer may spread, including the brain, adrenal gland, kidney, liver, bone, and distant lymph nodes.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA lung cancer. The tumor may be any size and cancer may have spread to the lymph nodes. One or more of the following is found: (a) there are one or more tumors in the lung that does not have the primary tumor; and/or (b) cancer is found in fluid around the lungs or heart or there are cancer nodules in the lining around the lungs or the sac around the heart; and/or (c) cancer has spread to one place in an organ or tissue not near the lung, such as the brain, adrenal gland, kidney, liver, or bone, or to a lymph node that is not near the lung.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IVA lung cancer. The tumor may be any size and cancer may have spread to the lymph nodes. One or more of the following is found: (a) there are one or more tumors in the lung that does not have the primary tumor; and/or (b) cancer is found in fluid around the lungs or heart or there are cancer nodules in the lining around the lungs or the sac around the heart; and/or (c) cancer has spread to one place in an organ or tissue not near the lung, such as the brain, adrenal gland, kidney, liver, or bone, or to a lymph node that is not near the lung.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045144">stage IV non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-08-01</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2022-08-01">Updated image to LungStage4A MaleHispanicLatinoFP IV.4.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-07-20">Updated image to LungStage4A MaleHispanicLatinoFP IV.2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Updated image to LungStage4A MaleHispanicLatinoFP IV.1.jpg</Comment><Comment audience="Internal" date="2019-06-11" user="yousufzaimg">Updated image to LungStage4A.8.jpg</Comment><Comment audience="Internal" date="2019-06-03" user="yousufzaimg">Updated image to LungStage4A.7jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage4A.6.jpg</Comment><Comment audience="Internal" date="2019-01-18" user="yousufzaimg">Updated image to LungStage4A.5.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage4A.4.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage4A.3.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage4A.2.jpg</Comment><Comment>Added LungStage4A.1.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000798361">Illustration Review Sheet: non-small cell lung cancer stage IVA</SupplementaryInfoLink></RelatedDocuments></Media>

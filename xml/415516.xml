@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colostomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Colostomía</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Estoma</LabelName><LabelName language="es">Extirpación del cáncer y tejidos circundantes</LabelName><LabelName language="es">Bolsa de colostomía</LabelName><ImageDimensions>
+    <HeightPixels>1163</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000415506">colostomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>ColostomySpanish4.jpg</SourceFilename><Comment audience="Internal" date="2014-02-19" user="lsaucedo">Title image publised</Comment><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replace image with new titled image</Comment><Comment>2008-03-27; Added ColostomySpanish3.jpg. Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">La ilustración a tres paneles muestra una cirugía del cáncer de colon con colostomía; el primer panel muestra el área del colon con cáncer, el panel medio muestra la extirpación del cáncer y tejidos circundantes y la creación de un estoma, el último panel muestra la bolsa de colostomía adherida al estoma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cirugía del cáncer de colon con colostomía. Se extirpan parte del colon con cáncer y  tejidos sanos circundantes, se abre un estoma y se le adhiere  una bolsa de colostomía.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title image published</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image with titled image</Comment>
+       </ProcessingStatus></ProcessingStatuses><Comment>2005-01-13 corrected caption.mm</Comment></Media>

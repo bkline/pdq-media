@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>dilatation and curettage-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Vejiga</LabelName><LabelName language="es">Dilatación y legrado</LabelName><LabelName language="es">Tejido anormal</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Espéculo</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Dilatador</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cureta</LabelName>
+  <LabelName language="es">Tejido anormal</LabelName><ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3375</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000680398">dilatation and curettage</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>DandCSpanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2010-10-25" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041017">uterine carcinosarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Dilatación y legrado (DyC). El dibujo a tres paneles muestra una vista lateral de la anatomía del aparato reproductor femenino durante un procedimiento de DyC. El primer panel muestra un espéculo que ensancha la abertura de la vagina. También se muestran el cuello uterino, el útero con tejido anormal, la vejiga y el recto; el recuadro muestra la parte inferior de una mujer cubierta por una sábana sobre una camilla con las piernas separadas y sus pies apoyados en los estribos. El panel del medio muestra el útero y un dilatador que se introduce por la vagina hacia el cuello uterino. El tercer panel muestra una cureta que raspa el tejido anormal del útero; el recuadro muestra una ampliación de la cureta con tejido anormal.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Dilatación y legrado (DyC). Se introduce un espéculo en la vagina para ensancharla a fin de observar el cuello uterino (primer panel). Se utiliza un dilatador para ensanchar el cuello uterino (panel del medio). Se introduce una cureta hacia el cuello uterino para raspar tejido anormal (último panel).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000452962">Sarcoma uterino: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256803">Cáncer de endometrio: Tratamiento</Summary>
+ <Glossary cdr:ref="CDR0000407746">dilatation and curettage</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment audience="Internal" date="2010-10-29" user="lsaucedo">Changed translation of curette to cureta</Comment><Comment>Qcd translated labels, caption and content description</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

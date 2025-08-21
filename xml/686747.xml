@@ -1,0 +1,113 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIB (1)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IIB (Parte 1)</LabelName><LabelName language="es">El tumor primario mide 5 cm o menos</LabelName><LabelName language="es">5 cm</LabelName><LabelName language="es">Los ganglios linfáticos cancerosos se encuentran en el pulmón o cerca del bronquio</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Bronquio principal</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Diafragma</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000682110">lung cancer, stage IIB (1)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LungStage2BPart1Spanish.jpg</SourceFilename><Comment audience="Internal" date="2010-10-14" user="lsaucedo">Added illustration, revised labels, caption and content descr.</Comment>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IIB (Parte 1). En la imagen se muestran un tumor primario que mide 5 cm o menos en el pulmón derecho, y ganglios linfáticos cancerosos en el mismo pulmón que el tumor primario. También se observan la tráquea, el bronquio principal, la pleura y el diafragma.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIB (Parte 1). En la imagen se muestran un tumor primario que mide 5 cm o menos en el pulmón derecho, y ganglios linfáticos cancerosos en el mismo pulmón que el tumor primario. También se observan la tráquea, el bronquio principal, la pleura y el diafragma.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IIB (Parte 1). El tumor primario mide 5 cm o menos y el cáncer se diseminó a los ganglios linfáticos del mismo lado del tórax que el tumor primario. Los ganglios linfáticos cancerosos se encuentran en el pulmón o cerca del bronquio.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIB (Parte 1). El tumor primario mide 5 cm o menos y el cáncer se diseminó a los ganglios linfáticos del mismo lado del tórax que el tumor primario. Los ganglios linfáticos cancerosos se encuentran en el pulmón o cerca del bronquio.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  
+ <Glossary cdr:ref="CDR0000045357">stage IIA non-small cell lung cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd revised Pat. caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added illustration </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>2010-10-11</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>2010-10-11</EnteredBy>
+        <Comment>Labels, captions and content description translations completed</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translations pending</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000682110">lung cancer, stage IIB (1)</TranslationOf></Media>

@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>lymphedema</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lymphedema</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymphatic vessels</LabelName><LabelName language="en">Swollen arm</LabelName><LabelName language="en">Skin</LabelName><LabelName language="en">Disrupted Lymphatic Flow</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Buildup of fluid in the tissues</LabelName><LabelName language="en">Lymph fluid</LabelName><LabelName language="en">White blood cells</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-02-20</DateCreated>
+   <SourceFilename>Lymphedema12.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-02-20" audience="Internal">Pointed to a lymph node that is closer to the armpit and stands out better; enlarged and darkened the little black boxes; made the lymphatic vessels in the skin inset darker, like the ones in the body; added a “Cancer” label to the yellow mass of cells in the inset; added “fluid” to the label “lymph” in the inset and made the words “Build-up” one word with no hyphen (“Buildup”)</Comment><Comment user="yousufzaimg" date="2024-02-05" audience="Internal">Removed fat cells and some of the crisscrossing lines in the inset;	added a blockage (cancer) in place of the cut in the lymphatic vessel with the liquid moving out of the vessel; made arrows below the obstruction in the inset more obvious showing that lymph fluid is forced into the tissues; changed the label in the inset to say “Build-up of fluid in the tissues”</Comment><Comment user="yousufzaimg" date="2024-01-23" audience="Internal">Made a place where the lymph vessel is split more obvious; In the inset, removed the labels for macrophages and lymphocytes and added a label for “White blood cells’ in the lower left part of the inset and point to both cell types; Added a line from the little box on the skin block to the inset; Removed the Lymphatic vessels leader line into the inset
+</Comment><Comment>Draft</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type III – Darker white skin</SkinTone>
+  
+ <DateLastReviewed>2024-02-20</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041348">lymphedema</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="en">Lymphedema; drawing showing a female figure with a red, swollen arm. The lymph nodes and lymphatic vessels are also shown in the figure. There is a pull-out from the swollen arm showing a top layer of red, hardened skin. There is also a pull-out box from a lymphatic vessel below the skin that shows a cancerous tumor blocking the flow of lymph fluid through a lymphatic vessel and a  buildup of fluid and white blood cells in the surrounding tissues. </ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Lymphedema is swelling caused by a buildup of lymph fluid in the body, usually in an arm or leg. The lymph system helps the body fight infection and is made up of lymph nodes, lymphatic vessels, and organs that collect and carry lymph fluid through the body. When part of the lymph system is damaged or blocked by cancer or cancer treatment, the flow of lymph fluid through the body is disrupted. This can lead to increased fluid in the tissues, inflammation, and the release of  white blood cells, which can cause swelling in the affected body part. Discoloration and hardening of the skin in the affected area can also occur.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045359">lymphedema</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-02-20</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" date="2024-02-20" audience="Internal">Updated to Lymphedema12.jpg</Comment><Comment user="yousufzaimg" date="2024-02-05" audience="Internal">Updated to Lymphedema11.jpg</Comment><Comment user="yousufzaimg" date="2024-01-23" audience="Internal">Updated to Lymphedema10.jpg</Comment><Comment user="kuhlmanna" date="2024-01-11" audience="Internal">Updated to Lymphedema9.jpg</Comment><Comment>Added Lymphedema8.jpg</Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

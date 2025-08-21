@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>genetic architecture of cancer risk-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Arquitectura genética del riesgo de cáncer</LabelName><LabelName language="es">Frecuencia alélica</LabelName><LabelName language="es">Variantes comunes (penetrancia baja)</LabelName><LabelName language="es">Variantes raras (penetrancia moderada)</LabelName><LabelName language="es">Variantes raras (penetrancia alta)</LabelName><LabelName language="es">Riesgo relativo</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">5</LabelName><LabelName language="es">≥10</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000746226">genetic architecture of cancer risk</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>GeneticArchitectureOfCancerRiskSpanish2.jpg</SourceFilename>
+  <Comment user="lansberryic" audience="Internal" date="2021-09-23">linked new image</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000043329">cancer genetics</Diagnosis>
+   
+  <Diagnosis cdr:ref="CDR0000042840">hereditary breast/ovarian cancer (BRCA1, BRCA2)</Diagnosis><Diagnosis cdr:ref="CDR0000042841">hereditary non-polyposis colon cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el gráfico se observa el riesgo relativo en el eje X y la frecuencia alélica en el eje Y. La línea representa el hallazgo general de un riesgo relativo bajo asociado con variantes genéticas comunes de penetrancia baja, y un riesgo relativo más alto asociado con variantes genéticas raras de penetrancia alta.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Arquitectura genética del riesgo de cáncer. En el gráfico se observa el hallazgo general de un riesgo relativo bajo asociado a variantes genéticas de penetrancia baja, como los polimorfismos de un solo nucleótido en los estudios de asociación del genoma completo, y un riesgo relativo más alto asociado con variantes genéticas raras de penetrancia alta, como las mutaciones en los genes <GeneName>BRCA1</GeneName> y <GeneName>BRCA2</GeneName> vinculados con el cáncer de mama y ovario hereditario, y los genes de reparación de errores de emparejamiento del DNA vinculados con el síndrome de Lynch.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed caption, content description and new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-29</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Qc of caption and content descr. pending// Pending addes Spa sum when publish</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Linked new image, pending translation of Cont. Descr. and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spanish draft/pending Spanish sum in proposed use.</Comment><Comment audience="Internal" date="2020-09-17" user="lansberryic">Arquitectura genética acuñado en ese ámbito. Múltiples fuentes. Por ejemplo, Doval, Hernán C. "Epidemiología genética: asociaciones con enfermedades complejas e implicancia para la salud pública." Revista argentina de cardiología 73.6 (2005): 499-505. // Petino Zappala, M.A, &amp; Fanara, J.J. (2018). La arquitectura genética como herramienta de análisis del mapa genotipo-fenotipo. BAG. Journal of basic and applied genetics, 29(1), 25-36. Recuperado en 17 de septiembre de 2020, de http://www.scielo.org.ar/scielo.php?script=sci_arttext&amp;pid=S1852-62332018000100003&amp;lng=es&amp;tlng=es. </Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000746226">genetic architecture of cancer risk</TranslationOf></Media>

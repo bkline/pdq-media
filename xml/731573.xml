@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>mean</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>1</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2012-03-16</DateCreated>
+      <SourceFilename>Week_063/285973_en.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="en">Pronunciation of dictionary term "mean"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000285973">mean;media [es]</Glossary>
+  </ProposedUse>
+</Media>

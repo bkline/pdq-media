@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>stem cell transplant, autologous</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stem cells removed from patient</LabelName><LabelName language="en">Apheresis machine</LabelName><LabelName language="en">Stem cells</LabelName><LabelName language="en">Patient receives treatment to kill cancer cells</LabelName><LabelName language="en">Chemotherapy</LabelName><LabelName language="en">Patient receives stem cells</LabelName><LabelName language="en">Stem cells</LabelName><ImageDimensions>
+    <HeightPixels>1530</HeightPixels>
+    <WidthPixels>3045</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-01-31</DateCreated>
+   <SourceFilename>AutologousTransplant4.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Removed the bag of blood from the first panel, changed the title in the second panel to say “Patient receives treatment to kill cancer cells”
+
+</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-12-06">In the third panel, opened the red capped IV clamps and added the label "Stem cells" to the yellow bag of fluid</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-11-16">Attached the lines in panel one; in panel three, shortened the hanging line from the yellow bag, closed the red clamp in the port line, and moved the clamp above the y on the main line. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Autologous stem cell transplant; (Panel 1): Drawing of stem cells being removed from a patient’s blood using an apheresis machine.  Blood is collected from a vein in the arm and flows through the machine that removes the stem cells. The remaining blood is returned to a vein in the other arm. (Panel 2): Drawing of a health care provider giving a patient chemotherapy to kill cancer cells. The chemotherapy is given as an infusion through a catheter in the patient’s chest. (Panel 3): Drawing of a patient receiving stem cells as an infusion through a catheter in the chest.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Autologous stem cell transplant. (Step 1): Blood is taken from a vein in the patient’s arm and flows through an apheresis machine that removes the stem cells. The remaining blood is returned to a vein in the other arm. (Step 2): The patient receives chemotherapy to kill cancer cells. Healthy cells, including blood-forming cells, are also destroyed by the cancer treatment. (Step 3): After the patient completes chemotherapy or radiation therapy (not shown), the stem cells are given back to the patient to replace the blood-forming cells that were destroyed by the cancer treatment. The stem cells help the bone marrow recover and make healthy blood cells.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000270733">autologous stem cell transplant</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Reviewed by Michael Pulsipher, M.D.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Updated image to AutologousTransplant4.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Updated image to AutologousTransplant3.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-10-18</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added AutologousTransplant1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000807040">Illustration  Review Sheet: autologous stem cell transplant</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pleuropulmonary blastoma-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Blastoma pleuropulmonar</LabelName><LabelName language="es">Aorta</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Arteria pulmonar</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Corazón</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000804518">pleuropulmonary blastoma</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PleuropulmonaryBlastomaSpanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000582828">pleuropulmonary blastoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observan las áreas donde es posible que se forme el blastoma pleuropulmonar, como la aorta, la arteria pulmonar, el pulmón, el corazón, la pleura y el diafragma. También se muestra cáncer en el pulmón izquierdo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El blastoma pleuropulmonar es un cáncer raro de crecimiento rápido que se forma en los tejidos del pulmón y la pleura (capa delgada de tejido que recubre los pulmones y reviste el interior del tórax). También es posible que se forme en los órganos ubicados entre los pulmones, como el corazón, la aorta y la arteria pulmonar, o en el diafragma (el músculo más importante para la respiración que está debajo de los pulmones). El blastoma pleuropulmonar suele presentarse en lactantes y niños pequeños.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800372">Tratamiento del blastoma pleuropulmonar infantil</Summary>
+  <Glossary cdr:ref="CDR0000446557">pleuropulmonary blastoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-28</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Caption and content description pending translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image.  Caption and content description pending translation</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-19</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spanish labels ready for 1st QC</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000804518">pleuropulmonary blastoma</TranslationOf></Media>

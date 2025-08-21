@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, medial, adult, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Plexo coroideo</LabelName><LabelName language="es">Hipotálamo</LabelName><LabelName language="es">Bulbo raquídeo</LabelName><LabelName language="es">Nervio óptico</LabelName><LabelName language="es">Glándula pineal</LabelName><LabelName language="es">Hipófisis</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Ventrículos (espacios llenos de líquido)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000680415">brain, medial, adult, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BrainMedialSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2010-10-15" user="lsaucedo">Added new illustration</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain neoplasm</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Dibujo del interior del encéfalo que muestra los ventrículos (espacios llenos de líquido), el plexo coroideo, el hipotálamo, la glándula pineal, la hipófisis, el nervio óptico, el tronco encefálico, el cerebelo, el cerebro, el bulbo raquídeo, la protuberancia y la médula espinal.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del interior del encéfalo: muestra la glándula pineal y la hipófisis, el nervio óptico, los ventrículos (el líquido cefalorraquídeo se ve en color azul) y otras partes del encéfalo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256800">Tratamiento de los tumores del sistema nervioso central en adultos</Summary><Summary cdr:ref="CDR0000665736">Tratamiento de los astrocitomas infantiles</Summary><Summary cdr:ref="CDR0000600419">Descripción del tratamiento de tumores de encéfalo y de médula espinal infantiles</Summary><Summary cdr:ref="CDR0000256776">Tratamiento del glioma de tronco encefálico infantil</Summary><Summary cdr:ref="CDR0000632891">Tratamiento del tumor teratoideo/rabdoide atípico del sistema nervioso central infantil</Summary><Summary cdr:ref="CDR0000632970">Tratamiento del craneofaringioma infantil </Summary><Summary cdr:ref="CDR0000256848">Tratamiento del ependimoma infantil</Summary>
+  <Glossary cdr:ref="CDR0000387264">brain tumor</Glossary><Glossary cdr:ref="CDR0000045624">brain stem glioma</Glossary><Glossary cdr:ref="CDR0000045625">brain stem tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised image label and caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new illustration and reviewed labels, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>2010-10-11</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd translated labels, caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, captions and content descriptions translations pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000680415">brain, medial, adult, anatomy</TranslationOf></Media>

@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>barium swallow, stomach cancer</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Barium Swallow</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Barium coating the stomach</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2640</HeightPixels><WidthPixels>2925</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-10-05</DateCreated>
+   <SourceFilename>BariumSwallowGastricCancer FP IV.2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-10-05" audience="Internal">Adjusted the lower lip in the figure and moved the leader line closer to the esophagus</Comment><Comment user="yousufzaimg" date="2023-08-29" audience="Internal">Changed figure to an older male and updated  skin tone to FP IV</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2010-08-16" user="anjamison">Deleted inset intended for x-ray.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2023-08-28</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Barium swallow; drawing shows barium liquid flowing down the esophagus and into the stomach. The barium coats and outlines the inside of the esophagus and stomach. Also shown is cancer in the stomach.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Barium swallow for stomach cancer. The patient drinks a liquid that contains barium (a silver-white metallic compound). The barium coats and outlines the inside of the esophagus and stomach. This allows abnormal areas, such as stomach cancer, to be seen on x-rays. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000046756">barium swallow</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-28</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-08-29" audience="Internal">Updated to BariumSwallowGastricCancer FP IV.1.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to BariumSwallowGastricCa5.jpg</Comment><Comment>Updated to GastricCancer3.jpg.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-07-02</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   <Comment>Added image GastricCancer.jpg.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

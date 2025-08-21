@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>radiation therapy, plaque, of the eye-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Radioterapia con placa del ojo</LabelName><LabelName language="es">Esclerótica</LabelName><LabelName language="es">Coroides</LabelName><LabelName language="es">Retina</LabelName><LabelName language="es">Nervio óptico</LabelName><LabelName language="es">Semillas radiactivas</LabelName><LabelName language="es">Placa</LabelName><LabelName language="es">Semilla radiactiva</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038817">intraocular melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Radioterapia con placa; el dibujo muestra una sección transversal del ojo. En un recuadro se muestra una placa con semillas radiactivas; se coloca en el exterior del ojo con las semillas que apuntan hacia el cáncer.   También se muestra la esclerótica, la coroides, la retina y el nervio óptico.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Radioterapia con placa. Tipo de radioterapia que se usa para tratar tumores del ojo. Las semillas radiactivas se colocan a un costado de un trozo delgado de metal (por lo general, de oro) que se llama placa. Las semillas emiten radiación que destruye el cáncer. La placa se retira al final del tratamiento, que habitualmente dura varios días </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000537037">Melanoma ocular uveal: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000448617">Retinoblastoma: Tratamiento</Summary><Glossary cdr:ref="CDR0000476765">plaque radiotherapy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title revised and sent to Terese as requested by OCE</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked image and QCd translations</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

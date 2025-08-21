@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>homoduplex DNA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">A</LabelName><LabelName language="es">T</LabelName><LabelName language="es">G</LabelName><LabelName language="es">C</LabelName>
+  <ImageDimensions>
+    <HeightPixels>536</HeightPixels>
+    <WidthPixels>959</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000686274">homoduplex DNA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Linked image</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pares de bases de ADN; el recuadro muestra el ADN con doble hebra unido entre dos pares de bases que contienen nitrógeno [adenina (A) y timina (T), y citocina (C) y guanina (G)].</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Pares de bases del ADN. Bajo circunstancias normales, las bases que contienen nitrógeno (A) y tiamina (T) forman una pareja, y la citocina (C) y la guanina (G) forman pareja. La unión de estos pares de bases forman la estructura del ADN.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000460130">base pair</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd and image linked</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>New image</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

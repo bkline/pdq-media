@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph node groups, neck-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Grupos de ganglios linfáticos del cuello</LabelName><LabelName language="es">IA</LabelName><LabelName language="es">IB</LabelName><LabelName language="es">IIA</LabelName><LabelName language="es">IIB</LabelName><LabelName language="es">III</LabelName><LabelName language="es">IV</LabelName><LabelName language="es">VA</LabelName><LabelName language="es">VB</LabelName><LabelName language="es">VI</LabelName><ImageDimensions>
+    <HeightPixels>2775</HeightPixels>
+    <WidthPixels>2850</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000779438">lymph node groups, neck</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LymphNodeGroupsSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-04-14" user="lansberryic">Linked new Spn. image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038965">oropharyngeal cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Grupos de ganglios linfáticos del cuello; el dibujo muestra seis grupos de ganglios linfáticos en el cuello: grupo IA y IB, grupo IIA y IIB, grupo III, grupo IV, grupo VA y VB, y grupo VI.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Grupos de ganglios linfáticos del cuello.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000256728">Tratamiento del cáncer de orofaringe</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Pending 2 QC for conten. descr. and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spa QC labels, conten. descr. and caption</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

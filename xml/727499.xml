@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>hydrogen cyanide</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>3</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2017-03-13</DateCreated>
+      <SourceFilename>686192_en_rr.mp3</SourceFilename>
+    <Comment audience="Internal" date="2017-03-13" user="kuhlmanna">Audio re-recorded</Comment></OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="en">Pronunciation of dictionary term "hydrogen cyanide"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000686192">hydrogen cyanide</Glossary>
+  </ProposedUse>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Audio re-recorded - glossary term name changed</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

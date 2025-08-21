@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>NUT carcinoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">NUT Carcinoma</LabelName><LabelName language="en">Nose (nasal cavity)</LabelName><LabelName language="en">Throat (pharynx)</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Thymus</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Bronchi</LabelName><LabelName language="en">Area between the lungs</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Bladder</LabelName><ImageDimensions>
+    <HeightPixels>2325</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-07-18</DateCreated>
+   <SourceFilename>NUT Carcinoma1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-07-20">Changed the image title from "Midline Tract Carcinoma"  to “NUT Carcinoma”  (and italicized NUT)  to match summary title change</Comment><Comment audience="Internal" date="2021-01-04" user="kuhlmanna">Removed the label "Area where cancer may form" and moved the top border of the box down to above the nasal area</Comment><Comment audience="Internal" date="2020-12-21" user="kuhlmanna">Added details to the face</Comment><Comment>Added labels for the common sites where midline tract cancers form</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000765490">NUT midline carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing areas where NUT carcinoma may form, including the nose (nasal cavity), throat (pharynx), larynx, lung, thymus, trachea, bronchi, area between the lungs, liver, pancreas, and bladder. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en"><GeneName>NUT</GeneName> carcinoma is a rare type of cancer that forms in the respiratory tract or in other places along the middle of the body, including the thymus, the area between the lungs, and the liver, pancreas, and bladder. It usually grows and spreads quickly and cannot be cured. <GeneName>NUT </GeneName> carcinoma usually occurs in children and young adults.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000789589">Childhood Midline Tract Carcinoma with NUT Gene Changes Treatment</Summary>
+  <Glossary cdr:ref="CDR0000790111">NUT midline carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2022-07-20">Updated image to NUT Carcinoma1.jpg</Comment><Comment audience="Internal" date="2021-01-04" user="kuhlmanna">Updated image to Midline Tract Carcinoma5.jpg</Comment><Comment audience="Internal" date="2020-12-21" user="kuhlmanna">Updated image to Midline Tract Carcinoma4.jpg</Comment><Comment audience="Internal" date="2020-12-08" user="yousufzaimg">Updated image to Midline Tract Carcinoma3.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-01-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-12-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

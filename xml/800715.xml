@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma staging (in-transit metastases, satellite tumors, and microsatellite tumors)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">¿Las células cancerosas se diseminaron cerca del tumor primario?</LabelName><LabelName language="es">Metástasis en tránsito</LabelName><LabelName language="es">Tumores satélites</LabelName><LabelName language="es">2 cm</LabelName><LabelName language="es">Tumores microsatélites (solo se ven con un microscopio)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1200</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000799462">skin cancer, melanoma staging (in-transit metastases, satellite tumors, and microsatellite tumors)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>HasCancerSpreadNearPrimaryTumorSpanish.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Estadificación del melanoma (metástasis en tránsito, tumores satélites y tumores microsatélites). En el dibujo se observan metástasis en tránsito en un vaso linfático a más de 2 cm del tumor primario y tumores satélites a 2 cm o menos del tumor primario. No se muestran los tumores microsatélites porque solo se ven con un microscopio.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Estadificación del melanoma (metástasis en tránsito, tumores satélites y tumores microsatélites). Uno de los factores que ayuda a determinar el estadio del melanoma es saber si se presenta alguno de los siguientes tipos de tumores: 1) metástasis en tránsito (tumores que se diseminaron a los vasos linfáticos de la piel a más de 2 cm del tumor primario); 2) tumores satélites (tumores que se diseminaron a 2 cm o menos del tumor primario); o 3) tumores microsatélites (tumores que se diseminaron a un área cercana, al lado o debajo del tumor primario, pero que solo se ven con un microscopio).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256816">Tratamiento del melanoma</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-02</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image and translation of captions and content description. QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image. Caption and CD pending translation.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels reviewed, translation of caption and CD pending. Deleted Image dimension elements.  This element is added when the ES image is created and approved.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image, Spanish labels ready for 1st QC</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000799462">skin cancer, melanoma staging (in-transit metastases, satellite tumors, and microsatellite tumors)</TranslationOf></Media>

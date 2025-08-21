@@ -1,0 +1,63 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>rapidly involuting congenital hemangioma (RICH)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Birth</LabelName><LabelName language="en">1 month</LabelName><LabelName language="en">1 year</LabelName><ImageDimensions>
+    <HeightPixels>1721</HeightPixels>
+    <WidthPixels>5151</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Denise Adams, MD, Boston Children's Hospital</Creator>
+   <DateCreated>2020-06-18</DateCreated>
+   <SourceFilename>Figure 6 Ch Vascular RICH Image 6-18-20.jpg</SourceFilename><Comment audience="Internal" date="2020-06-18" user="kuhlmanna">Middle panel of image modified (removed genitals) per request from Denise Adams, MD</Comment><Comment audience="Internal" date="2016-04-08" user="yousufzaimg">Image resized and made larger per OCC</Comment><Comment audience="Internal" date="2016-04-07" user="kuhlmanna">Image resized and made larger per OCC</Comment>
+  <Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Image approved by Pediatric Treatment Editorial Board</Comment><Comment audience="Internal" date="2016-03-21" user="kuhlmanna">Photo added as summary placeholder; Board approval pending</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Permissions not required; photo came from Pediatric Treatment Editorial Board member, Denise Adams, MD</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000779864">congenital hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photographs showing a cutaneous congenital hemangioma on the inner right thigh at birth (left panel), 1 month (middle panel), and 1 year (right panel).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Typical appearance of a cutaneous congenital hemangioma at birth. Note the pedunculated mass. This lesion (RICH) involuted over time but some residual skin changes remained. Credit: Denise Adams, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

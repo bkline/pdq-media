@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>kidney cancer stage III</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage III Kidney Cancer</LabelName><LabelName language="en">Right kidney</LabelName><LabelName language="en">Right adrenal gland</LabelName><LabelName language="en">Cancer in lymph node</LabelName><LabelName language="en">Left adrenal gland</LabelName><LabelName language="en">Left kidney</LabelName><LabelName language="en">Structures that collect urine</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">a</LabelName><LabelName language="en">b</LabelName><LabelName language="en">c</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Renal vein</LabelName><LabelName language="en">Vena cava</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2023-06-02</DateCreated><SourceFilename>KidneyCancerStage III FP I.jpg</SourceFilename><Comment user="yousufzaimg" date="2023-06-12" audience="Internal">Updated skin tone to FP I</Comment><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Removed the parens next to each of the lower case letters (a-d); Moved the letter “c” down and to the left so that it is on the collecting tubule that is covered with cancer; Changed the lines from the label “Structures that collect urine” to point to the large tube in the middle and one of the other smaller tubes; Removed the detail of the blue, yellow, and red renal tubules in the upper part of the kidney; Removed the label for Ureter</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Labeled Left and Right adrenal glands; Made lines from label “Structures that collect urine” go to the large tubes in the middle of the kidney; Made the color and/or texture more distinctive to tell the difference between the fatty tissue and the cancer</Comment><Comment audience="Internal" date="2018-01-10" user="kuhlmanna">AJCC 8th edition updates added</Comment><Comment audience="Internal" date="2017-09-05" user="kuhlmanna">Changed label from “Urine collecting structures in kidney” to “Structures that collect urine”</Comment><Comment audience="Internal" date="2017-08-07" user="kuhlmanna">Made cancer spot in left kidney bigger</Comment><Comment audience="Internal" date="2017-07-24" user="yousufzaimg">For the letter “c”, extended cancer out into the fatty tissue</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone><DateLastReviewed>2023-06-07</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043691">stage III renal cell cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage III kidney cancer; drawing shows cancer in the left kidney and in a) nearby lymph nodes, b) the renal vein, c) the structures in the kidney that collect urine, and d) the layer of fatty tissue around the kidney. Also shown are the right kidney, the right and left adrenal glands, and the vena cava.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage III kidney cancer; drawing shows cancer in the left kidney and in a) nearby lymph nodes, b) the renal vein, c) the structures in the kidney that collect urine, and d) the layer of fatty tissue around the kidney. Also shown are the right kidney, the right and left adrenal glands, and the vena cava.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage III kidney cancer. The cancer in the kidney is any size and cancer has spread to a) nearby lymph nodes, b) the blood vessels in or near the kidney (renal vein or vena cava), c) the structures in the kidney that collect urine, or d) the layer of fatty tissue around the kidney.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage III kidney cancer. The cancer in the kidney is any size and cancer has spread to a) nearby lymph nodes, b) the blood vessels in or near the kidney (renal vein or vena cava), c) the structures in the kidney that collect urine, or d) the layer of fatty tissue around the kidney.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000276462">Renal Cell Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046169">stage III kidney cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-07</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-06-12" audience="Internal">Updated image to KidneyCancerStage III FP I.jpg</Comment><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Added KidneyCancerStage3.7.jpg</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Added KidneyCancerStage3.6.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-05-24</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000791818">Illustration Review Sheet: Stage III Kidney Cancer</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000789095">Sample Illustration: kidney cancer staging</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

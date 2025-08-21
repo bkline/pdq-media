@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>nasopharynx, child, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Nasopharynx</LabelName><LabelName language="en">Pharynx</LabelName><LabelName language="en">Nasopharynx</LabelName><LabelName language="en">Oropharynx</LabelName><LabelName language="en">Hypopharynx</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Oral cavity</LabelName><LabelName language="en">Nasal cavity</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-10-16</DateCreated>
+   <SourceFilename>NasopharynxAnatomy15yrs.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the nasopharynx; drawing shows the three parts of the pharynx (throat): the nasopharynx, oropharynx, and hypopharynx. Also shown are the nasal cavity, oral cavity, larynx, esophagus,  and trachea.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the nasopharynx. The nasopharynx is in the upper part of the pharynx (throat) behind the nose. The nostrils lead into the nasopharynx. An opening on each side of the nasopharynx leads into the ear.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062878">Unusual Cancers of Childhood Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-10-16</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added NasopharynxAnatomy15yrs.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IIIA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Carcinoma de células escamosas de esófago en estadio IIIA</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Capa muscular delgada</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa muscular gruesa</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Cáncer en 3 a 6 ganglios linfáticos cercanos</LabelName><LabelName language="es">Cáncer en 1 o 2 ganglios linfáticos cercanos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000759456">esophageal squamous cell carcinoma stage IIIA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EsophagealSquamous3ASpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-10-15" user="lsaucedo">Linked image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717461">stage IIIA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IIIA. En la imagen se observa el esófago y el estómago. En una ampliación con dos paneles,  se muestran las capas de la pared del esófago: la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo. En el panel izquierdo, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa y en 3 ganglios linfáticos cercanos. En el panel derecho, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y en 1 ganglio linfático cercano.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IIIA. En la imagen se observa el esófago y el estómago. En una ampliación con dos paneles, se muestran las capas de la pared del esófago: la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo. En el panel izquierdo, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa y en 3 ganglios linfáticos cercanos. En el panel derecho, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y en 1 ganglio linfático cercano.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IIIA. El cáncer se diseminó a uno de los siguientes sitios: 1) la mucosa, la capa muscular delgada o la submucosa de la pared del esófago; se encuentra cáncer en 3 a 6 ganglios linfáticos cercanos; 2) la capa muscular gruesa de la pared del esófago; se encuentra cáncer en 1 o 2 ganglios linfáticos cercanos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IIIA. El cáncer se diseminó a uno de los siguientes sitios: 1) la mucosa, la capa muscular delgada o la submucosa de la pared del esófago; se encuentra cáncer en 3 a 6 ganglios linfáticos cercanos; 2) la capa muscular gruesa de la pared del esófago; se encuentra cáncer en 1 o 2 ganglios linfáticos cercanos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary>
+  <Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary><Glossary cdr:ref="CDR0000720246">stage III esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-20</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; revised caption and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment>
+       <Comment audience="Internal" date="2019-07-17" user="lansberryic">In Spanish is better to match translation of media title "esophageal squamous cell carcinoma": "carcinoma de células escamosas de esófago" and label "Squamous Cell Cancer of the Esophagus": "carcinoma de células escamosas de esófago". This will work better with both HP and Pat summaries, and also with GTN/GTC.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated labels; AJCC 8th ed.; updated descriptions and captions in proposed markup.</Comment>
+       <Comment audience="Internal" date="2019-07-15" user="adlerm2">Please note in Spanish we are using "carcinoma de células escamosas de esófago" (vs. "cáncer de esófago de células escamosas") on image content. This is consistent with staging terminology in patient summary and related GTNs. See also related staging GTNs and GTC for esophageal cancer (CDR444989), which use "squamous cell carcinoma" (vs. squamous cell cancer of the esophagus).</Comment><Comment audience="Internal" date="2019-07-15" user="adlerm2">As part of readability adjustments, suggest removing "O" (=OR); not in summary or DIC.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000759456">esophageal squamous cell carcinoma stage IIIA</TranslationOf></Media>

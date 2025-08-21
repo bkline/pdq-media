@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>stent, esophageal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Esophageal Stent</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Stent</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2754</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-04</DateCreated>
+   
+   
+   <SourceFilename>EsophagealStent8.jpg</SourceFilename>
+   <Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment>Added new copyright information and added labels. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Esophageal stent. Shows cancer blocking esophagus. Insets show  enlarged area of cancer and a stent placed in the esophagus to keep it open. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Esophageal stent. A device (stent) is placed in the esophagus to keep it open to allow food and liquids to pass through into the stomach.</MediaCaption>
+  </Captions>
+  
+  
+ <Comment>2005-08-10 revised caption per OCCM reviewer. mm</Comment></MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to EsophagealStent8.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

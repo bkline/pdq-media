@@ -1,0 +1,104 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, anaplastic, stage IVA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de tiroides anaplásico en estadio IVA</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Ganglio linfático</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>2820</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000782401">thyroid cancer, anaplastic, stage IVA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AnaplasticThyroidCaStage4ASpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038809">anaplastic thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de tiroides anaplásico en estadio IVA. En la imagen se muestra el cáncer en la glándula tiroidea. También se muestran los ganglios linfáticos.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de tiroides anaplásico en estadio IVA. En la imagen se muestra el cáncer en la glándula tiroidea. También se muestran los ganglios linfáticos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de tiroides anaplásico en estadio IVA. El cáncer se encuentra solo en la glándula tiroidea (tiroides), y el tumor es de cualquier tamaño.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de tiroides anaplásico en estadio IVA. El cáncer se encuentra solo en la glándula tiroidea (tiroides), y el tumor es de cualquier tamaño.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000584552">Tratamiento del cáncer de tiroides en adultos</Summary><Summary cdr:ref="CDR0000256718">Tratamiento del cáncer de tiroides en adultos</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-25</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       <Comment audience="Internal" date="2018-07-25" user="adlerm2">Added "glándula tiroidea (tiroides)" in caption to match text in illustration and avoid confusion in Spanish. </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2018-07-05" user="lansberryic">Pending translation QC</Comment><Comment audience="Internal" date="2018-07-05" user="lansberryic">Revised labels, caption and cont. Descr. per terminology meeting July 2018 and AJCC updates. Group agreement to use thyroid gland:glándula tiroidea;thyroid:tiroides; also related GTN/GTC.</Comment><Comment>Cleaned old markup</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of labels, content description and captions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Qc for updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised captions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-04-25" user="lansberryic">Added media file</Comment><Comment audience="Internal" date="2017-04-24" user="saucedol">Caption and content description QCd</Comment><Comment>Added Spa Caption and Content Descrip. Pending Spa QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-04-14" user="lansberryic">2 QC for labels</Comment><Comment>Spanish QC for Labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

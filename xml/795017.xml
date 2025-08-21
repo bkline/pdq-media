@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostate cancer stage IIIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA Prostate Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Grade Group: 1, 2, 3, or 4</LabelName><LabelName language="en">PSA level: At least 20</LabelName><LabelName language="en">Cancer in: One or both sides</LabelName><ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-10-29</DateCreated>
+   <SourceFilename>ProstateStage3A.3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Capitalized the first letter of each word after a colon; added shaded pull-out cone from main figure to pull-out box; and put the Stage information first in title</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Unbolded the labels for Prostate and Cancer; removed small cancer spot from the left side of the prostate and where it extends outside the prostate on the right side; and changed “lobes” to “sides” in the inset box</Comment><Comment audience="Internal" date="2018-10-01" user="kuhlmanna">New image per AJCC 8th edition updates</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038785">stage III prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIA prostate cancer; drawing shows cancer in one side of the prostate. The PSA level is at least 20 and the Grade Group is 1, 2, 3, or 4. Also shown are the bladder, rectum, and urethra.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IIIA prostate cancer; drawing shows cancer in one side of the prostate. The PSA level is at least 20 and the Grade Group is 1, 2, 3, or 4. Also shown are the bladder, rectum, and urethra.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA prostate cancer. Cancer is found in the prostate only. Cancer is found in one or both sides of the prostate. The prostate-specific antigen level is at least 20 and the Grade Group is 1, 2, 3, or 4.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIIA prostate cancer. Cancer is found in the prostate only. Cancer is found in one or both sides of the prostate. The prostate-specific antigen level is at least 20 and the Grade Group is 1, 2, 3, or 4.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062965">Prostate Cancer Treatment</Summary><Summary cdr:ref="CDR0000062910">Prostate Cancer Treatment;Treatment;Health professionals</Summary>
+  <Glossary cdr:ref="CDR0000045131">stage III prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>No additional changes needed per OCC multimedia group</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to ProstateStage3A.3.jpg</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Updated image to ProstateStage3A.2.jpg</Comment><Comment>Added ProstateStage3A.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-10-01</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000796488">Illustration review sheet: stage IIIA prostate cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

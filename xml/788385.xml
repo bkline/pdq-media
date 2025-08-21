@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>reverse transcription-polymerase chain reaction-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>5</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2017-04-10</DateCreated>
+      <SourceFilename>Week_121/783668_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "reacción en cadena de la polimerasa con retrotranscripción"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000783668">reverse transcription-polymerase chain reaction;reacción en cadena de la polimerasa con retrotranscripción [es]</Glossary>
+  </ProposedUse>
+</Media>

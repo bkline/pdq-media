@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>malignant mesothelioma, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Body Where Malignant Mesothelioma May Form</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Pericardium</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Peritoneum lining abdominal cavity</LabelName><LabelName language="en">Testicles</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-09-13</DateCreated>
+   <SourceFilename>MalignantMesotheliomaChild2.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2021-09-14">Added label for the heart; changed the blue lines outlining the pleura, pericardium, and peritoneum to white lines and made them more pronounced; updated the title to “Parts of the Body Where Malignant Mesothelioma May Form”</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038142">malignant mesothelioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows parts of the body where malignant mesothelioma may form, including the pleura (the tissue that lines the chest cavity and covers the lungs), the pericardium (the tissue that surrounds the heart), the peritoneum (the tissue that lines the abdomen and covers most of the organs in the abdomen), and the testicles. The heart and lungs are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Malignant mesothelioma forms in the tissue that lines the chest or abdomen, including the pleura (the tissue that lines the chest cavity and covers the lungs), the pericardium (the tissue that surrounds the heart), and the peritoneum (the tissue that lines the abdomen and covers most of the organs in the abdomen). Malignant mesothelioma may also form in the testicles, but this is rare.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000790962">Childhood Mesothelioma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-09-13</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2021-09-14">Updated image to MalignantMesotheliomaChild2.jpg</Comment><Comment>Added MalignantMesotheliomaChild1.jpg</Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-08-23</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

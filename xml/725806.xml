@@ -1,0 +1,40 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>calcium Ca 46-chloride aqueous solution-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>5</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2022-02-07</DateCreated>
+      <SourceFilename>Week_2022_03/658008_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "solución acuosa de cloruro de calcio Ca 46"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000658008">calcium Ca 46-chloride aqueous solution</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2022-02-15</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2022-02-15</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-06-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Term revised</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

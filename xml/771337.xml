@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Liver Cancer - Hepatoblastoma Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">Hepatoblastoma</LabelName><LabelName language="en">Transitional</LabelName><LabelName language="en">HB cell lines</LabelName><LabelName language="en">HB-253</LabelName><LabelName language="en">HB-577</LabelName><LabelName language="en">HB-13</LabelName><LabelName language="en">HB-7</LabelName><LabelName language="en">HB-528</LabelName><LabelName language="en">HB-519</LabelName><LabelName language="en">HB-15</LabelName><LabelName language="en">HB-17</LabelName><LabelName language="en">HB-4</LabelName><LabelName language="en">HB-145</LabelName><LabelName language="en">HB-16</LabelName><LabelName language="en">HB-6</LabelName><LabelName language="en">HB-804</LabelName><LabelName language="en">HB-843</LabelName><LabelName language="en">HB-667</LabelName><LabelName language="en">HB-254</LabelName><LabelName language="en">HB-690</LabelName><LabelName language="en">HB-91</LabelName><LabelName language="en">HB-77</LabelName><LabelName language="en">HB-84</LabelName><LabelName language="en">HB-678</LabelName><LabelName language="en">HB-14</LabelName><LabelName language="en">HB-734</LabelName><LabelName language="en">HB-612</LabelName><LabelName language="en">HB-553</LabelName><LabelName language="en">HB-619</LabelName><LabelName language="en">HB-692</LabelName><LabelName language="en">HB-423</LabelName><LabelName language="en">HB-9</LabelName><LabelName language="en">HB-794</LabelName><LabelName language="en">HB-29</LabelName><LabelName language="en">HB-96</LabelName><LabelName language="en">HB-125</LabelName><LabelName language="en">HB-788</LabelName><LabelName language="en">HB-82</LabelName><LabelName language="en">HB-778</LabelName><LabelName language="en">HB-259</LabelName><LabelName language="en">HB-408</LabelName><LabelName language="en">HB-629</LabelName><LabelName language="en">HB-744</LabelName><LabelName language="en">HB-761</LabelName><LabelName language="en">HB-802</LabelName><LabelName language="en">HB-803</LabelName><LabelName language="en">TLCT-227</LabelName><LabelName language="en">TLCT-175</LabelName><LabelName language="en">TLCT-291</LabelName><LabelName language="en">TLCT-198</LabelName><LabelName language="en">HepT1</LabelName><LabelName language="en">HepG2</LabelName><LabelName language="en">HepT3</LabelName><LabelName language="en">HuH6</LabelName><LabelName language="en">CTNNB1 mutation</LabelName><LabelName language="en">APC germ-line mutation</LabelName><LabelName language="en">NFE2L2 mutation</LabelName><LabelName language="en">TERT mutation</LabelName><LabelName language="en">C2 subtype</LabelName><LabelName language="en">Female</LabelName><LabelName language="en">Onset  &gt;24 mo</LabelName><LabelName language="en">Died of disease</LabelName><LabelName language="en">Mixed differentiation</LabelName><LabelName language="en">Fetal histology</LabelName><LabelName language="en">PRETEXT</LabelName><LabelName language="en">Vena cava</LabelName><LabelName language="en">Portal vein</LabelName><LabelName language="en">Extrahepatic</LabelName><LabelName language="en">Metastasis</LabelName><LabelName language="en">AFP &lt;100 ng/ml</LabelName><LabelName language="en">Multifocal growth</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Not defined</LabelName><ImageDimensions>
+    <HeightPixels>1683</HeightPixels>
+    <WidthPixels>3090</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>Journal of Hepatology</Creator>
+   
+   <SourcePublication>Journal of Hepatology, Volume 61 (Issue 6), Eichenmuller, et al., The genomic landscape of hepatoblastoma and their progenies with HCC-like features, Pages 1312–1320, Copyright 2014, with permission from Elsevier</SourcePublication><DateCreated>2015-04-16</DateCreated>
+   <SourceFilename>Eichenmuller Figure 3 for Ch Liver HP 4-16-2015.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2015-07-20</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from Journal of Hepatology, Volume 61 (Issue 6), Melanie Eichenmüller, Franziska Trippel, Michaela Kreuder, Alexander Beck, Thomas Schwarzmayr, Beate Häberle, Stefano Cairo, Ivo Leuschner, Dietrich von Schweinitz, Tim M. Strom, Roland Kappler, The genomic landscape of hepatoblastoma and their progenies with HCC-like features, Pages 1312–1320, Copyright 2014, with permission from Elsevier</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062836">Childhood Liver Cancer Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000771331">The genomic landscape of hepatoblastoma and their progenies with HCC-like features.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043714">childhood liver cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the distribution of CTNNB1, APC, NFE2L2, and TERT mutations for hepatoblastoma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Mutational status and functional relevance of NFE2L2 in hepatoblastoma. Clinicopathological characteristics and the mutational status of the CTNNB1, APC, and NFE2L2 genes, as well as the TERT promoter region are color-coded and depicted in rows for each tumor of our cohort of 43 hepatoblastoma (HB) patients and 4 transitional liver cell tumor (TLCT) patients and 4 HB cell lines. Reprinted from Journal of Hepatology, Volume 61 (Issue 6), Melanie Eichenmüller, Franziska Trippel, Michaela Kreuder, Alexander Beck, Thomas Schwarzmayr, Beate Häberle, Stefano Cairo, Ivo Leuschner, Dietrich von Schweinitz, Tim M. Strom, Roland Kappler, The genomic landscape of hepatoblastoma and their progenies with HCC-like features, Pages 1312–1320, Copyright 2014, with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062836">Childhood Liver Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-07-22</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000774209">Eichenmuller_Ch Liver_CopyrightPermissions_2015-07-20</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

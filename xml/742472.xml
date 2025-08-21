@@ -1,0 +1,76 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, computed tomography, abdominal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000428405">scan, computed tomography, abdominal</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AbdominalCTScanSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-01-18" user="lsaucedo">Added Spn titled image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Tomografía computarizada (TC) del abdomen; en la imagen se observa un paciente en una camilla que se desliza hacia la máquina de TC que toma imágenes radiográficas del interior del cuerpo.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Tomografía computarizada (TC) del abdomen. El paciente se acuesta en una camilla que se desliza hacia  la máquina de TC que toma imágenes radiográficas del interior del cuerpo.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image (title revised).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2018-06-22" user="lansberryic">Esta imágen se relaciona con el GTC 619365 que tiene varios GTN. En la redacción estándar acordamos usar como término principal el más común "tomografía computarizada" y los otros GTN son "also called":  tomografía computadorizada, TC, tomografía axial computarizada, exploración por TAC. También se acordó evitar en español el uso de siglas en títulos.</Comment><Comment>Terminology meeting oct-nov 2017 (revised scan terms in Spanish)//Label in Spanish needs to change to "Tomografía computarizada"/Pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with titled image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd and new image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spanish titled image pending</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000428405">scan, computed tomography, abdominal</TranslationOf></Media>

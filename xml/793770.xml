@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Birt-Hogg-Dube syndrome</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Areas of the Body Affected by Birt-Hogg-Dube Syndrome</LabelName><LabelName language="en">Skin</LabelName><LabelName language="en">Lungs</LabelName><LabelName language="en">Kidneys</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-07-03</DateCreated>
+   <SourceFilename>Birt-Hogg-Dube SyndromeMediterranean3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-07-05" user="kuhlmanna">Made figure look Mediterranean</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  <Category>abnormal cells or tissues</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043544">Birt-Hogg-Dubé syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing areas of the body affected by Birt-Hogg-Dube syndrome, including the skin, lungs, and kidneys.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Areas of the body affected by Birt-Hogg-Dube (BHD) syndrome. BHD syndrome is an inherited disorder that causes an increased risk of kidney cancer, benign (not cancer) skin lesions, collapsed lungs, and lung cysts.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000256547">Birt-Hogg-Dube syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-02-08" user="yousufzaimg">Updated caption</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment audience="Internal" date="2018-07-05" user="kuhlmanna">Updated image to Birt-Hogg-Dube SyndromeMediterranean3.jpg</Comment><Comment audience="Internal" date="2018-07-02" user="yousufzaimg">Updated image to Birt-Hogg-Dube Syndrome2.jpg</Comment></ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000793343">Sample Illustration: Family Cancer Syndromes Associated with RCC</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

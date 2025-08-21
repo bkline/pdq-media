@@ -1,0 +1,66 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery - resection of the prostate, transurethral</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Transurethral Resection of the Prostate (TURP)</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Prostate tissue is removed</LabelName><LabelName language="en">Resectoscope</LabelName><ImageDimensions>
+    <HeightPixels>2515</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-04-24</DateCreated>
+   
+   
+   <SourceFilename>TURP FP V.1.jpg</SourceFilename>
+   <Comment user="yousufzaimg" audience="Internal" date="2023-04-25">Updated skin tone to FP V</Comment><Comment audience="Internal" date="2013-03-06" user="anjamison">Added title.</Comment><Comment>Added new copyright information and added label names. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Transurethral resection of the prostate; drawing shows removal of tissue from the prostate  using a  resectoscope (a thin, lighted tube with a cutting tool at the end) inserted through the urethra.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Transurethral resection of the prostate; drawing shows removal of tissue from the prostate  using a  resectoscope (a thin, lighted tube with a cutting tool at the end) inserted through the urethra.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Transurethral resection of the prostate (TURP).  Tissue is removed from the prostate  using a resectoscope (a thin, lighted tube with a cutting tool at the end)  inserted through the urethra. Prostate tissue that is blocking the urethra is cut away and removed through the resectoscope. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Transurethral resection of the prostate (TURP).</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated to TURP FP V.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-18</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added HP cap and cont desc.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

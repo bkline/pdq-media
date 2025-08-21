@@ -1,0 +1,113 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage 0-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estadio 0</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Vaso sanguíneo</LabelName><LabelName language="es">Serosa</LabelName><LabelName language="es">Capas de músculo</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Células anormales</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>2100</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000688354">colon or rectal cancer stage 0</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ColonCaStageRev1Spanish4.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2011-10-27" user="lsaucedo">Added revised image</Comment><Comment audience="Internal" date="2011-01-25" user="lsaucedo">Added new image 1/25/11 LS</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042420">stage 0 colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Carcinoma colorrectal in situ en estadio 0. En la imagen se observa un corte transversal del colon o el recto.   En el recuadro se muestran las capas de la pared del colon o el recto y células anormales en la mucosa.   También se muestran la submucosa, las capas de músculo, la serosa, un vaso sanguíneo y ganglios linfáticos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Carcinoma colorrectal in situ en estadio 0. En la imagen se observa un corte transversal del colon o el recto.   En el recuadro se muestran las capas de la pared del colon o el recto y células anormales en la mucosa.   También se muestran la submucosa, las capas de músculo, la serosa, un vaso sanguíneo y ganglios linfáticos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Carcinoma colorrectal in situ en estadio 0. Se encuentran células anormales en la mucosa (capa más interna) de la pared del  colon o el recto. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Carcinoma colorrectal in situ en estadio 0. Se encuentran células anormales en la mucosa (capa más interna) de la pared del  colon o el recto. Es posible que estas células anormales se vuelvan cancerosas y se diseminen al tejido normal cercano.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256761">Tratamiento del cáncer de colon</Summary>
+  <Glossary cdr:ref="CDR0000352147">stage 0 colorectal carcinoma in situ</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image replaced. A small revision to the abnormal cells in the Spanish Colon Cancer Stage 0 image to match the cells in the corresponding English image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels, captions and content descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Caption and Cont. Desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added HP caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-27</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised definition</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Captions and content description QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd translated labels</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000688354">colon or rectal cancer stage 0</TranslationOf></Media>

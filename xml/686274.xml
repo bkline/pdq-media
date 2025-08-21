@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>homoduplex DNA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">T</LabelName><LabelName language="en">G</LabelName><LabelName language="en">C</LabelName><ImageDimensions>
+    <HeightPixels>536</HeightPixels>
+    <WidthPixels>959</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource><OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2010-10-05</DateCreated>
+   
+   
+   <SourceFilename>homoduplex2.jpg</SourceFilename>
+   <Comment>Made watermark smaller.</Comment>
+  </OriginalSource>
+  
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">DNA base pair; drawing shows double-stranded DNA with bonds between two pairs of  nitrogen-containing bases [adenine (A) and thymine (T), and cytosine (C) and guanine (G)].</ContentDescription>
+  <ContentDescription audience="Patients" language="en">DNA base pair; drawing shows double-stranded DNA with bonds between two pairs of  nitrogen-containing bases [adenine (A) and thymine (T), and cytosine (C) and guanine (G)].</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">DNA base pair. Under normal circumstances, the nitrogen-containing bases adenine (A) and thymine (T) pair together, and cytosine (C) and guanine (G) pair together. The binding of these base pairs forms the structure of DNA.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">DNA base pair. Under normal circumstances, the nitrogen-containing bases adenine (A) and thymine (T) pair together, and cytosine (C) and guanine (G) pair together. The binding of these base pairs forms the structure of DNA .</MediaCaption></Captions><Comment audience="Internal" date="2014-05-16" user="myousufzai">Added an extra space to captions (per Willam's instruction); my</Comment>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000460130">base pair</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to homoduplex2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-01</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-09-17</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added homoduplex1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000686361">Illustration Review Sheet: homoduplex DNA</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

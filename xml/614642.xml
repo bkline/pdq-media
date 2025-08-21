@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, non-Hodgkin, childhood, stage IV</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV Childhood Non-Hodgkin Lymphoma</LabelName><LabelName language="en">Lymphoma has spread to the bone marrow, brain, or cerebrospinal fluid.</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Spinal Cord</LabelName><LabelName language="en">Cerebrospinal fluid</LabelName><LabelName language="en">Bone marrow</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels>
+    <WidthPixels>3270</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2009-07-01</DateCreated>
+   
+   
+   <SourceFilename>ChildNHLStage4.9.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2009-06-30" user="rharrison">Removed filename.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000038957">non-Hodgkin lymphoma</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043670">childhood non-Hodgkin lymphoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV childhood non-Hodgkin lymphoma; drawing shows the brain, spinal cord, and cerebrospinal fluid in and around the brain and spinal cord. An inset shows cancer in the bone marrow.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV childhood non-Hodgkin lymphoma. Cancer is found in the bone marrow, brain, or cerebrospinal fluid (CSF). Cancer may also be found in other parts of the body.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000330112">stage IV childhood non-Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-28</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sending to Dr. Gross.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-06-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Minor edit to caption. Updated content desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Caption is pending. Content description is incomplete (waiting for image to be revised).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Updated to ChildNHLstage4.9.jpg.</Comment><Comment>Updated to ChildNHLstage4.8.jpg.</Comment><Comment audience="Internal" date="2009-06-30" user="rharrison">Updated to ChildNHLStage4.7.jpg.</Comment><Comment audience="Internal" date="2009-03-06" user="rharrison">Updated to ChildNHLStage4.6.jpg. </Comment><Comment audience="Internal" date="2009-02-24" user="rharrison">Updated to ChildNHLStage4.5.jpg. </Comment><Comment audience="Internal" date="2009-02-06" user="rharrison">Updated to ChildNHLStage4.4.jpg. </Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to ChildNHLStage4.3.jpg.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-09-10</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,28 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>false-positive result-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>3</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2021-01-29</DateCreated>
+      <SourceFilename>Week_2020_51/460147_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "resultado positivo falso"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000460147">false-positive result;resultado positivo falso [es]</Glossary>
+  </ProposedUse>
+</Media>

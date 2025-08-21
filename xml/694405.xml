@@ -1,0 +1,110 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>rectal cancer stage IV</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Rectal cancer has spread to other parts of the body:</LabelName><LabelName language="en">Distant lymph nodes</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Abdominal wall</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Rectum</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-01-18</DateCreated>
+   <SourceFilename>RectalCaStage4 FP V.2.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-01-20">Removed brain image and label</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Diversity project: Changed female to an older male (with a face), darkened skin tone, and added "Prostate" label</Comment><Comment audience="Internal" date="2018-04-16" user="kuhlmanna">Changed image title to "Stage IV"</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Updated metastasis inset</Comment><Comment audience="Internal" date="2011-10-12" user="anjamison">Changed image title.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV rectal cancer; drawing shows other parts of the body where rectal cancer may spread, including the distant lymph nodes, lung, liver, abdominal wall, and prostate. An inset shows cancer cells spreading from the rectum, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IV rectal cancer; drawing shows other parts of the body where rectal cancer may spread, including the distant lymph nodes, lung, liver, abdominal wall, and prostate. An inset shows cancer cells spreading from the rectum, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV rectal cancer. Cancer has spread to other parts of the body, such as the lung, liver, abdominal wall, prostate, or distant lymph nodes.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IV rectal cancer. Cancer has spread to other parts of the body, such as the lung, liver, abdominal wall, prostate, or distant lymph nodes.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062959">Rectal Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-01-20">Updated to RectalCaStage4 FP V.2.jpg</Comment><Comment>Updated to RectalCaStage4 FP VI.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-04-16" user="kuhlmanna">Updated image to RectalCaStage4.5.jpg</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Updated image to RectalCaStage4.4.jpg</Comment><Comment>Updated image to RectalCaStage4.3.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-23</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-18</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-10-06</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2011-10-12" user="anjamison">Updated to RectalCaStage4.2jpg</Comment><Comment>Added draft illustration: RectalStage4.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

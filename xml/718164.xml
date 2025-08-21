@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>bile duct cancer-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>2</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2015-12-31</DateCreated>
+      <SourceFilename>527370_es_rr</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "cáncer de vías biliares"</ContentDescription>
+    </ContentDescriptions><Comment audience="Internal" date="2015-12-29" user="saucedol">Linked re-recorded audio</Comment><Comment audience="Internal" date="2015-09-02" user="saucedol">REvised term</Comment><Comment audience="Internal" date="2013-09-25" user="lsaucedo">REvised term and linked re-recorded audio</Comment>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000527370">bile duct cancer</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

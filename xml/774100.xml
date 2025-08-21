@@ -1,0 +1,73 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Cannabis map</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">States and Territories in Which Cannabis is Legal for Medical Purposes</LabelName><LabelName language="en">Washington</LabelName><LabelName language="en">Oregon</LabelName><LabelName language="en">California</LabelName><LabelName language="en">Nevada</LabelName><LabelName language="en">Utah</LabelName><LabelName language="en">Arizona</LabelName><LabelName language="en">Colorado</LabelName><LabelName language="en">New Mexico</LabelName><LabelName language="en">Alaska</LabelName><LabelName language="en">Hawaii</LabelName><LabelName language="en">Montana</LabelName><LabelName language="en">North Dakota</LabelName><LabelName language="en">South Dakota</LabelName><LabelName language="en">Minnesota</LabelName><LabelName language="en">Michigan</LabelName><LabelName language="en">Illinois</LabelName><LabelName language="en">Missouri</LabelName><LabelName language="en">Arkansas</LabelName><LabelName language="en">Oklahoma</LabelName><LabelName language="en">Texas</LabelName><LabelName language="en">Louisiana</LabelName><LabelName language="en">Mississippi</LabelName><LabelName language="en">Alabama</LabelName><LabelName language="en">Florida</LabelName><LabelName language="en">Puerto Rico</LabelName><LabelName language="en">Guam</LabelName><LabelName language="en">Ohio</LabelName><LabelName language="en">West Virginia</LabelName><LabelName language="en">Virginia</LabelName><LabelName language="en">D.C.</LabelName><LabelName language="en">Maryland</LabelName><LabelName language="en">Delaware</LabelName><LabelName language="en">Pennsylvania</LabelName><LabelName language="en">New Jersey</LabelName><LabelName language="en">New York</LabelName><LabelName language="en">Connecticut</LabelName><LabelName language="en">Rhode Island</LabelName><LabelName language="en">Massachusetts</LabelName><LabelName language="en">Vermont</LabelName><LabelName language="en">New Hampshire</LabelName><LabelName language="en">Maine</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-10-08</DateCreated>
+   <SourceFilename>MapCannabis12.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2021-10-11">Revised image: Added Texas, Alabama, and Virginia to map</Comment><Comment audience="Internal" date="2020-11-05" user="yousufzaimg">Revised image: Added Mississippi and South Dakota to map</Comment><Comment audience="Internal" date="2020-03-23" user="yousufzaimg">Revised image: Added Utah and Louisiana to map</Comment><Comment audience="Internal" date="2019-01-16" user="kuhlmanna">Revised image: Added Oklahoma, Missouri, and West Virginia to map</Comment><Comment audience="Internal" date="2016-12-06" user="kuhlmanna">Revision: Added North Dakota, Ohio, Pennsylvania, Florida, and Arkansas to map</Comment><Comment audience="Internal" date="2015-12-22" user="kuhlmanna">Revised title.</Comment><Comment audience="Internal" date="2015-09-28" user="kuhlmanna">Revision: Colored in the upper Michigan peninsula with green.  </Comment><Comment audience="Internal" date="2015-07-27" user="kuhlmanna">On the inset, removed the small islands associated with Guam and Puerto Rico that are colored brown.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">A map showing the U.S. states and territories that have approved  the medical use of Cannabis.</ContentDescription>
+  <ContentDescription audience="Patients" language="en">A map showing the U.S. states and territories that have approved  the medical use of Cannabis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">A map showing the U.S. states and territories that  have approved the medical use of Cannabis.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">A map showing the U.S. states and territories that  have approved the medical use of Cannabis.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000683767">Cannabis and Cannabinoids</Summary>
+  
+ <Summary cdr:ref="CDR0000688139">Cannabis and Cannabinoids</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2021-10-11">Updated image to MapCannabis12.jpg</Comment><Comment audience="Internal" date="2020-11-05" user="yousufzaimg">Updated image to MapCannabis10.jpg</Comment><Comment audience="Internal" date="2020-03-23" user="yousufzaimg">Updated image to MapCannabis9.jpg</Comment><Comment audience="Internal" date="2019-01-16" user="kuhlmanna">Updated image to MapCannabis8.jpg</Comment><Comment audience="Internal" date="2016-12-06" user="kuhlmanna">Revised image: Updated to MapCannabis7.jpg</Comment><Comment audience="Internal" date="2016-01-05" user="kuhlmanna">Revised image: Updated to MapCannabis6.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-17</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated to MapCannabis4.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-07-14</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added MapCannabis2.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

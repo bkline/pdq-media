@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>craniopharyngioma, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Craniopharyngioma</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Hypothalamus</LabelName><LabelName language="en">Optic chiasm</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Sphenoid sinus</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">Optic nerve</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-01-18</DateCreated>
+   <SourceFilename>CraniopharyngiomaChild4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2021-01-20" user="kuhlmanna">Minor changes made to the bone to match the HP version of image</Comment><Comment audience="Internal" date="2020-12-21" user="kuhlmanna">Made the tumor smaller so that it's not directly on top of the hypothalamus</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043428">childhood craniopharyngioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the inside of the brain showing where craniopharyngiomas may form. A pullout shows a tumor between the hypothalamus and the optic chiasm.   Also shown is the optic nerve, the pituitary gland, and the sphenoid sinus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Craniopharyngiomas are rare brain tumors that usually form near the pituitary gland and the hypothalamus. They are benign (not cancer) and do not spread to other parts of the brain or to other parts of the body. However, they may grow and press on nearby parts of the brain, including the pituitary gland, optic chiasm, and optic nerve. Craniopharyngiomas usually occur in children and young adults.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000574137">Childhood Craniopharyngioma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046131">craniopharyngioma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-01-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-12-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-12-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-12-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-12-21</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment audience="Internal" date="2020-12-21" user="kuhlmanna">Updated image to CraniopharyngiomaChild3.jpg</Comment><Comment>Added CraniopharyngiomaChild2.jpg</Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-12-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

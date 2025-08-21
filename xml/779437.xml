@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>oropharynx anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Parts of the Oropharynx</LabelName><LabelName language="en">Soft palate</LabelName><LabelName language="en">Side and back wall of the throat</LabelName><LabelName language="en">Tonsil</LabelName><LabelName language="en">Back 1/3 of the tongue</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2016-05-02</DateCreated>
+   <SourceFilename>Oropharynx2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Changed the title to Parts of the Oropharynx; took off the bracket and label for Oropharynx; faded out the dark pink color in the nasal cavity; shaded the back 1/3 of the tongue and the soft palate a lighter turquoise</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">First draft</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038965">oropharyngeal cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Parts of the oropharynx; drawing shows the soft palate, side and back wall of the throat, tonsil, and the back third of the tongue.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Parts of the oropharynx. The oropharynx includes the soft palate, side and back wall of the throat, tonsils, and the back third of the tongue.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000258025">Oropharyngeal Cancer Treatment</Summary>
+  
+  <Glossary cdr:ref="CDR0000046024">oropharynx</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-02</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Added Oropharynx2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-19</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-04-19" user="yousufzaimg">Added Oropharynx1.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-03-10</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779436">Sample Illustration: Oropharygeal anatomy and lymph node regions</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

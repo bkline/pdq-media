@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Unusual Cancers - SEER cancer incidence rates for young patients, pie chart 1-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tasas de incidencia de cáncer ajustadas y específicas por edad para pacientes de 0 a 14 años de edad (SEER 2009-2012)</LabelName><LabelName language="es">Leucemia</LabelName><LabelName language="es">SNC</LabelName><LabelName language="es">Linfoma</LabelName><LabelName language="es">Tejido blando</LabelName><LabelName language="es">Neuroblastoma</LabelName><LabelName language="es">Renal</LabelName><LabelName language="es">Hueso</LabelName><LabelName language="es">Epitelial</LabelName><LabelName language="es">Célula germinativa</LabelName><LabelName language="es">Retinoblastoma</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Otro</LabelName><LabelName language="es">2%</LabelName><LabelName language="es">2%</LabelName><LabelName language="es">3%</LabelName><LabelName language="es">4%</LabelName><LabelName language="es">4%</LabelName><LabelName language="es">5%</LabelName><LabelName language="es">6%</LabelName><LabelName language="es">7%</LabelName><LabelName language="en">10%</LabelName><LabelName language="es">26%</LabelName><LabelName language="es">31%</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1688</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000776061">Unusual Cancers - SEER cancer incidence rates for young patients, pie chart 1</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>UnusualCancerPieChart1Spanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2016-01-14" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el gráfico de sectores se muestran las tasas de incidencia de cáncer ajustadas y específicas por edad en pacientes de 0-14 años  (SEER 2009-2012).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Tasas de incidencia de cáncer ajustadas y específicas por edad (0-14 años) a partir de los datos de SEER desde 2009 hasta 2012, de acuerdo con la edad y el grupo y subgrupo de la International Classification of Childhood Cancer en el momento  del diagnóstico, incluye los síndromes mielodisplásicos y los tumores de SNC o encéfalo benignos del grupo III, en todas las razas y ambos sexos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256757">Cánceres poco comunes en la niñez: Tratamiento</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Bhakta Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">Cumulative burden of individual</LabelName><LabelName language="en">0</LabelName><LabelName language="en">5</LabelName><LabelName language="en">10</LabelName><LabelName language="en">15</LabelName><LabelName language="en">20</LabelName><LabelName language="en">25</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">Neoplasms</LabelName><LabelName language="en">Cardiovascular</LabelName><LabelName language="en">Renal</LabelName><LabelName language="en">Haematological</LabelName><LabelName language="en">Ocular</LabelName><LabelName language="en">Gastrointestinal</LabelName><LabelName language="en">Pulmonary</LabelName><LabelName language="en">Endocrine</LabelName><LabelName language="en">Musculoskeletal</LabelName><LabelName language="en">Neurological</LabelName><LabelName language="en">Reproductive</LabelName><LabelName language="en">Infections</LabelName><LabelName language="en">Auditory</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Cumulative burden of individual</LabelName><LabelName language="en">0</LabelName><LabelName language="en">2</LabelName><LabelName language="en">4</LabelName><LabelName language="en">6</LabelName><LabelName language="en">8</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">Controls</LabelName><LabelName language="en">ALL</LabelName><LabelName language="en">AML</LabelName><LabelName language="en">Hodgkin's</LabelName><LabelName language="en">NHL</LabelName><LabelName language="en">CNS</LabelName><LabelName language="en">Bone tumours</LabelName><LabelName language="en">STS</LabelName><LabelName language="en">Wilms' tumours</LabelName><LabelName language="en">Neuroblastoma</LabelName><LabelName language="en">Retinoblastoma</LabelName><LabelName language="en">Germ cell</LabelName><LabelName language="en">Primary diagnosis by age strata</LabelName><ImageDimensions>
+    <HeightPixels>5312</HeightPixels>
+    <WidthPixels>4168</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Lancet</Creator>
+   <SourcePublication>Bhakta N, Liu Q, Ness K, et al.: The cumulative burden of surviving childhood cancer: an initial report from the St Jude Lifetime Cohort Study (SJLIFE). Lancet, Volume 390 (Issue 10112), Pages 2569–2582, 2017</SourcePublication><DateCreated>2017-11-27</DateCreated>
+   <SourceFilename>Bhakta Figure 4 for Late Effects 11-27-17.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2017-11-27</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    
+    <PermissionResponseDate>2017-12-19</PermissionResponseDate><PublisherPermissionText>Reprinted from The Lancet, Volume 390, Issue 10112, Bhakta N, Liu Q, Ness KK, Baassiri M, Eissa H, Yeo F, Chemaitilly W, Ehrhardt MJ, Bass J, Bishop MW, Shelton K, Lu L, Huang S, Li Z, Caron E, Lanctot J, Howell C, Folse T, Joshi V, Green DM, Mulrooney DA, Armstrong GT, Krull KR, Brinkman TM, Khan RB, Srivastava DK, Hudson MM, Yasui Y, Robison LL, The cumulative burden of surviving childhood cancer: an initial report from the St Jude Lifetime Cohort Study (SJLIFE), Pages 2569–2582, Copyright (2017), with permission from Elsevier.</PublisherPermissionText><ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000791338">The cumulative burden of surviving childhood cancer: an initial report from the St Jude Lifetime Cohort Study (SJLIFE).</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Charts showing distribution of cumulative burden by age among childhood cancer survivors of specific pediatric cancer subtypes and community controls participating in St. Jude Lifetime Cohort Study.</ContentDescription><ContentDescription audience="Health_professionals" language="es">El diagrama muestra la distribución de la carga acumulada por edad entre los sobrevivientes de subtipos específicos  de cáncer infantil y los controles de la comunidad que participaron en el St. Jude Lifetime Cohort Study.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure shows distribution of cumulative burden by age among childhood cancer survivors of specific pediatric cancer subtypes and community controls participating in St. Jude Lifetime Cohort Study. The cumulative burden at age 30 years and rate of cumulative burden growth is variable across cancer subtypes and organ systems. Reprinted from The Lancet, Volume 390, Issue 10112, Bhakta N, Liu Q, Ness KK, Baassiri M, Eissa H, Yeo F, Chemaitilly W, Ehrhardt MJ, Bass J, Bishop MW, Shelton K, Lu L, Huang S, Li Z, Caron E, Lanctot J, Howell C, Folse T, Joshi V, Green DM, Mulrooney DA, Armstrong GT, Krull KR, Brinkman TM, Khan RB, Srivastava DK, Hudson MM, Yasui Y, Robison LL, The cumulative burden of surviving childhood cancer: an initial report from the St Jude Lifetime Cohort Study (SJLIFE), Pages 2569–2582, Copyright (2017), with permission from Elsevier.</MediaCaption><MediaCaption audience="Health_professionals" language="es">La figura muestra la distribución de la carga acumulada por edad entre los sobrevivientes de subtipos específicos  de cáncer infantil y los controles de la comunidad que participaron en el St. Jude Lifetime Cohort Study. La carga acumulada a los 30 años y la tasa de aumento de la carga acumulada varía entre los subtipos de cáncer y de sistemas orgánicos. Reproducción de The Lancet, Volume 390, Issue 10112, Bhakta N, Liu Q, Ness KK, Baassiri M, Eissa H, Yeo F, Chemaitilly W, Ehrhardt MJ, Bass J, Bishop MW, Shelton K, Lu L, Huang S, Li Z, Caron E, Lanctot J, Howell C, Folse T, Joshi V, Green DM, Mulrooney DA, Armstrong GT, Krull KR, Brinkman TM, Khan RB, Srivastava DK, Hudson MM, Yasui Y, Robison LL, The cumulative burden of surviving childhood cancer: an initial report from the St Jude Lifetime Cohort Study (SJLIFE), páginas 2569–2582, Derechos de autor (2017), autorizado por Elsevier. Cumulative burden of individual: carga acumulada individual; Neoplasms:  neoplasias; Cardiovascular: cardiovascular; Renal: renal; Haematological: hematológico; Ocular: ocular; Gastrointestinal: gastrointestinal; Pulmonary: pulmonar; Endocrine: endocrino; Musculoskeletal: osteomuscular; Neurological: neurológico; Reproductive: reproductor; Infections: infecciones; Auditory: auditivo; Controls: controles; ALL: leucemia linfoblástica aguda; AML: leucemia mieloide aguda; Hodgkin's: linfoma de Hodgkin; NHL: linfoma no Hodgkin; CNS: sistema nervioso central; Bone tumours: tumores óseos; STS: sarcomas de tejidos blandos; Wilms' tumours: tumor de Wilms; Neuroblastoma: neuroblastoma; Retinoblastoma: retinoblastoma; Germ cell: células germinativas; Primary diagnosis by age strata: diagnóstico primario por estrato de edad.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary><Summary cdr:ref="CDR0000371825">Efectos tardíos del tratamiento anticanceroso en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Caption and Cont. Descr.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-12-27" user="lansberryic">Spa QC complete</Comment><Comment>Translation of Caption and Cont. Descr. Pending Spa QC (STS in reference: soft tissue sarcomas) </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-11-27</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  <Comment audience="Internal" date="2017-11-29" user="kuhlmanna">Image approved by Pediatric Treatment Editorial Board</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000791693">Bhakta_LateEffects_CopyrightPermissions_2017-12-20</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

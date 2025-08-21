@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pharynx anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Pharynx</LabelName><LabelName language="en">Pharynx</LabelName><LabelName language="en">Nasopharynx</LabelName><LabelName language="en">Oropharynx</LabelName><LabelName language="en">Hypopharynx</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Nasal cavity</LabelName><LabelName language="en">Oral cavity</LabelName><LabelName language="en">Hyoid bone</LabelName><LabelName language="en">Larynx</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-03-22</DateCreated>
+   <SourceFilename>Pharynx11.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-03-26" user="kuhlmanna">Added the word “bone” to the Hyoid label (Hyoid bone)  </Comment><Comment audience="Internal" date="2018-02-28" user="kuhlmanna">Added label for Hyoid</Comment><Comment audience="Internal" date="2018-02-26" user="kuhlmanna">REVISION: Moved Pharynx bracket down demarking the division between the oropharynx and the hypopharynx</Comment><Comment audience="Internal" date="2012-04-19" user="anjamison">Added Larynx label and pointers.</Comment><Comment audience="Internal" date="2012-02-09" user="cnorwood">Added a bracket called Pharynx to the left of the labels Nasopharynx, Oropharynx, and Hypopharynx.</Comment><Comment audience="Internal" date="2012-01-20" user="anjamison">Added a branch to the line from the Oral Cavity label to point to the front part of the oral cavity.</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated copyright to 2012.</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Shortened lower line of Hypopharynx bracket.</Comment><Comment audience="Internal" date="2011-11-07" user="anjamison">Changed title to Anatomy of the Pharynx; faded the sinuses above the nasal cavity.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the pharynx; drawing shows the nasopharynx, oropharynx, and hypopharynx. Also shown are the nasal cavity, oral cavity, hyoid bone, larynx, esophagus, and trachea.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Anatomy of the pharynx; drawing shows the nasopharynx, oropharynx, and hypopharynx. Also shown are the nasal cavity, oral cavity, hyoid bone, larynx, esophagus, and trachea.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the pharynx (throat). The pharynx is a hollow tube that starts behind the nose, goes down the neck, and ends at the top of the trachea and esophagus. The three parts of the pharynx are the nasopharynx, oropharynx, and hypopharynx.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Anatomy of the pharynx.</MediaCaption>
+  </Captions>
+ <Comment audience="Internal" date="2018-03-05" user="kuhlmanna">Revised HP and PT captions and content descriptions; ak</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062966">Nasopharyngeal Cancer Treatment (Adult)</Summary><Summary cdr:ref="CDR0000258025">Oropharyngeal Cancer Treatment (Adult)</Summary>
+  <Summary cdr:ref="CDR0000593570">Oral Cavity and Oropharyngeal Cancer Prevention</Summary><Summary cdr:ref="CDR0000062752">Oral Cavity, Pharyngeal, and Laryngeal Cancer Screening</Summary><Glossary cdr:ref="CDR0000046061">pharynx</Glossary>
+ <Glossary cdr:ref="CDR0000046025">nasopharynx</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-24</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        <Comment>Linked image to the Hypopharyngeal and Nasopharyngeal Cancer Treatment patient summaries.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-17</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-12-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-03-05" user="kuhlmanna">Updated to Pharynx10.jpg</Comment><Comment audience="Internal" date="2018-02-26" user="kuhlmanna">Updated to Pharynx9.jpg </Comment><Comment audience="Internal" date="2012-04-19" user="anjamison">Updated to Pharynx8.jpg </Comment><Comment audience="Internal" date="2012-02-09" user="cnorwood">Updated to Pharynx7.jpg</Comment><Comment audience="Internal" date="2012-01-20" user="anjamison">Updated to Pharynx6.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to Pharynx5.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to Pharynx4.jpg</Comment><Comment audience="Internal" date="2011-12-16" user="anjamison">Updated to Pharynx3.jpg</Comment><Comment>Updated to pharynx2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-10-03</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added Pharynx1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000730664">Illustration review sheet: pharynx anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>PC-SPES graph</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>GIF</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Amount of DES in Lots of PC-SPES</LabelName><LabelName language="en">DES (μg mean/capsule)</LabelName><LabelName language="en">Lot # and Date</LabelName><ImageDimensions>
+    <HeightPixels>619</HeightPixels>
+    <WidthPixels>489</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   
+   
+   
+   
+   <SourceFilename>pc-spes.gif</SourceFilename>
+   <Comment>from URL: http://www.cancer.gov/images/DES-in-PC-SPES.htm</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>to be specified</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Amount of diethylstilbestrol (DES) in lots of PC-SPES; graph shows lot numbers  and date of manufacture on the x-axis, and amount of DES contamination in lots of PC-SPES on the y-axis.  Data are shown for lots of PC-SPES manufactured from 1996 through mid-2001, and show decreasing amounts of DES contaminants in lots manufactured after 1998.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Amount of diethylstilbestrol (DES) in lots of PC-SPES. Lots of PC-SPES manufactured from 1996 through mid-2001 show decreasing amounts of DES contamination in lots manufactured after 1998.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000404384">PC-SPES </Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-08-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2008-09-03" user="rharrison">2008-09-03 changes per M. Beckwith.</Comment><Comment audience="Internal" date="2008-08-27" user="rharrison">caption/content approved by R. Baldwin.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-08-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-08-27</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

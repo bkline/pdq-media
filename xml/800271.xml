@@ -1,0 +1,58 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>palmar pit</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>711</HeightPixels>
+    <WidthPixels>976</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Edward Cowen, MD, MHSc</Creator>
+   <DateCreated>2019-12-20</DateCreated>
+   <SourceFilename>palmar pit.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-01-02" user="kuhlmanna">Permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph showing three small, flesh-colored depressions on the palm of the hand.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Palmar pits are small depressions in the skin on the palm of the hand that may be seen in individuals with basal cell nevus syndrome, a hereditary syndrome associated with the development of basal cell carcinoma. Depressions may also be seen on the sole of the foot (plantar pits, not shown). </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+  <Glossary cdr:ref="CDR0000800253">palmar pit</Glossary><Glossary cdr:ref="CDR0000800255">plantar pit</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the Content Description and Caption (image has no labels)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-12-20</ProcessingStatusDate>
+   <EnteredBy>2020-01-02</EnteredBy>
+   <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

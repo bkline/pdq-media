@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where GISTs form, anatomy, adolescent-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estómago</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Recto</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     
+    <MediaID cdr:ref="CDR0000803043">gastrointestinal system where GISTs form, anatomy, adolescent</MediaID></FromCdrMedia>
+   </FromObject>
+   <SourceFilename>GISTTeenSpanish.jpg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038161">gastrointestinal stromal tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Imagen del tubo gastrointestinal que muestra el estómago, el intestino delgado, el colon y el recto.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los tumores de estroma gastrointestinal (TEGI) se encuentran con más frecuencia en el estómago y el intestino delgado, pero a veces se encuentran en cualquier parte del tubo gastrointestinal o cerca de este.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000800507">Tratamiento de los tumores de estroma gastrointestinal infantiles</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed caption, content description and labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of image, caption and cont. descr.</Comment>
+       <Comment audience="Internal" date="2020-11-17" user="lansberryic">Is ok to use "tubo gastrointestinal" it shows from stomach to intestines.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-17</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        <Comment>Translated content description and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, caption and content description pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels//Pending translation of caption and content description</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-02</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000803043">gastrointestinal system where GISTs form, anatomy, adolescent</TranslationOf></Media>

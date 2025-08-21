@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>chronic myeloproliferative neoplasm</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>5</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2014-06-05</DateCreated>
+      <SourceFilename>752241_en_rr.mp3</SourceFilename>
+    <Comment audience="Internal" date="2014-06-05" user="akuhlmann">Audio re-recorded due to glossary term name change</Comment></OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="en">Pronunciation of dictionary term "chronic myeloproliferative neoplasm"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000752241">chronic myeloproliferative neoplasm</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Audio re-recorded due to glossary term name change</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

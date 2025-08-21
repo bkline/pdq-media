@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>extragonadal germ cell tumor-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tumor extragonadal de células germinativas</LabelName><LabelName language="es">Glándula pineal</LabelName><LabelName language="es">Mediastino (azul)</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Pulmones</LabelName><LabelName language="es">Peritoneo</LabelName><LabelName language="es">Retroperitoneo (rojo)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000770176">extragonadal germ cell tumor</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ExtragonadalGermCellTumorSpanishWithTitle.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-20" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040809">extragonadal germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Tumor extragonadal de células germinativas; la imagen muestra las partes del cuerpo donde los tumores de células germinativas se pueden formar, incluso la glándula pineal del cerebro, el mediastino (área entre los pulmones, incluso el corazón) y el retroperitoneo (area detrás del peritoneo). También se muestra el corazón y el peritoneo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los tumores extragonadales de células germinativas se forman en partes del cuerpo que no sean las gónadas (testículos u ovarios). Esto incluye la glándula pineal del cerebro, el mediastino (área entre los pulmones) y el retroperitoneo  (la pared trasera del abdomen).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000271920">Extragonadal Germ Cell Tumors Treatment</Summary>
+  <Glossary cdr:ref="CDR0000444993">extragonadal germ cell tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

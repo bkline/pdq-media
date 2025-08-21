@@ -1,0 +1,130 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where neuroendocrine tumors form, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes del cuerpo donde se forman los tumores neuroendocrinos gastrointestinales</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Duodeno</LabelName><LabelName language="es">Yeyuno</LabelName><LabelName language="es">Íleon</LabelName><LabelName language="es">Apéndice</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Recto</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000741567">gastrointestinal system where neuroendocrine tumors form, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>GI NeuroendocrineTumorsSpanish1.jpg</SourceFilename><Comment audience="Internal" date="2012-11-21" user="lsaucedo">Add new image</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Race>White</Race>
+  <SkinTone>Type III – Darker white skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038092">gastrointestinal carcinoid tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Imagen del tubo digestivo donde se muestran el estómago, el intestino delgado (incluso el duodeno, el yeyuno y el íleon), el apéndice, el colon y el recto.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los tumores neuroendocrinos gastrointestinales se forman en el revestimiento del tubo digestivo; con más frecuencia en el apéndice, el intestino delgado y el recto.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256794">Tratamiento de los tumores carcinoides gastrointestinales en adultos</Summary>
+  <Glossary cdr:ref="CDR0000446559">gastrointestinal carcinoid tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>De acuerdo, la actualización del título del sumario en inglés sigue "in progress".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-15</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>En este documento no se actualizó todavía el sumario que aparece en proposed use. El título de ese sumario está cambiando también (neuroendocrinos en lugar de carcinoides).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised translation of caption and content description to match manual of style</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised changes.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-18</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Changed "tracto" to "tubo" for consistency with CDRID46189=tubo gastrointestinal and other images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000741567">gastrointestinal system where neuroendocrine tumors form, anatomy</TranslationOf></Media>

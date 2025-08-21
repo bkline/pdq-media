@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>cervical cerclage</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cervical Cerclage</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Pelvic cavity</LabelName><LabelName language="en">Cerclage stitch</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">External OS</LabelName><LabelName language="en">Cerclage stitch</LabelName><LabelName language="en">Lower cervix removed</LabelName><ImageDimensions>
+    <HeightPixels>1500</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-10-31</DateCreated>
+   <SourceFilename>CervicalCerclage4.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-11-06" audience="Internal">Changed the label “Cerclage band” to “Cerclage stitch” and changed the color of the band to black so that it is more in line with the typical color of stitches.</Comment><Comment user="kuhlmanna" date="2023-10-03" audience="Internal">In the R image, removed the entire lower portion of the cervix and moved the band up so that it's around the ‘lower part of the uterus’; also showed  more of the body of the uterus; in the L image, changed the label to "Pelvic cavity" instead of "Abdominal cavity"</Comment><Comment user="kuhlmanna" date="2023-09-06" audience="Internal">Switched the placement of the two image panels so that the normal cervix is shown in the left image panel; for the image panel on the right, showed a cervix that has been removed; in the left panel, faded the top of the uterus and moved the Uterus label down over the bottom tip of the uterus (to avoid showing where a pregnancy might exist so as not to detract from the main focus of the image); and the removed the labels Transabdominal and Transvaginal </Comment><Comment user="kuhlmanna" date="2023-08-28" audience="Internal">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing showing a cervical cerclage; the panel on the left shows the uterus and the cervix with a cerclage stitch around it. Also shown is the external OS (the opening between the cervix and vagina), the vagina, and part of the pelvic cavity. The panel on the right shows the lower part of the cervix removed and a cerclage stitch around the lower end of the uterus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Cervical cerclage. A special stitch is placed around the cervix to help keep it closed during a pregnancy (left panel). If the cervix has been removed by surgery, the stitch is placed on the lower end of the uterus (right panel).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000811581">cerclage</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment>Sent to Larissa Meyer, M.D. for review</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" date="2023-11-06" audience="Internal">Updated image to CervicalCerclage4.jpg</Comment><Comment user="kuhlmanna" date="2023-10-03" audience="Internal">Updated image to CervicalCerclage3.jpg</Comment><Comment user="kuhlmanna" date="2023-09-06" audience="Internal">Updated image to CervicalCerclage2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-08-24</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000814194">Illustration Review Sheet: Cervical Cerclage</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

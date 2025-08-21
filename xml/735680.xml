@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endometrial cancer stage IVA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA Endometrial Cancer</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Endometrium</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Large intestine (part of the bowel)</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Cervix</LabelName><ImageDimensions>
+    <HeightPixels>2688</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-10-05</DateCreated>
+   <SourceFilename>EndometrialCaStage4A.5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-10-05" user="anjamison">Extended tumor into the inside of the bladder.</Comment><Comment audience="Internal" date="2012-08-06" user="anjamison">Changed label to  Large intestine (part of the bowel).</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Darkened cancer spot where it crosses from the uterus into the large intestine; unbolded Cancer label; added Small intestine label.</Comment><Comment audience="Internal" date="2012-06-29" user="anjamison">Deleted labels for Rectum, Vagina, and Urethra; added a label for Endometrium.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038737">endometrial cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA endometrial cancer shown in a side-view cross-section drawing of the uterus, bladder, cervix, vagina, small intestine, and large intestine. Cancer is shown in the bladder, uterus, and bowel.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA endometrial cancer. Cancer has spread into the bladder and/or bowel.</MediaCaption>
+  </Captions><Comment audience="Internal" date="2012-09-20" user="anjamison">Per expert reviewer, deleted "wall" from end of caption.</Comment>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062903">Endometrial Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045119">stage IV endometrial cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Change image: "Have tumor in bladder clearly infiltrating the mucosa.” Change caption: "Sounds like tumor stops at wall and not into mucosa."</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-21</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-07-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2012-10-05" user="anjamison">Updated to EndometrialCaStage4A.5.jpg</Comment><Comment audience="Internal" date="2012-08-06" user="anjamison">Updated to EndometrialCaStage4A.4.jpg</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Updated to EndometrialCaStage4A.3..jpg</Comment><Comment audience="Internal" date="2012-06-29" user="anjamison">Updated to EndometrialCaStage4A.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-06-15</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added EndometrialCaStage4A.1.jpg </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000740448">Illustration Review Sheet: endometrial cancer stage IVA</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

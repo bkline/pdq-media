@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>diffuse gastric cancer - endoscopy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>184</HeightPixels><WidthPixels>200</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Patrick Lynch, MD, JD, University of Texas, MD Anderson Cancer Center</Creator>
+   <DateCreated>2023-06-13</DateCreated>
+   <SourceFilename>Endoscopy 2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-06-13" audience="Internal">Image provided by PDQ Genetics Editorial Board Member - copyright permissions not required</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654657">hereditary diffuse gastric cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Endoscopic image of the inside of the stomach showing diffuse gastric cancer with linitis plastica involvement.</ContentDescription><ContentDescription audience="Health_professionals" language="es">En la fotografía endoscópica del interior del estómago se observa un cáncer gástrico difuso con compromiso de linitis plástica.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Endoscopic image of diffuse gastric cancer with typical linitis plastica  involvement. This occurs at an advanced stage. The gastric mucosa and submucosa are diffusely infiltrated such that the entire stomach becomes stiff, losing contractility and ability to digest food. This leads to the typical symptoms of nausea and vomiting. Biopsy is generally informative, but a very superficial biopsy may be negative. Hence, it is imperative for pathologists to carefully search biopsy specimens for isolated signet ring cells.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Fotografía endoscópica de un cáncer gástrico difuso con compromiso típico de linitis plástica, que se produce en un estadio avanzado. Se observa una infiltración difusa en la mucosa y la submucosa gástricas de manera que todo el estómago se vuelve rígido, perdiendo contractibilidad y capacidad para digerir los alimentos, lo que a su vez produce los síntomas típicos de náuseas y vómitos. La biopsia suele ser informativa, pero en ocasiones  una biopsia muy superficial produce un resultado negativo. Por lo tanto, es imprescindible que un especialista en patología busque células en anillo de sello aisladas en las muestras tomadas por biopsia.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-22</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Cont. Descr. and Caption, pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-06-13</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000812733">NCI Works Release Permission Form: PLynch Endoscopy 2</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

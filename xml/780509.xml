@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>penile anatomy-detailed</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Penis</LabelName><LabelName language="en">Pubic bone</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Base</LabelName><LabelName language="en">Shaft</LabelName><LabelName language="en">Glans</LabelName><LabelName language="en">Foreskin</LabelName><LabelName language="en">Urethral opening</LabelName><LabelName language="en">Scrotum</LabelName><LabelName language="en">Erectile tissue</LabelName><LabelName language="en">Corpus cavernosum</LabelName><LabelName language="en">Corpus spongiosum</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Dorsal nerve</LabelName><LabelName language="en">Blood vessels</LabelName><ImageDimensions>
+    <HeightPixels>2100</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-03-24</DateCreated>
+   <SourceFilename>PenisAnatomySection8.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-03-29" user="kuhlmanna">Added the labels for Pubic Bone and Foreskin; changed label "Root" to "Base"</Comment><Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Refined the penis in main figure and the blood vessels in the cross section.</Comment><Comment audience="Internal" date="2016-11-28" user="kuhlmanna">Made circle around penis a dotted line;  extended the bracket for Penis and added the label "Root" on main figure; changed the label "Urethra" on main figure to "Urethral Opening"; and on the inset, changed label "Corpus cavernos" to "Corpus cavernosum".</Comment><Comment audience="Internal" date="2016-11-03" user="kuhlmanna">Removed extra white space at top of main figure; made enhanced penis; added white line between legs; added second bracket to the left of Shaft and Glans with the label "Penis";  made inset of cross section of penis smaller and put it in a pull-out box; added shading from main figure to pull-out box; added labels "Corpus cavernosa" and "Corpus spongiosum" to inset; made cross section of erectile tissues on inset look the same; and removed figure of little gray penis.</Comment><Comment audience="Internal" date="2016-10-17" user="yousufzaimg">Cut off the top 1/3 of the image (above the bladder); labeled the Penis; labeled the Dorsal nerve; made the right side of the erectile tissue be flat like the left side; added label lines for Prostate, Urethra, Connective tissue, and Lymph nodes
+</Comment><Comment>First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038214">penile cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the penis; drawing shows the base, shaft, glans, foreskin, and urethral opening. Also shown are the scrotum, prostate, pubic bone, and lymph nodes. An inset shows a cross section of the inside of the penis, including the blood vessels, dorsal nerve, connective tissue, erectile tissue (corpus cavernosum and corpus spongiosum), and urethra.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the penis. The parts of the penis are the base, shaft, glans, and foreskin. The tissues that make up the penis include the dorsal nerve, blood vessels, connective tissue, and erectile tissue (corpus cavernosum and corpus spongiosum). The urethra passes from the bladder to the tip of the penis.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000438960">Penile Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000257215">penis</Glossary><Glossary cdr:ref="CDR0000446430">penile cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Minor change to label needed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment>Sent to Dr. Andrea Hayes-Jordan</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Updated image to PenisAnatomySection6.jpg</Comment><Comment audience="Internal" date="2016-11-28" user="kuhlmanna">Updated image to PenisAnatomySection5.jpg</Comment><Comment audience="Internal" date="2016-11-03" user="kuhlmanna">Updated image to PenisAnatomySection3.jpg</Comment><Comment>Updated image to PenisAnatomySection2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-04-18</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000780510">Sample Illustration: penile anatomy-staging</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000787983">Illustration Review Sheet: Penis Anatomy</SupplementaryInfoLink></RelatedDocuments></Media>

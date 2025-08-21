@@ -1,0 +1,107 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, adult, stage II-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfoma en estadio II en adultos</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Cáncer en ganglios linfáticos</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Cáncer en ganglios linfáticos</LabelName><LabelName language="es">Por encima del diafragma</LabelName><LabelName language="es">Por debajo del diafragma</LabelName><ImageDimensions>
+    <HeightPixels>3144</HeightPixels>
+    <WidthPixels>2970</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000614648">lymphoma, adult, stage II</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>Stage2AdultLymphomaSpanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Linfoma en estadio II  en adultos. En la imagen se observa cáncer en 2 grupos de ganglios linfáticos encima del diafragma y en 2 grupos de ganglios linfáticos debajo del diafragma. En una ampliación, se muestran un ganglio linfático, un vaso linfático, una arteria y una vena. Se observan células cancerosas en el ganglio linfático.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Linfoma en estadio II en adultos. En la imagen se observa cáncer en 2 grupos de ganglios linfáticos encima del diafragma y en 2 grupos de ganglios linfáticos debajo del diafragma. En un recuadro, se muestran un ganglio linfático, un vaso linfático, una arteria y una vena. Se observan células cancerosas en el ganglio linfático.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Linfoma en estadio II en adultos. En el estadio II, se encuentra cáncer en 2 o más grupos de ganglios linfáticos encima o debajo del diafragma.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Linfoma en estadio II en adultos. En el estadio II, se encuentra cáncer en 2 o más grupos de ganglios linfáticos encima o debajo del diafragma.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256771">Tratamiento del linfoma no Hodgkin en adultos</Summary>
+  <Summary cdr:ref="CDR0000420913">Tratamiento del linfoma relacionado con el SIDA</Summary><Summary cdr:ref="CDR0000256760">Tratamiento del linfoma de Hodgkin en adultos</Summary><Glossary cdr:ref="CDR0000045907">stage II adult non-Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000416103">stage II AIDS-related lymphoma</Glossary><Glossary cdr:ref="CDR0000045896">stage II adult Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content</Comment><Comment audience="Internal" date="2019-09-05" user="lansberryic">“se encuentra cáncer en…” vs. “ el cáncer se encuentra en…” different versions, see summaries and other definitions of lymphoma.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-04</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; captions and descriptions translated</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised labels; added captions and descriptions in proposed markup; ready for Sp QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of new labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated labels only</Comment>
+       <Comment audience="Internal" date="2019-07-08" user="adlerm2">Suggest removing "O" in Spanish version to improve readability.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-05-19" user="rharrison">Updated translations.</Comment><Comment audience="Internal" date="2009-01-29" user="rharrison">Added translated labels, caption, and content description. </Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-01-13</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000614648">lymphoma, adult, stage II</TranslationOf></Media>

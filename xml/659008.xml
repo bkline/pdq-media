@@ -1,0 +1,123 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage IV - Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estadio IV</LabelName><LabelName language="es">Líquido en exceso alrededor del pulmón</LabelName><LabelName language="es">El cáncer  se diseminó a otras partes del cuerpo:</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Ganglios linfáticos de la ingle</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2640</HeightPixels><WidthPixels>2400</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000657667">ovarian cancer stage IV</MediaID>
+    </FromCdrMedia>
+   </FromObject><SourceFilename>OvarianCaStage4Spanish3.jpg.</SourceFilename><Comment audience="Internal" date="2016-05-20" user="saucedol">Linked revised Spn image</Comment><Comment audience="Internal" date="2010-01-15" user="dbuchhagen">Spanish filename: OvarianCaStage4Spanish2.jpg.</Comment>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000043701">ovarian epithelial cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040968">fallopian tube cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040969">primary peritoneal cavity cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">La figura del estadio IV muestra partes del cuerpo hacia donde se puede diseminar el cáncer de ovario, incluso el pulmón, el hígado y los ganglios linfáticos de la ingle. En un recuadro de la parte superior, se observa líquido en exceso alrededor del pulmón. En un recuadro de la parte inferior, se observan células cancerosas diseminándose a través de la sangre y el sistema linfático hacia otras partes del cuerpo donde se formó el cáncer metastásico.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">La figura del estadio IV muestra partes del cuerpo hacia donde se puede diseminar el cáncer de ovario, incluso el pulmón, el hígado y los ganglios linfáticos de la ingle. En un recuadro de la parte superior, se observan líquido en exceso alrededor del pulmón. En un recuadro de la parte inferior, se observa células cancerosas diseminándose a través de la sangre y el sistema linfático hacia otras partes del cuerpo donde se formó el cáncer metastásico.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">En el estadio IV, el cáncer se diseminó fuera del abdomen a otras partes del cuerpo. En el estadio IVA, se encuentran células cancerosas en el líquido que se acumula en exceso alrededor de los pulmones. En el estadio IVB, el cáncer se diseminó a órganos y tejidos fuera del abdomen, incluso el pulmón, el hígado y los ganglios linfáticos de la ingle.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">En el estadio IV, el cáncer se diseminó fuera del abdomen a otras partes del cuerpo. En el estadio IVA, se encuentran células cancerosas en el líquido que se acumula en exceso alrededor de los pulmones. En el estadio IVB, el cáncer se diseminó a órganos y tejidos fuera del abdomen, incluso el pulmón, el hígado y los ganglios linfáticos de la ingle.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256785">Tratamiento del cáncer epitelial de ovario, de trompas de Falopio y primario de peritoneo</Summary>
+  <Summary cdr:ref="CDR0000256832">Tratamiento de los tumores de células germinativas del ovario</Summary><Glossary cdr:ref="CDR0000045902">stage IV ovarian epithelial, fallopian tube, and primary peritoneal cancer</Glossary>
+ <Glossary cdr:ref="CDR0000438725">stage IV ovarian germ cell tumor</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-14</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2@nih.gov</EnteredBy>
+        <Comment>New summary and glossary term added to "Proposed Use"</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-13</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>La parte final del "caption" es un tanto diferente a lo que se tiene en el sumario y la definición, pero así está en el inglés.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC. Los cambios sugeridos en el caption/cont.descr. son solo sugerencias para acortar y  aligerar un poco el texto en español.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated lables, caption and content description QCd</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-05</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy>
+   
+  <Comment audience="Internal" date="2010-01-15" user="dbuchhagen">2010-01-15: Translation complete.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000657667">ovarian cancer stage IV</TranslationOf></Media>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>atypical glandular cells</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>4</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2013-11-07</DateCreated>
+      <SourceFilename>659607_en_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="en">Pronunciation of dictionary term "atypical glandular cells"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000659607">atypical glandular cells</Glossary>
+  </ProposedUse>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-11-07</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Audio re-recorded due to change in GTN</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

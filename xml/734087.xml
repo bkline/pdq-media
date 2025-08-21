@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ductal carcinoma in situ</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ductal Carcinoma In Situ (DCIS)</LabelName><LabelName language="en">Lobe</LabelName><LabelName language="en">Ducts</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Normal duct</LabelName><LabelName language="en">DCIS</LabelName><LabelName language="en">Abnormal cells</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-06-08</DateCreated>
+   <SourceFilename>DCIS.3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-06-11" user="akuhlmann">Removed the shaded area that connects the box with the enlarged ducts with the main figure; changed the label of the top duct in the inset to “Normal duct”; added the label "Abnormal cells" to the bottom part of the inset.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  <Category>staging</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039839">ductal breast carcinoma in situ</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Ductal carcinoma in situ (DCIS); drawing shows  a lobe, ducts, and fatty tissue in a cross section of the breast. The inset shows a normal duct and a duct with abnormal cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Ductal carcinoma in situ (DCIS). Abnormal cells are found in the lining of a breast duct.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000044394">DCIS</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-15</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Approved by Beverly Moy, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2012-06-11" user="akuhlmann">Updated to DCIS.3.jpg</Comment><Comment>Updated to DCIS.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-05-11</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  <Comment audience="Internal" date="2012-05-17" user="anjamison">Added new image: DCIS.1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

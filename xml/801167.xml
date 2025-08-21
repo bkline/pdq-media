@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Extracranial Germ Cell Tumor  - Frazier Table</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Table 4. Predicted Fraction of Pediatric Germ Cell Tumors Cured by Site, Age, and Stage Using Parameter Estimates from Cure Model</LabelName><LabelName language="en">Group</LabelName><LabelName language="en">Cure Model</LabelName><LabelName language="en">No. of Patients</LabelName><LabelName language="en">Predicted LTDF Survival (%)</LabelName><LabelName language="en">95% CI (%)</LabelName><LabelName language="en">Patients age &lt; 11 years with stage II to III testicular tumors</LabelName><LabelName language="en">28</LabelName><LabelName language="en">99</LabelName><LabelName language="en">96 to 100</LabelName><LabelName language="en">Patients age &lt; 11 years with stage II to III ovarian tumors</LabelName><LabelName language="en">49</LabelName><LabelName language="en">97</LabelName><LabelName language="en">93 to 99</LabelName><LabelName language="en">Patients age &lt; 11 years with stage IV testicular tumors</LabelName><LabelName language="en">17</LabelName><LabelName language="en">96</LabelName><LabelName language="en">91 to 99</LabelName><LabelName language="en">Patients age ≥ 11 years with stage II to III testicular tumors</LabelName><LabelName language="en">22</LabelName><LabelName language="en">93</LabelName><LabelName language="en">84 to 97</LabelName><LabelName language="en">Patients age &lt; 11 years with stage IV ovarian tumors</LabelName><LabelName language="en">8</LabelName><LabelName language="en">92</LabelName><LabelName language="en">83 to 96</LabelName><LabelName language="en">Patients age &lt; 11 years with stage II to III extragonadal tumors</LabelName><LabelName language="en">129</LabelName><LabelName language="en">91</LabelName><LabelName language="en">86 to 94</LabelName><LabelName language="en">Patients age ≥ 11 years with stage II to III ovarian tumors</LabelName><LabelName language="en">75</LabelName><LabelName language="en">85</LabelName><LabelName language="en">77 to 91</LabelName><LabelName language="en">Patients age ≥ 11 years with stage IV testicular tumors</LabelName><LabelName language="en">25</LabelName><LabelName language="en">83</LabelName><LabelName language="en">67 to 91</LabelName><LabelName language="en">Patients age &lt; 11 years with stage IV extragonadal tumors</LabelName><LabelName language="en">124</LabelName><LabelName language="en">79</LabelName><LabelName language="en">71 to 84</LabelName><LabelName language="en">Patients age ≥ 11 years with stage IV ovarian tumors</LabelName><LabelName language="en">9</LabelName><LabelName language="en">67</LabelName><LabelName language="en">49 to 80</LabelName><LabelName language="en">Patients age ≥ 11 years with stage II to  III extragonadal tumors</LabelName><LabelName language="en">21</LabelName><LabelName language="en">65</LabelName><LabelName language="en">48 to 78</LabelName><LabelName language="en">Patients age ≥ 11 years with stage IV extragondal tumors</LabelName><LabelName language="en">12</LabelName><LabelName language="en">40</LabelName><LabelName language="en">24 to 56</LabelName><LabelName language="en">IGCCC</LabelName><LabelName language="en">Poor-Risk Group</LabelName><LabelName language="en">No. of Patients</LabelName><LabelName language="en">4-Year Kaplan-Meier EFS (%)</LabelName><LabelName language="en">95% CI (%)</LabelName><LabelName language="en">Both sexes age &gt; 11 years (all sites)</LabelName><LabelName language="en">65</LabelName><LabelName language="en">74</LabelName><LabelName language="en">61 to 83</LabelName><LabelName language="en">Boys age &gt; 11 years (all sites)</LabelName><LabelName language="en">27</LabelName><LabelName language="en">57</LabelName><LabelName language="en">36 to 74</LabelName><LabelName language="en">Boys age &gt; 11 years (testicular site)</LabelName><LabelName language="en">15</LabelName><LabelName language="en">80</LabelName><LabelName language="en">50 to 93</LabelName><LabelName language="en">Boys age &gt; 11 years (extragonadal site)</LabelName><LabelName language="en">12</LabelName><LabelName language="en">50*</LabelName><LabelName language="en">21 to 74</LabelName><LabelName language="en">Abbreviations: EFS, event-free survival; IGCCC, International Germ Cell Consensus Classification; LTDF, long-term disease free.</LabelName><LabelName language="en">*3-year EFS is used here because longest follow-up in this category was 3.5 years.</LabelName><ImageDimensions>
+    <HeightPixels>907</HeightPixels>
+    <WidthPixels>1656</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Journal of Clinical Oncology</Creator>
+   <SourcePublication>Frazier AL, Hale JP, Rodriguez-Galindo C, et al: Revised risk classification for pediatric extracranial germ cell tumors based on 25 years of clinical trial data from the United Kingdom and United States. Journal of Clinical Oncology, Volume 33 (Issue 2), Pages 195-201, Copyright 2015.</SourcePublication><DateCreated>2020-04-01</DateCreated>
+   <SourceFilename>Frazier Fig 4 Ch Extra GCT 4-1-20 v2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-04-01" user="kuhlmanna">Image approved by Board; copyright permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2020-04-01</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted with permission. © 2015 American Society of Clinical Oncology.  All rights reserved. Frazier AL, Hale JP, Rodriguez-Galindo C, et al: Revised risk classification for pediatric extracranial germ cell tumors based on 25 years of clinical trial data from the United Kingdom and United States. J Clin Oncol , Vol. 33 (Issue 2), 2015: 195-201.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062854">Childhood Extracranial Germ Cell Tumors Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000777473">Revised risk classification for pediatric extracranial germ cell tumors based on 25 years of clinical trial data from the United Kingdom and United States.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Table showing the predicted fraction of pediatric germ cell tumors cured by site, age, and stage using parameter estimates from Cure model.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Predicted fraction of pediatric germ cell tumors cured by site, age, and stage using parameter estimates from Cure model. Reprinted with permission. © 2015 American Society of Clinical Oncology.  All rights reserved. Frazier AL, Hale JP, Rodriguez-Galindo C, et al: Revised risk classification for pediatric extracranial germ cell tumors based on 25 years of clinical trial data from the United Kingdom and United States. J Clin Oncol , Vol. 33 (Issue 2), 2015: 195-201.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062854">Childhood Extracranial Germ Cell Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image will not be re-created into Spanish; please translate Content Description and Caption, and add translated labels to Caption.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Image approved by Pediatric Treatment Editorial Board</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000801165">Frazier Table Copyright&amp;Permissions 2020-04-01</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

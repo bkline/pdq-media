@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>barium enema</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Barium liquid</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-11-09</DateCreated><SourceFilename>BariumEnema6.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-11-09" user="anjamison">Added title.</Comment><Comment>Added new copyright information and label name. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000038736">small intestine cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Barium enema procedure; shows barium liquid being put into the rectum and flowing through the colon.  Inset shows person on table having a barium enema.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Barium enema procedure.  The patient lies on an x-ray table. Barium liquid is put into the rectum and flows through the colon.  X-rays are taken to look for abnormal areas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+</Media>

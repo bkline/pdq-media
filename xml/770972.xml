@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>transition to end-of-life care-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">A</LabelName><LabelName language="es">Alto</LabelName><LabelName language="es">Bajo</LabelName><LabelName language="en">Beneficio probable del TPV</LabelName><LabelName language="es">B</LabelName><LabelName language="es">Curativo</LabelName><LabelName language="es">No curativo</LabelName><LabelName language="es">Observación</LabelName><LabelName language="es">Atención en la EFV</LabelName><LabelName language="es">Calidad del resto de la vida</LabelName><LabelName language="es">Atención en la EFV</LabelName><LabelName language="es">Calidad del morir</LabelName><LabelName language="es">Fase orientada por el cáncer</LabelName><LabelName language="es">Fase de transición</LabelName><LabelName language="es">Fase final  de la vida</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Diagrama que muestra un modelo de fase de la planificación de  la transición para la atención de pacientes de cáncer avanzado en la etapa final de la vida (EFV).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Modelo de fase de la planificación de la transición para la atención de pacientes de cáncer  avanzado en la etapa final de la vida (EFV). La trayectoria del cáncer en estadio avanzado comienza por comprender que los tratamientos dirigidos a la enfermedad ya no son curativos. Con el tiempo, el paciente, la familia y el médico oncólogo se deben esforzar por establecer una comprensión compartida de los tratamientos disponibles y reconocer el momento en que la probabilidad de beneficio disminuye en relación con el daño potencial del tratamiento. TPV = tratamiento para prolongar la vida; EFL = etapa final de la vida</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000765474">Planificar  la transición para la atención del cáncer avanzado en  la etapa final de la vida</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translation QCd and image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy><Comment audience="Internal" date="2015-06-30" user="imasduchovnyv">Habría que cambiar el título del sumario.</Comment>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

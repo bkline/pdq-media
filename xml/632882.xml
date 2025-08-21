@@ -1,0 +1,103 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, adult, stage IV-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfoma en estadio IV en adultos</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">c</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">d</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Líquido cefalorraquídeo</LabelName><LabelName language="es">Médula ósea</LabelName><LabelName language="es">Cáncer primario en ganglios linfáticos</LabelName><ImageDimensions>
+    <HeightPixels>3060</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000629626">lymphoma, adult, stage IV</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>Stage4AdultLymphomaSpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040482">stage IV adult non-Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000042945">stage IV adult Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000736138">stage IV AIDS-related lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Linfoma en estadio IV en adultos. En la imagen se observan cuatro paneles: a) en el panel superior izquierdo, se observa cáncer en el hígado; b) en el panel superior derecho, se observa cáncer en el pulmón izquierdo y en 2 grupos de ganglios linfáticos debajo del diafragma; c) en el panel inferior izquierdo, se observa cáncer en el pulmón izquierdo y en grupos de ganglios linfáticos encima y debajo del diafragma; d) en el panel inferior derecho, se observa cáncer en ambos pulmones, el hígado y, en un recuadro, cáncer en la médula ósea. También se muestran, cáncer primario en los ganglios linfáticos; y en un recuadro, el encéfalo y el líquido cefalorraquídeo (en azul).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Linfoma en estadio IV en adultos. En la imagen se observan cuatro paneles: a) en el panel superior izquierdo, se observa cáncer en el hígado; b) en el panel superior derecho, se observa cáncer en el pulmón izquierdo y en 2 grupos de ganglios linfáticos debajo del diafragma; c) en el panel inferior izquierdo, se observa cáncer en el pulmón izquierdo y en grupos de ganglios linfáticos encima y debajo del diafragma; d) en el panel inferior derecho, se observa cáncer en ambos pulmones, el hígado y, en un recuadro, cáncer en la médula ósea. También se muestran,  cáncer primario en los ganglios linfáticos y en un recuadro, el encéfalo y el líquido cefalorraquídeo (en azul).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Linfoma en estadio IV en adultos. En el estadio IV, se presenta una de las siguientes situaciones: a) el cáncer se diseminó a 1 o más órganos fuera del sistema linfático; b) se encuentra cáncer en 2 o más grupos de ganglios linfáticos encima o debajo del diafragma,  y en 1 órgano fuera del sistema linfático que está alejado de los ganglios linfáticos comprometidos; c) se encuentra cáncer en grupos de ganglios linfáticos encima y debajo del diafragma, y en cualquier órgano fuera del sistema linfático; d) se encuentra cáncer en el hígado, la médula ósea, más de un sitio en el pulmón, o en el líquido cefalorraquídeo (LCR). El cáncer en el hígado, la médula ósea, el pulmón o el LCR no se diseminó de manera directa desde ganglios linfáticos cercanos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Linfoma en estadio IV en adultos. En el estadio IV, se presenta una de las siguientes situaciones: a) el cáncer se diseminó a 1 o más órganos fuera del sistema linfático; b) se encuentra cáncer en 2 o más grupos de ganglios linfáticos encima o debajo del diafragma,  y en 1 órgano fuera del sistema linfático que está alejado de los ganglios linfáticos comprometidos; c) se encuentra cáncer en grupos de ganglios linfáticos encima y debajo del diafragma, y en cualquier órgano fuera del sistema linfático; d) se encuentra cáncer en el hígado, la médula ósea, más de un sitio en el pulmón, o en el líquido cefalorraquídeo (LCR). El cáncer en el hígado, la médula ósea, el pulmón o el LCR no se diseminó de manera directa desde ganglios linfáticos cercanos.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256771">Tratamiento del linfoma no Hodgkin en adultos</Summary>
+  <Summary cdr:ref="CDR0000256760">Tratamiento del linfoma de Hodgkin en adultos</Summary><Summary cdr:ref="CDR0000420913">Tratamiento del linfoma relacionado con el SIDA</Summary><Glossary cdr:ref="CDR0000045909">stage IV adult non-Hodgkin lymphoma</Glossary>
+ <Glossary cdr:ref="CDR0000045898">stage IV adult Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000416109">stage IV AIDS-related lymphoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-04</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; captions and descriptions completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised labels; added captions and descriptions in proposed markup</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of new labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated labels only</Comment>
+       <Comment audience="Internal" date="2019-07-08" user="adlerm2">For readability purposes, suggest removing "O" (=OR) in Spanish.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-05-19" user="rharrison">Updated translations.</Comment><Comment audience="Internal" date="2009-02-02" user="rharrison">Added translated labels, caption, and content description. </Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-01-13</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000629626">lymphoma, adult, stage IV</TranslationOf></Media>

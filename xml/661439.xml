@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Merkel - Immunohistochemical differential diagnosis</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    
+    
+   <HeightPixels>534</HeightPixels><WidthPixels>2226</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   
+   
+   <SourceFilename>Immunohisto2.jpg</SourceFilename>
+   <Comment>From: Busse et al., Case 19-2008: A 63-year-old HIV-positive man with cutaneous Merkel-cell carcinoma. N. Eng. J. Med. 358:2717-2723, 2008, p.2719. Removed from caption  because of footnote in figure: Busse et al. Immunohistochemical Differential Diagnosis of Merkel Cell Carcinoma (Typical Staining Pattern). Copyright © 2008 Massachusetts Medical Society. All rights reserved.</Comment>
+  </OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Immunohistochemical differential diagnosis of Merkel cell carcinoma (typical staining pattern: Eight-columned table depicting immunohistochemical studies useful in establishing a MCC diagnosis. Includes merkel-cell tumors, small cell carcinomas of the lung, small cell melanomas, and lymphomas;; also includes the positive or negative results of staining using   cytokertain 20, cytokeratin 7, neurofilaments, neuron-specific enolases, thyroid transcription factor 1, S100 proteins, and leukocyte common antigens. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 4. Merkel - Immunohistochemical differential diagnosis of Merkel-Cell Carcinoma (Typical Staining Pattern). </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000062884">Merkel Cell Carcinoma Treatment</Summary>
+       </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-12-10</ProcessingStatusDate>
+   <EnteredBy>2009-12-10</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

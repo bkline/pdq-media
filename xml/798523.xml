@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endocrine glands-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Glándulas del sistema endocrino</LabelName><LabelName language="es">Glándula pineal</LabelName><LabelName language="es">Hipotálamo</LabelName><LabelName language="es">Hipófisis</LabelName><LabelName language="es">Glándulas paratiroideas</LabelName><LabelName language="es">Glándula tiroidea (vista posterior)</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Timo</LabelName><LabelName language="es">Glándula suprarrenal</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Ovarios (mujeres)</LabelName><LabelName language="es">Testículos (hombres)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>2940</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000797853">endocrine glands</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MyPartEndocrineOvariesTestesSpanish.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Glándulas y órganos del sistema endocrino. En la imagen se observan el hipotálamo, la hipófisis, la glándula pineal, la glándula tiroidea, las glándulas paratiroideas, el timo, las glándulas suprarrenales, el páncreas, los ovarios (mujeres) y los testículos (hombres). En un recuadro se enseña la vista posterior de la glándula tiroidea  y las cuatro glándulas paratiroideas, cada una de estas del tamaño de una arveja.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Glándulas y órganos del sistema endocrino. El sistema endocrino produce hormonas que controlan muchas funciones importantes del cuerpo. Se compone de glándulas y órganos como  los siguientes: el hipotálamo, la hipófisis, la glándula pineal, la glándula tiroidea, las glándulas paratiroideas, el timo, las glándulas suprarrenales, el páncreas y los órganos reproductores (ovarios en las mujeres y testículos en los hombres).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000468796">endocrine system</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated caption and description</Comment>
+       <Comment audience="Internal" date="2019-07-11" user="adlerm2">Used "an adrenal gland" (una glándula suprarrenal) for the content description since it only shows one on the image.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated labels.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000797853">endocrine glands</TranslationOf></Media>

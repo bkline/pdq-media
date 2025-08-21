@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Reed-Sternberg cell</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Normal lymphocyte</LabelName><LabelName language="en">Reed-Sternberg cell</LabelName><ImageDimensions><HeightPixels>1152</HeightPixels>
+    
+    
+   <WidthPixels>1800</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><DateCreated>2008-02-15</DateCreated>
+   
+   
+   
+   
+   
+   
+   <SourceFilename>ReedSternbergCell.1.jpg</SourceFilename><Comment audience="Internal" date="2008-02-15" user="rharrison">2008-02-15 upgraded to 300dpi JPEG image created by Terese from original PDF. </Comment><Comment>2007-12-13 image converted to JPEG. 2007-11-05 received image from R. Manrow.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000041646">Hodgkin lymphoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Reed-Sternberg cell; photograph shows normal lymphocytes compared with a Reed-Sternberg cell.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Reed-Sternberg cell. Reed-Sternberg cells are large, abnormal lymphocytes that may contain more than one nucleus. These cells are found in Hodgkin lymphoma.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000257991">Adult Hodgkin Lymphoma Treatment</Summary>
+  
+  <Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary><Glossary cdr:ref="CDR0000046557">Reed-Sternberg cell</Glossary>
+ <Glossary cdr:ref="CDR0000574284">classical Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000045012">Hodgkin disease</Glossary><Glossary cdr:ref="CDR0000270800">Hodgkin lymphoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-01-02</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-06</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin with melanocyte anatomy-HP-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Vasos sanguíneos</LabelName><LabelName language="es">Células escamosas</LabelName><LabelName language="es">Melanina</LabelName><LabelName language="es">Célula basal</LabelName><LabelName language="es">Membrana basal</LabelName><LabelName language="es">Melanocito</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Glándula sudorípara</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Folículo piloso</LabelName><LabelName language="es">Nervio</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Tallo del pelo</LabelName><LabelName language="es">Glándula sebácea</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2188</HeightPixels>
+    <WidthPixels>3090</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000624959">skin with melanocyte anatomy-HP</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Skinwithmelanocyteanatomy.Spanish1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-09-24" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Representación esquemática de una piel normal; en el dibujo se muestran las características anatómicas de una piel normal, incluso la epidermis, la dermis, los folículos pilosos, las glándulas sudoríparas, los tallos del pelo, las venas, las arterias, el tejido graso, los nervios, los vasos linfáticos, las glándulas sebáseas y el tejido subcutáneo. En el recuadro, se muestran en primer plano las capas de células escamosas y de células basales de la epidermis, la membrana basal en medio de la epidermis y la dermis, y la dermis con vasos sanguíneos. También se muestran la melanina en las células y un melanocito en la capa de células basales, en la parte más profunda de la epidermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Representación esquemática de una piel normal. La epidermis relativamente avascular alberga queratinocitos de células basales y queratinocitos epiteliales escamosos, las células base del CCB y el CCE, respectivamente. Los melanocitos también están presentes en la piel normal y sirven como célula base del melanoma. La separación entre la epidermis y la dermis se presenta en la zona de la membrana basal, que se ubica justo en la parte inferior de los queratinocitos de células basales.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-26</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd and new image added</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-26</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

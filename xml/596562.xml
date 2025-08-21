@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hematopoietic tree, plasma cell</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Blood stem cell</LabelName><LabelName language="en">Myeloid stem cell</LabelName><LabelName language="en">Myeloblast</LabelName><LabelName language="en">Red blood cells</LabelName><LabelName language="en">Platelets</LabelName><LabelName language="en">Granulocytes</LabelName><LabelName language="en">Eosinophil</LabelName><LabelName language="en">Basophil</LabelName><LabelName language="en">Neutrophil</LabelName><LabelName language="en">Lymphoid stem cell</LabelName><LabelName language="en">Lymphoblast</LabelName><LabelName language="en">B lymphocyte</LabelName><LabelName language="en">Plasma cell</LabelName><LabelName language="en">T lymphocyte</LabelName><LabelName language="en">Natural killer cell</LabelName><LabelName language="en">White blood cells</LabelName><ImageDimensions>
+    <HeightPixels>2342</HeightPixels>
+    <WidthPixels>3138</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000526538">hematopoietic tree, expanded lymphoid line</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>File name: HematoExpandedPlasmaCell1.jpg</Comment><Comment>Derived from HematopoieticExpanded7.jpg image with added plasma cell. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037974">multiple myeloma and other plasma cell neoplasms</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Blood cell development; drawing shows the steps a blood stem cell goes through to become a red blood cell, platelet, or white blood cell. A myeloid stem cell becomes a red blood cell, a platelet, or a myeloblast, which then becomes a granulocyte (the types of granulocytes are eosinophils, basophils, and neutrophils). A lymphoid stem cell becomes a lymphoblast and then becomes a B lymphocyte, T lymphocyte, or natural killer cell. A B lymphocyte may become a plasma cell.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Blood cell development. A blood stem cell goes through several steps to become a red blood cell, platelet, or white blood cell. </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258195">Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045793">multiple myeloma</Glossary>
+ <Glossary cdr:ref="CDR0000411384">plasma cell myeloma</Glossary><Glossary cdr:ref="CDR0000411381">Kahler disease</Glossary><Glossary cdr:ref="CDR0000411383">myelomatosis</Glossary><Glossary cdr:ref="CDR0000411386">plasma cell tumor</Glossary><Glossary cdr:ref="CDR0000046230">plasma cell</Glossary><Glossary cdr:ref="CDR0000046231">plasmacytoma</Glossary><Glossary cdr:ref="CDR0000044795">plasmacytic</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2008-05-27 approved with sentence re: plasma cells added to content desc.; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Same caption/description taken from expanded hematopoietic tree image. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-05-16</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   <Comment>Image with plasma cell added reviewed by group. </Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-16</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>HematopoieticExpanded7.jpg image with added plasma cell.</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+ 
+</Media>

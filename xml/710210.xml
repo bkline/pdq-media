@@ -1,0 +1,28 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>surgical excision-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>1</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2022-02-07</DateCreated>
+      <SourceFilename>Week_2022_03/269459_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "extirpación quirúrgica"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000269459">excision;escisión [es]</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2022-02-15</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2022-02-15</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus></ProcessingStatuses></Media>

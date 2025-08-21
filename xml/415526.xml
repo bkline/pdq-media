@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>tumor size - centimeters</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Tumor Sizes</LabelName><LabelName language="en">Centimeters (cm)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">3</LabelName><LabelName language="en">4</LabelName><LabelName language="en">5</LabelName><LabelName language="en">6</LabelName><LabelName language="en">7</LabelName><LabelName language="en">8</LabelName><LabelName language="en">9</LabelName><LabelName language="en">10</LabelName><LabelName language="en">Inches (in)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">3</LabelName><LabelName language="en">4</LabelName><LabelName language="en">1 cm</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">3 cm</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">6 cm</LabelName><LabelName language="en">7 cm</LabelName><LabelName language="en">10 cm</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3240</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-05-13</DateCreated><SourceFilename>TumorSizes 1 to 10cm.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-05-15" user="kuhlmanna">REVISED image: added a scale for inches under the centimeter scale to show how centimeters translate into inches  </Comment><Comment audience="Internal" date="2017-08-08" user="kuhlmanna">Added egg (6 cm), peach (7 cm), and grapefruit (10 cm) tumor sizes</Comment><Comment audience="Internal" date="2008-02-21" user="dbuchhagen">Added new copyright information. </Comment><Comment>Added NCI watermark. mm</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows different sizes of a tumor in centimeters (cm) compared to the size of a pea (1 cm), a peanut (2 cm), a grape (3 cm), a walnut (4 cm), a lime (5 cm), an egg (6 cm), a peach (7 cm), and a grapefruit (10 cm). Also shown is a 10-cm ruler and a 4-inch ruler.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Tumor sizes are often measured in centimeters (cm) or inches. Common food items that can be used to show tumor size in cm include: a pea (1 cm), a peanut (2 cm), a grape (3 cm), a walnut (4 cm), a lime (5 cm or 2 inches), an egg (6 cm), a peach (7 cm), and a grapefruit (10 cm or 4 inches).</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2019-05-15" user="kuhlmanna">Added TumorSizes 1 to 10cm.4.jpg</Comment><Comment>Added TumorSizes 1 to 10cm.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       </ProcessingStatuses></Media>

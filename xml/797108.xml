@@ -1,0 +1,62 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>digestive system anatomy-MyPart </MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Esophagus</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Large intestine (colon)</LabelName><ImageDimensions>
+    <HeightPixels>3075</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-02-22</DateCreated>
+   <SourceFilename>MyPartDigestive1.png</SourceFilename>
+  <Comment audience="Internal" date="2019-04-03" user="kuhlmanna">First draft approved by the MyPart team</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the digestive system; drawing shows the esophagus, stomach, liver, pancreas, small intestine, and large intestine (colon).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the digestive system. The digestive system is made up of organs that are important for digesting food and liquids. These include the esophagus, stomach, liver, pancreas, small intestine, and large intestine (colon). </MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-02-27</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000797110">Sample Illustration: rare tumors</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

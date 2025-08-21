@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Bates Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cumulative Incidence (%)</LabelName><LabelName language="en">2</LabelName><LabelName language="en">4</LabelName><LabelName language="en">6</LabelName><LabelName language="en">8</LabelName><LabelName language="en">10</LabelName><LabelName language="en">12</LabelName><LabelName language="en">14</LabelName><LabelName language="en">16</LabelName><LabelName language="en">18</LabelName><LabelName language="en">20</LabelName><LabelName language="en">22</LabelName><LabelName language="en">Time Since Diagnosis (years)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">A</LabelName><LabelName language="en">Any Cardiac Disease</LabelName><LabelName language="en">None</LabelName><LabelName language="en">0.1 to &lt; 10 Gy</LabelName><LabelName language="en">10 to &lt; 20 Gy</LabelName><LabelName language="en">20 to &lt; 30 Gy</LabelName><LabelName language="en">≥ 30 Gy</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Coronary Artery Disease</LabelName><LabelName language="en">None</LabelName><LabelName language="en">0.1 to &lt; 10 Gy</LabelName><LabelName language="en">10 to &lt; 20 Gy</LabelName><LabelName language="en">20 to &lt; 30 Gy</LabelName><LabelName language="en">≥ 30 Gy</LabelName><LabelName language="en">C</LabelName><LabelName language="en">Heart Failure</LabelName><LabelName language="en">None</LabelName><LabelName language="en">0.1 to &lt; 10 Gy</LabelName><LabelName language="en">10 to &lt; 20 Gy</LabelName><LabelName language="en">20 to &lt; 30 Gy</LabelName><LabelName language="en">≥ 30 Gy</LabelName><LabelName language="en">D</LabelName><LabelName language="en">Any Cardiac Disease</LabelName><LabelName language="en">No RT to heart</LabelName><LabelName language="en">0%*</LabelName><LabelName language="en">0.1% to 29.9%</LabelName><LabelName language="en">30% to 79.9%</LabelName><LabelName language="en">≥ 80%</LabelName><LabelName language="en">E</LabelName><LabelName language="en">Coronary Artery Disease</LabelName><LabelName language="en">No RT to heart</LabelName><LabelName language="en">0%*</LabelName><LabelName language="en">0.1% to 29.9%</LabelName><LabelName language="en">30% to 79.9%</LabelName><LabelName language="en">≥ 80%</LabelName><LabelName language="en">F</LabelName><LabelName language="en">Heart Failure</LabelName><LabelName language="en">No RT to heart</LabelName><LabelName language="en">0%*</LabelName><LabelName language="en">0.1% to 29.9%</LabelName><LabelName language="en">30% to 79.9%</LabelName><LabelName language="en">≥ 80%</LabelName><LabelName language="en">G</LabelName><LabelName language="en">Any Cardiac Disease</LabelName><LabelName language="en">No RT to heart</LabelName><LabelName language="en">0%†</LabelName><LabelName language="en">0.1% to 49.9%</LabelName><LabelName language="en">≥ 50%</LabelName><LabelName language="en">H</LabelName><LabelName language="en">Coronary Artery Disease</LabelName><LabelName language="en">No RT to heart</LabelName><LabelName language="en">0%†</LabelName><LabelName language="en">0.1% to 49.9%</LabelName><LabelName language="en">≥ 50%</LabelName><LabelName language="en">I</LabelName><LabelName language="en">Heart Failure</LabelName><LabelName language="en">No RT to heart</LabelName><LabelName language="en">0%†</LabelName><LabelName language="en">0.1% to 49.9%</LabelName><LabelName language="en">≥ 50%</LabelName><LabelName language="en">J</LabelName><LabelName language="en">Any Cardiac Disease</LabelName><LabelName language="en">None</LabelName><LabelName language="en">&lt; 250 mg/m²</LabelName><LabelName language="en">≥ 250 mg/m²</LabelName><LabelName language="en">K</LabelName><LabelName language="en">Coronary Artery Disease</LabelName><LabelName language="en">None</LabelName><LabelName language="en">&lt; 250 mg/m²</LabelName><LabelName language="en">≥ 250 mg/m²</LabelName><LabelName language="en">L</LabelName><LabelName language="en">None</LabelName><LabelName language="en">&lt; 250 mg/m²</LabelName><LabelName language="en">≥ 250 mg/m²</LabelName><ImageDimensions>
+    <HeightPixels>1236</HeightPixels>
+    <WidthPixels>2073</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Journal of Clinical Oncology</Creator>
+   <SourcePublication>Bates JE, Howell RM, Liu Q, et al: Therapy-Related Cardiac Risk in Childhood Cancer Survivors: An Analysis of the Childhood Cancer Survivor Study. J Clin Oncol , Vol. 37 (Issue 13), 2019: 1090-1101.</SourcePublication><DateCreated>2020-04-01</DateCreated>
+   <SourceFilename>Bates Fig 1 Late Effects 4-1-20 v2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-04-01" user="kuhlmanna">Image approved by Board; copyright permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2020-04-01</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted with permission. © 2019 American Society of Clinical Oncology.  All rights reserved. Bates JE, Howell RM, Liu Q, et al: Therapy-Related Cardiac Risk in Childhood Cancer Survivors:  An Analysis of the Childhood Cancer Survivor Study. J Clin Oncol , Vol. 37 (Issue 13), 2019: 1090-1101.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000797433">Therapy-Related Cardiac Risk in Childhood Cancer Survivors: An Analysis of the Childhood Cancer Survivor Study.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing therapy-related cardiac risk in childhood cancer survivors.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cumulative incidence of therapy-related cardiac risk in childhood cancer survivors, based on (A-C) mean heart dose, (D-F) volume of heart (%) receiving radiotherapy (RT) greater than or equal to 20 Gy, and (G-I) volume of heart (%) receiving RT greater than or equal to 5 Gy when maximum heart dose is less than 20 Gy. (J-L) Cumulative anthracycline dose. (*) 0% maximum radiation dose to the heart = 0.1 to 19.9 Gy. (†) 0% maximum radiation dose to the heart = 0.1 to 4.9 Gy. Reprinted with permission. © 2019 American Society of Clinical Oncology.  All rights reserved. Bates JE, Howell RM, Liu Q, et al: Therapy-Related Cardiac Risk in Childhood Cancer Survivors:  An Analysis of the Childhood Cancer Survivor Study. J Clin Oncol , Vol. 37 (Issue 13), 2019: 1090-1101.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image will not be re-created into Spanish; please translate Content Description and Caption, and add translated labels to Caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000801166">Bates_Figure_Copyright&amp;Permissions_2020-04-01</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery - resection, abdominoperineal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Resección de colon con colostomía</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Extirpación del cáncer y   tejidos circundantes</LabelName><LabelName language="es">Estoma</LabelName><LabelName language="es">Bolsa de colostomía</LabelName><ImageDimensions>
+    <HeightPixels>1381</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000415509">surgery - resection, abdominoperineal </MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment audience="Internal" date="2014-02-19" user="lsaucedo">Title image linked</Comment><Comment>2008-03-27; Spanish file name: AbdominoperResSpanish3.jpg. Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+   <Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039550">anal cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">La ilustración a tres paneles muestra una cirugía de cáncer de ano con colostomía; el primer panel muestra el área del ano con cáncer, el panel del medio muestra la extirpación del cáncer y el tejido circundante y la creación de un estoma, el último panel muestra la colocación de la bolsa de colostomía junto al estoma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Extirpación del colon con colostomía. Se extirpan la parte del colon con cáncer y el tejido sano circundante, se abre un estoma que se adhiere a una bolsa de colostomía.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title image published</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       <Comment audience="Internal" date="2013-03-08" user="lsaucedo">Revised label and sent to Terese</Comment></ProcessingStatus></ProcessingStatuses></Media>

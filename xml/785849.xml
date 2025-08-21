@@ -1,0 +1,103 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, papillary and follicular, stage II (younger than 55 years)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes menores de 55 años</LabelName><LabelName language="es">El cáncer de tiroides se diseminó a otras partes del cuerpo:</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hueso</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000781921">thyroid cancer, papillary and follicular, stage II (younger than 55 years)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PapillaryFollicularThyroidCaStage2Younger55Spanish5.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038803">stage II papillary thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000038806">stage II follicular thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes menores de 55 años. En la imagen se muestran otras partes del cuerpo donde es posible que el cáncer de tiroides se disemine, como los pulmones y los huesos. En el recuadro se muestran las células cancerosas que se diseminan desde la  glándula tiroidea, a través del sistema linfático, hasta otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes menores de 55 años. En la imagen se muestran otras partes del cuerpo donde es posible que el cáncer de tiroides se disemine, como los pulmones y los huesos. En el recuadro se muestran las células cancerosas que se diseminan desde la  glándula tiroidea, a través del sistema linfático, hasta otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes menores de 55 años. El tumor es de cualquier tamaño y es posible que el cáncer se haya diseminado a los tejidos y ganglios linfáticos cercanos. El cáncer se diseminó desde la glándula tiroidea (tiroides) hasta otras partes del cuerpo, como los pulmones y los huesos.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes menores de 55 años. El tumor es de cualquier tamaño y es posible que el cáncer se haya diseminado a los tejidos y ganglios linfáticos cercanos. El cáncer se diseminó desde la glándula tiroidea (tiroides) hasta otras partes del cuerpo, como los pulmones y los huesos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000584552">Tratamiento del cáncer de tiroides en adultos</Summary>
+  
+ <Summary cdr:ref="CDR0000256718">Tratamiento del cáncer de tiroides en adultos</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-24</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed; "glándula tirodea (tiroides)" in caption; "los pulmones y los huesos" está bien aunque en la imagen figure "pulmón" y "hueso" (corresponde a lo que se indica).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Pending 2nd peer-review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2018-07-05" user="lansberryic">Pending translation QC</Comment><Comment audience="Internal" date="2018-07-05" user="lansberryic">Revised labels, caption and cont. Descr. per terminology meeting July 2018 and AJCC updates. Group agreement to use thyroid gland:glándula tiroidea;thyroid:tiroides; also related GTN/GTC.</Comment><Comment>Cleaned old markup</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Caption and content descriptions QC completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Qc for updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised media title, labels, captions and content descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-04-25" user="lansberryic">Added media file</Comment><Comment audience="Internal" date="2017-04-24" user="saucedol">Qcd caption and content description and added HP caption and content description</Comment><Comment audience="Internal" date="2017-04-17" user="lansberryic">Added Spa Caption and Content Descrip. Pending Spa QC.</Comment><Comment audience="Internal" date="2017-04-17" user="lansberryic">2 QC for labels and title change (45 years)</Comment><Comment>Spanish QC for Labels</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

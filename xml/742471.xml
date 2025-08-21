@@ -1,0 +1,71 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>magnetic resonance imaging, abdominal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000428431">magnetic resonance imaging, abdominal</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AbdominalMRISpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-01-18" user="lsaucedo">Added Spn titled image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Imágenes por resonancia magnética (IRM) del abdomen. En la imagen se observa al paciente en una camilla que se desliza hacia la máquina de IRM, que toma imágenes del interior del cuerpo.  La almohadilla en el abdomen del paciente ayuda a que las imágenes sean más claras.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Imágenes por resonancia magnética (IRM) del abdomen.  El paciente se acuesta en una camilla que se desliza hacia la máquina de IRM, que toma imágenes del interior del cuerpo.  La almohadilla en el abdomen del paciente ayuda a que las imágenes sean más claras.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, reviewed caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised image, labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-05-17" user="lansberryic">Translation QC</Comment><Comment>Revised description and caption; see also revisions to related GTC.</Comment>
+       <Comment audience="Internal" date="2019-05-16" user="adlerm2">Image title needs revision to remove "exploración con" (from "scan" changes, 2018).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added Spn titled image</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spanish titled image pending</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000428431">magnetic resonance imaging, abdominal</TranslationOf></Media>

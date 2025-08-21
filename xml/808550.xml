@@ -1,0 +1,92 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>stem cell transplant, autologous-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Se extraen las células madre al paciente</LabelName><LabelName language="es">Máquina de aféresis</LabelName><LabelName language="es">Células madre</LabelName><LabelName language="es">El paciente recibe tratamiento para destruir las células cancerosas</LabelName><LabelName language="es">Quimioterapia</LabelName><LabelName language="es">El paciente recibe células madre</LabelName><LabelName language="es">Células madre</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1530</HeightPixels>
+    <WidthPixels>3045</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000806255">stem cell transplant, autologous</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AutologousTransplantSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Trasplante autógeno de células madre; (Panel 1): en la imagen se observa la extracción de células madre de la sangre de un paciente mediante una máquina de aféresis.  Se extrae sangre de una vena del brazo y esta pasa por una máquina que separa las células madre; la sangre que queda se devuelve por una vena del otro brazo. (Panel 2): en la imagen se muestra cómo un proveedor de atención de la salud administra quimioterapia a un paciente para destruir las células cancerosas. La quimioterapia se administra al paciente mediante infusión a través de un catéter en el pecho. (Panel 3): en la imagen se observa a un paciente que recibe células madre mediante infusión a través de un catéter en el pecho.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Trasplante autógeno de células madre. Paso 1: se extrae sangre de una vena del  brazo del paciente y pasa por una máquina de aféresis que separa las células madre. Luego, la sangre que queda se devuelve por una vena del otro brazo. Paso 2: el paciente recibe quimioterapia para destruir las células cancerosas. El tratamiento contra el cáncer también destruye las células sanas, incluso las células formadoras de la sangre. Paso 3: después de que el paciente termina la quimioterapia o la radioterapia (no se muestra), las células madre se devuelven al paciente para  reemplazar las células formadoras de la sangre que el tratamiento contra el cáncer destruyó. Las células madre ayudan a que la médula ósea se recupere y produzca células sanguíneas sanas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000270733">autologous stem cell transplant</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-23</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-15</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>New image approved</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image.  Caption and content description pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-28</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Lables QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-23</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       <Comment user="bringascasadop2" audience="Internal" date="2022-02-23">Translated Labels Only</Comment></ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000806255">stem cell transplant, autologous</TranslationOf></Media>

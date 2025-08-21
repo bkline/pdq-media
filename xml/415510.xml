@@ -1,0 +1,113 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system, lower, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía del aparato digestivo inferior</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Ano</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000415499">gastrointestinal system, lower, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>LowerGIAnatomy FP IV Spanish1.jpg</SourceFilename><Comment audience="Internal" date="2011-08-03" user="anjamison">Updated to ColonAnatomySpanish4.jpg (image with title).</Comment><Comment>2008-03-27; ColonAnatomySpanish3.jpg. Added new copyright information.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000039550">anal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000038736">small intestine cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions><ContentDescription audience="Patients" language="es">Anatomía del aparato  digestivo (gastrointestinal). En la imagen se observan el esófago, el hígado, el estómago, el colon, el intestino delgado, el recto y el ano.</ContentDescription>
+   <ContentDescription audience="Health_professionals" language="es">Anatomía del aparato  digestivo (gastrointestinal). En la imagen se observan el esófago, el hígado, el estómago, el colon, el intestino delgado, el recto y el ano.</ContentDescription>
+  </ContentDescriptions>
+  <Captions><MediaCaption audience="Patients" language="es">Anatomía del aparato digestivo (gastrointestinal) inferior. Se observan el colon, el recto y el ano. También se muestran otros órganos que forman parte del aparato digestivo.</MediaCaption>
+   <MediaCaption audience="Health_professionals" language="es">Anatomía del aparato digestivo (gastrointestinal) inferior.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-23</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Caption and content revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-14</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-10</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Image Diversity Project</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-12-28" user="lansberryic">Spanish editorial changes to Content Desc. and Caption</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       <Comment audience="Internal" date="2018-12-20" user="lansberryic">Cambio propuesto para conservar simetría con la etiqueta de título y el caption</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-18</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Editorial changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial changes</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to Updated to ColonAnatomySpanish4.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-07-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated new label</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000415499">gastrointestinal system, lower, anatomy</TranslationOf></Media>

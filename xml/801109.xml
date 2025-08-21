@@ -1,0 +1,28 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>stage II HPV-positive oropharyngeal cancer-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>5</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2020-03-02</DateCreated>
+      <SourceFilename>Week_135/799821_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "cáncer de orofaringe positivo para el VPH en estadio II"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000799821">stage II HPV-positive oropharyngeal cancer;cáncer de orofaringe positivo para el VPH en estadio II [es]</Glossary>
+  </ProposedUse>
+</Media>

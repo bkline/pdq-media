@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hematopoietic tree, plasma cell-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Célula madre sanguínea</LabelName><LabelName language="es">Célula madre mieloide</LabelName><LabelName language="es">Mieloblasto</LabelName><LabelName language="es">Glóbulos rojos</LabelName><LabelName language="es">Plaquetas</LabelName><LabelName language="es">Granulocitos</LabelName><LabelName language="es">Eosinófilo</LabelName><LabelName language="es">Basófilo</LabelName><LabelName language="es">Neutrófilo</LabelName><LabelName language="es">Célula madre linfoide</LabelName><LabelName language="es">Linfoblasto</LabelName><LabelName language="es">Linfocito B</LabelName><LabelName language="es">Célula plasmática
+</LabelName><LabelName language="es">Linfocito T</LabelName><LabelName language="es">Linfocito citolítico natural</LabelName><LabelName language="es">Glóbulos blancos
+</LabelName><ImageDimensions>
+    <HeightPixels>2342</HeightPixels>
+    <WidthPixels>3138</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000596562">hematopoietic tree, plasma cell</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Spanish file name: HematoExpandPlasmaSpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000037974">multiple myeloma and other plasma cell neoplasms</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Evolución de una célula sanguínea; el dibujo muestra el proceso por el que pasa una célula madre sanguínea para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco. Una célula madre mieloide se convierte en un glóbulo rojo, una plaqueta, o un mieloblasto el cual luego se convierte en un granulocito (los tipos de granulocitos son eosinófilos, basófilos y neutrófilos). Una célula madre linfoide se convierte en un linfoblasto y luego en un linfocito B, un linfocito T o un linfocito citolítico natural. Un linfocito B se puede convertir en una célula plasmática.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Evolución de una célula sanguínea. Una célula madre sanguínea pasa por varias etapas para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000429622">Neoplasias de células plasmáticas (incluso mieloma múltiple): Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000045793">multiple myeloma</Glossary>
+ <Glossary cdr:ref="CDR0000411384">plasma cell myeloma</Glossary><Glossary cdr:ref="CDR0000411381">Kahler disease</Glossary><Glossary cdr:ref="CDR0000411383">myelomatosis</Glossary><Glossary cdr:ref="CDR0000411386">plasma cell tumor</Glossary><Glossary cdr:ref="CDR0000046230">plasma cell</Glossary><Glossary cdr:ref="CDR0000046231">plasmacytoma</Glossary><Glossary cdr:ref="CDR0000044795">plasmacytic</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-29</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2008-05-29 translation of caption and content description complete; rh. 2008-05-22 translation of labels complete; rh.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-05-20</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

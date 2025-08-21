@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Unusual Cancers Thyroid - Dermody Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Percent of Total Cohort</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">70</LabelName><LabelName language="en">80</LabelName><LabelName language="en">Papillary</LabelName><LabelName language="en">Papillary Follicular</LabelName><LabelName language="en">Follicular</LabelName><LabelName language="en">Medullary</LabelName><LabelName language="en">0-4</LabelName><LabelName language="en">5-9</LabelName><LabelName language="en">10-14</LabelName><LabelName language="en">15-19</LabelName><ImageDimensions>
+    <HeightPixels>1375</HeightPixels>
+    <WidthPixels>1701</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>International Journal of Pediatric Otorhinolaryngology</Creator>
+   <SourcePublication>Dermody S, Walls A, Harley EH, Pediatric thyroid cancer: An update from the SEER database 2007-2012. Int J Pediatr Otorhinolaryngol,  Volume 89, Pages 121-126, 2016.</SourcePublication><DateCreated>2017-08-03</DateCreated>
+   <SourceFilename>Dermody Fig 1 for Unusual Cancers Thyroid 8-3-17.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    
+    
+    <PermissionResponseDate>2017-08-10</PermissionResponseDate><PublisherPermissionText>Incidence of pediatric thyroid carcinoma based on most frequent subtype per 100,000 as a percent of total cohort. Reprinted from International Journal of Pediatric Otorhinolaryngology, Volume 89, Sarah Dermody, Andrew Walls, Earl H. Harley Jr., Pediatric thyroid cancer: An update from the SEER database 2007–2012, Pages 121–126, Copyright (2016), with permission from Elsevier.</PublisherPermissionText><ApprovedUse>
+     <Summary cdr:ref="CDR0000062872">Unusual Cancers of Childhood Treatment</Summary>
+     </ApprovedUse><SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000790579">Pediatric thyroid cancer: An update from the SEER database 2007-2012.</CitationLink><Comment audience="Internal" date="2017-08-23" user="yousufzaimg">HP image approved, copyright permissions received</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040217">papillary thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040218">follicular thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000038808">medullary thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the incidence of pediatric thyroid carcinoma based on most frequent subtype per 100,000 as a percent of total cohort.</ContentDescription><ContentDescription audience="Health_professionals" language="es">El diagrama muestra la incidencia del carcinoma  de tiroides infantil teniendo en cuenta el subtipo más frecuente por  100 000 como porcentaje de la cohorte total.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Incidence of pediatric thyroid carcinoma based on most frequent subtype per 100,000 as a percent of total cohort. Reprinted from International Journal of Pediatric Otorhinolaryngology, Volume 89, Sarah Dermody, Andrew Walls, Earl H. Harley Jr., Pediatric thyroid cancer: An update from the SEER database 2007–2012, Pages 121–126, Copyright (2016), with permission from Elsevier.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Incidencia del carcinoma de tiroides infantil teniendo en cuenta el subtipo más frecuentes por  100 000 como porcentaje de la cohorte total. Reproducción autorizada de International Journal of Pediatric Otorhinolaryngology, Volume 89, Sarah Dermody, Andrew Walls, Earl H. Harley Jr., Pediatric thyroid cancer: An update from the SEER database 2007–2012, Pages 121–126, Copyright (2016), con autorización de Elsevier. Percent of Total Cohort: porcentaje de la cohorte total; papillary: papilar; papillary follicular: papilar folicular; follicular: folicular; medullary: medular.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062872">Unusual Cancers of Childhood Treatment</Summary><Summary cdr:ref="CDR0000256757">Tratamiento de los cánceres poco comunes en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Ready for QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-23</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2017-08-23" user="kuhlmanna">Only labels, content description, and caption to be translated; image will not be re-recreated</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-23</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-23</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-08-03</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000790578">Dermody_Figure_Copyright&amp;Permissions_2017-08-23</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

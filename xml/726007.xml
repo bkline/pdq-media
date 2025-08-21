@@ -1,0 +1,28 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>MET/VEGFR-2 inhibitor GSK1363089-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>9</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2024-07-22</DateCreated>
+      <SourceFilename>Week_2024_28/666675_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "inhibidor GSK1363089 de MET y VEGFR-2"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000666675">MET/VEGFR-2 inhibitor GSK1363089;inhibidor GSK1363089 de MET/VEGFR-2 [es]</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2024-07-29</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2024-07-29</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus></ProcessingStatuses></Media>

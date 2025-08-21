@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, Hodgkin, childhood, stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage I Childhood Hodgkin Lymphoma</LabelName><LabelName language="en">Waldeyer's ring</LabelName><LabelName language="en">Thymus</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Spleen</LabelName><LabelName language="en">In stage IE, cancer has spread to one area outside the lymph system (not shown)</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels>
+    <WidthPixels>2970</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-02-13</DateCreated>
+   
+   
+   <SourceFilename>Stage1ChildHodgkinLymphoma4.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2023-02-13">Diversity updates: changed skin tone to FP II</Comment><Comment audience="Internal" date="2020-05-07" user="yousufzaimg">Updated image to match Adult version, per AJCC 8th edition</Comment><Comment audience="Internal" date="2009-08-06" user="rharrison">Changed title from "...Child..." to "...Childhood...".</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000040228">childhood Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage I childhood Hodgkin lymphoma; drawing shows cancer in one lymph node group above the diaphragm  and in the spleen. Also shown are the Waldeyer’s ring and the thymus. An inset shows a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown inside the lymph node. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I childhood Hodgkin lymphoma. Cancer is found in one or more lymph nodes in a group of lymph nodes or, in rare cases, cancer is found in the Waldeyer’s ring, thymus, or spleen. In stage IE (not shown), cancer has spread to one area outside the lymph system.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000430896">stage I childhood Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2023-02-13">Updated image to Stage1ChildHodgkinLymphoma4.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sending to Dr. Gross.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Caption and content desc adopted from adult Hodgkin lymphoma captions &amp; desc.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment audience="Internal" date="2009-08-06" user="rharrison">Updated to Stage1ChildHodgkinLymphoma2.jpg. </Comment><Comment>Developed from childhood NHL staging illustrations.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,120 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>barium swallow, stomach cancer-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estudio con ingesta de bario</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Bario que recubre el estómago</LabelName>
+  <LabelName language="es">Cáncer</LabelName><ImageDimensions>
+    <HeightPixels>2640</HeightPixels><WidthPixels>2925</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000681324">barium swallow, stomach cancer</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BariumSwallowGastricCancer FP IV Spanish1</SourceFilename>
+  <Comment user="yousufzaimg" date="2023-08-29" audience="Internal">Changed figure to an older male and updated  skin tone to FP IV</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Estudio con ingesta de bario. En el dibujo se observa el tronco y la cabeza de un hombre mayor. Además, se ve bario líquido que pasa por el esófago hasta el estómago. El bario recubre y resalta el interior del esófago y el estómago. También se observa cáncer de estómago.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Estudio con ingesta de bario para el cáncer de estómago. El paciente bebe un líquido que contiene bario (compuesto metálico de color blanco plateado). El bario recubre y resalta el interior del esófago y el estómago. Esto permite que las áreas anormales, como el cáncer de estómago, se vean en radiografías.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, updated title, caption and content description </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>New image still pending. Peer QC of content descr. and caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-18</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Revised image, caption, content description, and media doc title</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>emailed revise title to artist for revision</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-07</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QC´d caption and content description and linked image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels QCd and sent to artist</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translate labels, caption and content description</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000681324">barium swallow, stomach cancer</TranslationOf></Media>

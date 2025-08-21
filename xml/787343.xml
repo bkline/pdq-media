@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin, basal cell and squamous cell, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Skin</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><LabelName language="en">Hair follicle</LabelName><LabelName language="en">Sweat gland</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Nerve</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Oil gland</LabelName><LabelName language="en">Basel cell layer</LabelName><LabelName language="en">Squamous cell layer</LabelName><LabelName language="en">Hair shaft</LabelName><ImageDimensions>
+    <HeightPixels>2523</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-03-01</DateCreated>
+   <SourceFilename>SkinAnatomy9.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="en">Anatomy of the skin; drawing shows the epidermis (including the squamous cell and basal cell layers), dermis, and subcutaneous tissue. Also shown are the hair shafts, hair follicles, oil glands, lymph vessels, nerves, fatty tissue, veins, arteries, sweat glands. </ContentDescription>
+   <ContentDescription audience="Health_professionals" language="en">Anatomy of the skin; drawing shows the epidermis (including the squamous cell and basal cell layers), dermis, and subcutaneous tissue. Also shown are the hair shafts, hair follicles, oil glands, lymph vessels, nerves, fatty tissue, veins, arteries, sweat glands. </ContentDescription>
+  </ContentDescriptions>
+  <Captions><MediaCaption audience="Patients" language="en">Anatomy of the skin showing the epidermis (including the squamous cell and basal cell layers), dermis, subcutaneous tissue, and other parts of the skin.</MediaCaption>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the skin showing the epidermis (including the squamous cell and basal cell layers), dermis, subcutaneous tissue, and other parts of the skin.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062909">Skin Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-03-02</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added SkinAnatomy9.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

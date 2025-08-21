@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cutaneous lichen amyloidosis</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1200</HeightPixels>
+    <WidthPixels>1800</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Nancy Perrier, MD, FACS</Creator>
+   <DateCreated>2014-07-15</DateCreated>
+   <SourceFilename>Cutaneous Lichens amyloidosis MEN 1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-07-15" user="akuhlmann">Photo provided by Nancy Perrier (Board Member); permission not needed</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph of the neck and upper back of an individual whose skin is covered with many small bumps that are brownish-red in color.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cutaneous lichen amyloidosis is a condition in which itchy papules that are brownish-red in color typically appear on the shins, thighs, feet, or neck, as shown here.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000763035">cutaneous lichen amyloidosis</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-07-15</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

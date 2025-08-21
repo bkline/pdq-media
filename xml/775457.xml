@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, abdominal, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ultrasound of the Abdomen</LabelName><LabelName language="en">Sonogram</LabelName><LabelName language="en">Transducer</LabelName><ImageDimensions>
+    <HeightPixels>2441</HeightPixels>
+    <WidthPixels>3090</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-09-04</DateCreated>
+   <SourceFilename>UltrasoundAbdomenChildCaucasian1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Abdominal ultrasound; drawing shows a child lying on an exam table during an abdominal ultrasound procedure. A technician is shown pressing a transducer (a device that makes sound waves that bounce off tissues inside the body) against the skin of the abdomen. A computer screen shows a sonogram (picture).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Abdominal ultrasound. An ultrasound transducer connected to a computer is pressed against the skin of the abdomen. The transducer bounces sound waves off internal organs and tissues to make echoes that form a sonogram (computer picture).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000062857">Childhood Extracranial Germ Cell Tumors Treatment</Summary><Summary cdr:ref="CDR0000258119">Childhood Liver Cancer Treatment</Summary><Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258023">Neuroblastoma Treatment</Summary><Summary cdr:ref="CDR0000062878">Unusual Cancers of Childhood Treatment</Summary><Summary cdr:ref="CDR0000415235">Wilms Tumor and Other Childhood Kidney Tumors Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-09-08</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

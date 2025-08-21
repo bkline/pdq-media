@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IIB (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIB Squamous Cell Carcinoma of the Esophagus (2)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">b) Location of tumor in esophagus is unknown</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">a) Grade of cancer cells is unknown</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Thin muscle layer</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Thick muscle layer</LabelName><LabelName language="en">Connective tissue</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-07-18</DateCreated>
+   <SourceFilename>EsophagusSquamousStage2BPart2.6.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-07-19" user="yousufzaimg">Changed "cancer" to "carcinoma"</Comment><Comment audience="Internal" date="2019-02-07" user="kuhlmanna">Removed the question mark next to the cut out of the esophagus</Comment><Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Added a label for “Esophagus” on the left side of the figure; changed label at top to say “a) Grade of cancer cells is unknown”.</Comment><Comment audience="Internal" date="2019-01-21" user="kuhlmanna">New image per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717460">stage IIB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIB squamous cell cancer of the esophagus (2); drawing shows the esophagus and stomach. An inset shows (a) cancer cells of an unknown grade in the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer of the esophagus wall. Also shown is (b) the location of the tumor in the esophagus is unknown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IIB squamous cell cancer of the esophagus (2); drawing shows the esophagus and stomach. An inset shows (a) cancer cells of an unknown grade in the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer of the esophagus wall. Also shown is (b) the location of the tumor in the esophagus is unknown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIB squamous cell cancer of the esophagus (2). Cancer has spread into the connective tissue layer of the esophagus wall. The grade of the cancer cells is not known, or it is not known where the tumor has formed in the esophagus.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIB squamous cell cancer of the esophagus (2). Cancer has spread into the connective tissue layer of the esophagus wall. The grade of the cancer cells is not known, or it is not known where the tumor has formed in the esophagus.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062741">Esophageal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000720244">stage II esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2019-02-07" user="kuhlmanna">Updated to EsophagusSquamousStage2BPart2.5.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Updated to EsophagusSquamousStage2BPart2.4.jpg</Comment><Comment>Added EsophagusSquamousStage2BPart2.2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-01-09</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

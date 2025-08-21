@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>paranasal sinus anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Senos paranasales</LabelName><LabelName language="es">Seno frontal</LabelName><LabelName language="es">Seno etmoidal</LabelName><LabelName language="es">Cavidad nasal</LabelName><LabelName language="es">Seno maxilar</LabelName><LabelName language="es">Seno esfenoidal</LabelName><LabelName language="es">Faringe (garganta)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2363</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000713969">paranasal sinus anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ParanasalSinusesSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-02-18" user="saucedol">Linked revised image</Comment><Comment audience="Internal" date="2012-04-30" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de los senos paranasales; el dibujo muestra vistas frontales y laterales del seno frontal, el seno etmoidal, el seno maxilar y el seno esfenoidal.  También se muestran la cavidad nasal y la faringe (garganta).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de los senos paranasales (espacios dentro de los huesos que rodean la nariz).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000558933">Cáncer de seno paranasal y de cavidad nasal:  Tratamiento</Summary>
+  
+  <Glossary cdr:ref="CDR0000557104">frontal sinus</Glossary><Glossary cdr:ref="CDR0000557101">ethmoid sinus</Glossary><Glossary cdr:ref="CDR0000557102">maxillary sinus</Glossary><Glossary cdr:ref="CDR0000518299">paranasal sinus</Glossary><Glossary cdr:ref="CDR0000557105">sphenoid sinus</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Changes to labels as per terminology translation changes made in summaries and glossary terms and definitions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Labels reviewed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-26</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

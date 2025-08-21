@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>pelvis, male and female, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Pelvic Anatomy</LabelName><LabelName language="en">Pelvis</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Hip joint</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Seminal vesicles</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Ovaries</LabelName><LabelName language="en">Fallopian tubes</LabelName><ImageDimensions>
+    <HeightPixels>1830</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2025-03-24</DateCreated>
+   <SourceFilename>PelvicAnatomyMaleFemale FP V.5.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2025-03-31" audience="Internal">Adjusted lines</Comment><Comment user="yousufzaimg" date="2024-12-16" audience="Internal">Corrected bladder obstructing the view of the cervix; seminal vesicle lines repositioned slightly to align directly with the vesicles;	Made the ovaries, fallopian tubes, seminal vesicles, and prostate more defined; Made the ovary and fallopian tube labels plural and pointed to the organs on each side of the body</Comment><Comment user="yousufzaimg" date="2024-11-12" audience="Internal">Fadeed some of the skin color near those labels and/or  “highlighted” some of the label lines</Comment><Comment user="yousufzaimg" date="2024-10-28" audience="Internal">Made male pelvis a little more pronounced, faded background a bit as done in the female, 
+
+extended bladder line for male, bladder depicted in the joint illustration as opposed to the second example</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing showing the anatomy of the male pelvis (left panel) and female pelvis (right panel). Both panels show the pelvis, rectum, hip joint, and bladder. Also shown are the seminal vesicles and prostate (left panel), and the vagina, cervix, uterus, ovaries, and fallopian tubes (right panel).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The pelvis is the area of the body below the abdomen that contains the hip bones, bladder, and rectum. In females, it also contains the vagina, cervix, uterus, fallopian tubes, and ovaries. In males, it also contains the prostate and seminal vesicles.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046246">pelvis</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-12-16</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Added caption/content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2025-03-31" audience="Internal">Updated image to PelvicAnatomyMaleFemale FP V.5.jpg</Comment><Comment user="yousufzaimg" date="2024-12-16" audience="Internal">Updated image to PelvicAnatomyMaleFemale FP V.4.jpg</Comment><Comment user="yousufzaimg" date="2024-11-12" audience="Internal">Updated image to PelvicAnatomyMaleFemale FP V.3.jpg</Comment><Comment>Updated image to PelvicAnatomyMaleFemale FP V.2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-09-30</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added PelvicAnatomyMaleFemale FP V.1 .jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

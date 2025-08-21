@@ -1,0 +1,122 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>autosomal dominant inheritance-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Herencia autosómica dominante</LabelName><LabelName language="es">Padre afectado</LabelName><LabelName language="es">Madre no afectada</LabelName><LabelName language="es">Par de cromosomas</LabelName><LabelName language="es">Gen mutado</LabelName><LabelName language="es">Gen normal</LabelName><LabelName language="es">Dos genes normales</LabelName><LabelName language="es">Hija afectada</LabelName><LabelName language="es">Hijo no afectado</LabelName><LabelName language="es">Hija no afectada</LabelName><LabelName language="es">Hijo afectado</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2580</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000793768">autosomal dominant inheritance</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>AutosomalDominantInheritanceSpanish2.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observa la distribución del tipo de herencia autosómica dominante en una familia conformada por padre, madre y cuatro hijos: se muestran un par de cromosomas con un gen mutado y un gen normal en el padre afectado; dos genes normales en la madre no afectada; un gen mutado y un gen normal en una hija afectada y en un hijo afectado; y dos genes normales en una hija no afectada y en un hijo no afectado.</ContentDescription><ContentDescription audience="Health_professionals" language="es">En la imagen se observa la distribución del tipo de herencia autosómica dominante en una familia conformada por padre, madre y cuatro hijos: se muestran un par de cromosomas con un gen mutado y un gen normal en el padre afectado; dos genes normales en la madre no afectada; un gen mutado y un gen normal en una hija afectada y en un hijo afectado; y dos genes normales en una hija no afectada y en un hijo no afectado.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La herencia autosómica dominante es una de las formas en que un rasgo o afección genética pasa de padres a hijos. Una copia de un gen mutado (cambiado) de uno de los padres puede causar la afección genética. Si la madre o el padre tienen un gen mutado, el niño presenta una probabilidad de 50 % de heredar ese gen mutado. Los hombres y las mujeres presentan la misma probabilidad de tener esas mutaciones y las hijas y los hijos tienen  la misma probabilidad de heredarlas.</MediaCaption><MediaCaption audience="Health_professionals" language="es">La herencia autosómica dominante es una de las formas en que un rasgo o afección genética pasa de padres a hijos. Una copia de un gen mutado (cambiado) de uno de los padres puede causar la afección genética. Si la madre o el padre tienen un gen mutado, el niño presenta una probabilidad de 50 % de heredar ese gen mutado. Los hombres y las mujeres presentan la misma probabilidad de tener esas mutaciones y las hijas y los hijos tienen  la misma probabilidad de heredarlas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000793860">autosomal dominant inheritance</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised content and caption description translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, content and cap desc. pending translation QC</Comment><Comment>I change the order in cont. descr.to math exactly what the reader is looking in the same order.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, pending caption and content description QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent Spanish image to artist to include outline for affected father, daughter and son</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised translation of labels, no changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-13</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of captions and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised new image//Caption and content description//See related GTC </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-03</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media document, translation of labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000793768">autosomal dominant inheritance</TranslationOf></Media>

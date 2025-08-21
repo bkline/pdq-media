@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>indium In 111 ibritumomab tiuxetan</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>5</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2011-08-12</DateCreated>
+      <SourceFilename>46194_en_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="en">Pronunciation of dictionary term "indium In 111 ibritumomab tiuxetan"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000046194">indium In 111 ibritumomab tiuxetan</Glossary>
+  </ProposedUse>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Audio re-recording back from VR</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio revision to existing term pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Term sent to VR for re-recording</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

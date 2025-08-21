@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>lymphedema</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lymphedema</LabelName><LabelName language="en">Normal Lymphatic Flow</LabelName><LabelName language="en">Intravascular fluid</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Arteriole</LabelName><LabelName language="en">Capillary</LabelName><LabelName language="en">Lymphatic vessels</LabelName><LabelName language="en">Venule</LabelName><LabelName language="en">Interstitial fluid</LabelName><LabelName language="en">Lymph</LabelName><LabelName language="en">Interstitial space</LabelName><LabelName language="en">Lymphatic vessel</LabelName><LabelName language="en">Fluid, large proteins, and cells enter lymphatic vessel to maintain normal interstitial pressure</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymphatic ducts</LabelName><LabelName language="en">Swollen arm</LabelName><LabelName language="en">Skin</LabelName><LabelName language="en">Obstructed Lymphatic Flow</LabelName><LabelName language="en">Increased interstitial pressure</LabelName><LabelName language="en">Lymphocytes </LabelName><LabelName language="en">Macrophages</LabelName><LabelName language="en">Fat cells</LabelName><LabelName language="en">Fibrosis</LabelName><ImageDimensions>
+    <HeightPixels>2760</HeightPixels><WidthPixels>3180</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-08-21</DateCreated>
+   <SourceFilename>Lymphedema7.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-08-22" audience="Internal">Changed the term “function” to “flow,”  removed the label “Immune defense”, replaced the phrase “…when interstitial pressure is high” with “…to maintain normal interstitial pressure”, and	in the Obstructed Lymphatic Flow inset box, added the text “the increased interstitial pressure” and changed the label “Masses (or clusters) of lymphocytes and macrophages” to “lymphocytes” and “macrophages” to be parallel with the fibrosis and fat cells labels
+</Comment><Comment>Made pull out lines extending from the black box a little more visible from the capillary bed over to the lymphatic vessel pull out; made pull out of the skin down a bit to differentiate it from the normal lymphatic process a bit more and perhaps fade the skin towards the back; made the shaded area of the pull out of the obstructed section extend over to include the skin pull out as well</Comment><Comment user="kuhlmanna" date="2023-07-17" audience="Internal">Removed the detailed pink capillary pull out but kept the Interstitial fluid label; removed the word “excess” in the description of the lymphatic function; removed the swollen lymph node all together, but kept the Masses (or clusters) of lymphocytes and macrophages label and moved it so that it’s within the Abnormal Lymphatic Function box; moved the pull-out box from the lymphedema arm over so that it now shows the lymph vessel itself; updated this box to include the dermal layer of skin above the lymphatic function so that we can also represent the clinical manifestation of the lymphedema; only included the top layer of skin and then the lymphatic details below it; the skin would appear hardened, reddened, and a bit tight; added the suture/incision back in because surgical interruption is a common cause for obstruction leading to lymphedema; and changed the header of the Abnormal Lymphatic Function box to Obstructed lymphatic function</Comment><Comment>Added more white space between normal and abnormal lymphatic function to make them more distinct; in the Abnormal Lymphatic Function box, removed the cut lymphatic vessel (and label) and then rejoined that section of the lymphatic vessel; and changed the label on the figure from "Thoracic duct" to "Lymphatic ducts"</Comment><Comment user="yousufzaimg" date="2023-06-12" audience="Internal">Aged the person in the figure a bit and moved the figure to the left side of the image;  updated the schematic showing normal lymphatic function; added a normal lymph node; and added a pullout showing abnormal lymphatic function</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-05-22">For the swollen arm, removed the line delineating the previous arm and made the delineation on the outer edge of the swollen arm; zoomed in a bit on the figure so that the image stops just above the hips and above the wrist on the arm; moved the Interstitial fluid pullout to the left side of the figure and labeled it “Normal Lymphatic Function”; and  labeled the Lymph node pullout on the right side of the figure “Abnormal Lymphatic Function”</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-05-10">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041348">lymphedema</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Lymphedema; the top part of the drawing shows normal lymphatic flow. An arrow is used to show intravascular fluid flowing through an artery, an arteriole, and a capillary bed, where the fluid leaks out into the interstitial space around the cells and then exits through the venules. Also shown is interstitial fluid, large proteins, and cells entering a lymphatic vessel to maintain normal interstitial pressure. The fluid in the lymphatic vessel is called lymph. Also shown is the inside structure of a lymph node attached to the lymphatic vessel with arrows showing how the lymph moves into and out of the lymph node. The lymphatic ducts in the neck area of a female figure are also shown. The figure’s left arm is red and swollen. There is a pull-out from the swollen arm showing a top layer of red, hardened skin and an inset box showing obstructed lymphatic flow. A damaged lymphatic vessel resulting in increased interstitial pressure and a build-up of large proteins, cellular debris, macrophages, and lymphocytes are shown. Large fat cells and fibrosis are also shown in the inset box. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The lymphatic vessels normally maintain normal interstitial pressures by removing the excess interstitial fluid that results from the imbalance between the intravascular fluid that enters from the arterioles and exits into the venules. Large proteins and cells that cannot exit the interstitial space through the venules leave the interstitial fluid through the lymphatic vessels. As the lymph moves through the lymphatic vessels, it passes through lymph nodes and eventually into one of two lymphatic ducts that empty into a large vein near the heart. In lymphedema, the flow of lymph through the lymphatic vessels is disrupted or blocked. This leads to increased interstitial pressure and an accumulation of interstitial fluid, large proteins, and cellular debris in the interstitial space, which induces inflammation. The inflammation may cause further damage to the lymphatic vessels. The macrophages and lymphocytes release inflammatory markers, which causes fibrosis, fat cell hypertrophy, and the classical sign of swelling. Lymphedema may be caused by cancer or cancer treatment.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000598435">Lymphedema</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" date="2023-09-12" audience="Internal">Reviewed by Larry D. Cripe, M.D., Editor-in-Chief of PDQ Supportive and Palliative Care Editorial Board</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" date="2023-08-22" audience="Internal">Updated image to Lymphedema7.jpg</Comment><Comment user="yousufzaimg" date="2023-07-31" audience="Internal">Updated image to Lymphedema6.jpg</Comment><Comment user="kuhlmanna" date="2023-07-17" audience="Internal">Updated image to Lymphedema5.jpg</Comment><Comment user="yousufzaimg" date="2023-06-14" audience="Internal">Updated image to Lymphedema4.jpg</Comment><Comment user="yousufzaimg" date="2023-06-12" audience="Internal">Updated image to Lymphedema3.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-05-22">Updated image to Lymphedema2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-05-08</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

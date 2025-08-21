@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>HLA complex -Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Complejo del HLA</LabelName><LabelName language="es">Cromosoma 6</LabelName><LabelName language="es">Brazo largo</LabelName><LabelName language="es">Brazo corto</LabelName><LabelName language="es">Región del HLA</LabelName><LabelName language="es">Clase II</LabelName><LabelName language="es">Clase I</LabelName><LabelName language="es">DP</LabelName><LabelName language="es">DQ</LabelName><LabelName language="es">DR</LabelName><LabelName language="es">B</LabelName><LabelName language="es">C</LabelName><LabelName language="es">A</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1524</HeightPixels>
+    <WidthPixels>2977</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000728500">HLA complex </MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>HLA.ComplexSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-04-04" user="lsaucedo">Two labels revised and image replaced</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043329">cancer genetics</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Complejo del antígeno leucocitario humano (HLA); el dibujo muestra los brazos largo y corto del cromosoma 6 con la región de los HLA ampliada, que incluye los alelos  A, B y C de la clase I, y los alelos DP, DQ y DR de la clase II.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Complejo del HLA. Cromosoma humano 6 con la región del antígeno  leucocitario humano (HLA) ampliada. Se muestran los locus específicos en un HLA de los  alelos B, C y A de la clase I, y de los alelos DP, DQ y DR de la clase II.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000728604">Trasplante de células hematopoyéticas en la niñez: Tratamiento</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-03</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised two labels as per revisions in the HP summary</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised translation</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Image linked, caption and content description reviewed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-13</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translations pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

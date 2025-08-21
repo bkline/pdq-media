@@ -1,0 +1,62 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endoscopy, upper</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Upper Endoscopy</LabelName><LabelName language="en">Endoscope</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>2981</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-04-24</DateCreated>
+   
+   
+   <SourceFilename>Upper EndoscopyPatientFP II ProviderFP V.2.jpg</SourceFilename>
+   <Comment user="yousufzaimg" audience="Internal" date="2023-04-25">For patient, changed figure to an older female; for provider, updated skin tone to FP V</Comment><Comment>Added new copyright information and added labels. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039821">gastric cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Upper endoscopy; drawing shows an endoscope (a thin, lighted tube) inserted through the mouth and  down the throat into the esophagus and stomach. An inset shows a patient on a table having an upper endoscopy.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Upper endoscopy.  A thin, lighted tube called an endoscope is inserted through the mouth and down the throat to check for abnormal areas in the esophagus, stomach, and first part of the small intestine.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2023-04-25">Updated image to EndoscopyPatientFP II ProviderFP V.2.jpg</Comment><Comment>Updated to UpperEndoscopy6.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

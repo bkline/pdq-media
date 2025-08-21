@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>cervical sampling-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Muestreo cervical</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Cepillo</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Espéculo</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Recto</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2652</HeightPixels>
+    <WidthPixels>2908</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000810698">cervical sampling</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CervicalSamplingProvider FM IV Spanish1.jpeg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race><Race>Black or African American</Race>
+  <SkinTone>Type II – Fair skin</SkinTone><SkinTone>Type VI – Dark brown or black skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Muestreo cervical. En la imagen se observa una vista lateral anatómica del aparato reproductor femenino. Se observa un espéculo que abre la vagina. Además, se muestra una mano enguantada que introduce un cepillo en la vagina para obtener células del cuello uterino en la base del útero. También se observa el recto. En un recuadro, se observa el cepillo tocando el centro del cuello uterino. En otro recuadro, se muestra a una mujer cubierta con una sábana, acostada en una camilla con las piernas separadas y los pies apoyados en unos soportes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Muestreo cervical. Se introduce un espéculo en la vagina para abrirla. Luego, se introduce un cepillo en la vagina para obtener células del cuello uterino.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption, content desc and new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC of label as well as caption and content description.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-10-07</ProcessingStatusDate>
+   <EnteredBy>saucedol</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810698">cervical sampling</TranslationOf></Media>

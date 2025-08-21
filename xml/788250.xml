@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects -  Armstrong Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">Cumulative Incidence (%)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">Survivors</LabelName><LabelName language="en">Siblings</LabelName><LabelName language="en">Age (years)</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Survivors</LabelName><LabelName language="en">Cumulative Incidence (%)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">1st condition</LabelName><LabelName language="en">2nd condition</LabelName><LabelName language="en">3rd condition</LabelName><LabelName language="en">4th condition</LabelName><LabelName language="en">Age (years)</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">C</LabelName><LabelName language="en">Siblings</LabelName><LabelName language="en">Cumulative Incidence (%)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">1st condition</LabelName><LabelName language="en">2nd condition</LabelName><LabelName language="en">3rd condition</LabelName><LabelName language="en">4th condition</LabelName><LabelName language="en">Age (years)</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">D</LabelName><LabelName language="en">Survivors</LabelName><LabelName language="en">Cumulative Incidence (%)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">Age (years)</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">E</LabelName><LabelName language="en">Siblings</LabelName><LabelName language="en">Cumulative Incidence (%)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">Age (years)</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><ImageDimensions>
+    <HeightPixels>519</HeightPixels>
+    <WidthPixels>514</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>Journal of Clinical Oncology</Creator>
+   
+   <SourcePublication>Armstrong GT, Kawashima T, Leisenring, W, et al.: Aging and Risk of Severe, Disabling, Life-Threatening, and Fatal Events in the Childhood Cancer Survivor Study. Journal of Clinical Oncology, Volume 32 (Issue 12), Pages 1218-1227, Copyright 2014.</SourcePublication><DateCreated>2017-04-10</DateCreated>
+   <SourceFilename>Armstrong Fig 1 for Late Effects April 2017.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-08-21" user="kuhlmanna">Image approved by Board; copyright permissions received</Comment><Comment audience="Internal" date="2017-04-10" user="kuhlmanna">Image added as summary placeholder - need Board approval and permissions</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2017-08-01</PermissionResponseDate>
+    
+    <PublisherPermissionText>Armstrong GT, Kawashima T, Leisenring, W, et al.: Aging and Risk of Severe, Disabling, Life-Threatening, and Fatal Events in the Childhood Cancer Survivor Study. Journal of Clinical Oncology, Volume 32 (Issue 12), Pages 1218-1227. Reprinted with permission. © (2014) American Society of Clinical Oncology. All rights reserved. </PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Denied</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000764020">Aging and risk of severe, disabling, life-threatening, and fatal events in the childhood cancer survivor study.</CitationLink><Comment audience="Internal" date="2017-08-21" user="kuhlmanna">Per SQK, image will not be translated into Spanish; only labels, caption, and content description may be translated. </Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Charts showing the cumulative incidence of chronic health conditions by age among survivors and siblings.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cumulative incidence of chronic health conditions for (A) grades 3 to 5 chronic health conditions, (B) multiple grade 3 to 5 conditions in survivors, (C) multiple grade 3 to 5 conditions in siblings, (D) conditioned based on no previous grade 3 to 5 conditions among survivors by ages 25, 35, or 45, and (E) conditioned based on no previous grade 3 to 5 conditions among siblings by ages 25, 35, or 45. Gregory T. Armstrong, Toana Kawashima, Wendy Leisenring, Kayla Stratton, Marilyn Stovall, Melissa M. Hudson, Charles A. Sklar, Leslie L Robison, Kevin C. Oeffinger: Aging and Risk of Severe, Disabling, Life-Threatening, and Fatal Events in the Childhood Cancer Survivor Study. Journal of Clinical Oncology, Volume 32 (Issue 12), Pages 1218-1227. Reprinted with permission. © (2014) American Society of Clinical Oncology. All rights reserved. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per SQK, image will not be translated into Spanish; only labels, caption, and content description may be translated.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-04-10</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment audience="Internal" date="2017-04-10" user="kuhlmanna">Added Armstrong Fig 1 for Late Effects April 2017.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000790225">Armstrong_Late Effects_CopyrightPermissions2_2017-08-01</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

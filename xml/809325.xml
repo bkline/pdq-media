@@ -1,0 +1,59 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>mastectomy, radical, male</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Radical Mastectomy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Ribs</LabelName><LabelName language="en">Muscle</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Tumor</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-04-10</DateCreated>
+   <SourceFilename>MastectomyRadicalMale1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041338">male breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Radical mastectomy; the drawing on the left shows the removal of the whole breast and the lymph nodes under the arm. The drawing on the right shows a cross-section of the breast, including the fatty tissue and chest wall (ribs  and muscle). A tumor in the breast is also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Radical mastectomy. The whole breast, all of the lymph nodes under the arm, and the chest wall muscles under the breast are removed. For many years, radical mastectomy was the type of breast cancer surgery used most often, but it is rarely used now.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000062969">Male Breast Cancer Treatment;Treatment;Patients</Summary>
+       <Glossary cdr:ref="CDR0000046548">radical mastectomy;mastectomía radical [es]</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added MastectomyRadicalMale1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

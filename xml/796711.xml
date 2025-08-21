@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostate cancer stage IVB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de próstata en estadio IVB</LabelName><LabelName language="es">El cáncer de próstata se diseminó a otras partes del cuerpo:</LabelName><LabelName language="es">Ganglios linfáticos lejanos</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Hueso</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000795021">prostate cancer stage IVB</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ProstateStage4BSpanish.jpg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038786">stage IV prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de próstata en estadio IVB. En la imagen se observan otras partes del cuerpo donde es posible que el cáncer de próstata se haya diseminado, como los ganglios linfáticos lejanos y el hueso. En un recuadro, se muestran células cancerosas que se diseminan desde la próstata, a través de la sangre y el sistema linfático, hasta otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de próstata en estadio IVB. En la imagen se observan otras partes del cuerpo donde es posible que el cáncer de próstata se haya diseminado, como los ganglios linfáticos lejanos y el hueso. En un recuadro, se muestran células cancerosas que se diseminan desde la próstata, a través de la sangre y el sistema linfático, hasta otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de próstata en estadio IVB. El cáncer se diseminó a otras partes del cuerpo, como el hueso o los ganglios linfáticos lejanos.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de próstata en estadio IVB. El cáncer se diseminó a otras partes del cuerpo, como el hueso o los ganglios linfáticos lejanos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256716">Tratamiento del cáncer de próstata</Summary><Summary cdr:ref="CDR0000256810">Tratamiento del cáncer de próstata</Summary>
+  <Glossary cdr:ref="CDR0000045132">stage IV prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image, captions and descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, caption and CD QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment audience="Internal" date="2019-05-07" user="adlerm2">Sp QC2</Comment><Comment audience="Internal" date="2019-05-06" user="lansberryic">Translation QC</Comment><Comment>Sp QC of labels; translated captions and descriptions.</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New Spa Media file and translation of labels only</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000795021">prostate cancer stage IVB</TranslationOf></Media>

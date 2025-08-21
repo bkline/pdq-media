@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Effects of Screening on Prostate Cancer Mortality</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Study or Subgroup</LabelName><LabelName language="en">Belgium</LabelName><LabelName language="en">Finland</LabelName><LabelName language="en">Italy</LabelName><LabelName language="en">Netherlands</LabelName><LabelName language="en">Spain</LabelName><LabelName language="en">Sweden</LabelName><LabelName language="en">Switzerland</LabelName><LabelName language="en">Total (95% Cl)</LabelName><LabelName language="en">Total events</LabelName><LabelName language="en">PSA-based screening</LabelName><LabelName language="en">Events</LabelName><LabelName language="en">18</LabelName><LabelName language="en">170</LabelName><LabelName language="en">26</LabelName><LabelName language="en">85</LabelName><LabelName language="en">2</LabelName><LabelName language="en">38</LabelName><LabelName language="en">16</LabelName><LabelName language="en">355</LabelName><LabelName language="en">Total</LabelName><LabelName language="en">4307</LabelName><LabelName language="en">31970</LabelName><LabelName language="en">7266</LabelName><LabelName language="en">17443</LabelName><LabelName language="en">1056</LabelName><LabelName language="en">5901</LabelName><LabelName language="en">4948</LabelName><LabelName language="en">72891</LabelName><LabelName language="en">Control</LabelName><LabelName language="en">Events</LabelName><LabelName language="en">23</LabelName><LabelName language="en">284</LabelName><LabelName language="en">32</LabelName><LabelName language="en">126</LabelName><LabelName language="en">4</LabelName><LabelName language="en">62</LabelName><LabelName language="en">14</LabelName><LabelName language="en">545</LabelName><LabelName language="en">Total</LabelName><LabelName language="en">4255</LabelName><LabelName language="en">48409</LabelName><LabelName language="en">7251</LabelName><LabelName language="en">17390</LabelName><LabelName language="en">1141</LabelName><LabelName language="en">5951</LabelName><LabelName language="en">4955</LabelName><LabelName language="en">89352</LabelName><LabelName language="en">Risk Ratio</LabelName><LabelName language="en">M-H, Random, 95% Cl</LabelName><LabelName language="en">0.77 [0.42, 1.43]</LabelName><LabelName language="en">0.91 [0.75, 1.10]</LabelName><LabelName language="en">0.81 [0.48, 1.36]</LabelName><LabelName language="en">0.67 [0.51, 0.88]</LabelName><LabelName language="en">0.54 [0.10, 2.94]</LabelName><LabelName language="en">0.62 [0.41, 0.92]</LabelName><LabelName language="en">1.14 [0.56, 2.34]</LabelName><LabelName language="en">0.80 [0.70, 0.92]</LabelName><LabelName language="en">Risk Ratio</LabelName><LabelName language="en">M-H, Random, 95% Cl</LabelName><LabelName language="en">0.01</LabelName><LabelName language="en">0.1</LabelName><LabelName language="en">1</LabelName><LabelName language="en">10</LabelName><LabelName language="en">100</LabelName><LabelName language="en">Favours screening</LabelName><LabelName language="en">Favours control</LabelName><ImageDimensions>
+    <HeightPixels>1050</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>PDQ Screening and Prevention Editorial Board</Creator>
+   <DateCreated>2017-10-06</DateCreated>
+   <SourceFilename>ProstateCancerScreeningGraphEnglish3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-10-16" user="kuhlmanna">Image enhanced by Terese Winslow</Comment><Comment audience="Internal" date="2017-09-20" user="kuhlmanna">Image created by Board members; permissions not required</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing risk of prostate cancer mortality at up to 13 years of follow-up in screened versus control arms.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Risk of prostate cancer mortality in the European Randomized Study of Screening for Prostate Cancer (ERSPC) by study center at up to 13 years of follow-up in screened versus control arms.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062755">Prostate Cancer Screening</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-09-19</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added Prostate CA Screening Image 092017.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

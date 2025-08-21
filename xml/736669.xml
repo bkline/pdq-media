@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>radiation therapy, plaque, of the eye</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Plaque Radiotherapy of the Eye</LabelName><LabelName language="en">Sclera</LabelName><LabelName language="en">Choroid</LabelName><LabelName language="en">Retina</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Radioactive seeds</LabelName><LabelName language="en">Plaque</LabelName><LabelName language="en">Radioactive seed</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-10-26</DateCreated>
+   <SourceFilename>PlaqueRadiotherapy8.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-10-26" user="anjamison">Added "of the Eye" to title label</Comment><Comment audience="Internal" date="2012-10-17" user="akuhlmann">Faded radiation arrows near the pointed ends.</Comment><Comment audience="Internal" date="2012-10-10" user="anjamison">Faded  the arrows of radiation.</Comment><Comment audience="Internal" date="2012-09-14" user="anjamison">Moved tumor and plaque.</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Made radioactive seeds inside plaque look more gold to match the two being inserted into the plaque; made an empty space in the plaque where the two from outside are going to be inserted (where the arrow is pointing).</Comment><Comment audience="Internal" date="2012-08-03" user="anjamison">Deleted box around the inset; deleted “Plaque with radioactive seeds” label; added label “Plaque” below the inset; added  label for “Radioactive seeds”;  changed radiation “waves”.</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Changed the cancer; added radiation waves.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038817">intraocular melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Plaque radiotherapy of the eye; drawing shows a cross-section of the eye. An inset shows a plaque with radioactive seeds; it is placed on the outside of the eye with the seeds aimed at the cancer. Also shown are the sclera, choroid, retina, and optic nerve.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Plaque radiotherapy of the eye.  A type of radiation therapy used to treat eye tumors. Radioactive seeds are placed on one side of a thin piece of metal (usually gold) called a plaque.  The plaque is sewn onto the outside wall of the eye.  The seeds give off radiation which kills the cancer. The plaque is removed at the end of treatment, which usually lasts for several days.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258015">Intraocular (Uveal) Melanoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000258033">Retinoblastoma Treatment</Summary><Glossary cdr:ref="CDR0000476765">plaque radiotherapy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-19</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-21</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-07-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-26</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2012-10-26" user="anjamison">Updated to PlaqueRadiotherapyEye8.jpg</Comment><Comment audience="Internal" date="2012-10-17" user="akuhlmann">Updated to PlaqueRadiotherapy7.jpg</Comment><Comment audience="Internal" date="2012-10-10" user="anjamison">Updated to PlaqueRadiotherapy6.jpg</Comment><Comment audience="Internal" date="2012-09-14" user="anjamison">Updated to PlaqueRadiotherapy5.jpg</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Updated to PlaqueRadiotherapy4.jpg</Comment><Comment audience="Internal" date="2012-08-03" user="anjamison">Updated to PlaqueRadiotherapy3.jpg</Comment><Comment>Updated to PlaqueRadiotherapy2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-07-06</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2012-07-09" user="anjamison">Added new image: PlaqueRadiotherapy1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

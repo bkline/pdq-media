@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>scan, magnetic resonance imaging, breast</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">MRI of the Breast</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-09-21</DateCreated>
+   <SourceFilename>Magnetic Resonance Imaging Breast 3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-09-21">Changed title to "MRI of the Breast" and updated the black and white MRI image in the inset</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-08-29">Created a bit more contrast between the machine opening and the patient’s breast to make it more clear where the outline of the breast is; made the opening of the MRI a bit more clear and included similar buttons and dials as those included in other MRI machines; added more texture to the person's hair; extended the table and bolster out a bit so that the hands are resting on the bolster and table rather than extending out beyond; and rotated the MRI image 180 degrees so that it is in the same plane as the patient </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>Black or African American</Race>
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">MRI of the breast; drawing shows a person lying face down on a narrow, padded table with their arms above their head. The person’s breasts hang down into an opening in the table. The table slides into the MRI machine, which takes detailed pictures of the inside of the breast. An inset shows an MRI image of the insides of both breasts.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">An MRI of the breast is a procedure that uses radio waves, a strong magnet, and a computer to create detailed pictures of the inside of the breast. A contrast dye may be injected into a vein (not shown) to make the breast tissues easier to see on the MRI pictures. An MRI may be used with other breast imaging tests to detect breast cancer or other abnormal changes in the breast. It may also be used to screen for breast cancer in some people who have a high risk of the disease. <Emphasis>Note: The inset shows an MRI image of the insides of both breasts. Credit for inset: The Cancer Imaging Archive (TCIA).</Emphasis></MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment (Adult)</Summary>
+  
+ <Summary cdr:ref="CDR0000257995">Breast Cancer Screening</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" audience="Internal" date="2022-09-25">Updated image to Magnetic Resonance Imaging Breast3.jpg</Comment><Comment>Updated image to Magnetic Resonance Imaging Breast2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-07-21</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added Magnetic Resonance Imaging Breast1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

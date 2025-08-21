@@ -1,0 +1,73 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Childhood Thyroid Cancer - Lebbink ETA Figure 2</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">DTC in children</LabelName><LabelName language="en">Diagnosed pre-operatively in FNB</LabelName><LabelName language="en">Diagnosed post-operatively after hemithyroidectomy</LabelName><LabelName language="en">Total thyroidectomy</LabelName><LabelName language="en">Completion thyroidectomy with/without neck dissection</LabelName><LabelName language="en">Active surveillance in low-risk DTC</LabelName><LabelName language="en">Pre-operative or peri-operative evidence for lymph node metastases</LabelName><LabelName language="en">No evidence for lymph node metastases</LabelName><LabelName language="en">Advanced primary tumor</LabelName><LabelName language="en">Non advanced primary tumor</LabelName><LabelName language="en">Therapeutic central and/or lateral neck dissection BCLND +/- LLND</LabelName><LabelName language="en">Prophylactic BCLND</LabelName><LabelName language="en">No prophylactic CLND or prophylactic ICLND</LabelName><ImageDimensions>
+    <HeightPixels>1120</HeightPixels><WidthPixels>1338</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>European Thyroid Journal</Creator>
+   <SourcePublication>Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A., &amp; van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146.</SourcePublication><DateCreated>2024-08-06</DateCreated>
+   <SourceFilename>Lebbink ETA Figure 2 8-2-24.jpeg</SourceFilename>
+  <Comment user="kuhlmanna" date="2024-08-06" audience="Internal">Image licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Open access - copyright permissions not required </Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038801">thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Flowchart showing the surgical approach for differentiated thyroid carcinoma in children.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Diagrama de flujo que muestra el abordaje quirúrgico del carcinoma de tiroides diferenciado en niños.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Flowchart showing the surgical approach for differentiated thyroid carcinoma (DTC) in children. BCLND, bilateral central lymph node dissection; CLND, central lymph node dissection; FNB, fine needle biopsy; ICLND, ipsilateral central lymph node dissection. ‘Active surveillance’ in low-risk DTC implies ultrasound of the leftover thyroid tissue, including the evaluation of the cervical lymph nodes every 6–12 months by neck palpation and ultrasound. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Credit: Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A., &amp; van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146. Retrieved Aug 2, 2024, from <ExternalRef cdr:xref="https://doi.org/10.1530/ETJ-22-0146">https://doi.org/10.1530/ETJ-22-0146</ExternalRef>.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Diagrama de flujo que muestra el abordaje quirúrgico del carcinoma de tiroides diferenciado (DTC) en niños. BCLND, disección bilateral de los ganglios linfáticos centrales; CLND, disección de los ganglios linfáticos centrales; FNB, biopsia con aguja fina; ICLND, disección de ganglios linfáticos centrales ipsilaterales. La ‘vigilancia activa’ en el DTC de riesgo bajo implica la realización de una ecografía del tejido tiroideo residual, incluso la evaluación de los ganglios linfáticos cervicales cada 6–12 meses mediante palpación del cuello y ecografía. Esta obra se distribuye con una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Crédito: Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A. y van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146. Información obtenida el 2 de agosto de 2024 de <ExternalRef cdr:xref="https://doi.org/10.1530/ETJ-22-0146">https://doi.org/10.1530/ETJ-22-0146</ExternalRef>. DTC in children: carcinoma de tiroides diferenciado en niños; diagnosed pre-operatively in FNB: diagnosticado en el preoperatorio mediante una biopsia con aguja fina (FNB); diagnosed post-operatively after hemithyroidectomy: diagnosticado en el postoperatorio después de una hemitiroidectomía; total thyroidectomy: tiroidectomía total; completion thyroidectomy with/without neck dissection: tiroidectomía completa con disección de cuello o sin esta; active surveillance in low-risk DTC: vigilancia activa en el DTC de riesgo bajo; pre-operative or peri-operative evidence for lymph node metastases: indicios preoperatorios o perioperatorios de metástasis en los ganglios linfáticos; no evidence for lymph node metastases: ausencia de indicios de metástasis en los ganglios  linfáticos; advanced primary tumor: tumor primario avanzado; non advanced primary tumor: tumor primario no avanzado; therapeutic central and/or lateral neck dissection BCLND  ± LLND: disección terapéutica central o lateral del cuello BCLND ± LLND; prophylatctic BCLND: BCLND profiláctica; no prophylactic CLND or prophylactic ICLND: CLND no profiláctica o ICLND profiláctica.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000790382">Childhood Thyroid Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-23</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>translated only caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the caption and content description; a separate Spanish image will not be created</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

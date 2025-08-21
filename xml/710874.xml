@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>breast, female, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de la mama femenina</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Pezón</LabelName><LabelName language="es">Aréola</LabelName><LabelName language="es">Pared torácica</LabelName><LabelName language="es">Costillas</LabelName><LabelName language="es">Músculo</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Lóbulo</LabelName><LabelName language="es">Conductos</LabelName><LabelName language="es">Aréola</LabelName><LabelName language="es">Pezón</LabelName><LabelName language="es">Lobulillos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3450</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000415520">breast, female, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>FemBreastAnatomySpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-09-25" user="lsaucedo">Labels revised, revised image linked</Comment><Comment audience="Internal" date="2011-09-23" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   
+   <ContentDescription audience="Patients" language="es">Dibujo de la anatomía de la mama femenina en el que se muestran los ganglios linfáticos, el pezón, la aréola, la pared torácica, las costillas, el músculo, el tejido graso, el lóbulo, los conductos y los lobulillos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Dibujo de la anatomía de la mama femenina en el que se muestran los ganglios linfáticos, el pezón, la aréola, la pared torácica, las costillas, el músculo, el tejido graso, el lóbulo , los conductos y los lobulillos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+   <MediaCaption audience="Patients" language="es">Anatomía de la mama femenina. Se muestran el pezón y la aréola en la parte externa de la mama. También se muestran los ganglios linfáticos, los lóbulos, los lobulillos, los conductos y otras partes internas de la mama.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía de la mama femenina. Se muestran el pezón y la aréola en la parte externa de la mama. También se muestran los ganglios linfáticos, los lóbulos, los lobulillos, los conductos y otras partes internas de la mama.</MediaCaption></Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-17</ProcessingStatusDate>
+        <EnteredBy>Mvalencia</EnteredBy>
+        <Comment>Caption and content description for patients and HP revised </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, caption and content description Qcd.</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translations pending</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

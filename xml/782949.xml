@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>financial toxicity</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Pre-Illness Health, Assets, Debt, Income</LabelName><LabelName language="en">Illness or Injury</LabelName><LabelName language="en">Treatment Choice</LabelName><LabelName language="en">Medical Insurance</LabelName><LabelName language="en">Medical Costs</LabelName><LabelName language="en">Non-Medical Costs</LabelName><LabelName language="en">Financial Strain, Distress</LabelName><LabelName language="en">Health Outcomes</LabelName><LabelName language="en">Formal Bankruptcy</LabelName><ImageDimensions>
+    <HeightPixels>315</HeightPixels>
+    <WidthPixels>819</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Scott Ramsey, MD, PhD, Fred Hutchison Cancer Research Center</Creator>
+   <DateCreated>2016-08-16</DateCreated>
+   <SourceFilename>Financial Toxicity Flowchart.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-08-16" user="kuhlmanna">New figure approved by PDQ Adult Treatment Editorial Board</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-08-16" user="kuhlmanna">Photo provided by  PDQ Adult Treatment Editorial Board Member Scott Ramsey with unrestricted permission for reuse </Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>to be specified</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Flow chart showing the conceptual framework relating severe illness, treatment choice, and health and financial outcomes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Conceptual framework relating severe illness, treatment choice, and health and financial outcomes. Credit: Scott Ramsey, MD, PhD </MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-08-16</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

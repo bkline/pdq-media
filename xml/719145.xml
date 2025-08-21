@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Cumulative incidence curves of nonsurgical premature menopause</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Not Menopausal</LabelName><LabelName language="en">Age (Years)</LabelName><ImageDimensions>
+    <HeightPixels>1186</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>http://jnci.oxfordjournals.org/content/98/13/890.long</Creator>
+   <DateCreated>2011-12-01</DateCreated>
+   <SourceFilename>Figure 4 for Late Effects-Sklar JNCI 2006.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041394">long-term effects secondary to cancer therapy in children</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph showing cumulative incidence curves of nonsurgical premature menopause in survivors (solid line) compared with siblings (broken line).  The y axis indicates Not Menopausal in 95% confidence intervals. The x axis indicates Age (Years).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 4: Cumulative incidence curves of nonsurgical premature menopause in survivors (solid line) compared with siblings (broken line). Vertical bars indicate 95% confidence intervals. Sklar C A et al. JNCI J Natl Cancer Inst 2006;98:890-896. © The Author 2006. Published by Oxford University Press.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-12-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added with permission from JNCI.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

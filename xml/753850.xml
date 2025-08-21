@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, computed tomography, head and neck </MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">CT Scan of the Head and Neck</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-11-02</DateCreated>
+   <SourceFilename>CTScanHeadNeck4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-10-23" user="kuhlmanna">Added a curved bed and new base to the table; added walls, floor, and ceiling to show that the CT scan is being done in a room</Comment><Comment audience="Internal" date="2013-11-04" user="akuhlmann">Added "of the" to image title</Comment><Comment audience="Internal" date="2013-10-22" user="akuhlmann">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Computed tomography (CT) scan of the head and neck; drawing shows a patient lying on a table that slides through the CT scanner, which takes x-ray pictures of the inside of the head and neck.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Computed tomography (CT) scan of the head and neck. The patient lies on a table that slides through the CT scanner, which takes x-ray pictures of the inside of the head and neck.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000258014">Hypopharyngeal Cancer Treatment</Summary>
+       <Summary cdr:ref="CDR0000258016">Laryngeal Cancer Treatment</Summary><Summary cdr:ref="CDR0000258017">Lip and Oral Cavity Cancer Treatment</Summary><Summary cdr:ref="CDR0000258020">Metastatic Squamous Neck Cancer with Occult Primary Treatment</Summary><Summary cdr:ref="CDR0000062966">Nasopharyngeal Cancer Treatment</Summary><Summary cdr:ref="CDR0000258025">Oropharyngeal Cancer Treatment</Summary><Summary cdr:ref="CDR0000258028">Paranasal Sinus and Nasal Cavity Cancer Treatment</Summary><Summary cdr:ref="CDR0000258034">Salivary Gland Cancer Treatment</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Image and caption to be revised per expert reviewer</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-11-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-02</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2015-11-02" user="kuhlmanna">Updated to CTScanHeadNeck4.jpg</Comment><Comment audience="Internal" date="2015-10-23" user="kuhlmanna">Updated to CTScanHeadNeck3.jpg</Comment><Comment>Updated to CTScanHeadNeck2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-10-21</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added CTScanHeadNeck1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

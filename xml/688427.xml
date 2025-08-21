@@ -1,0 +1,101 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage I</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Blood vessel</LabelName><LabelName language="en">Serosa</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>2100</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2018-04-02</DateCreated>
+   
+   
+   <SourceFilename>ColonCaStageRev1.10.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2010-12-10" user="anjamison">Made the dark lymph node light to match the others; deleted parts of the lymph vessels and blood vessels that touch the tumor; extended cancer into the lumen.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043664">stage I colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage I colorectal cancer; drawing shows a cross-section of the colon/rectum. An inset shows the layers of the colon/rectum wall with cancer in the mucosa and submucosa. Also shown are the muscle layers, serosa, a blood vessel, and lymph nodes.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage I colorectal cancer; drawing shows a cross-section of the colon/rectum. An inset shows the layers of the colon/rectum wall with cancer in the mucosa and submucosa. Also shown are the muscle layers, serosa, a blood vessel, and lymph nodes.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I colorectal cancer. Cancer has formed in the mucosa of the colon/rectum wall and has spread to the submucosa or to the muscle layer of the colon/rectum wall.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage I colorectal cancer. Cancer has formed in the mucosa of the colon/rectum wall and has spread to the submucosa or to the muscle layer of the colon/rectum wall.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062954">Colon Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045890">stage I colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-02</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Updated to ColonCaStageRev1.10.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-29</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added ColonCaStageRev1.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000714209">Illustration Review Sheet: Colorectal Cancer Stage I</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

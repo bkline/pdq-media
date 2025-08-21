@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urinary system, male and female, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Riñón derecho</LabelName><LabelName language="es">Riñón izquierdo</LabelName><LabelName language="es">Túbulos renales</LabelName><LabelName language="es">Orina</LabelName><LabelName language="es">Pelvis renal</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Orina</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Pene</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Útero</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1883</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000765031">urinary system, male and female, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MaleandFemaleUrinaryAnatomySpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-04" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del sistema urinario masculino (panel izquierdo) y el sistema urinario femenino (panel derecho); un dibujo de dos paneles muestra el riñón derecho y el izquierdo, los uréteres, la vejiga con orina, y la uretra. La parte interior del riñón izquierdo muestra la pelvis renal. Un recuadro muestra los túbulos renales y la orina. También se muestra la próstata y el pene (panel izquierdo) y el útero (panel derecho).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del sistema urinario masculino (panel izquierdo) y el sistema urinario femenino (panel derecho); un dibujo de dos paneles muestra el riñón derecho y el izquierdo, los uréteres, la vejiga con orina y la uretra. La parte interior del riñón ezquierdo muestra la pelvis renal. Un recuadro muestra los túbulos renales y la orina. También se muestra la próstata y el pene (panel izquierdo) y el útero (panel derecho).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del sistema urinario masculino (panel izquierdo) y el sistema urinario femenino (panel derecho) que muestra los riñones, uréteres, vejiga y uretra. La orina se elabora en los túbulos renales y se acumula en la pelvis renal de cada riñón. La orina fluye desde los riñones a través de los uréteres a la vejiga. La orina se acumula en la vejiga hasta que el cuerpo la desecha a través de la uretra.</MediaCaption>
+  <MediaCaption audience="Patients" language="es">Anatomía del sistema urinario masculino (panel izquierdo) y el sistema urinario femenino (panel derecho) que muestra los riñones, uréteres, vejiga, y uretra. La orina se elabora en los túbulos renales y se acumula en la pelvis renal de cada riñón. La orina fluye desde los riñones a través de los uréteres a la vejiga. La orina se acumula en la vejiga hasta que el cuerpo la desecha a través de la uretra.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000752320">Exámenes de detección del cáncer de vejiga y otros cánceres uroteliales</Summary><Summary cdr:ref="CDR0000256808">Cáncer de vejiga: Tratamiento</Summary><Summary cdr:ref="CDR0000256714">Cáncer de vejiga</Summary><Summary cdr:ref="CDR0000256795">Cáncer de células renales: Tratamiento</Summary><Summary cdr:ref="CDR0000256834">Cáncer de células de transición de pelvis renal y de uréter: Tratamiento</Summary><Summary cdr:ref="CDR0000482337">Cáncer de uretra: Tratamiento</Summary><Summary cdr:ref="CDR0000256729">Cáncer de uretra: Tratamiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

@@ -1,0 +1,28 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>secondary endpoint-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>3</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2024-12-16</DateCreated>
+      <SourceFilename>Week_2024_47/816913_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "criterio secundario de valoración"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000816913">secondary endpoint;criterio secundario de valoración criterio de evaluación secundario criterio secundario objetivo secundario variable secundaria de valoración [es]</Glossary>
+  </ProposedUse>
+</Media>

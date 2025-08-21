@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>BRAF-RAS pathway-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Receptor del factor de crecimiento</LabelName><LabelName language="es">GRB2</LabelName><LabelName language="es">SOS</LabelName><LabelName language="es">RAS</LabelName><LabelName language="es">CRAF</LabelName><LabelName language="es">ARAF</LabelName><LabelName language="es">BRAF</LabelName><LabelName language="es">MEK</LabelName><LabelName language="es">ERK</LabelName><LabelName language="es">Autorregulación negativa</LabelName><LabelName language="es">Regulación del ciclo celular</LabelName><LabelName language="es">Regulación transcripcional</LabelName>
+  <ImageDimensions>
+    <HeightPixels>845</HeightPixels>
+    <WidthPixels>650</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000761346">BRAF-RAS pathway</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BRAF-RAS pathway R Chakraborty Ph.DSpanish2</SourceFilename>
+  <Comment audience="Internal" date="2014-06-02" user="lsaucedo">Terese fixed the drop shadows of the boxes on the bottom.</Comment><Comment audience="Internal" date="2014-05-30" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Vía de BRAF-RAS.</ContentDescription>
+  </ContentDescriptions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000641243">Histiocitosis de células de Langerhans: Tratamiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-05-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-05-28</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-05-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

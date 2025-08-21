@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin with melanocyte anatomy-HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Blood vessels</LabelName><LabelName language="en">Squamous cells</LabelName><LabelName language="en">Melanin</LabelName><LabelName language="en">Basal cell</LabelName><LabelName language="en">Basement membrane</LabelName><LabelName language="en">Melanocyte</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Sweat gland</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Hair follicle</LabelName><LabelName language="en">Nerve</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Hair shaft</LabelName><LabelName language="en">Oil gland</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>2188</HeightPixels>
+    <WidthPixels>3090</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000579033">skin with melanocyte anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Added label: basement membrane.</Comment>
+  <Comment>Filename: MelanAnatGeneticsSkinCa.jpg. </Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Schematic representation of normal skin; drawing shows normal skin anatomy, including the epidermis, dermis, hair follicles, sweat glands, hair shafts, veins, arteries, fatty tissue, nerves, lymph vessels, oil glands, and subcutaneous tissue. The pullout shows a close-up of the squamous cell and basal cell layers of the epidermis, the basement membrane in between the epidermis and dermis, and the dermis with blood vessels. Melanin is shown in the cells. A melanocyte is shown in the layer of basal cells at the deepest part of the epidermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Schematic representation of normal skin. The relatively avascular epidermis houses basal cell keratinocytes and squamous epithelial keratinocytes, the source cells for BCC and SCC, respectively.  Melanocytes are also present in normal skin and serve as the source cell for melanoma.   The separation between epidermis and dermis occurs at the basement membrane zone, located just inferior to the basal cell keratinocytes.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+       </ProposedUse><DatedAction><ActionDescription>Add Genetics of Skin Cancer summary to Proposed Use section once the summary is published.</ActionDescription><ActionDate>2009-01-01</ActionDate><Comment audience="Internal" date="2009-08-27" user="rharrison">2009-08-27 Action completed; rh.</Comment></DatedAction>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-11-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-11-07</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-10-31</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>Added label to existing image (CDR 579033) to be used in HP Genetics of Skin Cancer summary.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

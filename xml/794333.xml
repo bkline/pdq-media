@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IIIB (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIB Adenocarcinoma of the Esophagus (2)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Airway</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Azygos vein</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Membrane (sac) around the heart</LabelName><ImageDimensions>
+    <HeightPixels>2790</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-12-18</DateCreated>
+   <SourceFilename>AdenocarcinomaEsophagusAsianStage3BPart2.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-12-19" user="kuhlmanna">Changed Trachea label to Airway</Comment><Comment audience="Internal" date="2018-09-18" user="kuhlmanna">Labeled the Aorta on the main figure</Comment><Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Changed face to an Asian face; added a cancer spot on the diaphragm near the letter “a”; in the upper inset, added a cancer spot going from the esophagus to the azygos vein near the top where the label is and added a letter “b” near that; in the upper inset, took off some of the cancer going from the esophagus to the pleura and changed the letter “b” to “c”; and in the lower inset, changed the letter “c” to “d”</Comment><Comment audience="Internal" date="2018-08-21" user="kuhlmanna">Initial draft per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717462">stage IIIB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIB adenocarcinoma of the esophagus (2); drawing shows cancer in the esophagus and in the a) diaphragm, b) azygos vein, c) pleura, and d) sac around the heart. Also shown are the airway, lung, chest wall, rib, and aorta.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IIIB adenocarcinoma of the esophagus (2); drawing shows cancer in the esophagus and in the a) diaphragm, b) azygos vein, c) pleura, and d) sac around the heart. Also shown are the airway, lung, chest wall, rib, and aorta.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIB adenocarcinoma of the esophagus (2). Cancer has spread into the diaphragm, pleura, sac around the heart, azygos vein, or peritoneum (not shown). Cancer may be found in 1 to 2 lymph nodes near the tumor.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIIB adenocarcinoma of the esophagus (2). Cancer has spread into the diaphragm, pleura, sac around the heart, azygos vein, or peritoneum (not shown). Cancer may be found in 1 to 2 lymph nodes near the tumor.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000720254">stage III esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-09-18" user="kuhlmanna">Added AdenocarcinomaEsophagusAsianStage3BPart2.3.jpg</Comment><Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Added AdenocarcinomaEsophagusStage3BPart2.2.jpg</Comment><Comment>Added AdenocarcinomaEsophagusStage3BPart2.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-08-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000795461">Illustration Review Sheet: Adenocarcinoma of the Esophagus Stage IIIB (2)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

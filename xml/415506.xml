@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colostomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Colostomy</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Stoma</LabelName><LabelName language="en">Cancer and nearby tissue removed</LabelName><LabelName language="en">Colostomy bag</LabelName><ImageDimensions>
+    <HeightPixels>1163</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-03-04</DateCreated><SourceFilename>Colostomy7.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment>Added new copyright information and label names. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Three-panel drawing showing colon cancer surgery with colostomy; first panel shows the area of the colon with cancer, middle panel shows the cancer and nearby tissue removed and a stoma created, last panel shows a colostomy bag attached to the stoma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Colon cancer surgery with colostomy.  Part of the colon containing the cancer and nearby healthy tissue is removed, a stoma is created, and a colostomy bag is attached to the stoma.</MediaCaption>
+  </Captions>
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Inserted hyphen in three panel and added 3 "the"s and and "a" in cont descr; dlb.</Comment></MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to Colostomy7.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

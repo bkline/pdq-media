@@ -1,0 +1,139 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bile duct, intrahepatic, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Anatomía de las vías biliares intrahepáticas</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Vías biliares intrahepáticas</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Conducto hepático derecho</LabelName><LabelName language="es">Conductillos biliares</LabelName><LabelName language="es">Conducto biliar</LabelName><LabelName language="es">Conducto hepático izquierdo</LabelName><LabelName language="es">Conducto hepático común</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Conducto cístico</LabelName> <LabelName language="es">Conducto colédoco</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Ampolla de Vater</LabelName><LabelName language="es">Intestino delgado</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels><WidthPixels>3180</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000765897">bile duct, intrahepatic, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Intrahepatic BileDuctAnatomy FP V Spanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2021-12-20</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de las vías biliares intrahepáticas. En  el dibujo se observan el hígado y las vías biliares intrahepáticas resaltadas en color brillante. Se señalan los conductos hepáticos derecho e izquierdo, el conducto hepático común, la vesícula biliar, el conducto cístico, el conducto colédoco, el páncreas, la ampolla de Vater y una porción del intestino delgado. En la parte superior izquierda se observa el tronco de una persona y se señala la ubicación del hígado, la vesícula biliar, el páncreas y el intestino delgado. En un recuadro de la parte inferior izquierda se muestra un corte transversal ampliado de un lóbulo del hígado con una red de conductillos biliares que desembocan en un conducto  biliar.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía de las vías biliares intrahepáticas. En  el dibujo se observan el hígado y las vías biliares intrahepáticas resaltadas en color brillante. Se señalan los conductos hepáticos derecho e izquierdo, el conducto hepático común, la vesícula biliar, el conducto cístico, el conducto colédoco, el páncreas, la ampolla de Vater y una porción del intestino delgado. En la parte superior izquierda se observa el tronco de una persona y se señala la ubicación del hígado, la vesícula biliar, el páncreas y el intestino delgado. En un recuadro de la parte inferior izquierda se muestra un corte transversal ampliado de un lóbulo del hígado con una red de conductillos biliares que desembocan en un conducto  biliar.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de las vías biliares intrahepáticas. Las vías biliares intrahepáticas son una red de tubos pequeños que transportan bilis dentro del hígado. Los conductos más pequeños, llamados conductillos, se unen para formar los conductos biliares hepáticos derecho e izquierdo que salen del hígado. Los dos conductos se unen fuera del hígado y forman el conducto hepático común. El conducto cístico conecta la vesícula biliar con el conducto hepático común para formar el conducto colédoco. El conducto colédoco pasa a través del páncreas hasta llegar al intestino delgado. El hígado produce la bilis que se almacena en la vesícula biliar. Cuando se digieren los alimentos, la vesícula biliar libera la bilis que pasa por el páncreas hacia el intestino delgado, donde ayuda a digerir las grasas.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía de las vías biliares intrahepáticas.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000809673">¿Qué es el cáncer de vías biliares (colangiocarcinoma)?</Summary><Glossary cdr:ref="CDR0000046738">bile duct</Glossary><Glossary cdr:ref="CDR0000527370">bile duct cancer</Glossary>
+ <Glossary cdr:ref="CDR0000044871">intrahepatic bile duct</Glossary><Glossary cdr:ref="CDR0000770184">intrahepatic bile duct cancer</Glossary><Glossary cdr:ref="CDR0000769763">liver and bile duct cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>New label sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-01</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Revised descriptions and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-31</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked//Pending revision of Spa cap and cont.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-25</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC; only labels and proposed use.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-25</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Revised lables</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image, skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Reunión de terminología 10/13/2015 por cambio en los títulos de los sumarios bile duct cancer treatment.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000765897">bile duct, intrahepatic, anatomy</TranslationOf></Media>

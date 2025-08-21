@@ -1,0 +1,67 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>ascites</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ascites</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Large intestine</LabelName><LabelName language="en">Greater omentum</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Ascites</LabelName><LabelName language="en">Peritoneal cavity</LabelName><LabelName language="en">Peritoneum</LabelName><ImageDimensions>
+    <HeightPixels>3360</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2025-04-16</DateCreated>
+   <SourceFilename>Ascites7.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-10-28" audience="Internal">Refined the lower border of the bladder, vagina, and rectum</Comment><Comment user="yousufzaimg" date="2024-10-15" audience="Internal">Added bracket label for the peritoneal cavity on the peritoneal cavity illustration, added a label for the peritoneum, Added a label for the pancreas, dropped down the liver and stomach, labeled the greater omentum</Comment><Comment user="yousufzaimg" date="2024-09-30" audience="Internal">Made the lining of the peritoneum a bit darker and/or thicker, added fluid to the lower part of the peritoneal cavity (in blue) and labeled it Ascites, shaded the rest of the peritoneal cavity light purple, muted the color of the pancreas and removed extra shading, and made the figure heavier</Comment><Comment user="yousufzaimg" date="2024-09-16" audience="Internal">Defined the small and large intestines to make them easier to visualize and removed the empty space in the peritoneal cavity so the organs are closer together; added a label for stomach; moved all of the labels for the organs (except for the peritoneum and peritoneal cavity) to the right side of the figure; added another leader line from the peritoneal cavity pointing to different part of the cavity to make it clear that it includes all of the space inside the peritoneum; and made the background color of the peritoneal cavity more uniform</Comment><Comment user="yousufzaimg" date="2024-08-05" audience="Internal">Made the peritoneum stand out more (used a different color) and made it clear what the peritoneal cavity is; and used the third panel of stage II ovarian cancer, which includes primary peritoneal cancer as the basis for the illustration to show the other organs in the peritoneal cavity that are covered by peritoneum</Comment><Comment user="kuhlmanna" date="2024-06-05" audience="Internal">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  
+  
+ <SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2024-09-30</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows a cross section of the peritoneal cavity with ascites. Also shown are the peritoneum, liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Ascites is as an abnormal buildup of fluid in the abdomen that may cause swelling. It occurs when fluid builds up between the two layers of tissue called the peritoneum. The peritoneum lines the abdominal wall and covers most of the organs in the abdomen.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045601">ascites</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-28</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" date="2024-10-28" audience="Internal">Updated image to Ascites6.jpg</Comment><Comment user="yousufzaimg" date="2024-10-15" audience="Internal">Updated image to Ascites5.jpg</Comment><Comment user="yousufzaimg" date="2024-09-30" audience="Internal">Updated image to Ascites4.jpg</Comment><Comment user="yousufzaimg" date="2024-09-16" audience="Internal">Updated image to AscitesRough3.jpg</Comment><Comment user="yousufzaimg" date="2024-08-05" audience="Internal">Updated image to AscitesRough2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-06-05</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

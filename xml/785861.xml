@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, anaplastic, stage IVC-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Cáncer de tiroides anaplásico en estadio IVC</LabelName><LabelName language="es">El cáncer de tiroides se diseminó a otras partes del cuerpo:</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hueso</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000780096">thyroid cancer, anaplastic, stage IVC</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AnaplasticThyroidCaStage4CSpanish4.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038809">anaplastic thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de tiroides anaplásico en estadio IVC. En la imagen se muestran otras partes del cuerpo donde es posible que el cáncer de tiroides se disemine, como los pulmones y los huesos. En el recuadro se muestran las células cancerosas que se diseminan desde la glándula tiroidea, a través del sistema sanguíneo y linfático, hasta otra parte del cuerpo en donde se formó el cáncer metastásico.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de tiroides anaplásico en estadio IVC. En la imagen se muestran otras partes del cuerpo donde es posible que el cáncer de tiroides se disemine, como los pulmones y los huesos. En el recuadro se muestran las células cancerosas que se diseminan desde la glándula tiroidea, a través del sistema sanguíneo y linfático, hasta otra parte del cuerpo en donde se formó el cáncer metastásico.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de tiroides anaplásico en estadio IVC. El tumor es de cualquier tamaño, y el cáncer se diseminó a otras partes del cuerpo, como los pulmones o los huesos. Es posible que se haya diseminado a los ganglios linfáticos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de tiroides anaplásico en estadio IVC. El tumor es de cualquier tamaño, y el cáncer se diseminó a otras partes del cuerpo, como los pulmones o los huesos. Es posible que se haya diseminado a los ganglios linfáticos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000584552">Tratamiento del cáncer de tiroides en adultos</Summary><Summary cdr:ref="CDR0000256718">Tratamiento del cáncer de tiroides en adultos</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-25</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed; used "glándula tiroidea" in content description for consistency with other EN text; added "glándula tiroidea (tiroides)" to match text on illustration and help patient understanding.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Pending 2nd peer-review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2018-07-05" user="lansberryic">Pending translation QC</Comment><Comment audience="Internal" date="2018-07-05" user="lansberryic">Revised labels, caption and cont. Descr. per terminology meeting July 2018 and AJCC updates; 07/05/2018 IL</Comment><Comment>Cleaned old markup</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of labels, content description and captions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Qc for updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised captions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-04-25" user="lansberryic">Added media file</Comment><Comment audience="Internal" date="2017-04-24" user="saucedol">Caption and content description QCd.</Comment><Comment>Added Spa Caption and Content Descrip. Pending Spa QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-04-14" user="lansberryic">2 QC for labels</Comment><Comment>Spanish QC for Labels</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

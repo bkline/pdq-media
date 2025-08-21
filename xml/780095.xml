@@ -1,0 +1,112 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, medullary, stage IVC</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Stage IVC Medullary Thyroid Cancer</LabelName><LabelName language="en">Thyroid cancer has spread to other parts of the body:</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-03-19</DateCreated><SourceFilename>MedullaryThyroidCaStage4C.6.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Changed the label “Thyroid” to “Thyroid gland”</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Removed the label for Lymph nodes</Comment><Comment audience="Internal" date="2017-09-12" user="yousufzaimg">Image revisions made per AJCC updates (8th edition)</Comment><Comment audience="Internal" date="2016-07-13" user="yousufzaimg">Slightly darkened the thyroid; added a label and line to the lung; pointed shaded area from the inset to the thyroid on main figure</Comment><Comment audience="Internal" date="2016-06-06" user="kuhlmanna">No change from last image</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038801">thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVC medullary thyroid cancer; drawing shows other parts of the body where thyroid cancer may spread, including the lung and liver. An inset shows cancer cells spreading from the thyroid, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVC medullary thyroid cancer; drawing shows other parts of the body where thyroid cancer may spread, including the lung and liver. An inset shows cancer cells spreading from the thyroid, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVC medullary thyroid cancer. The tumor is any size and cancer has spread to other parts of the body, such as the lung or liver. Cancer may have spread to lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVC medullary thyroid cancer. The tumor is any size and cancer has spread to other parts of the body, such as the lung or liver. Cancer may have spread to lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary><Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-19</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Updated image to MedullaryThyroidCaStage4C.6.jpg</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Updated image to MedullaryThyroidCaStage4C.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to MedullaryThyroidCaStage4C.3.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000780090">Sample Illustration: stage IV thyroid cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,71 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>metastasis</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Metastasis</LabelName><LabelName language="en">Cancer spreads to other parts of the body</LabelName><LabelName language="en">Lung metastasis</LabelName><LabelName language="en">Liver metastasis</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Metastatic tumor</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3045</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-01-31</DateCreated>
+   <SourceFilename>Metastasis10.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Removed the purple arrow going up to the brain; removed the label “Brain metastasis”; added another purple arrow from the primary cancer to the liver; and added the label “Liver metastasis”</Comment><Comment audience="Internal" date="2014-11-17" user="akuhlmann">Made the color of the metastatic tumor in the inset lighter.</Comment><Comment audience="Internal" date="2014-11-06" user="myousufzai">Made the yellow stars on the main figure darker so they show up better; added labels “Brain metastasis” and "Lung metastasis" to the main figure.</Comment><Comment audience="Internal" date="2014-10-21" user="myousufzai">Made the primary cancer be colon cancer, with mets to the brain and lungs; used “popcorn” style to show the cancer; in the inset, changed the label to say “Cancer cells in the blood” (instead of circulatory system), and added label "Primary cancer".
+</Comment><Comment audience="Internal" date="2014-10-07" user="myousufzai">Removed "melanoma" wording and part of the lower trunk of the body in main figure; added arrows to the main figure showing cancer spreading from the primary cancer in the skin of the forearm to the brain and lung; added inset showing metastatic tumor and cancer cells spreading to the lymph and circulatory systems.</Comment><Comment audience="Internal" date="2014-09-30" user="myousufzai">Drawing of the whole body with insets showing cancer cells breaking off from the primary tumor (melanoma in the forearm) and going into the blood and lymph system and cancer cells “traveling” from the primary tumor to distant sites (brain).</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041702">metastatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Metastasis; drawing shows primary cancer that has spread from the colon to other parts of the body (the liver and the lung). An inset shows cancer cells spreading from the primary cancer, through the blood and lymph system, to another part of the body where a metastatic tumor has formed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Metastasis. In metastasis, cancer cells break away from where they first formed (primary cancer), travel through the blood or lymph system, and form new tumors (metastatic tumors) in other parts of the body. The metastatic tumor is the same type of cancer as the primary tumor. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046710">metastasis</Glossary>
+ <Glossary cdr:ref="CDR0000044058">metastatic</Glossary><Glossary cdr:ref="CDR0000046283">metastasize</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Updated image to Metastasis10.jpg</Comment><Comment audience="Internal" date="2014-11-17" user="akuhlmann">Updated image to Metastasis9.jpg</Comment><Comment>Updated image to Metastasis8.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-03</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

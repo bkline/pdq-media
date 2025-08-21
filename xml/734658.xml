@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>ALK gene-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>2</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2012-05-24</DateCreated>
+      <SourceFilename>Week_072_Rev1/721252_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "gen ALK"</ContentDescription>
+    </ContentDescriptions><Comment audience="Internal" date="2012-06-01" user="lsaucedo">Corrected term name under Content description</Comment>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000721252">ALK gene</Glossary>
+  </ProposedUse>
+</Media>

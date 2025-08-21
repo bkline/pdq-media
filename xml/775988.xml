@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>chemotherapy, intravenous-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Quimioterapia intravenosa</LabelName><LabelName language="es">Medicamento contra el cáncer</LabelName><ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>2610</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000755978">chemotherapy, intravenous</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>IntravenousChemotherapySpanish1.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-10-07" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Quimioterapia intravenosa (IV); imagen de un medicamento contra el cáncer que se administra al paciente a través de una vena del brazo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Quimioterapia intravenosa (IV). Se administra al paciente un medicamento contra el cáncer a través de una vena del brazo. El medicamento contra el cáncer se desplaza a través de la sangre para destruir células cancerosas en el cuerpo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

@@ -1,0 +1,35 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>screening-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>2</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2013-09-26</DateCreated>
+      <SourceFilename>46171_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "detección sistemática"</ContentDescription>
+    </ContentDescriptions><Comment audience="Internal" date="2013-09-26" user="lsaucedo">Revised term and linked re-recorded audio</Comment>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000046171">screening</Glossary>
+  </ProposedUse>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised content description and replaced audio</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

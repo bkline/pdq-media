@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>metastasis-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Metástasis</LabelName><LabelName language="es">El cáncer se disemina a otras partes del cuerpo</LabelName><LabelName language="es">Metástasis en el pulmón</LabelName><LabelName language="es">Metástasis en el hígado</LabelName><LabelName language="es">Cáncer primario</LabelName><LabelName language="es">Tumor metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3045</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000764135">metastasis</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MetastasisSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-17" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041702">metastatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Metástasis. En la imagen se observa un cáncer primario que se diseminó desde el colon hasta otras partes del cuerpo (hígado y pulmón). En el recuadro, se muestran células cancerosas que se diseminan desde el cáncer primario, a través de la sangre y el sistema linfático, hasta otra parte del cuerpo donde se formó un tumor metastásico.</ContentDescription>
+  </ContentDescriptions>
+  
+ <Captions>
+   <MediaCaption audience="Patients" language="es">Metástasis. En la metástasis, las células cancerosas se separan del sitio donde se formaron originalmente (cáncer primario), viajan a través de la sangre y el sistema linfático, y forman nuevos tumores (tumores metastásicos) en otras partes del cuerpo. El tumor metastásico es el mismo tipo de cáncer que el tumor primario. </MediaCaption>
+  </Captions></MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046710">metastasis</Glossary>
+ <Glossary cdr:ref="CDR0000044058">metastatic</Glossary><Glossary cdr:ref="CDR0000046283">metastasize</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-04</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added new labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000764135">metastasis</TranslationOf></Media>

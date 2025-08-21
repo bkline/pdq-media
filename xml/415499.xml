@@ -1,0 +1,55 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system, lower, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lower Gastrointestinal Anatomy</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Anus</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-01-18</DateCreated><SourceFilename>LowerGIAnatomy FP IV.1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-01-20">Darkened skin tone to a FP IV</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Diversity project: darked skin tone</Comment><Comment>Slight refinement in label placement.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000039550">anal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000038736">small intestine cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, colon, small intestine, rectum, and anus.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, colon, small intestine, rectum, and anus.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the lower gastrointestinal (digestive) system showing  the colon, rectum, and anus. Other organs that make up the digestive system are also shown.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the lower gastrointestinal  (digestive) system.</MediaCaption></Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Diversity project</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" audience="Internal" date="2022-01-20">Updated to LowerGIAnatomy FP IV.1.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Updated to LowerGIAnatomy FP III.1.jpg</Comment><Comment audience="Internal" date="2011-07-22" user="anjamison">Updated to ColonAnatomy7.jpg</Comment><Comment audience="Internal" date="2011-07-07" user="anjamison">Updated to ColonAnatomy6.jpg</Comment></ProcessingStatus></ProcessingStatuses></Media>

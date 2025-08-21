@@ -1,0 +1,74 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>soft tissue sarcoma-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Sarcoma de tejido blando</LabelName><LabelName language="es">Vasos linfáticos</LabelName><LabelName language="es">Vasos sanguíneos</LabelName><LabelName language="es">Grasa</LabelName><LabelName language="es">Músculos, tendones, ligamentos y cartílagos</LabelName><LabelName language="es">Nervios</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2452</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000770049">soft tissue sarcoma</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>SoftTissueSarcomaSpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000640035">soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Sarcoma de tejido blando; la imagen muestra los diferentes tipos de tejidos del cuerpo donde se forman los sarcomas de tejido blando, como los vasos linfáticos, los vasos sanguíneos, la grasa, los tendones, los ligamentos, los cartílagos y los nervios.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El sarcoma de tejido blando se forma en los tejidos blandos del cuerpo, como los músculos, los tendones, los ligamentos, los cartílagos, la grasa, los vasos sanguíneos, los vasos linfáticos, los nervios y los tejidos que rodean las articulaciones.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000520407">Tratamiento del sarcoma de tejido blando</Summary>
+  <Glossary cdr:ref="CDR0000046584">soft tissue sarcoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replace image with new copyright date</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000770049">soft tissue sarcoma</TranslationOf></Media>

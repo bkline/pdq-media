@@ -1,0 +1,105 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage IV-part 3-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio IV (Parte 3)</LabelName><LabelName language="es">Tumor primario</LabelName><LabelName language="es">El cáncer se diseminó a otras partes del cuerpo:</LabelName><LabelName language="es">Base del cráneo </LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hueso y médula ósea</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels><WidthPixels>2700</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000794077">skin cancer, nonmelanoma stage IV (3)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>NonMelanomaRevStage4Part3Spanish.jpeg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio IV (Parte 3). En el dibujo se observa un tumor primario en la cara y otras partes del cuerpo donde es posible que el cáncer de piel no melanoma se disemine, como la base del cráneo, el pulmón, el hueso y la médula ósea. En el recuadro se muestran las células cancerosas que se diseminan a través de la sangre y el sistema linfático a otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio IV (Parte 3). En el dibujo se observa un tumor primario en la cara y otras partes del cuerpo donde es posible que el cáncer de piel no melanoma se disemine, como la base del cráneo, el pulmón, el hueso y la médula ósea. En el recuadro se muestran las células cancerosas que se diseminan a través de la sangre y el sistema linfático a otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio IV (Parte 3). El tumor es de cualquier tamaño y se diseminó a la médula ósea o al hueso, incluso a la base del cráneo, y hay daño en el hueso; o el cáncer se diseminó a otras partes del cuerpo como el pulmón.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio IV (Parte 3). El tumor es de cualquier tamaño y se diseminó a la médula ósea o al hueso, incluso a la base del cráneo, y hay daño en el hueso; o el cáncer se diseminó a otras partes del cuerpo como el pulmón.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256809">Tratamiento del cáncer de piel</Summary>
+  <Glossary cdr:ref="CDR0000368449">stage IV nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-14</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised new image, and caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist for diversity updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised caption to match sum</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2020-05-07" user="lansberryic">Caption and content description ready for peer-review</Comment><Comment>Revised image, translation of caption and content description in progress</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, translation for caption and content description pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels reviewed. Updates to captions and CDs pending. Deleted Image Dimension element.  This element is added when the ES image has been created and approved.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spanish labels ready for 1st QC</Comment><Comment>Keep style in Spanish as other AJCC media (Parte 1) (Parte 2), as in "cáncer de pulmón", "cáncer de páncreas" and "cáncer de esófago".</Comment><Comment>See other Stage IV media files, like skin cancer, melanoma stage IV</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000794077">skin cancer, nonmelanoma stage IV (3)</TranslationOf></Media>

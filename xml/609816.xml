@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName><LabelName language="es">Folículo piloso</LabelName><LabelName language="es">Glándula sudorípara</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Nervio</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Glándula sebácea</LabelName><LabelName language="es">Tallo del pelo</LabelName><ImageDimensions><HeightPixels>2523</HeightPixels>
+    
+    
+   <WidthPixels>3150</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000579036">skin anatomy</MediaID></FromCdrMedia></FromObject><Comment audience="Internal" date="2008-10-03" user="rharrison">Spanish filename: SkinAnatomySpanish.jpg. </Comment>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la piel; el dibujo muestra capas de la epidermis, la dermis y el tejido subcutáneo, como los tallos del pelo y los folículos pilosos, las glándulas sebáceas, los vasos linfáticos, los nervios, el tejido graso, las venas, las arterias y una glándula sudorípara.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la piel. Muestra la epidermis, la dermis y el tejido subcutáneo.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256809">Cáncer de la piel: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000445084">skin cancer   </Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2008-10-03 attached Spanish-labeled image;rh. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2008-10-03" user="rharrison">2008-10-03 added revisions to caption and content desc. </Comment><Comment>2008-09-09; Added cap and cont translations. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-06-24</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2008-07-01 translation of labels complete. </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

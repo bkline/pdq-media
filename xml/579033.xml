@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin with melanocyte anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Blood vessels</LabelName><LabelName language="en">Squamous cells</LabelName><LabelName language="en">Melanin</LabelName><LabelName language="en">Basal cell</LabelName><LabelName language="en">Melanocyte</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Sweat gland</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Hair follicle</LabelName><LabelName language="en">Nerve</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Hair shaft</LabelName><LabelName language="en">Oil gland</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>2188</HeightPixels>
+    <WidthPixels>3090</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-09-24</DateCreated>
+   
+   <SourceFilename>MelanomaAnatomy9.jpg</SourceFilename><Comment audience="Internal" date="2008-03-11" user="rharrison">Spaces between brackets made uniform.</Comment>
+   
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the skin with melanocytes; drawing shows normal skin anatomy, including the epidermis, dermis, hair follicles, sweat glands, hair shafts, veins, arteries, fatty tissue, nerves, lymph vessels, oil glands, and subcutaneous tissue. The pullout shows a close-up of the squamous cell and basal cell layers of the epidermis above the dermis with blood vessels. Melanin is shown in the cells. A melanocyte is shown in the layer of basal cells at the deepest part of the epidermis. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the skin, showing the epidermis, dermis, and subcutaneous tissue. Melanocytes are in the layer of basal cells at the deepest part of the epidermis.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000062802">Skin Cancer Prevention</Summary><Summary cdr:ref="CDR0000258037">Skin Cancer Screening</Summary><Glossary cdr:ref="CDR0000045135">melanoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommends adding "subcutaneous layer" label, and making border between epidermis and dermis more prominent. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-25" user="rharrison">2008-09-25; added subcutaneous tissue to caption. </Comment><Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; added subcutaneous tissue to content desc.</Comment><Comment audience="Internal" date="2008-08-28" user="rharrison">2008-08-28; added sentence re: melanin to content desc. </Comment><Comment>2008-07-21 caption and content desc approved with edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-03-07</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-29" user="dbuchhagen">2008-09-29; updated to MelanomaAnatomy9.jpg; dlb. </Comment><Comment audience="Internal" date="2008-09-22" user="dbuchhagen">2008-09-22; updated to MelanomaAnatomy8.jpg; dlb.</Comment><Comment>2008-07-15; updated to MelanomaAnatomy7.jpg; dlb. </Comment><Comment audience="Internal" date="2008-06-30" user="dbuchhagen">2008-06-30; updated to MelanomaAnatomy6.jpg; dlb. </Comment><Comment>2008-06-16; updated to MelanomaAnatomy5.jpg; dlb.</Comment><Comment>2008-05-30; updated to MelanomaAnatomy4.jpg; dlb. </Comment><Comment audience="Internal" date="2008-04-14" user="rharrison">2008-04-14 updated to MelanomaAnatomy3.jpg; rh. </Comment><Comment>2008-03-11 updated to MelanomaAnatomy2.jpg; rh. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000579035">Sample Illustration: Melanoma Anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, computed tomography, abdominal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+   
+   
+   <DateCreated>2012-11-12</DateCreated><SourceFilename>AbdominalCTScan4.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2012-11-12" user="anjamison">Added title.</Comment><Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Computed tomography (CT) scan of the abdomen; drawing shows the patient on a table that slides through the CT machine, which takes x-ray pictures of the inside of the body.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Computed tomography (CT) scan of the abdomen.  The patient lies on a table that slides through the CT machine, which takes x-ray pictures of the inside of the body.</MediaCaption>
+  </Captions>
+  
+  
+ <Comment audience="Internal" date="2013-01-18" user="lsaucedo">Deleted Spn caption and content description</Comment><Comment>2008-06-17; Made t in tomography and s in scan lower case, added "drawing" and "the" in cont desc and "Computed tomography (CT)" and "the" in cap; dlb.</Comment></MediaContent>
+ 
+</Media>

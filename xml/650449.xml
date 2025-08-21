@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, abdominal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ecografía abdominal</LabelName><LabelName language="es">Transductor</LabelName><LabelName language="es">Ecograma</LabelName><ImageDimensions>
+    <HeightPixels>2441</HeightPixels>
+    <WidthPixels>3090</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000618022">ultrasound, abdominal</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>AbdominalUltrasoundSpanish2.jpg</SourceFilename><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image with titled image</Comment><Comment>Spanish filename: AbdominalUltrasoundSpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   <Topic cdr:ref="CDR0000042817">ultrasound imaging</Topic>
+  </Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Ecografía abdominal; la imagen muestra a una mujer sobre una camilla durante un procedimiento de ecografía abdominal. Se ve a un ecografista de diagnóstico (persona capacitada para realizar procedimientos de ecografía) pasando un transductor (instrumento que produce ondas de sonido que rebotan en los tejidos del interior del cuerpo) sobre la superficie del abdomen de la paciente. Una pantalla de computadora muestra un ecograma (imagen computarizada).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Ecografía abdominal. Se pasa un transductor conectado a una computadora sobre la superficie del abdomen. El transductor ecográfico hace rebotar ondas de sonido en los órganos y tejidos internos para crear ecos que componen un ecograma (imagen computarizada).  </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256774">Cáncer de cuello uterino: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256785">Cáncer epitelial de ovarios: Tratamiento</Summary>
+ <Glossary cdr:ref="CDR0000649619">abdominal ultrasound</Glossary><Glossary cdr:ref="CDR0000044540">transabdominal ultrasound</Glossary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-04-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translation of labels, caption, and content complete. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,39 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External"> 
+  
+ <MediaTitle>endocervical canal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <SoundData>
+   <SoundType>Speech</SoundType>
+   <SoundEncoding>MP3</SoundEncoding>
+   <RunSeconds>2</RunSeconds>
+  </SoundData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Vanessa Richardson, VR Voice</Creator>
+   <DateCreated>2022-11-16</DateCreated>
+   <SourceFilename>Week_2022_30/808302_es.mp3
+</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>pronunciation</Category>
+  </Categories>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pronunciation of dictionary
+         term "conducto endocervical"</ContentDescription>
+  </ContentDescriptions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000808302">endocervical canal</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment user="saucedol" audience="Internal" date="2022-11-16">Created new media doc and linked audio</Comment></ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810313">endocervical canal</TranslationOf></Media>

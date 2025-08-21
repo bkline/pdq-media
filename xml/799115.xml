@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Birt-Hogg-Dube syndrome-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Áreas del cuerpo afectadas por el síndrome de Birt-Hogg-Dubé</LabelName><LabelName language="es">Piel</LabelName><LabelName language="es">Pulmones</LabelName><LabelName language="es">Riñones</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000793770">Birt-Hogg-Dube syndrome</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>Birt-Hogg-DubeSyndromeSpanish.jpg</SourceFilename></DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  <Category>abnormal cells or tissues</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043544">Birt-Hogg-Dubé syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observan las áreas del cuerpo afectadas por el síndrome de Birt-Hogg-Dubé, como la piel, los pulmones y los riñones.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Áreas del cuerpo afectadas por el síndrome de Birt-Hogg-Dubé (BHD). El síndrome de BDH es un trastorno hereditario que aumenta el riesgo de cáncer de riñón, lesiones benignas (no cancerosas) en la piel, colapso pulmonar (pulmón que se desinfla) y quistes pulmonares.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000256547">Birt-Hogg-Dube syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-13</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Suggest using a more specific term for "collapsed lung" with an explanation (see "atelectasia" in DTM); might be a good term to add to  DIC. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised new image//Caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-03</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels</Comment>
+       <Comment audience="Internal" date="2019-09-03" user="adlerm2">Suggest using accent on "Dubé" in Spanish as well.  Marked up proposed change in GTN (spelling only, no audio changes).  </Comment></ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media document, translation of labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000793770">Birt-Hogg-Dube syndrome</TranslationOf></Media>

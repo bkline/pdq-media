@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IVA (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA Squamous Cell Carcinoma of the Esophagus (2)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Airway</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Spine</LabelName><LabelName language="en">Aorta</LabelName><ImageDimensions>
+    <HeightPixels>2670</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-07-18</DateCreated>
+   <SourceFilename>EsophagusSquamousStage4APart2.2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-07-19" user="yousufzaimg">Changed "cancer' to "carcinoma"</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">New image per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000792021">stage IVA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA squamous cell cancer of the esophagus (2); drawing shows cancer in the esophagus, airway, aorta, and spine.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVA squamous cell cancer of the esophagus (2); drawing shows cancer in the esophagus, airway, aorta, and spine.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Stage IVA squamous cell cancer of the esophagus (2). Cancer has spread into nearby structures, such as the airway, aorta, or spine. Cancer may be found in 0 to 6 lymph nodes near the tumor.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">Stage IVA squamous cell cancer of the esophagus (2). Cancer has spread into nearby structures, such as the airway, aorta, or spine. Cancer may be found in 0 to 6 lymph nodes near the tumor.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062741">Esophageal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000720248">stage IV esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Minor change to caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Added EsophagusSquamousStage4APart2.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hyperplasia/dysplasia/cancer progression</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Normal Cells May Become Cancer Cells</LabelName><LabelName language="en">Normal</LabelName><LabelName language="en">Hyperplasia</LabelName><LabelName language="en">Dysplasia</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>1575</HeightPixels>
+    <WidthPixels>2430</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-09-09</DateCreated>
+   <SourceFilename>HyperplasiaDysplasiaCancerProgression3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-09-10" user="akuhlmann">Changed title to Normal Cells May Become Cancer Cells</Comment><Comment audience="Internal" date="2014-06-04" user="myousufzai">Changed title to Normal Cells Becoming Cancer Cells; Removed the arrows pointing to the left between “Normal” and Hyperplasia, and between Hyperplasia and Dysplasia;
+Made all of the boxes have that 3D edge
+</Comment><Comment audience="Internal" date="2014-05-19" user="akuhlmann">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of four panels showing how normal cells may become cancer cells. The first panel shows normal cells. The second and third panels show abnormal cell changes called hyperplasia and dysplasia. The fourth panel shows cancer cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Normal cells may become cancer cells. Before cancer cells form in tissues of the body, the cells go through abnormal changes called hyperplasia and dysplasia. In hyperplasia, there is an  increase in the number of cells in an organ or tissue  that appear normal under a microscope. In dysplasia, the cells look abnormal under a microscope but are not cancer. Hyperplasia and dysplasia may or may not become cancer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000045956">hyperplasia</Glossary><Glossary cdr:ref="CDR0000045675">dysplasia</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Rick Manrow</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-02</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Added HyperplasiaDysplasiaCancerProgression2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-05-19</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment>Added HyperplasiaDysplasiaCancerProgression1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000765052">Illustration Review Sheet: hyperplasia dysplasia</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

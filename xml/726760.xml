@@ -1,0 +1,90 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage IV (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV Nonmelanoma Skin Cancer of the Head and Neck (2)</LabelName><LabelName language="en">Centimeters (cm)</LabelName><LabelName language="en">Inches (in)</LabelName><LabelName language="en">Primary tumor</LabelName><LabelName language="en">Cancer has spread to:</LabelName> <LabelName language="en">a</LabelName><LabelName language="en">One lymph node larger than 6 cm</LabelName><LabelName language="en">b</LabelName><LabelName language="en">One lymph node larger than 3 cm on same side as tumor and cancer has spread through to the outside covering of the lymph node</LabelName><LabelName language="en">c</LabelName><LabelName language="en">One lymph node any size on opposite side as tumor and cancer has spread through  to the outside covering of the lymph node</LabelName><LabelName language="en">d</LabelName><LabelName language="en">More than one lymph node on one or both sides of body and cancer has spread through to the outside covering of the lymph nodes</LabelName><ImageDimensions>
+    <HeightPixels>1905</HeightPixels><WidthPixels>2700</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-11-20</DateCreated>
+   <SourceFilename>NonMelanomaStage4Part2 FP IV.3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Included a line with some shading similar to Stage IV Nonmelanoma Skin Cancer (1), but just not quite as much of a contrast </Comment><Comment user="yousufzaimg" date="2023-11-06" audience="Internal">Turned the figure’s head a bit more so he’s facing more forward, Reduced the fading on the right side of the figure slightly so that it is  a bit less of a contrast between sides, Faded the green circles, which are representing the different-sized lymph nodes, to be slightly to be more translucent or lighter</Comment><Comment user="kuhlmanna" date="2023-10-23" audience="Internal">Diversity updates: Changed figure to an Hispanic male and updated skin tone to FP IV</Comment><Comment audience="Internal" date="2020-02-25" user="kuhlmanna">Narrowed the line/gap on the main figure</Comment><Comment audience="Internal" date="2020-02-19" user="yousufzaimg">Moved the group of 3 small lymph nodes down so that they are aligned with or lower than the two nodes that the letter (d) pointed to, and made a branching line from the (d) line pointing to them; for the (d) bullet, added an “s” onto the word “node” at the end; unbolded all of the text for the (a)-(d) bullets and made text smaller; made the cancer spots inside the lymph nodes yellow (like the other cancer spots); made the green of the lymph nodes a tiny bit lighter; for all of the bullets that say “cancer has spread through to the outside of the lymph nodes(s)”, showed the cancer spot coming out onto the surface a bit</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Added "of the Head and Neck" to the title; cut the figure off right below the shoulders and then expanded it to show the same sets of nodes that are explained by the bullets (a-d) are in the neck rather than the axilla or groin area</Comment><Comment audience="Internal" date="2020-01-08" user="kuhlmanna">Changed wording in label a) from "cancer has spread to the outside of the lymph node" to "cancer has spread through to the outside covering of the lymph node".</Comment><Comment audience="Internal" date="2019-12-16" user="kuhlmanna">Removed the inset box that shows the block of skin, the Base of the skull label, and the Bone and bone marrow label and image; changed the label "Cancer spreads to” to  “Cancer has spread to:” and moved it over so that it is above the lymph node conditions (the new “a”); removed the letters from the main figure, added a line pointing to the lymph nodes from the labels, and added   a little dark spot of cancer inside each of the “nodes”; changed wording for “a” to “One lymph node larger than 6 cm"; changed wording for “b” to “One lymph node…and cancer has spread to the outside of the lymph node”; changed wording for “c” to  “One lymph node any size on opposite side as tumor and cancer has spread to the outside of the lymph node”; changed wording for “d” to “More than…and cancer has spread to the outside of the lymph node”; </Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Added inset for "Cancer spreads to"; removed the insets from lymph node labels  a, b, c, and d and removed the "OR"s between them; changed main figure to a full body and added the letters a, b, c, and d to the main figure to correspond to the lymph node labels; added "Base of skull bone" and "Bone and bone marrow" labels to main figure; and added a Centimeters/Inches ruler</Comment><Comment audience="Internal" date="2018-07-24" user="kuhlmanna">Revised image per AJCC 8th edition updates</Comment><Comment audience="Internal" date="2016-05-15" user="kuhlmanna">Removed the bone from main figure</Comment><Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Updated metastasis inset</Comment><Comment audience="Internal" date="2012-05-17" user="anjamison">Faded liver and made lungs more distinct under the ribs.</Comment><Comment audience="Internal" date="2012-05-17" user="anjamison">Replaced inset of full body with inset showing spread through lymph vessels and blood.</Comment><Comment audience="Internal" date="2012-04-03" user="anjamison">Changed title to initial caps; in the inset, added label for Lung and faded intestines, liver, brain, and bones.</Comment><Comment audience="Internal" date="2012-03-15" user="anjamison">Removed “Side of skull”, “Eye socket”, and “Jaw” labels; removed letters identifying boxes and area of the body; removed arrows in inset.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone><Ethnicity>Hispanic/Latino</Ethnicity><DateLastReviewed>2023-11-27</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV nonmelanoma skin cancer of the head and neck (2); drawing shows a primary skin tumor on the face and cancer that has spread to: (a) one lymph node that is larger than 6 centimeters; (b) one lymph node on the same side of the body as the tumor, the affected node is larger than 3 centimeters, and cancer has spread through to the outside covering of the lymph node; (c) one lymph node on the opposite side of the body as the tumor, the affected node is any size, and cancer has spread through to the outside covering of the lymph node; and (d) more than one lymph node on one or both sides of the body and cancer has spread through to the outside covering of the lymph nodes. Also shown is a 10-centimeter ruler  and a 4-inch ruler.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IV nonmelanoma skin cancer of the head and neck (2); drawing shows a primary skin tumor on the face and cancer that has spread to: (a) one lymph node that is larger than 6 centimeters; (b) one lymph node on the same side of the body as the tumor, the affected node is larger than 3 centimeters, and cancer has spread through to the outside covering of the lymph node; (c) one lymph node on the opposite side of the body as the tumor, the affected node is any size, and cancer has spread through to the outside covering of the lymph node; and (d) more than one lymph node on one or both sides of the body and cancer has spread through to the outside covering of the lymph nodes. Also shown is a 10-centimeter ruler  and a 4-inch ruler.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV nonmelanoma skin cancer of the head and neck (2). The tumor is any size and cancer has spread to: (a) one lymph node that is larger than 6 centimeters and cancer has not spread through to the outside covering of the lymph node; or (b) one lymph node on the same side of the body as the tumor, the affected node is larger than 3 centimeters, and cancer has spread through to the outside covering of the lymph node; or (c) one lymph node on the opposite side of the body as the tumor, the affected node is any size, and cancer has spread through to the outside covering of the lymph node;  or (d) more than one lymph node on one or both sides of the body and cancer has spread through to the outside covering of the lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IV nonmelanoma skin cancer of the head and neck (2). The tumor is any size and cancer has spread to: (a) one lymph node that is larger than 6 centimeters and cancer has not spread through to the outside covering of the lymph node; or (b) one lymph node on the same side of the body as the tumor, the affected node is larger than 3 centimeters, and cancer has spread through to the outside covering of the lymph node; or (c) one lymph node on the opposite side of the body as the tumor, the affected node is any size, and cancer has spread through to the outside covering of the lymph node;  or (d) more than one lymph node on one or both sides of the body and cancer has spread through to the outside covering of the lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000368449">stage IV nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Updated image to NonMelanomaStage4Part2 FP IV.3.jpg</Comment><Comment>Updated image to NonMelanomaStage4Part2 FP IV.2.jpg</Comment><Comment user="kuhlmanna" date="2023-10-23" audience="Internal">Updated image to NonMelanomaStage4Part2 FP IV.1.jpg </Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Updated image to NonMelanomaRevStage4Part2.14.jpg</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Updated image to NonMelanomaRevStage4Part2.10.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changes to image recommended per J. Jeter, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-02-17</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added draft illustration: NonmelanomaRevStage4Part2.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000738606">Illustration Review Sheet: Stage IV nonmelanoma skin cancer (2)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

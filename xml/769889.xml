@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>extracranial germ cell tumor-CTHP image</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Female</LabelName><LabelName language="en">Male</LabelName><LabelName language="en">Sacrum</LabelName><LabelName language="en">Coccyx</LabelName><LabelName language="en">Ovaries</LabelName><LabelName language="en">Testicles</LabelName><LabelName language="en">Mediastinum (blue)</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Retroperitoneum (red)</LabelName><ImageDimensions>
+    <HeightPixels>2520</HeightPixels>
+    <WidthPixels>3120</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-03-19</DateCreated>
+   <SourceFilename>ExtracranialGermCellTumorNoTitle4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-19" user="akuhlmann">Faded out the spine in the cross-section figure on the right</Comment><Comment audience="Internal" date="2015-03-18" user="akuhlmann">Added a female figure to show the ovaries; put the common labels (Sacrum and Coccyx) between the male and female figures with lines pointing to both; added the mediastinum and heart (in blue), the peritoneum (in purple) and the retroperitoneum (in red) on the male figure and side figure.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Extracranial germ cell tumor; drawing shows parts of the body where extracranial germ cell tumors may form, including the mediastinum (the area between the lungs, including the heart), retroperitoneum (the area behind the peritoneum), sacrum, coccyx, testicles (in males), and ovaries (in females).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Extracranial germ cell tumors form in parts of the body other than the brain.  This includes the testicles, ovaries, chest, abdomen, lower part of the spine, and tailbone.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-18</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-18</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-03-09</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added ExtracranialGermCellTumor1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>chemotherapy, intrathecal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Reservorio de Ommaya</LabelName><LabelName language="es">Líquido cefalorraquídeo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_3"><MediaID cdr:ref="CDR0000539773">chemotherapy, intrathecal</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Spanish file name: IntrathecalChemoSpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Quimioterapia intratecal; la imagen muestra el líquido cefalorraquídeo (LCR) en el cerebro y la columna vertebral, y un reservorio (depósito) de Ommaya (un aparato en forma de cúpula que se ubica bajo el cuero cabelludo mediante una cirugía; el mismo contiene los medicamentos que circularán a tráves de un tubo delgado hacia el cerebro). La sección superior muestra una jeringuilla con la que se administran medicamentos anticancerosos en el reservorio de Ommaya. La sección inferior muestra una jeringuilla con la que se administran medicamentos anticancerosos directamente en el líquido cefalorraquídeo en la parte inferior de la columna vertebral.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Quimioterapia intratecal. Los medicamentos anticancerosos se inyectan en el espacio intratecal, el cual contienen el líquido cefalorraquídeo (LCR, se muestra en color azul).  Existen dos formas de hacer esto.  Una de las formas, la cual se muestra en la parte superior de la imagen, consiste en inyectar los medicamentos dentro del reservorio de Ommaya  (un aparato en forma de cúpula que se ubica bajo el cuero cabelludo mediante una cirugía; el mismo contiene los medicamentos que circularán a través de un tubo pequeño hacia el cerebro).  La otra forma, la cual se muestra en la parte inferior de la imagen, consiste en inyectar los medicamentos directamente en el LCR en la parte inferior de la columna vertebral, después que se adormece un área pequeña en la parte inferior de la espalda. </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256789">Leucemia linfoblástica aguda en adultos: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256790">Leucemia mieloide aguda en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000420913">Linfoma relacionado con el sida: Tratamiento</Summary><Summary cdr:ref="CDR0000256765">Leucemia linfoblástica aguda infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000256797">Leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles: Tratamiento</Summary><Summary cdr:ref="CDR0000256783">Linfoma no Hodgkin infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000426390">Linfoma primario del sistema nervioso central: Tratamiento</Summary><Glossary cdr:ref="CDR0000046681">intrathecal chemotherapy</Glossary>
+ <Glossary cdr:ref="CDR0000045740">intrathecal</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-02-06</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2008-02-06" user="dbuchhagen">2008-02-06; Artist uploaded Spanish labeled image. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-12-10</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment audience="Internal" date="2008-02-19" user="rharrison">2008-02-19 translation of caption and content description complete. </Comment><Comment>2007-12-13 translation of labels complete; rh.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

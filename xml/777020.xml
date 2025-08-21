@@ -1,0 +1,107 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>immune checkpoint inhibitor (CTLA-4)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">La unión de CTLA-4 con B7 impide que la célula T se active </LabelName><LabelName language="es">Célula presentadora de antígeno</LabelName><LabelName language="es">B7-1/B7-2</LabelName><LabelName language="es">CTLA-4</LabelName><LabelName language="es">CD28</LabelName><LabelName language="es">MHC</LabelName><LabelName language="es">Antígeno</LabelName><LabelName language="es">TCR</LabelName><LabelName language="es">Célula T inactiva</LabelName><LabelName language="es">Célula tumoral</LabelName><LabelName language="es">El bloqueo de  CTLA-4  permite que la célula T destruya la célula tumoral</LabelName><LabelName language="es">Anticuerpo anti-CTLA-4</LabelName><LabelName language="es">CTLA-4</LabelName><LabelName language="es">Célula T activa</LabelName>
+  <LabelName language="es">Muerte de la célula tumoral</LabelName><ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>3120</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000776560">immune checkpoint inhibitor (CTLA-4)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ImmuneCheckPointInhibitorCTL-4ASpanish4.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-12-11" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Inhibidor de puntos de control inmunitario. En el panel izquierdo, se observa la unión del receptor de la célula T (TCR) con el antígeno y las proteínas del complejo principal de histocompatibilidad (MHC) en la célula presentadora de antígeno, y la unión de CD28 en la célula T con B7-1/B7-2 en la célula presentadora de antígeno. También se muestra la unión de B7-1/B7-2 con CTLA-4 en la célula T, que mantiene inactivas a las células T. En el panel derecho, se observa un inhibidor de puntos de control (anticuerpo anti-CTLA) que impide la unión de B7-1/B7-2 con CTLA-4, lo que permite que las células T se activen y destruyan las células tumorales.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Inhibidor de puntos de control inmunitario. Las proteínas de puntos de control, como B7-1/B7-2 en  las células presentadoras de antígeno y CTLA-4 en las células T, ayudan a mantener bajo control las reacciones inmunitarias. Cuando el receptor de las células T (TCR) se une al antígeno y a las proteínas del complejo principal de histocompatibilidad (MHC) en la célula presentadora de antígeno y  CD28 se une a B7-1/B7-2 en la célula presentadora de antígeno, es posible que se active la célula  T. Sin embargo, la unión de  B7-1/B7-2 con CTLA-4 mantiene las células T inactivas de manera que no pueden destruir las células tumorales del cuerpo (panel izquierdo). El bloqueo de la unión de  B7-1/B7-2 con CTLA-4 con un inhibidor de puntos de control (anticuerpo anti-CTLA-4) permite que la célula T se active y destruya las células tumorales (panel derecho).</MediaCaption>
+  </Captions><Comment audience="Internal" date="2016-06-17" user="lansberryic">Son proteínas y también son antígenos, pero los nombres son sustantivos comunes, así que llevan artículo cuando lo necesiten. Como la frase empieza explicando que son proteínas, entonces sugiero usar "la". También estaba muy diferente del original.</Comment>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000772606">immune checkpoint inhibitor</Glossary>
+ <Glossary cdr:ref="CDR0000777030">CTLA-4</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>2019-05-29</EnteredBy>
+        <Comment>Reviewed image and caption and description; eliminated APC (not on image) to reduce the number of acronyms.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Suggest using "complejo principal de histocompatilibilidad" and "MHC" given the widespread use of the acronym in Spanish. Currently not in the dictionary. See Cosnautas and DTM.</Comment>
+       <Comment audience="Internal" date="2019-05-13" user="adlerm2">Acronyms switched to EN per team consultation. Still, too many acronyms on images and captions make it difficult to follow in Spanish.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-06-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised label sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000776560">immune checkpoint inhibitor (CTLA-4)</TranslationOf></Media>

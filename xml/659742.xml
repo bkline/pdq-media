@@ -1,0 +1,126 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bile duct, extrahepatic, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Extrahepatic Bile Duct Anatomy</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Bile ducts</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Right hepatic duct</LabelName><LabelName language="en">Left hepatic duct</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Cystic duct</LabelName><LabelName language="en">Common hepatic duct</LabelName><LabelName language="en">Perihilar region</LabelName><LabelName language="en">Common bile duct</LabelName><LabelName language="en">Distal region</LabelName><LabelName language="en">Extrahepatic bile ducts</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Ampulla of Vater</LabelName><LabelName language="en">Small intestine</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels><WidthPixels>3210</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-07-31</DateCreated>
+   <SourceFilename>ExtrahepaticBileDuctAnatomyFP III.7.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2023-07-31" audience="Internal">Added a label for the ampulla of Vater</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-08-01">Removed dotted line at top of liver</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Removed the "Intrahepatic" label, changed the label "Extrahepatic" to "Extrahepatic bile ducts", 
+unbolded the "Perihilar" and "Distal extrahepatic" labels and changed the wording to “Perihilar region” and “Distal region”, and bolded the "common hepatic duct" and "common bile duct" labels</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-06-27">Added arrows and dotted lines around the perihilar and distal regions to distinguish them from each other and updated the labels </Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Diversity project: slightly darkened skin tone in image</Comment><Comment audience="Internal" date="2015-03-30" user="akuhlmann">On the figure of the body, removed the labels for Small Intestine and Pancreas and made the liver, bile ducts, and gallbladder a little bit darker; and on the main image of the liver, moved the Liver label to the left so that it is in the top/center of the liver.  </Comment><Comment audience="Internal" date="2015-03-23" user="akuhlmann">Added title "Extrahepatic Bile Duct Anatomy"; changed label "perihilar" to "hilum region";  added "region" to distal label; moved the label for Liver to the upper right part of the liver instead of the lower left; added the outer bracket for Extrahepatic bile duct so that it goes right up to where the ducts enter the liver at the top, and includes the place where it branches; and moved the label for Pancreas towards the upper right part of the pancreas.</Comment><Comment audience="Internal" date="2012-09-14" user="anjamison">Moved label for Pancreas.</Comment><Comment audience="Internal" date="2012-08-31" user="anjamison">Deleted Pancreatic duct label; moved label for Common bile duct (distal) to middle of bracket; extended bracket for Extrahepatic bile duct.</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Added labels for perihilar and distal. </Comment><Comment audience="Internal" date="2009-11-16" user="dbuchhagen">Labels resized to match Spanish image.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2021-12-20</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038752">extrahepatic bile duct cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the extrahepatic bile ducts; drawing shows the extrahepatic bile ducts, including the common hepatic duct (perihilar region) and the   common bile duct (distal region). Also shown are the liver, right and left hepatic ducts, gallbladder, cystic duct, pancreas, ampulla of Vater, and small intestine. </ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Anatomy of the extrahepatic bile ducts; drawing shows the extrahepatic bile ducts, including the common hepatic duct (perihilar region) and the   common bile duct (distal region). Also shown are the liver, right and left hepatic ducts, gallbladder, cystic duct, pancreas, ampulla of Vater, and small intestine.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the extrahepatic bile ducts. Extrahepatic bile ducts are small tubes that carry bile from the liver and gallbladder to the small intestine.  They are made up of the common hepatic duct (perihilar region) and the common bile duct (distal region). Bile is made in the liver and flows through the common hepatic duct and the cystic duct to the gallbladder, where it is stored. When food is being digested,  bile is released from the gallbladder and flows through the common bile duct, pancreas, and ampulla of Vater into the small intestine.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the extrahepatic bile ducts.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000809666">What Is Bile Duct Cancer (Cholangiocarcinoma)?</Summary>
+  
+ <Summary cdr:ref="CDR0000062905">Bile Duct Cancer (Cholangiocarcinoma) Treatment</Summary><Glossary cdr:ref="CDR0000430860">extrahepatic bile duct</Glossary><Glossary cdr:ref="CDR0000523459">extrahepatic bile duct cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-07-31" audience="Internal">ExtrahepaticBileDuctAnatomyFP III.7.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-08-01">Updated to ExtrahepaticBileDuctAnatomyFP III.6.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Updated to ExtrahepaticBileDuctAnatomyFP III.5.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-06-27">Updated to ExtrahepaticBileDuctAnatomyFP III.4.jpg</Comment><Comment>Updated to ExtrahepaticBileDuctAnatomyFP III.2.jpg </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-14</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-06</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-05</ProcessingStatusDate>
+        <EnteredBy>2010-04-06</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-12</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-01</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-16</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000774880">Illustration Review Sheet: bile duct anatomy, extrahepatic and intrahepatic</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000658890">Sample illustration: Bileductanatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

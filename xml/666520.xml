@@ -1,0 +1,108 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, sentinel lymph node, breast (3-panel) - Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Biopsia de ganglio linfático centinela</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">Sustancia radiactiva o tinte</LabelName><LabelName language="es">Sonda</LabelName><LabelName language="es">Ganglios centinela</LabelName><LabelName language="es">Tumor y los ganglios centinela extirpados</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1260</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000661757">biopsy, sentinel lymph node, breast (3-panel)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>BiopsySentinelLymphNodeBreast FP III-IV Spanish1.jpg </SourceFilename><Comment audience="Internal" date="2013-09-23" user="lsaucedo">Replaced image. Two labels revised as per José Acosta´s observatio</Comment><Comment audience="Internal" date="2013-03-08" user="lsaucedo">Replaced image with titled image</Comment><Comment audience="Internal" date="2010-03-01" user="dbuchhagen">Added image with Spanish labels.</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Biopsia de ganglio linfático centinela de la mama.  En el panel de la izquierda se muestra la inyección de una sustancia radiactiva o un tinte azul cerca del tumor; en el panel del medio se muestra cómo  el material inyectado se puede seguir de forma visual o con una sonda que detecta la radiactivad para encontrar los ganglios centinela (primeros ganglios linfáticos a los que es probable que las células cancerosas se diseminen desde un tumor primario); en  el panel de la derecha se muestra el tumor y los ganglios centinela extirpados para determinar si tienen células cancerosas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Biopsia de ganglio linfático centinela de la mama. Se inyecta una sustancia radiactiva o un tinte azul cerca del tumor (panel de la izquierda). El material inyectado se puede seguir de forma visual o con una sonda que detecta la radiactividad para encontrar los ganglios centinela (primeros ganglios linfáticos a los que es probable que las células cancerosas se diseminen desde un tumor primario) (panel del medio). Se extraen los ganglios centinela  para determinar si tienen células cancerosas (panel de la derecha). La biopsia de ganglio linfático centinela por lo general se hace  cuando se extirpa el tumor primario, pero también es posible que se haga antes o después de que se extirpe el tumor.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000256762">Tratamiento del cáncer de seno (mama) en adultas</Summary><Summary cdr:ref="CDR0000744469">Prevención del cáncer de seno (mama)</Summary><Summary cdr:ref="CDR0000744471">Exámenes de detección del cáncer de seno (mama)</Summary><Glossary cdr:ref="CDR0000046712">sentinel lymph node biopsy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>2022-11-10</EnteredBy>
+        <Comment>Revised one label and caption and content.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist for revision with skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Image replaced</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Two labels were revised as per José Acosta´s observation and sent to artist for revision</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment audience="Internal" date="2010-04-20" user="dbuchhagen">Revised content description to match caption.</Comment><Comment>Revised caption</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-02-23</ProcessingStatusDate>
+        <EnteredBy>2010-03-01</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-01" user="dbuchhagen">Received  image with Spanish labels from artist.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-12</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-12" user="dbuchhagen">Inserted Biopsia de ganglio linfático centinela de la mama into cap and cont desc.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-02-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-11" user="dbuchhagen">Added approved English caption and content description.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000661757">biopsy, sentinel lymph node, breast (3-panel)</TranslationOf></Media>

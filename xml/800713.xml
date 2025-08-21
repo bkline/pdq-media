@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage IIC-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Melanoma en estadio IIC</LabelName><LabelName language="es">El tumor mide más de 4 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">4 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">6 mm</LabelName><LabelName language="es">Ulceración</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000799927">skin cancer, melanoma stage IIC</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>MelanomaStage2CSpanish.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682696">stage IIC melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Melanoma en estadio IIC. En el dibujo se muestra un tumor que mide más de 4 mm de grosor, con ulceración (rotura de  la piel). También se observan la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Melanoma en estadio IIC. En el dibujo se muestra un tumor que mide más de 4 mm de grosor, con ulceración (rotura de  la piel). También se observan la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Melanoma en estadio IIC. El tumor mide más de 4 mm de grosor, con ulceración (rotura de la piel). El grosor de la piel es distinto en diferentes partes del cuerpo.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Melanoma en estadio IIC. El tumor mide más de 4 mm de grosor y hay ulceración (rotura de la piel). El grosor de la piel es distinto en diferentes partes del cuerpo</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256816">Tratamiento del melanoma</Summary>
+  <Summary cdr:ref="CDR0000256722">Tratamiento del melanoma</Summary><Glossary cdr:ref="CDR0000045137">stage II melanoma</Glossary>
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>2020-04-09</EnteredBy>
+        <Comment>QCd captions and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image and translation of captions and content description. QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image.  Captions and CD pending translation.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels reviewed, translation of caption and CD pending.  Deleted Image Dimensions.  This is a new image and the image dimensions of the EN media doc should not be included. This element is added when the ES image is ready and approved.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image, Spanish labels ready for 1st QC</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000799927">skin cancer, melanoma stage IIC</TranslationOf></Media>

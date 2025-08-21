@@ -1,0 +1,116 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de cuello uterino en estadios IA1 y IA2</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Células cancerosas (solo se ven al microscopio)</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">3 mm</LabelName>
+  <LabelName language="es">IA2</LabelName><LabelName language="es">IA1</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000658902">cervical cancer stage IA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CervicalCaStage1A1and1A2.Spanish3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-04-11" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038005">stage I cervical cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   <Topic cdr:ref="CDR0000037892">cervical cancer</Topic>
+  </Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de cuello uterino en estadios IA1 y IA2. En la imagen se observa un corte transversal del cuello uterino y la vagina. En el recuadro se muestran células cancerosas en el cuello uterino que solo se observan al microscopio. En el estadio IA1 el tumor se diseminó a una profundidad de 3 mm o menos. En el estadio IA2   el tumor se diseminó a una profundidad de más de 3 mm, pero no más de 5 mm.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de cuello uterino en estadios IA1 y IA2. En la imagen se observa un corte transversal del cuello uterino y la vagina. En el recuadro se muestran células cancerosas en el cuello uterino que solo se observan al microscopio. En el estadio IA1 el tumor se diseminó a una profundidad de 3 mm o menos. En el estadio IA2   el tumor se diseminó a una profundidad de más de 3 mm, pero no más de 5 mm.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de cuello uterino en estadios IA1 y IA2. En los tejidos del cuello uterino se encuentra muy poco cáncer, que solo se observa al microscopio. En el estadio IA1, el tumor se diseminó a una profundidad de 3 mm o menos. En el estadio IA2, el tumor se diseminó a una profundidad de más de 3 mm, pero no más de 5 mm.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de cuello uterino en estadios IA1 y IA2. En los tejidos del cuello uterino se encuentra muy poco cáncer, que solo se observa al microscopio. En el estadio IA1, el tumor se diseminó a una profundidad de 3 mm o menos. En el estadio IA2, el tumor se diseminó a una profundidad de más de 3 mm, pero no más de 5 mm.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary>
+  <Summary cdr:ref="CDR0000256680">Tratamiento del cáncer de cuello uterino</Summary><Glossary cdr:ref="CDR0000045886">stage I cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, translation of caption and content description  ready for peer review</Comment><Comment>En esta imagen se usó una etiqueta que dice "células cancerosas (solo se ven al microscopio)". En el sumario dice "...cáncer (solo se observa al microscopio)". Me parece que queda bien porque las etiquetas se ven mejor cuando son más cortas  y no había muchas opciones para acortarla.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels and sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-20</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Only labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised Spanish labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Label corrected and image replaced.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QC and image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-26</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000658902">cervical cancer stage IA</TranslationOf></Media>

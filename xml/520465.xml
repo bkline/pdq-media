@@ -1,0 +1,123 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, non-small cell, stage IIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIA Lung Cancer</LabelName><LabelName language="en">Carina</LabelName><LabelName language="en">Left main bronchus</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Part or all of the lung has collapsed or has pneumonitis</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Inner membrane covering the lung</LabelName><LabelName language="en">Primary tumor is larger than 4 cm but not larger than 5 cm</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">4 cm</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2019-04-23</DateCreated>
+   
+   
+   <SourceFilename>LungStage2ARev12.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Change label above the inset to say “Inner membrane covering the lung" per expert reviewer</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Revised name credit</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Adjusted overall canvas size</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Move 4 cm circle under the lime</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Changed the wording in the top inset on the right to say “Primary tumor is larger…5 cm”; and added a label for Pleura on the bottom left side of the figure</Comment><Comment audience="Internal" date="2018-10-29" user="kuhlmanna">No additional changes made to image</Comment><Comment audience="Internal" date="2018-10-01" user="yousufzaimg">Changed the title to Stage IIA Lung Cancer; removed the letter “a” from the inset; changed the letter “b” in the main figure to “a” and moved it up above the place where the left main bronchus comes in; changed the letter “c” in the inset to a “b”; changed the letter “d” in the main figure to a “c”; changed the label “Part or all of the lung has collapsed” to “Part or all of the lung has collapsed or has pneumonitis”; and removed the “d.” in front of the label.</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2010-09-17" user="anjamison">Made the bone structure the same in both panels.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682741">stage IIA non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIA lung cancer; drawing shows a primary tumor (larger than 4 cm but not larger than 5 cm) in the left lung and cancer in (a) the left main bronchus and (b) the inner membrane covering the lung (inset). Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina, pleura, and a rib (inset) are also shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIA lung cancer; drawing shows a primary tumor (larger than 4 cm but not larger than 5 cm) in the left lung and cancer in (a) the left main bronchus and (b) the inner membrane covering the lung (inset). Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina, pleura, and a rib (inset) are also shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIA lung cancer. The tumor is larger than 4 centimeters but not larger than 5 centimeters. Cancer has not spread to the lymph nodes and one or more of the following may be found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIA lung cancer. The tumor is larger than 4 centimeters but not larger than 5 centimeters. Cancer has not spread to the lymph nodes and one or more of the following may be found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary>
+  
+ <Glossary cdr:ref="CDR0000045357">stage IIA non-small cell lung cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Updated image to LungStage2ARev12.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage2ARev11.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage2ARev10.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage2ARev9.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to LungStage2A.7.jpg</Comment><Comment audience="Internal" date="2018-10-01" user="yousufzaimg">Updated image to LungStage2ARev6.jpg</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Updated to LungStage2A.Rev5.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Revisions to Stage IIA.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-02-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-12-19</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy><Comment audience="Internal" date="2010-03-18" user="dbuchhagen">Added HP cap.</Comment><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP cont desc for pilot project.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-12-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>draft sent to OCCM 2006-12-13</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-10-20</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000682109">Sample illustration: NSCLC stage IIA</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000538081">Illustration Review Sheet: NSCLC Stage II</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

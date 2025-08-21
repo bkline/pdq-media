@@ -1,0 +1,92 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>catheter, port-a-cath-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Catéter implantable (vía)</LabelName><LabelName language="es">Catéter implantable debajo de la piel</LabelName><LabelName language="es">Catéter implantable</LabelName><LabelName language="es">Vena cava superior</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Se introduce una aguja en el catéter implantable</LabelName><LabelName language="es">Se extrae sangre por el catéter implantable</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000756805">catheter, port-a-cath</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PortACathSpanish3.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2019-08-06" user="lansberryic">Revised image linked</Comment><Comment audience="Internal" date="2019-08-05" user="adlerm2">Revised image pending in Spanish</Comment><Comment audience="Internal" date="2015-07-15" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>medical device</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Catéter implantable (vía). En la imagen se observa un catéter implantable debajo de la piel en el lado derecho del pecho. El catéter se introduce hasta la vena cava superior (vena grande en el lado superior derecho del corazón). En el recuadro izquierdo, se muestra el catéter implantable debajo de la piel. En el recuadro derecho, se muestra una aguja que se introduce en el catéter implantable,  que luego se usa para conectar una jeringa y extraer sangre por el catéter implantable.</ContentDescription>
+  </ContentDescriptions>
+  <Insertion UserName="lansberryic" Time="Wednesday, July 08, 2015 11:43:20 AM" RevisionLevel="proposed"> </Insertion><Captions>
+   <MediaCaption audience="Patients" language="es">Catéter implantable (vía). Dispositivo que se coloca debajo de la piel, por lo general en el lado derecho del pecho. El catéter (tubo delgado y flexible) se introduce hasta la vena cava superior (vena grande en el lado superior derecho del corazón). El catéter implantable se usa para administrar líquidos intravenosos, transfusiones de sangre, quimioterapia y otros medicamentos. También se usa para extraer muestras de sangre. El catéter implantable se puede dejar colocado  durante semanas o meses para evitar la necesidad de pinchazos múltiples.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000044175">port-a-cath</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-08-06" user="lansberryic">Revised image linked</Comment><Comment>Translation QC only for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised labels and added caption and content description in proposed markup.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000756805">catheter, port-a-cath</TranslationOf></Media>

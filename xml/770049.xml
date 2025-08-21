@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>soft tissue sarcoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Soft Tissue Sarcoma</LabelName><LabelName language="en">Lymph vessels</LabelName><LabelName language="en">Blood vessels</LabelName><LabelName language="en">Fat</LabelName><LabelName language="en">Muscles, Tendons, Ligaments, and Cartilage</LabelName><LabelName language="en">Nerves</LabelName><ImageDimensions>
+    <HeightPixels>2452</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-03-20</DateCreated>
+   <SourceFilename>SoftTissueSarcoma3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2023-03-20">Added “s” to the label “Muscle”</Comment><Comment audience="Internal" date="2015-03-12" user="akuhlmann">Changed the label “Fat and deep skin tissue” to just “Fat”; removed the “pullout” of the fat and skin in the circle and added an area of fat on the thigh inside the circle; and removed the whitish, halo-looking areas behind the lymph vessels, blood vessels, and the fat area.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000640035">soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Soft tissue sarcoma; drawing shows different types of tissue in the body where soft tissue sarcomas form, including the lymph vessels, blood vessels, fat, muscles, tendons, ligaments, cartilage, and nerves.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Soft tissue sarcoma forms in the soft tissues of the body, including the muscles, tendons, ligaments, cartilage,  fat, blood vessels, lymph vessels, nerves, and tissues around joints. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258102">Soft Tissue Sarcoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000258672">Childhood Soft Tissue Sarcoma Treatment</Summary><Glossary cdr:ref="CDR0000046584">soft tissue sarcoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-20</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-03-12</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

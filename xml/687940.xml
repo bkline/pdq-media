@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreatic cancer stage 3</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage III Pancreatic Cancer</LabelName><LabelName language="en">Portal vein</LabelName><LabelName language="en">Cancer in 4 or more lymph nodes</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Common hepatic artery</LabelName><LabelName language="en">Celiac axis (trunk)</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Superior mesenteric artery</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2018-04-16</DateCreated>
+   
+   
+   <SourceFilename>PancreaticCaStage3.4.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2018-04-16" user="yousufzaimg">Removed the label “Cancer in 1 to 3 lymph nodes"; added another lymph node with cancer between the 2 lymph nodes  on top of the common hepatic artery; and extended the cancer spot for the “b” label to the left and onto the common hepatic artery and moved the letter “b” to the left.</Comment><Comment audience="Internal" date="2018-04-02" user="kuhlmanna">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2013-01-07" user="anjamison">Unbolded cancer label</Comment><Comment>Added new image</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042505">stage III pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage III pancreatic cancer; drawing shows cancer in the pancreas and in (a) 4 or more nearby lymph nodes and (b) the common hepatic artery. Also shown are the portal vein, celiac axis (trunk), and superior mesenteric artery.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage III pancreatic cancer; drawing shows cancer in the pancreas and in (a) 4 or more nearby lymph nodes and (b) the common hepatic artery. Also shown are the portal vein, celiac axis (trunk), and superior mesenteric artery.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage III pancreatic cancer. The tumor is any size and cancer has spread to (a) 4 or more nearby lymph nodes; or (b) the major blood vessels near the pancreas. These include the portal vein, common hepatic artery, celiac axis (trunk), and superior mesenteric artery. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage III pancreatic cancer. The tumor is any size and cancer has spread to (a) 4 or more nearby lymph nodes; or (b) the major blood vessels near the pancreas. These include the portal vein, common hepatic artery, celiac axis (trunk), and superior mesenteric artery. </MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062957">Pancreatic Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045497">stage III pancreatic cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-04-16" user="yousufzaimg">Updated to PancreaticCaStage3.4.jpg</Comment><Comment audience="Internal" date="2018-04-02" user="kuhlmanna">Updated to PancreaticCaStage3.3.jpg</Comment><Comment audience="Internal" date="2013-01-07" user="anjamison">Updated to PancreaticCaStage3.2.jpg</Comment><Comment>Added PancreaticCaStage3.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-22</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Uploaded new illustration: PancreasCaStage3.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000742419">Sample Illustration: pancreatic cancer stage 3</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

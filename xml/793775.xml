@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>von Hippel-Lindau disease</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Areas of the Body Affected by von Hippel-Lindau Disease </LabelName><LabelName language="en">Central nervous system (including brainstem, cerebellum, spinal cord)</LabelName><LabelName language="en">Retina</LabelName><LabelName language="en">Endolymphatic sac in ear</LabelName><LabelName language="en">Adrenal glands</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Kidneys</LabelName><LabelName language="en">Broad ligament (in females)</LabelName><LabelName language="en">Epididymis (in males)</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-08-04</DateCreated>
+   <SourceFilename>VonHippel-LindauSyndrome4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-08-10" user="yousufzaimg">Softened the body outline of the female to match the male</Comment><Comment audience="Internal" date="2019-02-27" user="kuhlmanna">Change image title to say “Areas of the Body Affected by von Hippel-Lindau Disease” </Comment><Comment audience="Internal" date="2018-07-02" user="yousufzaimg">Shrunk the male and female figures to show a little bit more at the bottom; corrected spelling error in Epididymis label</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category><Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042846">von Hippel-Lindau syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of a male figure and female figure showing areas of the body affected by von Hippel-Lindau disease. These areas include the central nervous system (including the brainstem, cerebellum, and spinal cord), retina, endolymphatic sac in the ear, adrenal glands, pancreas, kidneys, epididymis (in males), and broad ligament (in females).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Areas of the body affected by von Hippel-Lindau (VHL) disease. VHL disease is an inherited disorder that causes tumors and cysts to grow in certain areas of the body, including the central nervous system (including the brainstem, cerebellum, and spinal cord), retina, endolymphatic sac in the ear, adrenal glands, pancreas, kidneys, epididymis (in males), and broad ligament (in females). VHL disease also causes an increased risk of certain types of cancer, especially kidney cancer and pancreatic cancer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000794341">von Hippel-Lindau disease</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2019-02-27" user="kuhlmanna">Updated image to VonHippel-LindauSyndrome3.jpg</Comment><Comment audience="Internal" date="2018-07-02" user="yousufzaimg">Updated image to VonHippel-LindauSyndrome2.jpg</Comment><Comment>Added VonHippel-LindauSyndrome1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000793343">Sample Illustration: Family Cancer Syndromes Associated with RCC</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>genitourinary system, male, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Uréter</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Glándula prostática</LabelName><LabelName language="es">Conducto deferente</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Pene</LabelName><LabelName language="es">Testículo</LabelName><LabelName language="es">Vesícula seminal</LabelName><LabelName language="es">Conducto eyaculatorio</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3904</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000450023">genitourinary system, male, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>Genitourinary AnatomyMale FP IV Spanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato reproductor y el aparato urinario en el hombre. En el dibujo se muestran vistas frontales y laterales de los uréteres, la vejiga, la glándula prostática, el conducto deferente,  la uretra, el pene y los testículos. También se muestra una vista lateral de la vesícula seminal y el conducto eyaculatorio, así como vistas frontales y laterales del recto y los ganglios linfáticos de la pelvis.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del aparato reproductor y el aparato urinario en el hombre. En el dibujo  se muestran vistas frontales y laterales de los uréteres, la vejiga, la glándula prostática, el conducto deferente,  la uretra, el pene y los testículos. También se muestra una vista lateral de la vesícula seminal y el conducto eyaculatorio, así como vistas frontales y laterales del recto y los ganglios linfáticos de la pelvis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del aparato reproductor y el aparato urinario en el hombre.  Se observan los uréteres, la vejiga, la glándula prostática, la uretra, el pene, los testículos, y otros órganos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía del aparato reproductor y el aparato urinario en el hombre.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-06</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels, as well as caption and content description revised.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-06</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Revised image (skin tone update), caption, and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>2019-05-07</EnteredBy>
+        <Comment audience="Internal" date="2019-05-07" user="adlerm2">Sp QC</Comment><Comment>Editorial changes in caption and content desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000450023">genitourinary system, male, anatomy</TranslationOf></Media>

@@ -1,0 +1,119 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreatic cancer stage 3-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de páncreas en estadio III</LabelName><LabelName language="es">Vena porta</LabelName><LabelName language="es">Cáncer en 4 o más ganglios linfáticos</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Arteria hepática común</LabelName><LabelName language="es">Tronco celíaco (eje)</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Arteria mesentérica superior</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000687940">pancreatic cancer stage 3</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PancreaticCaStage3Spanish3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-01-22" user="lsaucedo">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042505">stage III pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de páncreas en estadio lll; en la imagen, se observa cáncer en el páncreas y en a) 4 o más ganglios linfáticos cercanos y b) la arteria hepática común. También se observa la vena porta, el tronco celíaco (eje) y la arteria mesentérica superior.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de páncreas en estadio lll; en la imagen, se observa cáncer en el páncreas y en a) 4 o más ganglios linfáticos cercanos y b) la arteria hepática común. También se observa la vena porta, el tronco celíaco (eje) y la arteria mesentérica superior.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de páncreas en estadio lll. El tumor es de cualquier tamaño y el cáncer se diseminó hasta a) 4 o más ganglios linfáticos cercanos; o b) los vasos sanguíneos principales cerca del páncreas. Estos incluyen  la vena porta, la arteria hepática común, el tronco celíaco (eje) y la arteria mesentérica superior.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de páncreas en estadio lll. El tumor es de cualquier tamaño y el cáncer se diseminó hasta a) 4 o más ganglios linfáticos cercanos; o b) los vasos sanguíneos principales cerca del páncreas. Estos incluyen  la vena porta, la arteria hepática común, el tronco celíaco (eje) y la arteria mesentérica superior.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256768">Tratamiento del cáncer de páncreas</Summary>
+  <Glossary cdr:ref="CDR0000045497">stage III pancreatic cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Edit found in Caption during summary update</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-01</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels and descriptions completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QC changes to caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Pending other AJCC 8 updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added HP caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-12-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

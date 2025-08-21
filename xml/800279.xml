@@ -1,0 +1,59 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>oral papillomas, mild and severe</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>282</HeightPixels>
+    <WidthPixels>639</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Edward Cowen, MD, MHSc </Creator>
+   <Creator>Robert Pilarski, MS, LGC, LSW, The Ohio State University</Creator><DateCreated>2019-12-20</DateCreated>
+   <SourceFilename>oral papillomas.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000601787">Cowden syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Two-panel photograph showing the tongues of two individuals with Cowden syndrome. The left panel shows a tongue covered with many small white bumps. The right panel shows a tongue with larger, irregularly shaped growths on its surface.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Oral papillomas are benign growths of epithelial cells that may be seen in individuals with Cowden syndrome, a hereditary syndrome associated with the development of several types of cancer. The papillomas may vary in size.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000766497">PTEN hamartoma tumor syndromes (including Cowden syndrome) - Introduction [Module];Genetics;Health professionals</Summary>
+       <Glossary cdr:ref="CDR0000800257">oral papilloma</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the Content Description and Caption (image has no labels)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-12-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

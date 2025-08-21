@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IVA (3)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA Adenocarcinoma of the Esophagus (3)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Cancer in 7 or more lymph nodes near tumor</LabelName><ImageDimensions>
+    <HeightPixels>2670</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-09-06</DateCreated>
+   <SourceFilename>AdenocarcinomaEsophagusStage4APart3.2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-09-06" user="yousufzaimg">changed face to an Asian face; removed the cancer spot, the Cancer label, and the trachea at the top so that just the esophagus shows; and removed the cancer spot on the spine and aorta</Comment><Comment audience="Internal" date="2018-08-21" user="kuhlmanna">Initial draft per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043692">stage IV esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA adenocarcinoma of the esophagus (3); drawing shows cancer in the esophagus and in 9 nearby lymph nodes.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVA adenocarcinoma of the esophagus (3); drawing shows cancer in the esophagus and in 9 nearby lymph nodes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA adenocarcinoma of the esophagus (3). Cancer has spread to 7 or more lymph nodes near the tumor.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVA adenocarcinoma of the esophagus (3). Cancer has spread to 7 or more lymph nodes near the tumor.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000720258">stage IV esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Added AdenocarcinomaEsophagusStage4APart3.2.jpg</Comment><Comment>Added AdenocarcinomaEsophagusStage4APart3Asian.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-08-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000795464">Illustration Review Sheet: Adenocarcinoma Cancer of the Esophagus Stage IVA (3)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

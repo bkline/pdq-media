@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Merkel - Frequency of MCC by age and  sex</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Incidence/105 person-year</LabelName><LabelName language="en">Age in Years</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1827</HeightPixels>
+    <WidthPixels>3092</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   
+   
+  <SourceFilename>chart_redraw.jpg</SourceFilename></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  <ContentDescriptions><ContentDescription audience="Health_professionals" language="en">Frequency of MCC by age &amp; sex of men (square) and women (circle): Graph shows the incidence of primary MCC has increased in both sexes with advancing age, gradually from age 50 to 65 years, then progressively.</ContentDescription></ContentDescriptions><Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 2. Frequency of MCC by age and sex of men (square) and women (circle). Reprinted from Journal of the American Academy of Dermatology, 49 (5), Agelli M and Clegg L, Epidemiology of primary Merkel cell carcinoma in the United States, pp. 832–41, Copyright (2003), with permission from Elsevier.  </MediaCaption>
+  </Captions></MediaContent>
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000062884">Merkel Cell Carcinoma Treatment</Summary>
+       </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-10-30</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Childhood Melanoma – Incidence Rates-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tasa por 1 000 000</LabelName><LabelName language="es">0</LabelName><LabelName language="es">5,0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">15</LabelName><LabelName language="es">20</LabelName><LabelName language="es">25</LabelName><LabelName language="es">Leyenda (sexo)</LabelName><LabelName language="es">Ambos sexos</LabelName><LabelName language="es">Sexo femenino</LabelName><LabelName language="es">Sexo masculino</LabelName><LabelName language="es">Edad de diagnóstico</LabelName><LabelName language="es">&lt;1</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">3</LabelName><LabelName language="es">4</LabelName><LabelName language="es">5</LabelName><LabelName language="es">6</LabelName><LabelName language="es">7</LabelName><LabelName language="es">8</LabelName><LabelName language="es">9</LabelName><LabelName language="es">10</LabelName><LabelName language="es">11</LabelName><LabelName language="es">12</LabelName><LabelName language="es">13</LabelName><LabelName language="es">14</LabelName><LabelName language="es">15</LabelName><LabelName language="es">16</LabelName><LabelName language="es">17</LabelName><LabelName language="es">18</LabelName><LabelName language="es">19</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1275</HeightPixels><WidthPixels>1950</WidthPixels>
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000813687">Childhood Melanoma – Incidence Rates</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>NCCR Melanoma Incidence 9-14-23 Spanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el gráfico se observan las tasas de incidencia del melanoma desde 2016 hasta 2020, según la edad de diagnóstico. Se muestran las tasas de incidencia en niños de sexo masculino, sexo femenino y ambos sexos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Tasas de incidencia del melanoma desde 2016 hasta 2020 según la edad de diagnóstico. Reproducción autorizada de National Childhood Cancer Registry. NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. Instituto Nacional del Cáncer; 7 de sept. de 2023. [actualizada el 8 de sept. de 2023; citada el 4 de oct. de 2023]. Disponible en: <ExternalRef cdr:xref="https://nccrexplorer.ccdi.cancer.gov" SourceTitle="National Childhood Cancer Registry Explorer (NCCR*Explorer)">https://nccrexplorer.ccdi.cancer.gov</ExternalRef>.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800109">Childhood Melanoma Treatment</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Minor editorial change in caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Captions and content description revised.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Peer review of labels complete.</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-26</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000813687">Childhood Melanoma – Incidence Rates</TranslationOf></Media>

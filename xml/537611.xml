@@ -1,0 +1,174 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IVB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IVB</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName><LabelName language="es">El cáncer se diseminó a muchas partes de uno o más órganos  alejados del pulmón:</LabelName><LabelName language="es">Encéfalo</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es"> primario</LabelName><LabelName language="es">Glándula suprarrenal</LabelName><LabelName language="es">Riñón</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Ganglios linfáticos distantes</LabelName><LabelName language="es">Hueso</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2760</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000521926">lung cancer, stage IVB</MediaID></FromCdrMedia></FromObject>
+   <SourceFilename>LungStageIVB OlderFemale FP I Spanish1.jpg</SourceFilename><Comment audience="Internal" date="2010-10-14" user="lsaucedo">Replaced illustration. LungStageIVRevSpanish2.jpg</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded LungStage4Spanish2.jpg with new copyright information. </Comment><Comment>Spanish file name: LungStage4Spanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IVB. En la imagen se observan cáncer primario en el pulmón izquierdo y otras partes del cuerpo donde es posible que se disemine el cáncer de pulmón: el encéfalo, la glándula suprarrenal, el riñón, el hígado, los ganglios linfáticos distantes y el hueso. En un recuadro, se muestran células cancerosas que se diseminan desde el pulmón, a través de la sangre y el sistema linfático, hasta otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IVB. En la imagen se observan cáncer primario en el pulmón izquierdo y otras partes del cuerpo donde es posible que se disemine el cáncer de pulmón: el encéfalo, la glándula suprarrenal, el riñón, el hígado, los ganglios linfáticos distantes y el hueso. En un recuadro, se muestran células cancerosas que se diseminan desde el pulmón, a través de la sangre y el sistema linfático, hasta otra parte del cuerpo donde se formó el cáncer metastásico.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IVB. El cáncer se diseminó a muchas partes de uno o más órganos  alejados del pulmón: el encéfalo, la glándula suprarrenal, el riñón, el hígado, los ganglios linfáticos distantes o el hueso.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IVB. El cáncer se diseminó a muchas partes de uno o más órganos  alejados del pulmón: el encéfalo, la glándula suprarrenal, el riñón, el hígado, los ganglios linfáticos distantes o el hueso.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045144">stage IV non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist for revision</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-23</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of image and labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised per edits made in Eng to label, caption and description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd revised captions and content descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-27</ProcessingStatusDate>
+        <EnteredBy>2016-03-27</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-03-27" user="saucedol">Revised labels</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>English content description revised and changes made to translated content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added illustration, revised labels, omitted 6 labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QC revised labels, caption anc content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-06</ProcessingStatusDate>
+        <EnteredBy>2010-10-06</EnteredBy>
+        <Comment>Revisions to labels, caption and content description pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-18</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2007-01-25 Spanish labels added to images; mm</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-01-08</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2007-02-20 captions and content descriptions completed; rh 2007-01-18 Label translations completed; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000521926">lung cancer, stage IVB</TranslationOf></Media>

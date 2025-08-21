@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>lymphedema-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfedema</LabelName><LabelName language="es">Flujo linfático normal</LabelName><LabelName language="es">Líquido intravascular</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Arteriola</LabelName><LabelName language="es">Capilar</LabelName><LabelName language="es">Vasos linfáticos</LabelName><LabelName language="es">Vénula</LabelName><LabelName language="es">Líquido intersticial</LabelName><LabelName language="es">Linfa</LabelName><LabelName language="es">Espacio intersticial</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Líquido, proteínas grandes y células entran en el vaso linfático para mantener la presión intersticial normal</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Conductos linfáticos</LabelName><LabelName language="es">Brazo hinchado</LabelName><LabelName language="es">Piel</LabelName><LabelName language="es">Obstrucción del flujo linfático</LabelName><LabelName language="es">Aumento de la presión intersticial</LabelName><LabelName language="es">Linfocitos</LabelName><LabelName language="es">Macrófagos</LabelName><LabelName language="es">Células grasas</LabelName><LabelName language="es">Fibrosis</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2760</HeightPixels><WidthPixels>3180</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000812467">lymphedema</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LymphedemaSpanish1</SourceFilename>
+  <Comment audience="Internal" date="2010-11-04" user="lsaucedo">New image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041348">lymphedema</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Linfedema. En la parte superior del dibujo se observa un flujo linfático normal y una flecha indica la dirección del flujo del líquido intravascular a través de una arteria, una arteriola y un lecho capilar, donde el líquido pasa al espacio intersticial que rodea las células y sale a través de las vénulas. También se muestra el líquido intersticial, proteínas grandes y células alrededor de un vaso linfático y se señala que entran al vaso para mantener la presión intersticial normal. El líquido dentro del vaso linfático se llama linfa. Asimismo, se observa la estructura interna de un ganglio linfático unido a un vaso linfático y flechas que indican cómo la linfa entra y sale del ganglio linfático. Además, se ven conductos linfáticos en el área del cuello de una figura de mujer, cuyo brazo izquierdo está enrojecido e hinchado. Hay una ampliación del brazo hinchado que muestra una sección de la superficie de la piel que está enrojecida y endurecida. En un recuadro se ve la obstrucción del flujo linfático y un vaso linfático dañado que provoca aumento de la presión intersticial y acumulación de proteínas grandes, restos celulares, macrófagos y linfocitos. En el recuadro también se observan células grasas (adipocitos) grandes y fibrosis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Por lo general, los vasos linfáticos mantienen una presión intersticial normal mediante la eliminación del exceso de líquido intersticial que resulta del desequilibrio entre el líquido intravascular que entra por las arteriolas y el que sale por las vénulas. Las proteínas y células grandes que no pueden salir del espacio intersticial por las vénulas abandonan el líquido intersticial a través de los vasos linfáticos. A medida que la linfa se desplaza por los vasos linfáticos, pasa por los ganglios linfáticos y por uno de los dos conductos linfáticos que desembocan en una vena grande cerca del corazón. En el linfedema, el flujo de la linfa a través de los vasos linfáticos se interrumpe o se bloquea. Esto provoca un aumento de la presión intersticial y una acumulación de líquido intersticial, proteínas de gran tamaño y restos celulares en el espacio intersticial, lo que da como resultado inflamación, que quizás cause más daños en los vasos linfáticos. Los macrófagos y los linfocitos liberan marcadores inflamatorios, lo que produce fibrosis, hipertrofia de las células grasas (adipocitos) y el clásico signo de hinchazón (tumefacción y edema). La causa del linfedema puede ser el cáncer o el tratamiento del mismo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000600442">Linfedema</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment user="lansberryic" date="2023-09-18" audience="Internal">"swollen: hinchado" and "swelling: hinchazón/edematización" DTM "Aplicado a un órgano, un tejido u otra estructura anatómica: que presenta hinchazón o aumento de volumen." and "Aumento de volumen de un órgano u otra estructura anatómica, por lo general como consecuencia de una inflamación o de un edema."-Review with translators</Comment><Comment>QC of labels and sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC of labels and caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-18</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000812467">lymphedema</TranslationOf></Media>

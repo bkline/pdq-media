@@ -1,0 +1,98 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Philadelphia chromosome-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cromosoma 9 normal</LabelName><LabelName language="es">gen ABL</LabelName><LabelName language="es">Cromosoma 22 normal</LabelName><LabelName language="es">gen BCR</LabelName><LabelName language="es">Rupturas cromosómicas</LabelName><LabelName language="es">Cromosoma 9 alterado
+</LabelName><LabelName language="es">Cromosoma 22 alterado (cromosoma Filadelfia)</LabelName><LabelName language="es">gen de fusión BCR::ABL</LabelName><ImageDimensions>
+    <HeightPixels>2190</HeightPixels><WidthPixels>3180</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000533336">Philadelphia chromosome</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   
+  <SourceFilename>PhiladelphiaChromosomeSpanish6.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cromosoma Filadelfia. En la imagen se observa que una sección del cromosoma 9 y una sección del cromosoma 22 se separan e intercambian lugares, creando un cromosoma 22 alterado llamado cromosoma Filadelfia. En el lado izquierdo, se muestra el cromosoma 9 normal que contiene el gen ABL y el cromosoma 22 normal que contiene el gen BCR. En el centro, se muestra el gen ABL separándose del cromosoma 9 y una sección del cromosoma 22 que se separa por debajo del gen BCR. En el lado derecho, se muestra el cromosoma 9 unido a una sección del cromosoma 22 y una versión más pequeña del cromosoma 22 con la sección del cromosoma 9 que contiene parte del gen ABL unido. El gen ABL se une al gen BCR en el cromosoma 22 y forma el gen de fusión BCR::ABL. El cromosoma 22 alterado que contiene el gen BCR::ABL se llama cromosoma Filadelfia.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cromosoma Filadelfia. En la imagen se observa que una sección del cromosoma 9 y una sección del cromosoma 22 se separan e intercambian lugares, creando un cromosoma 22 alterado llamado cromosoma Filadelfia. En el lado izquierdo, se muestra el cromosoma 9 normal que contiene el gen ABL y el cromosoma 22 normal que contiene el gen BCR. En el centro, se muestra el gen ABL separándose del cromosoma 9 y una sección del cromosoma 22 que se separa por debajo del gen BCR. En el lado derecho, se muestra el cromosoma 9 unido a una sección del cromosoma 22 y una versión más pequeña del cromosoma 22 con la sección del cromosoma 9 que contiene parte del gen ABL unido. El gen ABL se une al gen BCR en el cromosoma 22 y forma el gen de fusión BCR::ABL. El cromosoma 22 alterado que contiene el gen BCR::ABL se llama cromosoma Filadelfia.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El cromosoma Filadelfia es un cromosoma anormal que se forma cuando secciones del cromosoma 9 y del cromosoma 22 se separan e intercambian lugares. El gen <GeneName>ABL</GeneName> del cromosoma 9 se une al gen <GeneName>BCR</GeneName> en el cromosoma 22 y forma el gen de fusión <GeneName>BCR</GeneName>::<GeneName>ABL</GeneName>. El cromosoma 22 alterado que contiene el gen de fusión se llama cromosoma Filadelfia.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">El cromosoma Filadelfia es un cromosoma anormal que se forma cuando secciones del cromosoma 9 y del cromosoma 22 se separan e intercambian lugares. El gen <GeneName>ABL</GeneName> del cromosoma 9 se une al gen <GeneName>BCR</GeneName> en el cromosoma 22 y forma el gen de fusión <GeneName>BCR</GeneName>::<GeneName>ABL</GeneName>. El cromosoma 22 alterado que contiene el gen de fusión se llama cromosoma Filadelfia.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256789">Tratamiento de la leucemia linfoblástica aguda en adultos</Summary>
+  <Summary cdr:ref="CDR0000256765">Tratamiento de la leucemia linfoblástica aguda infantil</Summary><Summary cdr:ref="CDR0000256791">Tratamiento de la leucemia mielógena crónica</Summary><Glossary cdr:ref="CDR0000044179">Philadelphia chromosome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>I added the "genename" element to content. descr. to unify style. Labels should match the italics in Spanish version (can´t use genename element in labels)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-30</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Gen names need to be italicized in the labels and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-10-05" user="adlerm2">Sp QC completed</Comment><Comment audience="Internal" date="2018-10-05" user="adlerm2">Fuente: http://www.binasss.sa.cr/revistas/amc/v40n3/art5.pdf</Comment><Comment audience="Internal" date="2018-12-13" user="adlerm2">Fuente: https://www.radoctores.es/doc/1V13N1-cascales-celulasmadrecancer.pdf</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image. Captions and content descriptions ready for QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised gene name labels as per updates to Spanish summary as sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-06-04 Artist completed and uploaded Spanish-labeled images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-07-23 caption/content desc. translations completed. 2007-05-18 Label translations completed.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000533336">Philadelphia chromosome</TranslationOf></Media>

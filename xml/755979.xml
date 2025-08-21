@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>transfusion, blood</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Blood Transfusion</LabelName><LabelName language="en">Red blood cells</LabelName><ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2015-09-21</DateCreated><SourceFilename>BloodTransfusion5.jpg</SourceFilename><Comment audience="Internal" date="2015-09-21" user="yousufzaimg">Filled the little partial tube that is hanging down from the red blood cell bag with blood,  made it a lighter shade of red than the blood in the bag and other tube</Comment><Comment audience="Internal" date="2015-08-26" user="yousufzaimg">Removed extra saline bag; and made the tube going into the arm look more like the tube that comes out of the red blood cell bag (same width and red color).</Comment><Comment audience="Internal" date="2015-07-30" user="yousufzaimg">Added another IV bag with saline hanging from the empty hook;   made the tubing below the hub that is going into the arm red; added a red transfusion arm band on the left arm below the white arm band; and 
+made patient’s right arm same size as the left arm.
+</Comment><Comment audience="Internal" date="2015-07-14" user="yousufzaimg">Made the color of the blood in the bag a much deeper, very dark red; moved the place where the needle goes into the arm a little bit lower on the arm, and made the tubing from the pump to that site longer</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  <Category>treatment</Category></Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Blood transfusion; drawing of red blood cells being given to a patient through an intravenous (IV) catheter in the arm.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Blood transfusion. A patient is given blood through an intravenous (IV) catheter in the arm. The blood may be donated by another person, or it may have been taken from the patient and stored until needed.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045991">blood transfusion</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-21</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Updated image to BloodTransfusion5.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-12-17</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

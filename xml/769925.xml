@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>penile anatomy-CTHP image</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Rectum</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Prostate gland</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Testicle</LabelName><ImageDimensions>
+    <HeightPixels>2100</HeightPixels>
+    <WidthPixels>2925</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-03-12</DateCreated>
+   <SourceFilename>PenileAnatomyNoTitle3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-12" user="akuhlmann">Moved the Bladder label over to the same side as the Rectum label and moved the Prostate label up a tiny bit so it is easier to see the Urethra and Penis labels.</Comment><Comment audience="Internal" date="2015-03-12" user="akuhlmann">Removed the labels for Ureter, Seminal vesicle, Ejaculatory duct, Lymph node, and Vas deferens; changed the label Testis, to Testicle.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038214">penile cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the male reproductive and urinary systems; drawing shows the bladder, prostate gland, penis, urethra, testicle, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the male reproductive and urinary systems showing the prostate, penis, testicles, bladder, and other organs.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-03-10</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment>Added PenileCancer1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

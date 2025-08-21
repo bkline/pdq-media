@@ -1,0 +1,95 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>cervix anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Características anatómicas del cuello uterino</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Orificio interno</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Orificio externo</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Conducto endocervical</LabelName><LabelName language="es">Endocérvix</LabelName><LabelName language="es">Ectocérvix</LabelName><LabelName language="es">Unión escamocolumnar</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3225</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000810405">cervix anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CervixAnatomySquamoColumnarJunctionSpanish3.jpg </SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En el dibujo se observan las aracterísticas anatómicas del cuello uterino. Se muestran el orificio interno, el conducto endocervical, el endocérvix, el ectocérvix y el orificio externo. También se observan el útero y la vagina. Además, en un recuadro se muestra una vista de cerca de la unión escamocolumnar (área donde el endocérvix se une al ectocérvix) y las células que revisten el endocérvix y el ectocérvix.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Características anatómicas del cuello uterino. El cuello uterino es la porción final, inferior y estrecha del útero que conecta al útero con la vagina. Está formado por el orificio interno (abertura entre el cuello uterino y la parte superior del útero), el endocérvix (parte interna del cuello uterino que forma el conducto endocervical), el ectocérvix (parte externa del cuello uterino que se conecta con la vagina) y el orificio externo (abertura entre el cuello uterino y la vagina). El área donde el endocérvix se une al ectocérvix se llama unión escamocolumnar, y contiene células glandulares (células en forma de columna que elaboran moco) del endocérvix y células escamosas (células delgadas y planas) del ectocérvix. La unión escamocolumnar también se conoce como zona de transformación.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000810430">¿Qué es el cáncer de cuello uterino?</Summary>
+       <Glossary cdr:ref="CDR0000046133">cervix</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and updated content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised image looks good</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image as pr MDS suggestion</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-02</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image needs to be revised to remove the hyphen from escamo-columnar. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>New image linked, pending translation for caption and content description </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-24</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels translated.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810405">cervix anatomy</TranslationOf></Media>

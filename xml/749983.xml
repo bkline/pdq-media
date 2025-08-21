@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>MEN1 pedigree</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">MEN1 Pedigree</LabelName><LabelName language="en">Kidney stones d. young of cancer</LabelName><LabelName language="en">d. 62 "stomach" cancer</LabelName><LabelName language="en">38</LabelName><LabelName language="en">"Neck surgery"</LabelName><LabelName language="en">MEDICAL RECORD REVIEW</LabelName><LabelName language="en">No records available Possible HPT? Pancreatic tumor?</LabelName><LabelName language="en">d. 62 Gastrinoma, dx 45</LabelName><LabelName language="en">38</LabelName><LabelName language="en">HPT, dx 18 Parathyroidectomy Pituitary adenoma</LabelName><LabelName language="en">HPT = hyperparathyroidism.</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Robin Juthe</Creator>
+   <DateCreated>2013-05-28</DateCreated>
+   <SourceFilename>MEN1 pedigree.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654711">multiple endocrine neoplasia type 1</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pedigree showing some of the features of a family with a deleterious MEN1 mutation across four generations, including transmission occurring through paternal lineage. The unaffected male proband is shown as having an affected sister (self-report of neck surgery confirmed upon review of medical records to be hyperparathyroidism diagnosed at age 18 y, parathyroidectomy, and pituitary adenoma), father (self-report of stomach cancer confirmed upon review of medical records to be gastrinoma diagnosed at age 45 y), and paternal grandmother (suspected hyperparathyroidism and/or pancreatic tumor). </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">MEN1 pedigree. MEN1 can be very difficult to identify in a pedigree. The pedigree on the left was constructed based on self-report, and the pedigree on the right depicts the same family following a review of available medical records. This pedigree shows some of the features of a family with a deleterious MEN1 mutation across four generations, including affected family members with hyperparathyroidism, a pituitary adenoma, gastrinoma, and a suspected pancreatic tumor. The tumors in MEN1 typically occur at an earlier age than their sporadic counterparts. MEN1 families may exhibit some or all of these features. As an autosomal dominant syndrome, transmission can occur through maternal or paternal lineages, as depicted in the figure.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062890">Genetics of Endocrine and Neuroendocrine Neoplasias</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-05-29</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added MEN1 pedigree.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

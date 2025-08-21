@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreatic cancer stage 1</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IA Pancreatic Cancer</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Tumor is 2 cm or smaller</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">Stage IB Pancreatic Cancer</LabelName><LabelName language="en">Tumor is larger than 2 cm but not larger  than 4 cm</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">2 cm</LabelName><ImageDimensions>
+    <HeightPixels>2430</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2018-04-20</DateCreated>
+   
+   
+   <SourceFilename>PancreaticCaStages1A.1B.7.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2018-04-30" user="kuhlmanna">Shaded in the box for Stage IA so its  the same as it is shaded for Stage IB</Comment><Comment audience="Internal" date="2018-04-16" user="yousufzaimg">On inset for the Stage IB figure, changed the last part of the label to say “…but not larger than 4 cm”</Comment><Comment audience="Internal" date="2018-04-02" user="kuhlmanna">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2013-01-07" user="akuhlmann">For the Stage IA Pancreatic Cancer image, moved inset above the pancreas and made inset smaller so that the peanut fits with the size of the cancer spots. For both images, added more contrast between the cancer color and the color of the pancreas.</Comment><Comment audience="Internal" date="2012-12-11" user="anjamison">Added inset with peanut.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042468">stage I pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="en">Stage I pancreatic cancer; drawing on the left shows stage IA pancreatic cancer. The cancer is in the pancreas and the tumor is 2 centimeters or smaller. An inset shows 2 centimeters is about the size of a peanut.  The drawing on the right shows stage IB pancreatic cancer. The cancer is in the pancreas and the tumor is larger than 2 centimeters but not larger than 4 centimeters. An inset shows 2 centimeters is about the size of a peanut and 4 centimeters is about the size of a walnut.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage I pancreatic cancer; drawing on the left shows stage IA pancreatic cancer. The cancer is in the pancreas and the tumor is 2 centimeters or smaller. An inset shows 2 centimeters is about the size of a peanut.  The drawing on the right shows stage IB pancreatic cancer. The cancer is in the pancreas and the tumor is larger than 2 centimeters but not larger than 4 centimeters. An inset shows 2 centimeters is about the size of a peanut and 4 centimeters is about the size of a walnut.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Stage I pancreatic cancer. Cancer is found in the pancreas only. In stage IA, the tumor is 2 centimeters or smaller. In stage IB, the tumor is larger than 2 centimeters but not larger than 4 centimeters.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage I pancreatic cancer. Cancer is found in the pancreas only. In stage IA, the tumor is 2 centimeters or smaller. In stage IB, the tumor is larger than 2 centimeters but not larger than 4 centimeters.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062957">Pancreatic Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045482">stage I pancreatic cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-04-30" user="kuhlmanna">Updated to PancreaticCaStages1A.1B.7.jpg</Comment><Comment audience="Internal" date="2018-04-16" user="yousufzaimg">Updated to PancreaticCaStages1A.1B.6.jpg</Comment><Comment audience="Internal" date="2018-04-02" user="kuhlmanna">Updated to PancreaticCaStages1A.1B.5.jpg</Comment><Comment audience="Internal" date="2013-01-07" user="akuhlmann">Updated to PancreaticCaStages1A.1B.4.jpg</Comment><Comment audience="Internal" date="2012-12-11" user="anjamison">Updated to PancreaticCaStages1A1B.3.jpg</Comment><Comment audience="Internal" date="2012-12-11" user="anjamison">Updated to PancreaticCaStages1A1B.2.jpg</Comment><Comment>Added PancreaticCaStages1A 1B 1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-10-25</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  <Comment audience="Internal" date="2012-10-25" user="akuhlmann">Added new image: PancreaticCaStagingAnatomy1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000742411">Sample Illustration: stage I pancreatic cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

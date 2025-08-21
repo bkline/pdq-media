@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>fibrofolliculoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>825</HeightPixels>
+    <WidthPixels>1482</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Christine Ko, MD</Creator>
+   <DateCreated>2015-04-22</DateCreated>
+   <SourceFilename>bhd.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-04-22" user="akuhlmann">Approved by Genetics Board</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph of many small, whitish bumps on an individual’s face.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Fibrofolliculomas are benign tumors of the hair follicle. They are commonly found on the face, as shown, but they are also often found on the ears, neck, and upper torso.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000771540">fibrofolliculoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-04-22</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment>Added image bhd.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

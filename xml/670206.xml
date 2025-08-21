@@ -1,0 +1,96 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urinary system, child, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Columna vertebral</LabelName><LabelName language="es">Glándulas suprarrenales</LabelName><LabelName language="es">Riñón derecho</LabelName><LabelName language="es">Riñón izquierdo</LabelName><LabelName language="es">Túbulos renales</LabelName><LabelName language="es">Orina</LabelName><LabelName language="es">Pelvis renal</LabelName><LabelName language="es">Uréter derecho</LabelName><LabelName language="es">Uréter izquierdo</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Orina</LabelName><LabelName language="es">Uretra</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000666578">urinary system, child, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ChildGenitourinarySpanish4.jpg.</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato urinario femenino. En la imagen se muestra una vista anterior de los riñones derecho e izquierdo, los uréteres, la uretra y la vejiga llena de orina. En el interior del riñón izquierdo se observa la pelvis renal. En un recuadro se observan los túbulos renales y la orina. También se muestra la columna vertebral, las glándulas suprarrenales y el útero.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del aparato urinario femenino. En la imagen se observan los riñones, las glándulas suprarrenales, los uréteres, la vejiga y la uretra. La orina se elabora en los túbulos renales y se acumula en la pelvis renal de cada riñón. A través de los uréteres, la orina fluye de los riñones a la vejiga, donde se almacena hasta que sale del cuerpo por la uretra.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000483772">Tratamiento del tumor de Wilms y otros tumores renales infantiles</Summary>
+  
+ <Summary cdr:ref="CDR0000391227">Tratamiento del neuroblastoma</Summary><Glossary cdr:ref="CDR0000045946">Wilms tumor</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to add new label  pelvis renal and removed label útero as per updates to EN version</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-16</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-14</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content description revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised one label and linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Editorial changes to caption and content description. Revision to image pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-03</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added image ChildGenitourinarySpanish.jpg.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-05-11" user="dbuchhagen">Revision to caption.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations for labels completed</Comment>
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000666578">urinary system, child, anatomy</TranslationOf></Media>

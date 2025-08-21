@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>autosomal recessive inheritance-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Herencia autosómica recesiva</LabelName><LabelName language="es">Padre no afectado (portador)</LabelName><LabelName language="es">Madre no afectada (portadora)</LabelName><LabelName language="es">Par de cromosomas</LabelName><LabelName language="es">Gen mutado</LabelName><LabelName language="es">Gen normal</LabelName><LabelName language="es">Hija no afectada</LabelName><LabelName language="es">Hijo no afectado (portador)</LabelName><LabelName language="es">Hija no afectada (portadora)</LabelName><LabelName language="es">Hijo afectado</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2670</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000802195">autosomal recessive inheritance</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>AutosomalRecessiveInheritanceSpanish1.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observa la distribución del tipo de herencia autosómica recesiva  en una familia conformada por padre, madre y cuatro hijos: se muestran un par de cromosomas con un gen mutado y un gen normal en el padre no  afectado (portador); un gen mutado  y un gen normal en la madre no afectada (portadora); dos genes normales en una hija no afectada; un gen mutado y un gen normal en un hijo no afectado (portador); un gen mutado  y un gen normal en una hija no afectada (portadora) y dos genes mutados en un hijo afectado.</ContentDescription><ContentDescription audience="Health_professionals" language="es">En la imagen se observa la distribución del tipo de herencia autosómica recesiva  en una familia conformada por padre, madre y cuatro hijos: se muestran un par de cromosomas con un gen mutado y un gen normal en el padre no  afectado (portador); un gen mutado  y un gen normal en la madre no afectada (portadora); dos genes normales en una hija no afectada; un gen mutado y un gen normal en un hijo no afectado (portador); un gen mutado  y un gen normal en una hija no afectada (portadora) y dos genes mutados en un hijo afectado.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La herencia autosómica recesiva es una de las formas en que un rasgo o una afección genética pasa de padres a hijos. El niño presenta la afección genética cuando hereda dos copias de un gen mutado (cambiado), una del padre y otra de la madre. Por lo general, la madre y el padre no presentan la afección que se hereda de manera autosómica recesiva. Se dice que la madre y el padre no afectados son portadores porque cada uno tiene una copia del gen mutado que puede pasar a sus hijos. </MediaCaption><MediaCaption audience="Health_professionals" language="es">La herencia autosómica recesiva es una de las formas en que un rasgo o afección genética pasa de padres a hijos. El niño presenta la afección genética cuando hereda dos copias de un gen mutado (cambiado), una del padre y otra de la madre. Por lo general, la madre y el padre no presentan la afección que se hereda de manera autosómica recesiva. Se dice que la madre y el padre no afectados son portadores porque cada uno tiene una copia del gen mutado que puede pasar a sus hijos. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000339339">autosomal recessive inheritance</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised caption and content translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Review new Spa image, translation of caption and cont. desc, pending translation QC.</Comment><Comment>See related media "autosomal dominant inheritance-Spanish" and related GTC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC: labels only</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media doc, Translation of labels only, pending QC.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000802195">autosomal recessive inheritance</TranslationOf></Media>

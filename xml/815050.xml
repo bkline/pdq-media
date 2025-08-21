@@ -1,0 +1,88 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>invasive lobular carcinoma of the breast-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Carcinoma lobulillar invasivo</LabelName><LabelName language="es">Lobulillo normal</LabelName><LabelName language="es">Lóbulo</LabelName><LabelName language="es">Conductos</LabelName><LabelName language="es">Carcinoma lobulillar invasivo</LabelName><LabelName language="es">Células cancerosas</LabelName><LabelName language="es">Lobulillos</LabelName><LabelName language="es">Tejido graso</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels><WidthPixels>3000</WidthPixels>
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000814976">invasive lobular carcinoma of the breast</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>InvasiveLobularCarcinomaBrownFP V Spanish1.jpg </SourceFilename></DerivedFrom></MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ <DateLastReviewed>2024-02-05</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039850">invasive lobular breast carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Carcinoma lobulillar invasivo de mama. En el dibujo se observa un corte transversal de una mama o seno en donde se señalan un lóbulo, lobulillos, conductos y tejido graso o adiposo. También se observan tres ampliaciones: una de un lóbulo normal, otra de un lobulillo normal y otra de un lobulillo con un carcinoma lobulillar invasivo formado por células cancerosas que se diseminan fuera de este.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El carcinoma lobulillar invasivo empieza en los lobulillos (glándulas lácteas) de la mama (seno) y se disemina a otros tejidos de la mama fuera de los lobulillos. A veces, también se disemina a otras partes del cuerpo a través de los sistemas sanguíneo y linfático.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000256762">Tratamiento del cáncer de seno (mama)</Summary>
+  
+  <Glossary cdr:ref="CDR0000750211">invasive lobular carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-29</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC of caption an content description complete. Image looks good.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised new image. Pending Qc of caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC of labels complete.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media file-Translation of labels</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000814976">invasive lobular carcinoma of the breast</TranslationOf></Media>

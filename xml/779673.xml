@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>kaposiform hemangioendotheliomas and tufted angiomas</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>425</HeightPixels>
+    <WidthPixels>675</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Denise Adams, MD, Boston Children's Hospital</Creator>
+   <DateCreated>2016-03-21</DateCreated>
+   <SourceFilename>Kaposiform one.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Image approved by Pediatric Treatment Editorial Board</Comment><Comment audience="Internal" date="2016-03-21" user="kuhlmanna">Added image as summary placeholder; Board approval pending</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Permissions not required; photo came from Pediatric Treatment Editorial Board member, Denise Adams, MD</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000779856">Kaposiform hemangioendothelioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph showing a Kaposiform hemangioendothelioma lesion on the right side of the face and neck. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Kaposiform hemangioendothelioma with Kasabach-Merritt phenomenon. The lesion is indurated, firm, and warm with petechiae and purpura. Credit: Denise Adams, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+       </ProposedUse><ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

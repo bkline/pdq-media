@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreas anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Liver</LabelName><LabelName language="en">Bile ducts</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Spleen</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Bile duct</LabelName><LabelName language="en">Pancreatic duct</LabelName><LabelName language="en">Head</LabelName><LabelName language="en">Body</LabelName><LabelName language="en">Tail</LabelName><ImageDimensions>
+    <HeightPixels>2760</HeightPixels><WidthPixels>3060</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-10-11</DateCreated>
+   
+   
+   <SourceFilename>PancreasAnatomy Woman FP IV.1.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" date="2023-10-11" audience="Internal">Changed figure to a female, updated the skin tone to FP IV and aged the skin a bit</Comment><Comment audience="Internal" date="2009-03-27" user="rharrison">Changed title to normal pancreas anatomy.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2023-10-11</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041487">pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the pancreas; drawing shows the pancreas, stomach, spleen, liver, bile ducts, gallbladder, small intestine, and colon. An inset shows the head, body, and tail of the pancreas. The bile duct and pancreatic duct are also shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Anatomy of the pancreas; drawing shows the pancreas, stomach, spleen, liver, bile ducts, gallbladder, small intestine, and colon. An inset shows the head, body, and tail of the pancreas. The bile duct and pancreatic duct are also shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the pancreas. The pancreas has three areas: the head, body, and tail. It is found in the abdomen near the stomach, intestines, and other organs. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the pancreas.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062957">Pancreatic Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046254">pancreas</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-04-06" user="dbuchhagen">Updated to PancreasAnatomy Woman FP IV.1.jpg</Comment><Comment audience="Internal" date="2009-03-27" user="rharrison">Updated to PancreasAnatomy4.jpg.</Comment><Comment audience="Internal" date="2009-03-06" user="rharrison">Updated to PancreasAnatomy3.jpg. </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-05-19" user="rharrison">Approved without any comments.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-15</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent to Dr. Ryan on the Adult Tx Ed Board.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-20</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP content description for pilot project.</Comment><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP caption for pilot project.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2009-04-20" user="rharrison">Added minor edits from 4/20 meeting.</Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Entered group's revisions to the caption from 4/3/09 meeting.</Comment>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-02-20</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

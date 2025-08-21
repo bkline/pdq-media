@@ -1,0 +1,114 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IC-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Adenocarcinoma de esófago en estadio IC</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Células cancerosas de grado 3</LabelName><LabelName language="es">Células cancerosas de grados 1 o 2</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Capa muscular delgada</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa muscular gruesa</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Ganglio linfático</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000794331">esophageal adenocarcinoma stage IC</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AdenocarcinomaEsophagusStage1CSpanish1</SourceFilename>
+  <Comment audience="Internal" date="2019-08-14" user="lansberryic">New image linked</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043667">stage I esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Adenocarcinoma de esófago en estadio IC. En la imagen se observan el esófago y el estómago. En una ampliación con dos paneles, se muestran las capas de la pared del esófago: la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo. También se muestran ganglios linfáticos. En el panel izquierdo, se observan células cancerosas de grado 3 en la mucosa, la capa muscular delgada y la submucosa. En el panel derecho, se observan células cancerosas de grados 1 o 2 en la mucosa, la capa muscular delgada, la submucosa y la capa muscular gruesa.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IC. En la imagen se observan el esófago y el estómago. En una ampliación con dos paneles, se muestran las capas de la pared del esófago: la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo. También se muestran ganglios linfáticos. En el panel izquierdo, se observan células cancerosas de grado 3 en la mucosa, la capa muscular delgada y la submucosa. En el panel derecho, se observan células cancerosas de grados 1 o 2 en la mucosa, la capa muscular delgada, la submucosa y la capa muscular gruesa.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Adenocarcinoma de esófago en estadio IC. Se presenta una de las siguientes situaciones: 1) El cáncer se diseminó a la mucosa, la capa muscular delgada o la submucosa de la pared del esófago; las células cancerosas son de grado 3, se ven más anormales al microscopio, y se multiplican y diseminan  más rápido que las células cancerosas de grados 1 y 2. 2) El cáncer se diseminó a la capa muscular gruesa de la pared del esófago; las células cancerosas son de grados 1 o 2.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IC. Se presenta una de las siguientes situaciones: 1) El cáncer se diseminó a la mucosa, la capa muscular delgada o la submucosa de la pared del esófago; las células cancerosas son de grado 3, se ven más anormales al microscopio, y se multiplican y diseminan  más rápido que las células cancerosas de grados 1 y 2. 2) El cáncer se diseminó a la capa muscular gruesa de la pared del esófago; las células cancerosas son de grados 1 o 2.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary><Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary>
+  <Glossary cdr:ref="CDR0000720250">stage I esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of Caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image, captions and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-16</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed with SCC images</Comment>
+       <Comment audience="Internal" date="2019-07-16" user="adlerm2">For readability purposes, suggest deleting "O" in Spanish. Added "On left panel" and "On right panel" to caption to improve readability.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC for Caption and Content Desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated new captions and content descriptions; minor style and editorial adjustments to improve readability in Spanish.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-13</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Qc for labels: me parece que español falta la preposición "de grado..."</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       <Comment audience="Internal" date="2018-11-26" user="adlerm2">Sugerencia: Se podría poner "Células cancerosas de grado 3" y "Células cancerosas de grados 1 o 2" directamente; o sea, quitaría la oración que aparece encima ("Las células cancerosas son:"). Aunque se repita "Células cancerosas" quizás queda más claro para el lector.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000794331">esophageal adenocarcinoma stage IC</TranslationOf></Media>

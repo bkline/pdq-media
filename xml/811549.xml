@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood ALL - Genomic Subtypes and Frequencies of NCI Standard-Risk B-ALL-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">iAMP21, 5,3 %</LabelName><LabelName language="es">Otros-B, 11,1 %</LabelName><LabelName language="es">BCL2/MYC, 0,1 %</LabelName><LabelName language="es">DUX4, 2,7 %</LabelName><LabelName language="es">ETV6::RUNX1, 26,6 %</LabelName><LabelName language="es">Similar a ETV6::RUNX1, 2,0 %</LabelName><LabelName language="es">HLF, 0,4 %</LabelName><LabelName language="es">Hiperdiploide, 33,3 %</LabelName><LabelName language="es">IKZF1 N159Y, 0,2 %</LabelName><LabelName language="es">KMT2A, 0,9 %</LabelName><LabelName language="es">Similar a KMT2A, 0,1 %</LabelName><LabelName language="es">Con hipodiploidía baja, 0,5 %</LabelName><LabelName language="es">MEF2D, 0,3 %</LabelName><LabelName language="es">NUTM1, 0,4 %</LabelName><LabelName language="es">Casi haploide, 2,1 %</LabelName><LabelName language="es">PAX5 P80R, 0,3 %</LabelName><LabelName language="es">PAX5alt, 3,0 %</LabelName><LabelName language="es">Ph, 1,8 %</LabelName><LabelName language="es">Similar a Ph_CRLF2, 1,7 %</LabelName><LabelName language="es">Similar a Ph_otros, 2,8 %</LabelName><LabelName language="es">TCF3::PBX1, 4,4 %</LabelName><LabelName language="es">ZEB2/CEBP, 0,0 %</LabelName><LabelName language="es">ZNF384, 0,3 %</LabelName><LabelName language="es">Similar a ZNF384, 0,0 %</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1668</HeightPixels>
+    <WidthPixels>2211</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000811447">Childhood ALL - Genomic Subtypes and Frequencies of NCI Standard-Risk B-ALL</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Standard Risk B-ALL from Brady et al 2022 Pie Chart 1 from MSmith 1_24_23SPANISH1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039919">childhood acute lymphoblastic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En la figura se muestra la frecuencia de los subtipos genómicos de  la LLA-B de riesgo estándar del NCI.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Frecuencia de los subtipos genómicos de la LLA-B de riesgo estándar del NCI. En la figura se observan los datos de 1126 niños diagnosticados con LLA-B de riesgo estándar del NCI (edad, 1–9 años y RGB  &lt; 50 000/µL) e inscritos en los ensayos clínicos del St. Jude Children’s Research Hospital o el Children’s Oncology Group. Adaptado del cuadro 2 suplementario de Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54: 1376-1389, 2022.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062923">Childhood Acute Lymphoblastic Leukemia Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels and also caption and content descr. were reviewed. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-30</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000811447">Childhood ALL - Genomic Subtypes and Frequencies of NCI Standard-Risk B-ALL</TranslationOf></Media>

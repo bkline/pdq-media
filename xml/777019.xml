@@ -1,0 +1,88 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, computed tomography, head and neck-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tomografía computarizada de la cabeza y el cuello</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000753850">scan, computed tomography, head and neck </MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CTScanHeadandNeckSpanish1.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2016-01-08" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Tomografía computarizada (TC) de la cabeza y el cuello; en el dibujo  se muestra un paciente acostado sobre una camilla que se desliza a través de un escáner de TC que toma imágenes radiográficas del interior de la cabeza y el cuello.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Tomografía computarizada (TC) de la cabeza y el cuello. El paciente está acostado sobre una camilla que se desliza a través de un escáner de TC que toma imágenes radiográficas del interior de la cabeza y el cuello.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000256820">Tratamiento del cáncer de hipofaringe en adultos</Summary>
+       <Summary cdr:ref="CDR0000393556">Tratamiento del cáncer de laringe en adultos</Summary><Summary cdr:ref="CDR0000486932">Tratamiento del cáncer de labio y de cavidad oral en adultos</Summary><Summary cdr:ref="CDR0000509727">Tratamiento del cáncer escamoso metastásico de cuello con tumor primario oculto en adultos</Summary><Summary cdr:ref="CDR0000256817">Tratamiento del cáncer de nasofaringe en adultos</Summary><Summary cdr:ref="CDR0000256822">Tratamiento del cáncer de orofaringe en adultos</Summary><Summary cdr:ref="CDR0000558933">Tratamiento del cáncer de seno paranasal y de cavidad nasal en adultos</Summary><Summary cdr:ref="CDR0000530606">Tratamiento del cáncer de glándulas salivales en adultos</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Esta imágen se relaciona con el GTC 619365 que tiene varios GTN. En la redacción estándar acordamos usar como término principal el más común "tomografía computarizada" y los otros GTN son "also called":  tomografía computadorizada, TC, tomografía axial computarizada, exploración por TAC. También se acordó evitar en español el uso de siglas en títulos.</Comment><Comment>Terminology meeting oct-nov 2017 (revised scan terms in Spanish)// Title in Spanish needs to change to "Tomografía computarizada de la cabeza y el cuello"/Pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000753850">scan, computed tomography, head and neck </TranslationOf></Media>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>exam, digital rectal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2018</HeightPixels>
+    <WidthPixels>2025</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000457840">exam, digital rectal</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Examen digital del recto; el dibujo muestra una vista lateral de la anatomía reproductora y urinaria masculina que  incluye la próstata, el recto y la vejiga; también muestra un dedo dentro de un guante lubricado que se inserta en el recto para palpar la próstata.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Examen digital del recto; el dibujo muestra una vista lateral de la anatomía reproductora y urinaria masculina que  incluye la próstata, el recto y la vejiga; también muestra un dedo dentro de un guante lubricado que se inserta en el recto para palpar la próstata. </ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Examen digital del recto (EDR).  El médico inserta un dedo dentro de un guante lubricado en el recto y palpa la próstata para determinar si existe alguna anomalía.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Examen digital del recto (EDR).</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+</Media>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urethra, distal and proximal, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Distal and Proximal Urethra</LabelName><LabelName language="en">Female</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Proximal urethra</LabelName><LabelName language="en">Distal urethra</LabelName><LabelName language="en">Ureter</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Urine</LabelName><LabelName language="en">Male</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Prostate gland</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Testis</LabelName><LabelName language="en">Proximal urethra</LabelName><LabelName language="en">Distal urethra</LabelName><ImageDimensions>
+    <HeightPixels>1939</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-05-06</DateCreated>
+   <SourceFilename>Urethra.DistalProximal1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039051">urethral cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Distal and proximal urethra. Drawing on the left shows the female proximal and distal urethra; also shown are the bladder filled with urine, the ureters, and the uterus. Cross-section drawing on the right shows the male proximal and distal urethra. Also shown are the rectum, prostate gland, penis, and testis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the distal and proximal urethra. Urine flows out of the bladder and leaves the body through the urethra. The part of the urethra that is closest to the bladder is called the proximal urethra. The part that is closest to where the urine leaves the body is called the distal urethra.  The urethra is about 8 inches long in men and about 1½ inches long in women.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000435963">Urethral Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046640">urethra</Glossary>
+ <Glossary cdr:ref="CDR0000749437">distal urethra</Glossary><Glossary cdr:ref="CDR0000749439">proximal urethra</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Approved by B. Kramer</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Added Urethra.DistalProximal1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-03-19</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000747934">Sample Illustration: distal and promixal urethra</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000751580">Illustration Review Sheet: distal and proximal urethra</SupplementaryInfoLink></RelatedDocuments></Media>

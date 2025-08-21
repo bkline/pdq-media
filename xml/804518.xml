@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pleuropulmonary blastoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Pleuropulmonary Blastoma</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Pulmonary artery</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Heart</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-03-29</DateCreated>
+   <SourceFilename>PleuropulmonaryBlastoma2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2021-03-30" user="yousufzaimg">Removed inset showing tumor size, made tumor more cystic</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000582828">pleuropulmonary blastoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing areas where pleuropulmonary blastoma may form, including the aorta, pulmonary artery, lung, heart, pleura, and diaphragm. Also shown is cancer in the left lung.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Pleuropulmonary blastoma is a rare, fast-growing cancer that forms in the tissues of the lung and pleura (the thin layer of tissue that covers the lungs and lines the inside of the chest). It may also form in the organs between the lungs, including the heart, aorta, and pulmonary artery, or in the diaphragm (the main breathing muscle below the lungs). Pleuropulmonary blastoma usually occurs in infants and young children.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000790954">Childhood Pleuropulmonary Blastoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000446557">pleuropulmonary blastoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-04-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-03-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2021-03-30" user="yousufzaimg">Updated image to PleuropulmonaryBlastoma2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-03-15</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

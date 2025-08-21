@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>extragonadal germ cell tumor</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Extragonadal Germ Cell Tumor</LabelName><LabelName language="en">Pineal gland</LabelName><LabelName language="en">Mediastinum (blue)</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Lungs</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Retroperitoneum (red)</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-03-18</DateCreated>
+   <SourceFilename>ExtragonadalGermCellTumorWithTitle3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-16" user="akuhlmann">Showed areas of the mediastinum (in blue) on the front and side figures; added Heart, Lungs, and Peritoneum labels; showed abdominal cavity and peritoneum (in purple) on front and side figures; and showed retroperitoneum (in red) on side figure.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040809">extragonadal germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Extragonadal germ cell tumor; drawing shows parts of the body where extragonadal germ cell tumors may form, including the pineal gland in the brain, the mediastinum (the area between the lungs), and the retroperitoneum (the area behind the abdominal organs). Also shown are the heart and peritoneum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Extragonadal germ cell tumors form in parts of the body other than the gonads (testicles or ovaries).  This includes the pineal gland in the brain, the mediastinum (area between the lungs), and retroperitoneum (the back wall of the abdomen).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000271920">Extragonadal Germ Cell Tumors Treatment</Summary>
+  <Glossary cdr:ref="CDR0000444993">extragonadal germ cell tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-03-16</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

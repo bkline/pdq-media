@@ -1,0 +1,73 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>scan, magnetic resonance imaging, breast-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Imagen de resonancia magnética  de la mama</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000810165">scan, magnetic resonance imaging, breast</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Magnetic resonance imaging breast FP v Spanish1.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>Black or African American</Race>
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Imagen por  resonancia magnética (IRM)  de la mama. En la imagen se observa una persona acostada boca abajo en una camilla estrecha y acolchada. La persona  tiene los brazos estirados por encima de la cabeza y las mamas cuelgan dentro de un orificio en la camilla. La camilla se desliza en la máquina de IRM y se crean imágenes detalladas del interior de las mamas. En un recuadro se observa una imagen de IRM del interior de ambas mamas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La imagen por resonancia magnética (IRM) es un procedimiento para el que se usan ondas de radio, un imán potente y una computadora a fin de crear una serie de imágenes detalladas del interior de la mama. Es posible que se inyecte material de contraste en una vena (no se muestra en la imagen) para ayudar a que los tejidos de la mama se vean mejor en las imágenes. La IRM se puede usar con otras pruebas de diagnóstico por la imagen de las mamas para detectar el cáncer de mama u otros cambios anormales. A veces se usa como examen de detección del cáncer de mama en personas que tienen riesgo alto de esta enfermedad. <Emphasis>Nota: En el recuadro se observa una IRM del interior de ambas mamas. Crédito del recuadro: The Cancer Imaging Archive (TCIA).</Emphasis></MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256762">Tratamiento del cáncer de seno (mama) en adultas</Summary>
+  
+ <Summary cdr:ref="CDR0000744471">Exámenes de detección del cáncer de seno (mama)</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of labels, cont. descr. and caption in progress</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810165">scan, magnetic resonance imaging, breast</TranslationOf></Media>

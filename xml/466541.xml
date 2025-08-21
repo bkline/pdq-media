@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, bone</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1401</HeightPixels>
+    <WidthPixels>1800</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2012-11-09</DateCreated>
+   
+   
+   <SourceFilename>BoneScan6.jpg</SourceFilename>
+   <Comment audience="Internal" date="2012-11-13" user="anjamison">Added title.</Comment><Comment>Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Bone scan; drawing shows patient lying on a table that slides under the scanner, a technician operating the scanner, and a monitor that will show images made during the scan.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Bone scan. A small amount of radioactive material is injected into the patient's bloodstream and collects in abnormal cells in the bones. As the patient lies on a table that slides under the scanner, the radioactive material is detected and images are made on a computer screen or film.</MediaCaption>
+  </Captions>
+  
+  
+ <Comment audience="Internal" date="2012-08-31" user="anjamison">Deleted HP caption: "Bone scan." Deleted HP content description: "Bone scan; drawing shows patient lying on a table that slides under the scanner, a technician operating the scanner, and a monitor that will show images made during the scan."</Comment></MediaContent>
+ 
+<ProposedUse>
+       
+       <Summary cdr:ref="CDR0000062965">Prostate Cancer Treatment</Summary><Summary cdr:ref="CDR0000256810">Cáncer de próstata: Tratamiento</Summary><Glossary cdr:ref="CDR0000046499">bone scan</Glossary></ProposedUse><ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>2006-07-19 caption and content desc translation QC'd and completed.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-06-30</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-22" user="dbuchhagen">Added HP caption and content descripiton.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-05-08</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>In review by group.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-04-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>2006-06-02 final image; mm</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-03-17</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

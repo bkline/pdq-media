@@ -1,0 +1,96 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>kidney cancer stage III-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de riñón en estadio III</LabelName><LabelName language="es">Riñón derecho</LabelName><LabelName language="es">Glándula suprarrenal derecha</LabelName><LabelName language="es">Cáncer en un ganglio linfático</LabelName><LabelName language="es">Glándula suprarrenal  izquierda</LabelName><LabelName language="es">Riñón izquierdo</LabelName><LabelName language="es">Estructuras que recogen la orina</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">a</LabelName><LabelName language="es">b</LabelName><LabelName language="es">c</LabelName><LabelName language="es">d</LabelName><LabelName language="es">Tejido adiposo</LabelName><LabelName language="es">Vena renal</LabelName><LabelName language="es">Vena cava</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource><DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000789104">kidney cancer stage III</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>KidneyCancerStage III FP I Spanish1.jpg</SourceFilename></DerivedFrom>
+  
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone><DateLastReviewed>2023-06-07</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043691">stage III renal cell cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de riñón en estadio III; en la imagen se muestra cáncer en el riñón izquierdo y en: a) los ganglios linfáticos cercanos, b) la vena renal, c) las estructuras del riñón que recogen la orina y d) la capa de tejido adiposo que rodea el riñón. También se muestra el riñón derecho, la vena cava y las glándulas suprarrenales izquierda y derecha.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de riñón en estadio III; en la imagen se muestra cáncer en el riñón izquierdo y en: a) los ganglios linfáticos cercanos, b) la vena renal, c) las estructuras del riñón que recogen la orina y d) la capa de tejido adiposo que rodea el riñón. También se muestra el riñón derecho, la vena cava y las glándulas suprarrenales izquierda y derecha.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de riñón en estadio III. El cáncer en el riñón es de cualquier tamaño y se diseminó a: a) los ganglios linfáticos cercanos, b) los vasos sanguíneos que están en el riñón o cerca de este (vena renal o vena cava), c) las estructuras del riñón que recogen la orina o d) la capa de tejido adiposo que rodea el riñón.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de riñón en estadio III. El cáncer en el riñón es de cualquier tamaño y se diseminó a: a) los ganglios linfáticos cercanos, b) los vasos sanguíneos que están en el riñón o cerca de este (vena renal o vena cava), c) las estructuras del riñón que recogen la orina o d) la capa de tejido adiposo que rodea el riñón.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256795">Tratamiento del cáncer de células renales</Summary>
+  <Glossary cdr:ref="CDR0000046169">stage III kidney cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image with skin tone changes and updates to content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to Terese to make diversity changes and match the English version</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-02</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-03-02" user="lansberryic">Las letras c y d tienen la misma resolución y ubicación que la imagen en inglés.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-02</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Las letras c y d en la imagen no se entienden. Hay que acercar las líneas que corresponden a cada una de las leyendas; están demasiado lejos.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Added media file/Pending 2 QC for media file</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New Spa Media document and Spa draft: labels, content. descr. and caption</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000789104">kidney cancer stage III</TranslationOf></Media>

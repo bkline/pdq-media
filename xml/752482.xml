@@ -1,0 +1,134 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage IIIA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de vejiga en estadio IIIA</LabelName><LabelName language="es">Arteria ilíaca común derecha</LabelName><LabelName language="es">Arteria ilíaca común izquierda</LabelName><LabelName language="es">(b) Cáncer en un ganglio linfático de la pelvis</LabelName><LabelName language="es">(a) Grasa que rodea la vejiga</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Arteria ilíaca común derecha</LabelName><LabelName language="es">Arteria ilíaca común izquierda</LabelName><LabelName language="es">(b) Cáncer en un ganglio linfático de la pelvis</LabelName><LabelName language="es">(a) Grasa que rodea la vejiga</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Útero</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1269</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000749310">bladder cancer stage IIIA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BladderCaStage IIIA MaleFemale FP V Spanish1.jpg</SourceFilename>
+  <Comment user="saucedol" audience="Internal" date="2023-02-05">Revised image linked</Comment><Comment audience="Internal" date="2013-09-25" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de vejiga en estadio lllA. Se muestra una imagen con dos paneles. En el de la izquierda, se observa cáncer en un hombre y en el de la derecha, en una mujer. En ambos paneles, se observa cáncer en la vejiga y en la capa de grasa que la rodea (a), así como en un ganglio linfático de la pelvis (b). También se muestran las arterias ilíacas comunes derecha e izquierda, la próstata (panel izquierdo) y el útero (panel derecho).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de vejiga en estadio lllA. Se muestra una imagen con dos paneles. En el de la izquierda, se observa cáncer en un hombre y en el de la derecha, en una mujer. En ambos paneles, se observa cáncer en la vejiga y en la capa de grasa que la rodea (a), así como en un ganglio linfático de la pelvis (b). También se muestran las arterias ilíacas comunes derecha e izquierda, la próstata (panel izquierdo) y el útero (panel derecho).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de vejiga en estadio lllA. Se presenta una de las siguientes situaciones:  el cáncer se diseminó a través del tejido muscular y la pared de la vejiga a la capa de grasa que rodea la vejiga (a), y es posible que se haya diseminado a la próstata o las vesículas seminales en los hombres, y al útero o la vagina en las mujeres, pero no a los ganglios linfáticos;  o el cáncer se diseminó en la pelvis a un ganglio linfático que no está cerca de las arterias ilíacas comunes (b).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de vejiga en estadio lllA. Se presenta una de las siguientes situaciones:  el cáncer se diseminó a través del tejido muscular y la pared de la vejiga a la capa de grasa que rodea la vejiga (a), y es posible que se haya diseminado a la próstata o las vesículas seminales en los hombres, y al útero o la vagina en las mujeres, pero no a los ganglios linfáticos;  o el cáncer se diseminó en la pelvis a un ganglio linfático que no está cerca de las arterias ilíacas comunes (b).</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256808">Tratamiento del cáncer de vejiga</Summary>
+  <Glossary cdr:ref="CDR0000045124">stage III bladder cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image looks good</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC of labels as well as caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Two revised labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-04</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Labels, caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Suggest changes to the labels and to the caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial changes to match Spa summary and GTC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised descriptions, revised sourcefile name.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       <Comment audience="Internal" date="2018-03-14" user="adlerm2">Por favor, "ilíaca/o" con acento, por ser esdrújula. Ver DTM y Navarro.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Labels, caption and content descr. changes per AJCC updates//pending Spa QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-12</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000749310">bladder cancer stage IIIA</TranslationOf></Media>

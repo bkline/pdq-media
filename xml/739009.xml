@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>adrenal gland anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Adrenal Gland</LabelName><LabelName language="en">Adrenal cortex</LabelName><LabelName language="en">Adrenal medulla</LabelName><LabelName language="en">Right adrenal gland</LabelName><LabelName language="en">Left  adrenal gland</LabelName><LabelName language="en">Left kidney</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-04-12</DateCreated>
+   <SourceFilename>AdrenalGlandAnatomy2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-04-12" user="anjamison">Deleted blue blood vessel in inset.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038758">adrenocortical carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the adrenal gland; drawing of the abdomen showing the left and right adrenal glands, the left and right kidneys, and major blood vessels. A cross section of an adrenal gland is in an inset showing the adrenal cortex and the adrenal medulla.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the adrenal gland. There are two adrenal glands, one on top of each kidney. The outer part of each gland is the adrenal cortex; the inner part is the adrenal medulla.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000269044">Adrenocortical Carcinoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000523429">adrenal cancer</Glossary>
+ <Glossary cdr:ref="CDR0000458082">adrenal cortex</Glossary><Glossary cdr:ref="CDR0000046678">adrenal gland</Glossary><Glossary cdr:ref="CDR0000458083">adrenal medulla</Glossary><Glossary cdr:ref="CDR0000457974">adrenocortical cancer</Glossary><Glossary cdr:ref="CDR0000446526">adrenocortical carcinoma</Glossary><Glossary cdr:ref="CDR0000457975">cancer of the adrenal cortex</Glossary></ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-31</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-31</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-25</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-04-12</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2013-04-12" user="anjamison">Updated to AdrenalGlandAnatomy2.jpg</Comment><Comment>Updated to AdrenalGlandAnatomy1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-07-23</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Sample illustrations sent to Terese Winslow.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000739008">Sample Illustration: adrenal gland anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,122 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Squamous Cell Carcinoma of the Esophagus</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Esophageal cancer has spread to other parts of the body such as:</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-07-18</DateCreated>
+   <SourceFilename>EsophagusSquamousStage4B.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-07-19" user="yousufzaimg">changed "cancer' to "carcinoma"</Comment><Comment audience="Internal" date="2019-06-26" user="kuhlmanna">Changed wording in the upper right to “Esophageal cancer has spread to other parts of the body such as:”; added the lung and a label</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Image revisions  made per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2016-02-23" user="yousufzaimg">Added the brain; moved the label for “Bone” to the other side of the figure; and shortened the lines for Liver, Adrenal gland, and Kidney so that they point to the organs on the right side of the figure (the body’s left side)</Comment><Comment audience="Internal" date="2016-02-08" user="kuhlmanna">Shaded in the area connecting the primary tumor in the inset box to the primary tumor on the main figure; changed label in main figure from "Cancer in the esophagus" to "Esophagus"</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Replaced metastasis inset with a new inset from the Metastasis image</Comment><Comment>Made the adrenal glands more visible</Comment><Comment audience="Internal" date="2014-05-19" user="myousufzai">Added labels to parts of the body where esophageal cancer is most likely to spread: lung, liver, adrenal glands, kidneys, and bones.</Comment><Comment audience="Internal" date="2014-04-07" user="akuhlmann">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000792022">stage IVB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB squamous cell cancer of the esophagus; drawing shows other parts of the body where esophagus cancer may spread, including the lung and liver. An inset shows cancer cells spreading from the esophagus, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVB squamous cell cancer of the esophagus; drawing shows other parts of the body where esophagus cancer may spread, including the lung and liver. An inset shows cancer cells spreading from the esophagus, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB squamous cell cancer of the esophagus. Cancer has spread to other parts of the body, such as the liver or lung.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IVB squamous cell cancer of the esophagus. Cancer has spread to other parts of the body, such as the liver or lung.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062741">Esophageal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000720248">stage IV esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated to EsophagusSquamousStage4B.1.jpg</Comment><Comment audience="Internal" date="2016-03-21" user="kuhlmanna">Added EsophagealCaSquamousStage4.8.jpg</Comment><Comment audience="Internal" date="2016-02-23" user="yousufzaimg">Added EsophagealCaSquamousStage4.7.jpg</Comment><Comment audience="Internal" date="2016-02-08" user="kuhlmanna">Added EsophagealCaSquamousStage4.6.jpg</Comment><Comment>Added EsophagealCaSquamousStage4.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Image and caption need modifications per J. Faris</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-09</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-02</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-04-07</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000763668">Illustration Review Sheet: esophageal squamous cell stage IV</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000792773">Sample Illustration: Esophageal SCC AJCC Revisions</SupplementaryInfoLink></RelatedDocuments><Comment audience="Internal" date="2015-10-12" user="yousufzaimg">Added HP caption/content description; my</Comment></Media>

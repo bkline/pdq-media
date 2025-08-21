@@ -1,0 +1,114 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Classification of Conditioning Regimens-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Necesidad de rescate de células madre</LabelName><LabelName language="es">No</LabelName><LabelName language="es">Sí</LabelName><LabelName language="es">No mielosupresor</LabelName><LabelName language="es">Acondicionamiento de intensidad reducida</LabelName><LabelName language="es">Mielosupresor</LabelName><LabelName language="es">mínima</LabelName><LabelName language="es">breve</LabelName><LabelName language="es">prolongada</LabelName><LabelName language="es">irreversible</LabelName><LabelName language="es">pancitopenia</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2680</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000712360">Classification of Conditioning Regimens</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ClassCondRegimensSpanish4.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2017-10-03" user="saucedol">Linked revised image</Comment><Comment audience="Internal" date="2012-06-08" user="lsaucedo">New illustrations</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Figura 3. En la imagen se observa la clasificación de los regímenes de acondicionamiento según la duración de la pancitopenia y la necesidad de rescate de células madre; también se observan los regímenes mielosupresores, los regímenes no mielosupresores y los regímenes de intensidad reducida.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Figura 3. Clasificación de los regímenes de acondicionamiento en tres categorías según la duración de la pancitopenia y la necesidad de rescate de células madre. Los regímenes mielosupresores producen pancitopenia irreversible y requieren rescate de células madre. Los regímenes no mielosupresores producen citopenia mínima y no requieren rescate de células madre. Los regímenes de intensidad reducida son regímenes que no se pueden clasificar en ninguna de las otras categorías. Reproducción de Biology of Blood and Marrow Transplantation, 15 (12), Andrea Bacigalupo, Karen Ballen, Doug Rizzo, Sergio Giralt, Hillard Lazarus, Vincent Ho, Jane Apperley, Shimon Slavin, Marcelo Pasquini, Brenda M. Sandmaier, John Barrett, Didier Blaise, Robert Lowski, Mary Horowitz, Defining the Intensity of Conditioning Regimens: Working Definitions, Páginas 1628-1633, Derechos de autor 2009, autorizada por Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-31</ProcessingStatusDate>
+        <EnteredBy>2022-10-31</EnteredBy>
+        <Comment> QCd new  image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels, caption and content descr.</Comment><Comment user="lansberryic" audience="Internal" date="2022-10-19">Revised with MDS: use of MA, NMA and RIC vs. MS, NMS  and RIC vs. only long version.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Linked to a new transplant module.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue><ProcessingStatusDate>2017-10-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QCd editorial changes to captions and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Terminology meeting to unify all Spa-GTN with -ablation (-supresión) -suppression (-depresión) (immune system)// Update in Spanish - pending Spa QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Caption and content description translated, image linked </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000712360">Classification of Conditioning Regimens</TranslationOf></Media>

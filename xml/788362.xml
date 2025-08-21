@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Incidence per 100,000 Women</LabelName><LabelName language="en">300</LabelName><LabelName language="en">250</LabelName><LabelName language="en">200</LabelName><LabelName language="en">150</LabelName><LabelName language="en">100</LabelName><LabelName language="en">50</LabelName><LabelName language="en">0</LabelName><LabelName language="en">1975</LabelName><LabelName language="en">1980</LabelName><LabelName language="en">1985</LabelName><LabelName language="en">1990</LabelName><LabelName language="en">1995</LabelName><LabelName language="en">2000</LabelName><LabelName language="en">2005</LabelName><LabelName language="en">2010</LabelName><LabelName language="en">Metastatic  breast cancer</LabelName><LabelName language="en">Introduction of widespread screening mammography</LabelName><LabelName language="en">Approximately 30% increase associated with the onset of widespread screening mammography</LabelName><LabelName language="en">All invasive breast cancers</LabelName><ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>New England Journal of Medicine</Creator>
+   <SourcePublication>Welch HG, Prorok PC, O'Malley AJ, et al.: Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness. New England Journal of Medicine, Volume 375 (Issue 15), Pages 1438-47, Copyright © 2016 Massachusetts Medical Society.</SourcePublication><DateCreated>2017-05-11</DateCreated>
+   <SourceFilename>NEJM Figure_04-17-17Breast Cancers3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-05-11" user="kuhlmanna">Image enhanced by Terese</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2017-03-10</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2017-04-27</PermissionResponseDate>
+    
+    
+    <PublisherPermissionText>From New England Journal of Medicine, Welch HG, Prorok PC, O'Malley AJ, Kramer BS, Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness, Volume 375, Issue 15, Pages 1438-47, Copyright © 2016 Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society.</PublisherPermissionText><ApprovedUse>
+     <Summary cdr:ref="CDR0000062751">Breast Cancer Screening</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000786965">Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the temporal relationship between the introduction of screening mammography and increased incidence of invasive breast cancer.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Shown are the incidences of overall invasive breast cancer and metastatic breast cancer among women 40 years of age or older at nine sites of the Surveillance, Epidemiology, and End Results (SEER) program, during the period from 1975 through 2012.
+
+
+From New England Journal of Medicine, Welch HG, Prorok PC, O'Malley AJ, Kramer BS, Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness, Volume 375, Issue 15, Pages 1438-47, Copyright © 2016 Massachusetts Medical Society. Reprinted with permission from Massachusetts Medical Society.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062751">Breast Cancer Screening</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-17</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-04-17</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000788361">Permission: NEJM Figure_04-17-17</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000788704">Permission: Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness</SupplementaryInfoLink></RelatedDocuments></Media>

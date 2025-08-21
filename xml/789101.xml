@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>kidney cancer stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage II Kidney Cancer</LabelName><LabelName language="en">Right kidney</LabelName><LabelName language="en">Left kidney</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Tumor is larger than 7 cm</LabelName><LabelName language="en">7 cm</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2430</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2023-06-15</DateCreated><SourceFilename>KidneyCancerStage II FP V.2.jpg</SourceFilename><Comment user="kuhlmanna" date="2023-06-18" audience="Internal">Added white leader lines to labels so they are more visible against the darker skin tone</Comment><Comment user="yousufzaimg" date="2023-06-12" audience="Internal">Updated skin tone to FP V</Comment><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Made the fatty tissue layer on the right side of the kidney match the brighter color on the part to the left of the grey pull out area;
+Removed the label for Ureter;	Labeled Fatty tissue
+</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Made cancer bulge out of kidney quite a bit and look more encapsulated</Comment><Comment audience="Internal" date="2018-01-10" user="kuhlmanna">AJCC 8th edition updates made</Comment><Comment audience="Internal" date="2017-08-07" user="kuhlmanna">Made cancer spot bigger so that it looks bigger than the peach</Comment><Comment audience="Internal" date="2017-07-24" user="yousufzaimg">Made the inset box a little smaller so that the tumor actually looks larger than the peach, or at least close to it</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2023-06-22</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043690">stage II renal cell cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II kidney cancer; drawing shows cancer in the left kidney and the tumor is larger than 7 centimeters. An inset shows 7 centimeters is about the size of a peach. Also shown are the fatty tissue and right kidney.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage II kidney cancer; drawing shows cancer in the left kidney and the tumor is larger than 7 centimeters. An inset shows 7 centimeters is about the size of a peach. Also shown are the fatty tissue and right kidney.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II kidney cancer. The tumor is larger than 7 centimeters and is found in the kidney only.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage II kidney cancer. The tumor is larger than 7 centimeters and is found in the kidney only.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000276462">Renal Cell Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046168">stage II kidney cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2023-06-18" audience="Internal">Updated image to KidneyCancerStage II FP V.2.jpg</Comment><Comment user="yousufzaimg" date="2023-06-12" audience="Internal">Updated image to KidneyCancerStage II FP V.1.jpg</Comment><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Added KidneyCancerStage2.6.jpg</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Added KidneyCancerStage2.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-05-24</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000789095">Sample Illustration: kidney cancer staging</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000791820">Illustration Review Sheet: Stage II Kidney Cancer</SupplementaryInfoLink></RelatedDocuments></Media>

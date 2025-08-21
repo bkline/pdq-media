@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Extracranial Germ Cell Tumor  - GCT Diagram-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tumores de células germinativas</LabelName><LabelName language="es">Célula precursora</LabelName><LabelName language="es">Célula germinativa primordial totipotente</LabelName><LabelName language="es">Diferenciación</LabelName><LabelName language="es">Normal</LabelName><LabelName language="es">Somática</LabelName><LabelName language="es">Embrionaria</LabelName><LabelName language="es">Extraembrionaria</LabelName><LabelName language="es">Ninguna: estado germinativo</LabelName><LabelName language="es">Subtipo de tumor</LabelName><LabelName language="es">Testículo u ovario normal (sin crecimiento tumoral)</LabelName><LabelName language="es">Teratoma</LabelName><LabelName language="es">Maduro</LabelName><LabelName language="es">Inmaduro</LabelName><LabelName language="es">Carcinoma embrionario</LabelName><LabelName language="es">Tumor de saco vitelino</LabelName><LabelName language="es">Coriocarcinoma</LabelName><LabelName language="es">Seminoma (testículo)</LabelName><LabelName language="es">Disgerminoma (ovario)</LabelName><LabelName language="es">Germinoma (extragonadal)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000801664">Childhood Extracranial Germ Cell Tumor  - GCT Diagram</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EXT GCT Figure from TOlson_Spanish1</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el diagrama se observa el desarrollo de las células germinativas extracraneales a partir de las células germinativas primordiales.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Desarrollo de las células germinativas extracraneales a partir de las células germinativas primordiales. Fuente: Dr. Thomas Olson.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256755">Tratamiento de los tumores extracraneales de células germinativas en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Me parece mejor "diagrama" (ver Cosnautas "tree map")</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Cont. and Caption pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, content description and caption translation pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of labels: Miré la colocación de la imagen en el sumario y el texto relacionado, tanto en inglés como en español. Me parece que son innecesarias las siglas en la versión en español, no añaden nada y más bien confunden lector, porque la mayoría de esas siglas no se usan en el resto del sumario. La sigla GCTs en la primera etiqueta actúa como "título" de la imagen y me parece que debe ir en extenso como hacemos siempre con los títulos en español. Célula germinal es un alternate name correcto, pero aquí debemos usar célula germinativa para mantener congruencia con el resto del sumario.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000801664">Childhood Extracranial Germ Cell Tumor  - GCT Diagram</TranslationOf></Media>

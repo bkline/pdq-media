@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, adult, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Bulbo raquídeo</LabelName><LabelName language="es">Meninges</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Cráneo</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Ventrículos (espacios llenos de líquido)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2625</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000680399">brain, adult, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BrainLateralSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2010-10-15" user="lsaucedo">Added new illustration</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Dibujo de la anatomía del encéfalo que muestra el tronco encefálico, la protuberancia, la médula espinal, el cerebelo, el cerebro, las meninges, los ventrículos (espacios llenos de líquido) y el cráneo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomía del encéfalo: muestra el cerebro, el cerebelo, la médula espinal y otras partes del encéfalo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256800">Tumores cerebrales en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000665736">Astrocitomas infantiles: Tratamiento</Summary><Summary cdr:ref="CDR0000600419">Descripción del tratamiento de tumores de cerebro y de médula espinal infantiles</Summary><Summary cdr:ref="CDR0000256776">Glioma de tronco encefálico infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000632891">Tumor teratoideo/rabdoide atípico del sistema nervioso central infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000632970">Craneofaringioma infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000256848">Ependimoma infantil: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000387264">brain tumor</Glossary><Glossary cdr:ref="CDR0000045624">brain stem glioma</Glossary><Glossary cdr:ref="CDR0000045625">brain stem tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new illustration, reviewed labels, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd translated labels, caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-08</ProcessingStatusDate>
+        <EnteredBy>2010-10-08</EnteredBy>
+        <Comment>Labels, caption and content description translation pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

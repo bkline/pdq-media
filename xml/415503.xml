@@ -1,0 +1,53 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>sigmoidoscopy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Sigmoidoscopy</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Sigmoid colon</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Sigmoidoscope</LabelName><LabelName language="en">Anus</LabelName><ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>2583</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-03-18</DateCreated><SourceFilename>SigmoidoscopyFemalePatient FP V_ Provider FP VI.2</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-03-21">Adjusted the scope in the inset so that it extends only into the lower part of the colon and changed the color of the scope from blue to green so that it matches the scope color in the main figure</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Made patient female and darkened skin tone of patient and provider</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Made the figure look more male.</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Added nipples to indicate that it is the front of the person; moved the title from the inset to the top of the illustration.</Comment><Comment>Added new copyright information and label names. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Sigmoidoscopy; drawing shows a sigmoidoscope inserted through the anus and rectum and into the sigmoid colon. An  inset shows a patient lying on a table having a sigmoidoscopy.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Sigmoidoscopy.  A thin, lighted tube is inserted through the anus and rectum and into the lower part of the colon to look for abnormal areas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Updated image to SigmoidoscopyFemalePatient FP V_ Provider FP VI.1.jpg</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Updated to Sigmoidoscopy8.jpg</Comment><Comment>Updated to Sigmoidoscopy7.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

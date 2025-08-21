@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, anaplastic, stage IVA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA Anaplastic Thyroid Cancer</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph node</LabelName><ImageDimensions><HeightPixels>2625</HeightPixels>
+    
+    
+   <WidthPixels>2820</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2016-09-19</DateCreated><SourceFilename>AnaplasticThyroidCaStage4A.3.jpg</SourceFilename><Comment audience="Internal" date="2016-09-28" user="yousufzaimg">Added a label for Lymph node</Comment><Comment audience="Internal" date="2016-08-23" user="yousufzaimg">Added lymph nodes</Comment><Comment>First Draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038809">anaplastic thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA anaplastic thyroid cancer; drawing shows cancer in the thyroid gland. The lymph nodes are also shown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVA anaplastic thyroid cancer; drawing shows cancer in the thyroid gland. The lymph nodes are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA anaplastic thyroid cancer. Cancer is found in the thyroid and may have spread to lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVA anaplastic thyroid cancer. Cancer is found in the thyroid and may have spread to lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment</Summary><Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-08-23" user="yousufzaimg">Added AnaplasticThyroidCaStage4A.3.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-07-25</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000782404">Sample Illustration: stage IVA and stage IVB anaplastic thyroid cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

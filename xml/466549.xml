@@ -1,0 +1,67 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, computed tomography, lung</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">CT Scan of the Lung</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels><WidthPixels>3300</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-06-14</DateCreated>
+   
+   
+   <SourceFilename>CT Lung Adult FP IV.2.jpg</SourceFilename>
+   <Comment user="kuhlmanna" date="2024-06-17" audience="Internal">Removed the inset with the hand-written note “CT scan image”</Comment><Comment user="kuhlmanna" date="2023-09-11" audience="Internal">Removed provider; updated skin tone of patient; and updated CT scan  machine for consistency with other CT scan images</Comment><Comment>2012-11-09 Added title. aj</Comment><Comment>2006-01-31 CTScanLung2.jpg; moved the CT scan image to the right side of the illustration. mm</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  <SkinTone>Type IV – Light brown skin</SkinTone>
+  
+ <DateLastReviewed>2024-06-24</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Computed tomography (CT) scan of the lung; drawing  shows a patient lying on a table that slides through the CT machine, which takes a series of detailed x-ray pictures of the  lung.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Computed tomography (CT) scan of the lung. The patient lies on a table that slides through the CT machine, which takes a series of detailed x-ray pictures of the lung.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000062947">Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000269299">Malignant Mesothelioma Treatment</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2024-06-17" audience="Internal">Updated to CT Lung Adult FP IV.2.jpg</Comment><Comment user="kuhlmanna" date="2023-09-11" audience="Internal">Updated to CT Lung Adult FP IV.1.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to CTScanLung5.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to CTScanLung4.jpg</Comment><Comment>On hold; need to find different CT scan image for inset. mm</Comment>
+       </ProcessingStatus>
+       </ProcessingStatuses></Media>

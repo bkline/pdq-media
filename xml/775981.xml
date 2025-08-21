@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, bone marrow aspiration and, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Aspiración de la médula ósea y biopsia</LabelName><LabelName language="es">Aguja para la médula ósea</LabelName><LabelName language="es">Médula ósea</LabelName><LabelName language="es">Piel</LabelName><LabelName language="es">Hueso ilíaco (hueso de la cadera)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000775458">biopsy, bone marrow aspiration and, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BoneMarrowBiopsyChildAfricanAmerSpanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-10-07" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Aspiración de la médula ósea y biopsia;  el dibujo muestra a un niño acostado boca abajo en una camilla y una aguja para la médula ósea que se inserta en el hueso ilíaco (hueso de la cadera) derecho. El recuadro muestra la aguja para la médula ósea que se inserta a través de la piel hasta la médula ósea del hueso de la cadera.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Aspiración de la médula ósea y biopsia. Después de adormecer un área pequeña de la piel, se inserta una aguja para la médula ósea en el hueso ilíaco (hueso de la cadera) del niño. Se extraen muestras de sangre, hueso y médula ósea para examinarlas bajo un microscopio.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000256765">Leucemia linfoblástica aguda infantil: Tratamiento</Summary>
+       <Summary cdr:ref="CDR0000256797">Leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles: Tratamiento</Summary><Summary cdr:ref="CDR0000579418">Rabdomiosarcoma infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000583660">Sarcoma de Ewing: Tratamiento</Summary><Summary cdr:ref="CDR0000391227">Neuroblastoma: Tratamiento</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-07</ProcessingStatusDate>
+        <EnteredBy>2015-10-07</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Carcinoma de células escamosas de esófago en estadio IA</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Células cancerosas de grados 1 o desconocido</LabelName><LabelName language="es">Interior del esófago</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Capa muscular delgada</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa muscular gruesa</LabelName><LabelName language="es">Músculo</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Ganglio linfático</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000752730">esophageal squamous cell carcinoma stage IA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EsophagealSquamousStageIASpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717422">stage IA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IA. En la imagen se observan el esófago y el estómago. En una ampliación, se muestran células cancerosas en la mucosa y la capa muscular delgada de la pared del esófago. Las células cancerosas son de grado 1 o grado desconocido. Además, se observan la submucosa, la capa muscular gruesa y el tejido conjuntivo de la pared del esófago. También se muestran ganglios linfáticos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IA. En la imagen se observan el esófago y el estómago. En una ampliación, se muestran células cancerosas en la mucosa y la capa muscular delgada de la pared del esófago. Las células cancerosas son de grado 1 o grado desconocido. Además, se observan la submucosa, la capa muscular gruesa y el tejido conjuntivo de la pared del esófago. También se muestran ganglios linfáticos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IA. El cáncer se diseminó a la mucosa o la capa muscular delgada de la pared del esófago. Las células cancerosas son de grado 1 o grado desconocido. Las células cancerosas de grado 1 se ven más como las células normales al microscopio, y se multiplican y diseminan más despacio que las células cancerosas de grados 2 y 3.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IA. El cáncer se diseminó a la mucosa o la capa muscular delgada de la pared del esófago. Las células cancerosas son de grado 1 o grado desconocido. Las células cancerosas de grado 1 se ven más como las células normales al microscopio, y se multiplican y diseminan más despacio que las células cancerosas de grados 2 y 3.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary>
+  <Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary><Glossary cdr:ref="CDR0000720215">stage I esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-20</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; caption and content revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment><Comment audience="Internal" date="2019-07-17" user="lansberryic">In Spanish is better to match translation of media title "esophageal squamous cell carcinoma": "carcinoma de células escamosas de esófago" and label "Squamous Cell Cancer of the Esophagus": "carcinoma de células escamosas de esófago". This will work better with both HP and Pat summaries, and also with GTN/GTC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-12</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised labels; AJCC 8th edition update</Comment>
+       <Comment audience="Internal" date="2019-07-12" user="adlerm2">Added description and caption translations in proposed markup</Comment><Comment audience="Internal" date="2019-07-12" user="adlerm2">"Muscle" label marked for deletion; it appears in EN, but is not on the image.</Comment><Comment audience="Internal" date="2019-07-15" user="adlerm2">Please note in Spanish we are using "carcinoma de células escamosas de esófago" (vs. "cáncer de esófago de células escamosas") on image content. This is consistent with staging terminology in patient summary and related GTNs. See also related staging GTNs and GTC for esophageal cancer (CDR444989), which use "squamous cell carcinoma" (vs. squamous cell cancer of the esophagus).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000752730">esophageal squamous cell carcinoma stage IA</TranslationOf></Media>

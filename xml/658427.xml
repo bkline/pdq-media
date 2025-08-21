@@ -1,0 +1,124 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage I - Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estadio IA</LabelName><LabelName language="es">Cáncer en el interior de un ovario</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Estadio IB</LabelName><LabelName language="es">Cáncer en el interior de ambos ovarios o trompas de Falopio</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Estadio IC</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">a</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Células cancerosas en el líquido del peritoneo pélvico</LabelName><LabelName language="es">c</LabelName><ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000618025">ovarian cancer stage I</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>OFP1ABCSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-02-01" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043701">ovarian epithelial cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040968">fallopian tube cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Figura de tres paneles de los estadios IA, IB y IC; los paneles muestran los ovarios, las trompas de Falopio, el útero, el cuello uterino y la vagina. El primer panel (estadio IA) muestra cáncer en el interior de un ovario. El segundo panel (estadio IB) muestra  cáncer en el interior de ambos ovarios. El tercer panel  (estadio IC) muestra cáncer  en el interior de ambos ovarios y a) el tumor en el ovario de la izquierda se rompió (se abrió), b) el ovario de la derecha tiene cáncer en la superficie y c) el líquido del peritoneo pélvico tiene células cancerosas (recuadro).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Figura de tres paneles de los estadios IA, IB y IC; los paneles muestran los ovarios, las trompas de Falopio, el útero, el cuello uterino y la vagina. El primer panel (estadio IA) muestra cáncer en el interior de un ovario. El segundo panel (estadio IB) muestra  cáncer en el interior de ambos ovarios. El tercer panel  (estadio IC) muestra cáncer  en el interior de ambos ovarios y a) el tumor en el ovario de la izquierda se rompió (se abrió), b) el ovario de la derecha tiene cáncer en la superficie y c) el líquido del peritoneo pélvico tiene células cancerosas (recuadro). </ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">En el estadio IA, el cáncer se encuentra en el interior de un solo ovario o una sola trompa de Falopio. En el estadio IB, el cáncer se encuentra en el interior de ambos ovarios o ambas trompas de Falopio.  En el estadio IC, el cáncer se encuentra en el interior de uno o ambos ovarios o de una o ambas trompas de Falopio y se presenta una de las siguientes situaciones: a) el tumor o la cápsula (revestimiento externo) del ovario se rompió (se abrió), b) el cáncer también se encuentra en la superficie del ovario o trompa de Falopio o c) se encuentran células cancerosas  en el líquido del peritoneo pélvico.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">En el estadio IA, el cáncer se encuentra en el interior de un solo ovario o una sola trompa de Falopio. En el estadio IB, el cáncer se encuentra en el interior de ambos ovarios o ambas trompas de Falopio.  En el estadio IC, el cáncer se encuentra en el interior de uno o ambos ovarios o de una o ambas trompas de Falopio y se presenta una de las siguientes situaciones: a) el tumor o la cápsula (revestimiento externo) del ovario se rompió (se abrió), b) el cáncer también se encuentra en la superficie del ovario o trompa de Falopio o c) se encuentran células cancerosas  en el líquido del peritoneo pélvico.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256785">Tratamiento del cáncer epitelial de ovario, de trompas de Falopio y primario de peritoneo</Summary>
+  <Summary cdr:ref="CDR0000256832">Tratamiento de los tumores de células germinativas del ovario</Summary><Glossary cdr:ref="CDR0000045899">stage I ovarian epithelial and fallopian tube cancer</Glossary>
+ <Glossary cdr:ref="CDR0000438722">stage I ovarian germ cell tumor</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-22</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2@nih.gov</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-22</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-12</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2@nih.gov</EnteredBy>
+        <Comment>New summary and glossary term added in "Proposed use"</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-11</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, caption and content description Qdc</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Caption revised</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-12</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2008-02-06" user="dbuchhagen">2010-01-14; Artist uploaded Spanish labeled image. </Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-10-27</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  <Comment audience="Internal" date="2010-01-15" user="dbuchhagen">2010-01-14; Translation of caption and content desc complete.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000618025">ovarian cancer stage I</TranslationOf></Media>

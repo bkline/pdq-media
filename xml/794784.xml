@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IB Lung Cancer</LabelName><LabelName language="en">Tumor is larger than 3 cm but not larger than 4 cm</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">3 cm</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Carina</LabelName><LabelName language="en">Left main bronchus</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Primary tumor is 4 cm or smaller</LabelName><LabelName language="en">Inner membrane covering the lung</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Part or all of the lung has collapsed or has pneumonitis</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>4230</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-03-28</DateCreated>
+   <SourceFilename>LungStage1B OlderFemaleFP V 3.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-03-29">Faded out the clavicle and the shoulder bones in the right image</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-14">Matched the figure's skin tone in the face aside from faded section for the anatomy to show; aged the figure a bit more - added more grey hair, wrinkles </Comment><Comment user="yousufzaimg" audience="Internal" date="2022-02-28">Changed image to an older female and updated skin tone to FP V</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Changed label above the inset to say “Inner membrane covering the lung" per expert reviewer</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Revised name credit (added the LLC)</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Changed the wording in the inset on the left to say “Tumor is larger…4 cm”; moved the Diaphragm label down and made the line point to the bottom part of the diaphragm and added the Pleura label right above that; and changed the wording in the label on the right panel to say “Primary tumor is 4 cm or smaller”.</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Removed the ribs on the left side figure; unbolded the labels; made the title a little larger </Comment><Comment audience="Internal" date="2018-10-02" user="kuhlmanna">On the right figure, moved the tiny box up so that it is closer to the main cancer spot</Comment><Comment audience="Internal" date="2018-10-01" user="yousufzaimg">Changed the title to Stage IB Lung Cancer; moved the word “OR” down a bit; added labels for Lung and Diaphragm on left figure; took off the clear-looking covering on the diaphragm on both figures; on the right figure, removed the letter “a” in the inset; changed the letter “b” in the main figure to “a” and moved it up above the place where the left main bronchus comes in; changed the letter “c” in the inset to a “b”; changed the letter “d” in the main figure to a “c”; changed the label “Part or all of the lung has collapsed” to “Part or all of the lung has collapsed or has pneumonitis”; and removed the “d.” in front of the label.</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">New image per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682740">stage IB non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing of stage IB lung cancer; the panel on the left shows a tumor (larger than 3 cm but not larger than 4 cm) in the right lung. Also shown are the pleura and diaphragm. The panel on the right shows a primary tumor (4 cm or smaller) in the left lung and cancer in (a) the left main bronchus and (b) the inner membrane covering the lung (inset). Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina and a rib (inset) are also shown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Two-panel drawing of stage IB lung cancer; the panel on the left shows a tumor (larger than 3 cm but not larger than 4 cm) in the right lung. Also shown are the pleura and diaphragm. The panel on the right shows a primary tumor (4 cm or smaller) in the left lung and cancer in (a) the left main bronchus and (b) the inner membrane covering the lung (inset). Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina and a rib (inset) are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IB lung cancer. The tumor is larger than 3 centimeters but not larger than 4 centimeters. Cancer has not spread to the lymph nodes; OR the tumor is 4 centimeters or smaller. Cancer has not spread to the lymph nodes and one or more of the following is found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IB lung cancer. The tumor is larger than 3 centimeters but not larger than 4 centimeters. Cancer has not spread to the lymph nodes; OR the tumor is 4 centimeters or smaller. Cancer has not spread to the lymph nodes and one or more of the following is found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000682415">stage IB non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-03-28</ProcessingStatusDate>
+   
+   <EnteredBy>yousufzaimg</EnteredBy><Comment user="yousufzaimg" audience="Internal" date="2022-03-29">Update image to LungStage1B OlderFemaleFP V 3.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-14">Updated image to LungStage1B OlderFemaleFP V 2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-02-28">Updated image to LungStage1B OlderFemaleFP V.1.jpg</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Updated image to LungStage1B7.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage1B.6.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated image to LungStage1B.5.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to LungStage1B.4.jpg</Comment><Comment audience="Internal" date="2018-10-02" user="kuhlmanna">Updated image to LungStage1B.3.jpg</Comment><Comment audience="Internal" date="2018-10-01" user="yousufzaimg">Updated image to LungStage1B.2.jpg</Comment><Comment>Added LungStage1B1.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

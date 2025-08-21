@@ -1,0 +1,59 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>pelvis, male, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Male Pelvic Anatomy</LabelName><LabelName language="en">Pelvis</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Hip joint</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Seminal vesicles</LabelName><LabelName language="en">Prostate</LabelName><ImageDimensions>
+    <HeightPixels>1830</HeightPixels><WidthPixels>1920</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2025-03-24</DateCreated>
+   <SourceFilename>PelvicAnatomyMaleFP V.1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Race>Black or African American</Race>
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the anatomy of the male pelvis shows the pelvis, rectum, hip joint, bladder, seminal vesicles, and prostate.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The pelvis is the area of the body below the abdomen that contains the hip bones, bladder, and rectum. In males, it also contains the prostate and seminal vesicles.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added PelvicAnatomyMaleFP.V.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cerebrospinal fluid-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cerebro</LabelName><LabelName language="es">Ventrículos</LabelName><LabelName language="es">Líquido cefalorraquídeo</LabelName><LabelName language="es">Médula espinal</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2250</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000766316">cerebrospinal fluid</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CerebrospinalFluidSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-21" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la ilustración, se muestra el líquido cefalorraquídeo (LCR) en el cerebro y la médula espinal, así como los ventrículos cerebrales, donde se elabora el LCR.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El líquido cefalorraquídeo (LCR, representado en azul)  se elabora a partir del tejido que reviste los ventrículos (espacios huecos) en el cerebro. Fluye dentro del cerebro y la médula espinal y alrededor de estos para ayudar a amortiguarlos en caso de una lesión y para proporcionar nutrientes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046483">cerebrospinal fluid</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

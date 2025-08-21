@@ -1,0 +1,102 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, bone marrow aspiration and-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Aspiración de la médula ósea y biopsia</LabelName><LabelName language="es">Aguja para médula ósea</LabelName><LabelName language="es">Médula ósea</LabelName><LabelName language="es">Piel</LabelName><LabelName language="es">Hueso de la cadera</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_3"><MediaID cdr:ref="CDR0000554337">biopsy, bone marrow aspiration and </MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>Biopsy BoneMarrow FP V Spanish1.jpg</SourceFilename><Comment audience="Internal" date="2016-03-31" user="kuhlmanna">Fixed link to Media Source</Comment><Comment audience="Internal" date="2015-10-14" user="saucedol">Replaced image, one label was revised</Comment><Comment audience="Internal" date="2013-02-06" user="lsaucedo">Replaced image with new titled image</Comment><Comment>Spanish filename: BoneMarrowBiopsySpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>Black or African American</Race><SkinTone>Type V – Brown skin</SkinTone><Comment user="saucedol" date="2024-07-03" audience="Internal">Revised Race and Skin Tone elements</Comment></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Aspiración de la médula ósea y biopsia;  el dibujo muestra a un paciente acostado boca abajo en una camilla y una aguja para médula ósea que se inserta en el hueso de la cadera. El recuadro muestra la aguja para médula ósea que se inserta a través de la piel hasta la médula ósea del hueso de la cadera.  </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Aspiración  de la médula ósea y biopsia. Después de adormecer un área pequeña de la piel, se inserta una aguja para médula ósea en el hueso de la cadera del paciente. Se extraen muestras de sangre, hueso y médula ósea para examinarlas bajo un microscopio.  </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000256789">Tratamiento de la leucemia linfoblástica aguda en adultos</Summary>
+  
+  <Summary cdr:ref="CDR0000256790">Tratamiento de la leucemia mieloide aguda</Summary><Summary cdr:ref="CDR0000256760">Tratamiento del linfoma de Hodgkin</Summary><Summary cdr:ref="CDR0000256771">Tratamiento del linfoma no Hodgkin</Summary><Summary cdr:ref="CDR0000420913">Tratamiento del linfoma relacionado con el SIDA</Summary><Summary cdr:ref="CDR0000256765">Tratamiento de la leucemia linfoblástica aguda infantil</Summary><Summary cdr:ref="CDR0000256797">Tratamiento de la leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles</Summary><Summary cdr:ref="CDR0000256830">Tratamiento del linfoma de Hodgkin infantil</Summary><Summary cdr:ref="CDR0000256783">Tratamiento del linfoma no Hodgkin infantil</Summary><Summary cdr:ref="CDR0000256788">Tratamiento de la leucemia linfocítica crónica</Summary><Summary cdr:ref="CDR0000256791">Tratamiento de la leucemia mielógena crónica</Summary><Summary cdr:ref="CDR0000420952">Tratamiento de las neoplasias mieloproliferativas crónicas</Summary><Summary cdr:ref="CDR0000256824">Tratamiento de la leucemia de células pilosas</Summary><Summary cdr:ref="CDR0000429622">Tratamiento de las neoplasias de células plasmáticas (incluso mieloma múltiple)</Summary><Summary cdr:ref="CDR0000426393">Tratamiento de los síndromes mielodisplásicos</Summary><Summary cdr:ref="CDR0000453835">Tratamiento de las neoplasias mielodisplásicas o mieloproliferativas</Summary><Summary cdr:ref="CDR0000426390">Tratamiento del linfoma primario del sistema nervioso central</Summary><Glossary cdr:ref="CDR0000046506">bone marrow biopsy</Glossary>
+ <Glossary cdr:ref="CDR0000046505">bone marrow aspiration</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-03</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to incorporate diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-01</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised label pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Editorial change made in caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Changed one label</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-02-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new titled image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-02-06</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2008-02-06" user="dbuchhagen">2008-02-06; Artist uploaded Spanish labeled image. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-12-10</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-02-19" user="rharrison">2008-02-19 translation of addl. changes complete; rh.</Comment>
+   <Comment>2007-12-13 translation of labels, caption, and content description complete; rh.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000554337">biopsy, bone marrow aspiration and </TranslationOf></Media>

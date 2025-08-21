@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>pelvis, male and female, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de la pelvis</LabelName><LabelName language="es">Pelvis</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Articulación de la cadera</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Vesículas seminales</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Ovarios</LabelName><LabelName language="es">Trompas de Falopio</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1830</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000816808">pelvis, male and female, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PelvicAnatomyMaleFemale FP V Spanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En el dibujo de dos paneles se observan las características anatómicas de la pelvis y se señalan la pelvis, el recto, la articulación de la cadera y la vejiga. En el panel de la izquierda se muestra la pelvis de un hombre y se señalan las vesículas seminales y la próstata. En el panel de la derecha se muestra la pelvis de una mujer y se señalan la vagina, el cuello uterino, los ovarios y las trompas de Falopio.  </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La pelvis es el área del cuerpo debajo del abdomen donde se encuentran los huesos ilíacos (huesos de la cadera), la vejiga y el recto. En los hombres, la pelvis también contiene la próstata y las vesículas seminales. En las mujeres, la pelvis también contiene la vagina, el cuello uterino, las trompas de Falopio y los ovarios.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046246">pelvis</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-09</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content descr. peer review complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, caption and content descr. QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image, translation of labels, Cont. Descr. and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC of labels complete.</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000816808">pelvis, male and female, anatomy</TranslationOf></Media>

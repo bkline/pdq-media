@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>complete blood count</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Plasma</LabelName><LabelName language="en">White blood cells</LabelName><LabelName language="en">Platelets</LabelName><LabelName language="en">Red blood cells</LabelName><ImageDimensions>
+    <HeightPixels>2240</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2012-11-09</DateCreated>
+   
+   
+   <SourceFilename>CBC.8.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2012-11-09" user="anjamison">Added title.</Comment><Comment>2008-04-10; Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Complete blood count (CBC); left panel shows blood being drawn from a vein on the inside of the elbow using a tube attached to a syringe; right panel shows a laboratory test tube with blood cells separated into layers: plasma, white blood cells, platelets, and red blood cells. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Complete blood count (CBC). Blood is collected by inserting a needle into a vein and allowing the blood to flow into a tube. The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted.  The CBC is used to test for, diagnose, and monitor many different conditions.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257989">Adult Acute Lymphoblastic Leukemia Treatment</Summary>
+  <Summary cdr:ref="CDR0000257990">Adult Acute Myeloid Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258000">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary><Summary cdr:ref="CDR0000258005">Chronic Lymphocytic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258006">Chronic Myelogenous Leukemia Treatment</Summary><Summary cdr:ref="CDR0000368374">Chronic Myeloproliferative Disorders Treatment</Summary><Summary cdr:ref="CDR0000258013">Hairy Cell Leukemia Treatment</Summary><Summary cdr:ref="CDR0000378291">Myelodysplastic/ Myeloproliferative Neoplasms Treatment</Summary><Summary cdr:ref="CDR0000378089">Myelodysplastic Syndromes Treatment</Summary>
+  <Summary cdr:ref="CDR0000062958">Adult Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257991">Adult Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258030">Primary CNS Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258022">Mycosis Fungoides and the Sézary Syndrome Treatment</Summary><Glossary cdr:ref="CDR0000045107">complete blood count</Glossary>
+ </ProposedUse>
+ <DatedAction><ActionDescription>Consider repurposing this illustration for blood tests, blood chemistries, anything else we can.  This may require having another caption, or tweaking the illustration a bit</ActionDescription><ActionDate>2008-08-03</ActionDate></DatedAction><ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Revised second and third sentences to read, "The blood sample is sent to the laboratory and the red blood cells, white blood cells, and platelets are counted."</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Eric Seifter.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-04-27</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Being reviewed by OCCM multimedia group.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-02-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-04-26 fifth draft; mm 2007-04-06 fourth draft; mm 2007-03-29 third rough; mm 2007-03-01 second rough; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-02-16</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>first rough</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-07-01</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000577399">Illustration Review Sheet: Complete Blood Count</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

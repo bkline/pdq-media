@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>chemotherapy, intrathecal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ommaya reservoir</LabelName><LabelName language="en">Cerebrospinal fluid</LabelName><ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-02-06</DateCreated>
+   
+   
+   <SourceFilename>IntrathecalChemotherapy7.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2007-10-30" user="rharrison">Removed filename and updated copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Intrathecal chemotherapy; drawing shows the cerebrospinal fluid (CSF) in the brain and spinal cord, and an Ommaya reservoir (a dome-shaped container that is placed under the scalp during surgery; it holds the drugs as they flow through a small tube into the brain). Top section shows a syringe and needle injecting anticancer drugs into the Ommaya reservoir. Bottom section shows a syringe and needle injecting anticancer drugs directly into the cerebrospinal fluid in the lower part of the spinal column.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Intrathecal chemotherapy. Anticancer drugs are injected into the intrathecal space, which is the space that holds the cerebrospinal fluid (CSF, shown in blue). There are two different ways to do this. One way, shown in the top part of the figure, is to inject the drugs into an Ommaya reservoir (a dome-shaped container that is placed under the scalp during surgery; it holds the drugs as they flow through a small tube into the brain). The other way, shown in the bottom part of the figure, is to inject the drugs directly into the CSF in the lower part of the spinal column, after a small area on the lower back is numbed.  </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257989">Adult Acute Lymphoblastic Leukemia Treatment</Summary>
+  <Summary cdr:ref="CDR0000257990">Adult Acute Myeloid Leukemia Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258000">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary><Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258030">Primary CNS Lymphoma Treatment</Summary><Glossary cdr:ref="CDR0000046681">intrathecal chemotherapy</Glossary>
+ <Glossary cdr:ref="CDR0000045740">intrathecal</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-02-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-02-18" user="dbuchhagen">2008-02-18; Approved with addl changes 02-15. </Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-01-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-12-13</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent to Jim Nachman.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-11-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-05-25</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment audience="Internal" date="2007-10-30" user="rharrison">2007-12-10 updated to IntrathecalChemotherapy6.jpg, ready for expert review; rh. 2007-11-16 updated to IntrathecalChemotherapy5.jpg; rh. 2007-10-30 updated to IntrathecalChemotherapy4.jpg; rh.</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-03-02</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

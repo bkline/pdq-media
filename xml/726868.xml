@@ -1,0 +1,124 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Selected Conditioning Regimens of Different Dose Intensities-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Clasificación de regímenes de acondicionamiento en pediatría</LabelName><LabelName language="es">Disminución de la dependencia de ICT</LabelName><LabelName language="es">ITC 1200-1400 cGy +/- CY, FLU, Tio, Etop</LabelName><LabelName language="es">BU + CY + Melfalán</LabelName><LabelName language="es">BU + CY 200 mg/kg</LabelName><LabelName language="es">BU + CY 120 mg/kg</LabelName><LabelName language="es">FLU + BU (dosis completa)*</LabelName><LabelName language="es">FLU + Treosulfano*</LabelName><LabelName language="es">FLU + Melfalán</LabelName><LabelName language="es">FLU + BU (dosis baja)</LabelName><LabelName language="es">FLU/CY/GAT</LabelName><LabelName language="es">TBI 200 cGY + FLU</LabelName><LabelName language="es">TBI 200 cGy</LabelName><LabelName language="es">Aumento de la toxicidad</LabelName><LabelName language="es">No mielosupresor</LabelName><LabelName language="es">Intensidad reducida</LabelName><LabelName language="es">Mielosupresor</LabelName><LabelName language="es">Aumento de la intensidad</LabelName><LabelName language="es">GAT = globulina antitimocítica</LabelName><LabelName language="es">BU = busulfano</LabelName><LabelName language="es">cGy = centigray</LabelName><LabelName language="es">CY = ciclofosfamida</LabelName><LabelName language="es">Etop = etopósido</LabelName><LabelName language="es">FLU = fludarabina</LabelName><LabelName language="es">ICT = efecto de injerto contra tumor</LabelName><LabelName language="es">ITC = irradiación total del cuerpo</LabelName><LabelName language="es">Tio = tiotepa</LabelName><LabelName language="es">*Estos dos regímenes se relacionaron con tasas más bajas de mortalidad relacionada con el trasplante en comparación con abordajes mielosupresores estándar; con frecuencia se los llama regímenes mielosupresores de toxicidad reducida.</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>2250</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000712363">Selected Conditioning Regimens of Different Dose Intensities</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Classification of Pediatric Conditioning RegimensSpanish9.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-10-01" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Figura 2. En la imagen se observan algunos regímenes preparatorios que se usan con frecuencia en  TCH pediátricos, clasificados según las definiciones actuales como no mielosupresores, de intensidad reducida o mielosupresores.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Figura 2.  Regímenes preparatorios seleccionados que se usan con frecuencia en  TCH pediátricos, clasificados según las definiciones actuales como no mielosupresores, de intensidad reducida o mielosupresores. Aunque FLU con treosulfano y FLU con busulfano (dosis completa) se consideran abordajes mielosupresores, algunos se refieren a ellos como regímenes de <Emphasis>toxicidad reducida</Emphasis>.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels, caption and content descr.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       <Comment user="dossantosm2" audience="Internal" date="2022-10-18">Image linked to the new transplant modules.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QC changes to caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised Spa per update in summary/ pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Image replaced with revised version to correct top arrow direction</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QC and image received from artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000712363">Selected Conditioning Regimens of Different Dose Intensities</TranslationOf></Media>

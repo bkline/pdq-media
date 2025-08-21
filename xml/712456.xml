@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Level of Human Leukocyte Antigen Typing</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stem Cell Source</LabelName><LabelName language="en">Class I Antigens</LabelName><LabelName language="en">Class II Antigens</LabelName><ImageDimensions>
+    <HeightPixels>904</HeightPixels>
+    <WidthPixels>867</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Board member</Creator>
+   
+   <DateCreated>2011-09-20</DateCreated>
+   
+   
+   <SourceFilename>Figure 1 for Ch HCT summary 9-19-11.JPG</SourceFilename>
+   
+  </OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Level of human leukocyte antigen (HLA) typing currently used for different hematopoietic stem cell sources; table of class I and class II antigens by stem cell source.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 1. Level of Human Leukocyte Antigen (HLA) Typing Currently used for Different Hematopoietic Stem Cell Sources and Definition of Numbers Describing HLA Matching.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-24</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Finalized by OCCM.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-09-20</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy>
+   <Comment>New media doc created. Pending approval</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

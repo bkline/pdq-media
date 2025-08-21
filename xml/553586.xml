@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>blood cells-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Células sanguíneas</LabelName><LabelName language="es">Monocito</LabelName><LabelName language="es">Linfocito</LabelName><LabelName language="es">Neutrófilo</LabelName><LabelName language="es">Eosinófilo</LabelName><LabelName language="es">Basófilo</LabelName><LabelName language="es">Macrófago</LabelName><LabelName language="es">Eritrocito</LabelName><LabelName language="es">Plaquetas</LabelName><ImageDimensions>
+    <HeightPixels>1727</HeightPixels>
+    <WidthPixels>2592</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000503952">blood cells</MediaID></FromCdrMedia></FromObject>
+   <Comment>2008-04-10; BloodCellSpanish2.jpg. Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Células sanguíneas; el dibujo muestra seis tipos de glóbulos blancos (monolitos, linfocitos, neutrófilos, eosinófilos, basófilos y macrófagos), un glóbulo rojo (eritrocito) y plaquetas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Células sanguíneas. La sangre contiene muchos tipos de células: glóbulos blancos (monolitos, linfocitos, neutrófilos, eosinófilos, basófilos y macrófagos), glóbulos rojos (eritrocitos) y plaquetas. La sangre circula por el cuerpo a través de las arterias y las venas.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000270735">blood</Glossary>
+ <Glossary cdr:ref="CDR0000046124">red blood cell</Glossary><Glossary cdr:ref="CDR0000045993">white blood cell</Glossary><Glossary cdr:ref="CDR0000046282">monocyte</Glossary><Glossary cdr:ref="CDR0000045765">lymphocyte</Glossary><Glossary cdr:ref="CDR0000046270">neutrophil</Glossary><Glossary cdr:ref="CDR0000044844">eosinophil</Glossary><Glossary cdr:ref="CDR0000046517">basophil</Glossary><Glossary cdr:ref="CDR0000044054">macrophage</Glossary><Glossary cdr:ref="CDR0000046425">erythrocyte</Glossary><Glossary cdr:ref="CDR0000045840">platelet</Glossary></ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-06-04 Artist completed and uploaded Spanish-labeled images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment audience="Internal">2007-07-23 caption/content description translation completed. 2007-05-18 label translations completed.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

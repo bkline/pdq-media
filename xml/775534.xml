@@ -1,0 +1,156 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Cannabis map-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   
+   <Labeled>Yes</Labeled><LabelName language="es">Estados y territorios en los que el uso del Cannabis con fines terapéuticos es legal</LabelName><LabelName language="es">Washington</LabelName><LabelName language="es">Oregon</LabelName><LabelName language="es">California</LabelName><LabelName language="es">Nevada</LabelName><LabelName language="es">Utah</LabelName><LabelName language="es">Alaska</LabelName><LabelName language="es">Hawaii</LabelName><LabelName language="es">Arizona</LabelName><LabelName language="es">New Mexico</LabelName><LabelName language="es">Colorado</LabelName><LabelName language="es">Montana</LabelName><LabelName language="es">North Dakota</LabelName><LabelName language="es">South Dakota</LabelName><LabelName language="es">Minnesota</LabelName><LabelName language="es">Illinois</LabelName><LabelName language="es">Missouri</LabelName><LabelName language="es">Arkansas</LabelName><LabelName language="es">Oklahoma</LabelName><LabelName language="es">Louisiana</LabelName><LabelName language="es">Mississippi</LabelName><LabelName language="es">Michigan</LabelName><LabelName language="es">Ohio</LabelName><LabelName language="es">West Virginia</LabelName><LabelName language="es">Pennsylvania</LabelName><LabelName language="es">D.C.</LabelName><LabelName language="es">Maryland</LabelName><LabelName language="es">Delaware</LabelName><LabelName language="es">New York</LabelName><LabelName language="es">Connecticut</LabelName><LabelName language="es">New Jersey</LabelName><LabelName language="es">Rhode Island</LabelName><LabelName language="es">Vermont</LabelName><LabelName language="es">New Hampshire</LabelName><LabelName language="es">Massachusetts</LabelName><LabelName language="es">Maine</LabelName><LabelName language="es">Florida</LabelName><LabelName language="es">Puerto Rico</LabelName><LabelName language="es">Guam</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000774100">Cannabis map</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MapCannabisSpanish8.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Mapa que muestra los estados y territorios en los Estados Unidos que han aprobado el uso terapéutico del Cannabis.</ContentDescription>
+  <ContentDescription audience="Patients" language="es">Mapa que muestra los estados y territorios en los Estados Unidos que han aprobado el uso terapéutico del Cannabis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Mapa que muestra los estados y territorios en los Estados Unidos que han aprobado el uso terapéutico del Cannabis.</MediaCaption>
+  <MediaCaption audience="Patients" language="es">Mapa que muestra los estados y territorios en los Estados Unidos que han aprobado el uso terapéutico del Cannabis.</MediaCaption></Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000775842">Cannabis y canabinoides</Summary>
+       <Summary cdr:ref="CDR0000775868">Cannabis y canabinoides</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised map to include Texas, Alabama and Virginia</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised map, added South Dakota and Mississipi</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>QC for labeks</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added two new states</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised map, added Mississipi and South Dakota</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels for new states added to map and revised label sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Three new states added to labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added 5 new states where they have legalized the medical use of cannabis.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent revised title label as per English changes to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000774100">Cannabis map</TranslationOf></Media>

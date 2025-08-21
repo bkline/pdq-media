@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>polyp, colon</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Colon polyps</LabelName><ImageDimensions>
+    <HeightPixels>1929</HeightPixels>
+    <WidthPixels>2346</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2008-03-19</DateCreated><SourceFilename>Polyps6.jpg</SourceFilename>
+  <Comment>Added new copyright information and label name. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000039550">anal cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Colon polyps; shows two polyps (one flat and one pedunculated) inside the colon.  Inset shows photo of a pedunculated polyp.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Polyps in the colon.  Some polyps have a stalk and others do not.  Inset shows a photo of a polyp with a stalk.</MediaCaption>
+  </Captions>
+ </MediaContent>
+</Media>

@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lobular carcinoma in situ</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lobular Carcinoma In Situ (LCIS)</LabelName><LabelName language="en">Lobe</LabelName><LabelName language="en">Ducts</LabelName><LabelName language="en">Lobules</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Normal lobule</LabelName><LabelName language="en">LCIS</LabelName><LabelName language="en">Abnormal cells</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-11-04</DateCreated>
+   <SourceFilename>LCIS FP VI.2.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated skin tone to FP VI</Comment><Comment audience="Internal" date="2012-06-11" user="akuhlmann">Removed the label "Acinus” from the top right pullout (normal lobule); matched the color of the lobule in the top right (normal lobule) and bottom (LCIS) pullouts with the color of the normal lobe in the middle pullout; changed the color of the abnormal cells in the LCIS pullout from purple to greenish-yellow; removed most of the duct coming off of each of the lobule (normal and LCIS) pullouts; added a dotted line between the little box in the middle pullout (normal lobe) and the top right (normal lobule) pullout. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories><Category>staging</Category>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039848">lobular breast carcinoma in situ</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lobular carcinoma in situ (LCIS); drawing shows a lobe, ducts, lobules, and fatty tissue in a cross section of the breast. Three separate pullouts show a normal lobe, a normal lobule, and a lobule with abnormal cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Lobular carcinoma in situ (LCIS). Abnormal cells are found in the lobules of the breast.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000044433">LCIS</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated image to LCIS FP VI.jpg</Comment><Comment audience="Internal" date="2012-06-11" user="akuhlmann">Updated to LCIS.4.jpg</Comment><Comment>Updated to LCIS.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Approved by Beverly Moy, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-05-11</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2012-05-17" user="anjamison">Added new image: LCIS.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

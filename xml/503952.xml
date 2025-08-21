@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>blood cells</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Blood Cells</LabelName><LabelName language="en">Monocyte</LabelName><LabelName language="en">Lymphocyte</LabelName><LabelName language="en">Neutrophil</LabelName><LabelName language="en">Eosinophil</LabelName><LabelName language="en">Basophil</LabelName><LabelName language="en">Macrophage</LabelName><LabelName language="en">Erythrocyte</LabelName><LabelName language="en">Platelets</LabelName><ImageDimensions>
+    <HeightPixels>1727</HeightPixels>
+    <WidthPixels>2592</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-04-08</DateCreated>
+   
+   
+   <SourceFilename>BloodCell4.jpg</SourceFilename>
+   
+  <Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Blood cells; drawing shows six types of white blood cells (monocytes, lymphocytes, neutrophils, eosinophils, basophils, and macrophages), a red blood cell (erythrocyte), and platelets.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Blood cells. Blood contains many types of cells: white blood cells (monocytes, lymphocytes, neutrophils, eosinophils, basophils, and macrophages), red blood cells (erythrocytes), and platelets. Blood circulates through the body in the arteries and veins.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000270735">blood</Glossary>
+ <Glossary cdr:ref="CDR0000046124">red blood cell</Glossary><Glossary cdr:ref="CDR0000045993">white blood cell</Glossary><Glossary cdr:ref="CDR0000046282">monocyte</Glossary><Glossary cdr:ref="CDR0000045765">lymphocyte</Glossary><Glossary cdr:ref="CDR0000046270">neutrophil</Glossary><Glossary cdr:ref="CDR0000044844">eosinophil</Glossary><Glossary cdr:ref="CDR0000046517">basophil</Glossary><Glossary cdr:ref="CDR0000044054">macrophage</Glossary><Glossary cdr:ref="CDR0000046425">erythrocyte</Glossary><Glossary cdr:ref="CDR0000045840">platelet</Glossary></ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>2007-08-06</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Eric Seifter.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-04-27</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Being reviewed by OCCM multimedia group.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-03-16</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-04-06 third draft; mm 2007-03-16 second draft; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-08-01</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

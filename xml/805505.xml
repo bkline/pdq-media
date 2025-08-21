@@ -1,0 +1,76 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>reproductive system, male, anatomy, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Vas deferens</LabelName><LabelName language="en">Epididymis</LabelName><LabelName language="en">Testis</LabelName><LabelName language="en">Vas deferens</LabelName><LabelName language="en">Prostate gland</LabelName><LabelName language="en">Penis</LabelName><ImageDimensions>
+    <HeightPixels>2580</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-09-13</DateCreated>
+   <SourceFilename>TesticularCancerChild5WithInset.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2021-09-13">Moved the primary anatomy of focus farther up in the image</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-08-23">Faded the pelvis and urinary system (bladder, ureter, kidneys); added vas deferens label; and added an inset showing the epididymis and vas deferens </Comment><Comment>Made body a little less muscular and well built, angled the body sideways without going to the full side view</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-06-21">Removed the title and the inset; removed part of the top of the figure and showed the bottom part with the testis more clearly; and labeled the prostate gland, penis, testis.
+</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038579">testicular cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the male reproductive system; drawing shows the vas deferens (a long tube that carries sperm out of the testes), prostate gland, penis, and testes. An inset shows the vas deferens and epididymis (a coiled tube that is attached to each of the testes and is where the sperm mature and are stored).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the male reproductive system. The male reproductive system is made up of organs and glands involved in making offspring (children). These include the vas deferens (a long tube that carries sperm out of the testes), epididymis (a coiled tube that is attached to each of the testes and is where the sperm mature and are stored), prostate gland, penis, and testes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Glossary cdr:ref="CDR0000615503">epididymis</Glossary><Glossary cdr:ref="CDR0000044309">vas deferens</Glossary><Glossary cdr:ref="CDR0000046611">testicle</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-09-13</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2021-09-13">Updated image to TesticularCancerChild5WithInset.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-08-23">Updated image to TesticularCancerChild4.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-08-02">Updated image to TesticularCancerChild3.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-06-21">Updated image to TesticularCancerChild2.jpg</Comment></ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-07</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

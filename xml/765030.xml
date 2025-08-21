@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>stem cell transplant, donor</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Blood-forming stem cells removed from donor</LabelName><LabelName language="en">Stem cells</LabelName><LabelName language="en">Apheresis machine</LabelName><LabelName language="en">Patient receives treatment to kill cancer cells and prepare body for donor stem cells</LabelName><LabelName language="en">Chemotherapy</LabelName><LabelName language="en">Patient receives donor stem cells</LabelName><LabelName language="en">Stem cells</LabelName><ImageDimensions>
+    <HeightPixels>1530</HeightPixels><WidthPixels>3120</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-01-10</DateCreated>
+   <SourceFilename>DonorStemCellTransplant1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-01-10" audience="Internal">Per expert reviewer, changed heading in the first panel to “Blood-forming stem cells removed from donor” and removed the “Donor” label; changed heading in second panel to  “Patient receives treatment to kill cancer cells and prepare body for donor stem cells” and changed the provider skin tone to a FP V; in third panel, changed heading to  “Patient receives donor stem cells” and added a “Stem cells” label pointing to the bag with the stem cells.</Comment><Comment user="kuhlmanna" date="2023-11-21" audience="Internal">In the first panel, removed the blood bag; in the middle panel, changed the wording to “Patient receives treatment to kill cancer cells”</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2024-01-11</DateLastReviewed></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>Black or African American</Race><SkinTone>Type VI – Dark brown or black skin</SkinTone><DateLastReviewed>2024-01-11</DateLastReviewed></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2024-01-11</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category><Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041186">leukemia</Diagnosis><Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Donor stem cell transplant; (Panel 1): Drawing of stem cells being collected from a donor's bloodstream using an apheresis machine. Blood is removed from a vein in the donor's arm and flows through the machine where the stem cells are removed. The rest of the blood is then returned to the donor through a vein in their other arm. (Panel 2): Drawing of a health care provider giving a patient an infusion of chemotherapy through a catheter in the patient's chest. The chemotherapy is given to kill cancer cells and prepare the patient's body for the donor stem cells. (Panel 3): Drawing of a patient receiving an infusion of the donor stem cells through a catheter in the chest.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Donor stem cell transplant. (Step 1): Four to five days before donor stem cell collection, the donor receives a medicine to increase the number of stem cells circulating through their bloodstream (not shown). The blood-forming stem cells are then collected from the donor through a large vein in their arm. The blood flows through an apheresis machine that removes the stem cells. The rest of the blood is returned to the donor through a vein in their other arm. (Step 2): The patient receives chemotherapy to kill cancer cells and prepare their body for the donor stem cells. The patient may also receive radiation therapy (not shown). (Step 3): The patient receives an infusion of the donor stem cells.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000257989">Adult Acute Lymphoblastic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000257990">Acute Myeloid Leukemia Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258000">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary><Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258006">Chronic Myelogenous Leukemia Treatment</Summary><Summary cdr:ref="CDR0000368374">Chronic Myeloproliferative Neoplasms Treatment</Summary><Summary cdr:ref="CDR0000378089">Myelodysplastic Syndromes Treatment</Summary><Summary cdr:ref="CDR0000378291">Myelodysplastic/ Myeloproliferative Neoplasms Treatment</Summary><Summary cdr:ref="CDR0000258195">Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment</Summary><Summary cdr:ref="CDR0000257530">Testicular Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Reviewed by Michael Pulsipher, M.D., Primary Children's Hospital</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-01-10</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" date="2024-01-10" audience="Internal">Updated image to DonorStemCellTransplant1.jpg</Comment><Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Updated image to SCT 3Panels 10inch.2.jpg</Comment><Comment>Added SCT 3Panels 10inch.jpg</Comment>
+  </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,120 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, papillary and follicular, stage III (55 years and older)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Stage III Papillary and Follicular Thyroid Cancer (55 years and older)</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Right recurrent laryngeal nerve</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Left recurrent laryngeal nerve</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>2850</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-09-18</DateCreated>
+   <SourceFilename>PapillaryFollicularThyroidCaStage3Over55.2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Removed the label for Lymph node and the cancer from the node it is pointing to</Comment><Comment audience="Internal" date="2017-09-06" user="kuhlmanna">Image revisions made per AJCC updates (8th edition) </Comment><Comment audience="Internal" date="2017-06-12" user="yousufzaimg">Changed lime to walnut in the inset to show 4 cm</Comment><Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Changed age on label to "55 years and older", per comments from expert reviewer</Comment><Comment audience="Internal" date="2016-10-03" user="kuhlmanna">Added a label for Lymph node and removed the peanut and the 2 cm circle from the inset.
+</Comment><Comment audience="Internal" date="2016-08-23" user="kuhlmanna">No change made from previous image</Comment><Comment audience="Internal" date="2016-04-19" user="yousufzaimg">Took the "A" and "B" out of the title; Added lymph nodes near the trachea and larynx, and put cancer in some of them, and labelled it “c”</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039305">stage III papillary thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000039304">stage III follicular thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage III papillary and follicular thyroid cancer in patients 55 years and older; drawing shows cancer that has spread from the thyroid gland to the esophagus, the trachea, the larynx, and the left recurrent laryngeal nerve.  Also shown is the right recurrent laryngeal nerve.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage III papillary and follicular thyroid cancer in patients 55 years and older; drawing shows cancer that has spread from the thyroid gland to the esophagus, the trachea, the larynx, and the left recurrent laryngeal nerve.  Also shown is the right recurrent laryngeal nerve.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage III papillary and follicular thyroid cancer in patients 55 years and older. The tumor is any size and cancer has spread from the thyroid to soft tissue under the skin, the esophagus, the trachea, the larynx, or the recurrent laryngeal nerve (a nerve that goes to the larynx). Cancer may have spread to lymph nodes. </MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage III papillary and follicular thyroid cancer in patients 55 years and older. The tumor is any size and cancer has spread from the thyroid to soft tissue under the skin, the esophagus, the trachea, the larynx, or the recurrent laryngeal nerve (a nerve that goes to the larynx). Cancer may have spread to lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary><Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage3Over55.2.jpg</Comment><Comment>Updated image to PapillaryFollicularThyroidCaStage3Over55.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-06-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-06-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-10-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage3Over55.jpg</Comment><Comment audience="Internal" date="2016-10-03" user="kuhlmanna">Updated to PapillaryFollicularThyroidCaStage3Over45.4.jpg</Comment><Comment audience="Internal" date="2016-08-23" user="kuhlmanna">Updated to PapillaryFollicularThyroidCaStage3Over45.3.jpg </Comment><Comment>Added PapillaryFollicularThyroidCaStage3Over45.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Added PapillaryFollicularThyroidCaStage3Over45.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-03-08</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779376">Sample Illustration: Thyroid Staging</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000792797">Illustration Review Sheet: Stage III Papillary and Follicular Thyroid Cancer (55 and Older)
+</SupplementaryInfoLink></RelatedDocuments></Media>

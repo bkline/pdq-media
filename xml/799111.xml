@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>heteroduplex and homoduplex DNA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">A</LabelName><LabelName language="es">T</LabelName><LabelName language="es">G</LabelName><LabelName language="es">C</LabelName><LabelName language="es">A</LabelName><LabelName language="es">C</LabelName><LabelName language="es">G</LabelName><LabelName language="es">T</LabelName><ImageDimensions>
+    <HeightPixels>684</HeightPixels>
+    <WidthPixels>2094</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000686275">heteroduplex and homoduplex DNA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>HomoduplexHeteroduplexSpanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el dibujo se observan homodúplex de ADN bicatenario con los enlaces normales de secuencias de ADN natural (etiquetas A-T y G-C). También se muestran heterodúplex de ADN  bicatenario con dos regiones no enlazadas (etiquetas A-C y G-T).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">En los homodúplex de ADN se observan los enlaces normales de secuencias de ADN natural. En los heterodúplex de ADN se observan regiones no enlazadas, que son sitios de posibles mutaciones.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000671177">heteroduplex analysis</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-25</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-24</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Review imagen//Translate Caption and content description</Comment><Comment audience="Internal" date="2019-09-09" user="lansberryic">"duplex DNA" and "double-stranded DNA" : "ADN bicatenario" (DTM)//See image, the Spanish Caption and Cont. Descr. does not need "DNA duplexes" at the begining.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000686275">heteroduplex and homoduplex DNA</TranslationOf></Media>

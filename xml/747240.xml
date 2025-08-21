@@ -1,0 +1,108 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>barium swallow, esophageal cancer-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estudio con ingesta de bario</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Bario líquido</LabelName><LabelName language="es">Cáncer</LabelName><ImageDimensions>
+    <HeightPixels>2775</HeightPixels><WidthPixels>2280</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000430686">barium swallow, esophageal cancer</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BariumSwallowEsophagealCaSpanish6.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-02-19" user="lsaucedo">Revised image title</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>Asian</Race><SkinTone>Type III – Darker white skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039821">gastric cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Estudio con ingesta de bario. En el dibujo se observa bario líquido que pasa por el esófago hasta el estómago. El bario recubre y resalta el interior del esófago y el estómago. En la radiografía del recuadro se muestra un estrechamiento al final del esófago a causa del cáncer.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Estudio con ingesta de bario para el cáncer de esófago. El paciente bebe un líquido que contiene bario (compuesto metálico de color blanco plateado). El bario recubre y resalta el interior del esófago y el estómago. Esto permite que las áreas anormales, como el cáncer de esófago, se vean en radiografías.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to artist for diveristy updates.  Also updated caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed revised image title to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-07</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-25</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment audience="Internal" date="2019-02-25" user="adlerm2">Image title should be corrected to read "ingesta de bario" (vs. "ingesta de barrio").</Comment><Comment>Revised definition as part of related term review; several X-rays are taken as barium travels down to the stomach.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title image published</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added titled image</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000430686">barium swallow, esophageal cancer</TranslationOf></Media>

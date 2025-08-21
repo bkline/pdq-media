@@ -1,0 +1,58 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Childhood Melanoma - Trends</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Rate per 1,000,000</LabelName><LabelName language="en">0</LabelName><LabelName language="en">5.0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">15</LabelName><LabelName language="en">20</LabelName><LabelName language="en">25</LabelName><LabelName language="en">Year of Diagnosis</LabelName><LabelName language="en">1999</LabelName><LabelName language="en">2004</LabelName><LabelName language="en">2008</LabelName><LabelName language="en">2012</LabelName><LabelName language="en">2016</LabelName><LabelName language="en">2020</LabelName><ImageDimensions>
+    <HeightPixels>1275</HeightPixels><WidthPixels>2175</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>NCI National Childhood Cancer Registry (NCCR)</Creator>
+   <DateCreated>2023-10-04</DateCreated>
+   <SourceFilename>NCCR Melanoma Trends 9-14-23 English.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-10-04" audience="Internal">Terese recreated a higher resolution graph</Comment><Comment user="kuhlmanna" date="2023-09-14" audience="Internal">Copyright permission not needed</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph showing trends in age-adjusted incidence rates of melanoma from 1999 to 2020, in adolescents aged 15 to 19 years.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Trends in melanoma age-adjusted incidence rates from 1999 to 2020 for adolescents aged 15 to 19 years. Reprinted with permission from the National Childhood Cancer Registry. NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. National Cancer Institute; 2023 Sept 7. [updated: 2023 Sep 8; cited 2023 Oct 4].  Available from: <ExternalRef cdr:xref="https://nccrexplorer.ccdi.cancer.gov" SourceTitle="National Childhood Cancer Registry Explorer (NCCR*Explorer)">https://nccrexplorer.ccdi.cancer.gov</ExternalRef>.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800109">Childhood Melanoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-10-04</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

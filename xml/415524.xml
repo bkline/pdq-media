@@ -1,0 +1,71 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>breast cancer, inflammatory</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Inflammatory breast cancer</LabelName><ImageDimensions>
+    <HeightPixels>2063</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-10-24</DateCreated><SourceFilename>InflammatoryBreast FP IV.1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Added title to image and updated skin tone to FP IV</Comment><Comment audience="Internal" date="2008-02-21" user="dbuchhagen">Added new copyright information. </Comment><Comment>Added NCI watermark. mm</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  <Category>abnormal cells or tissues</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040816">inflammatory breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Inflammatory breast cancer of the left breast showing redness, swelling, peau d'orange, and an inverted nipple.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Inflammatory breast cancer is a type of breast cancer in which the cancer cells block the lymph vessels in the skin of the breast. This causes the breast to look red and swollen. The skin may also appear dimpled or pitted, like the skin of an orange (peau d'orange), and the nipple may be inverted (facing inward).</MediaCaption>
+   
+  </Captions>
+ </MediaContent>
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment (Adult)</Summary>
+       <Glossary cdr:ref="CDR0000045313">inflammatory breast cancer</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to InflammatoryBreast FP IV.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC</Comment>
+       <Comment audience="Internal" date="2019-07-08" user="adlerm2">See also related GTC (621287).</Comment></ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial changes to Spanish Caption and Cont. Descr.</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000415524">breast cancer, inflammatory</TranslationOf></Media>

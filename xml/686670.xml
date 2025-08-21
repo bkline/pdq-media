@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Liver PRETEXT and POSTTEXT I for pt</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Liver PRETEXT and POSTTEXT I</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Cancer is found in one section of the liver. Three sections of the liver that are next to each other do not have cancer in them.</LabelName><ImageDimensions>
+    <HeightPixels>1500</HeightPixels>
+    <WidthPixels>3180</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-01-31</DateCreated>
+   
+   
+   <SourceFilename>PretextPosttext1Patient5.jpg</SourceFilename>
+   <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Changed title from Liver PRETEXT to Liver PRETEXT and POSTTEXT</Comment><Comment audience="Internal" date="2015-05-20" user="myousufzai">Deleted “Stage" from the title and changed the Arabic number in the title to a Roman numeral </Comment><Comment>Added period after second sentence in label.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038968">liver and intrahepatic biliary tract cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Liver PRETEXT and POSTTEXT I; drawing shows two livers. Dotted lines divide each liver into four vertical sections of about the same size.  In the first liver, cancer is shown in the section on the far left.  In the second liver, cancer is shown in the section on the far right.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Liver PRETEXT and POSTTEXT I. Cancer is found in one section of the liver. Three sections of the liver that are next to each other do not have cancer in them.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258119">Childhood Liver Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to PretextPosttext1Patient5.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to Pretext1Patient2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added Pretext1Patient1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

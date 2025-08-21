@@ -1,0 +1,114 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>malignant mesothelioma-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes del cuerpo donde es posible que se forme un mesotelioma maligno</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Pericardio</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Peritoneo (revestimiento de la cavidad abdominal)</LabelName><LabelName language="es">Testículos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000770045">malignant mesothelioma</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MalignantMesotheliomaSpanish2</SourceFilename>
+  <Comment user="lansberryic" audience="Internal" date="2021-09-23">linked revised image, update source filename</Comment><Comment user="lujanca" audience="Internal" date="2021-09-21">Image labels revised. Image dimensions deleted since a new image is needed.</Comment><Comment audience="Internal" date="2015-03-20" user="lsaucedo">New image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038142">malignant mesothelioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se muestran las partes del cuerpo donde es posible que  se forme un mesotelioma maligno, como la pleura (tejido que reviste la cavidad torácica y cubre los pulmones), el pericardio (tejido que rodea el corazón), el peritoneo (tejido que reviste el abdomen y cubre la mayoría de los órganos del abdomen)  y los testículos.  También se observan el corazón y los pulmones.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El mesotelioma maligno se forma en el tejido que reviste el tórax o el abdomen, incluso en la pleura (tejido que reviste la cavidad torácica y cubre los pulmones) y el peritoneo (tejido que reviste el abdomen y cubre la mayoría de los órganos del abdomen). También es posible que el mesotelioma maligno se forme en el pericardio (tejido que rodea el corazón) o en los testículos,  pero esto es poco frecuente.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000433305">Tratamiento del mesotelioma maligno en adultos</Summary>
+  <Glossary cdr:ref="CDR0000044992">malignant mesothelioma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-24</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-24</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Revised caption and content description ready for peer-review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Linked revised image, pending revision of Cont. Descrip and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC: only labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-21</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Labels revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Minor editorial change in caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial changes of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000770045">malignant mesothelioma</TranslationOf></Media>

@@ -1,0 +1,176 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bile duct, extrahepatic, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de las vías biliares extrahepáticas</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Vías biliares</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Conducto hepático derecho</LabelName><LabelName language="es">Conducto hepático izquierdo</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Conducto cístico</LabelName><LabelName language="es">Conducto hepático común</LabelName><LabelName language="es">Región perihiliar</LabelName><LabelName language="es">Conducto colédoco</LabelName><LabelName language="es">Región distal</LabelName><LabelName language="es">Vías biliares extrahepáticas</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Ampolla de Vater</LabelName><LabelName language="es">Intestino delgado</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2625</HeightPixels><WidthPixels>3210</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000659742">bile duct, extrahepatic, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ExtrahepaticBileDuctAnatomyFP III Spanish3.jpg</SourceFilename>
+  <Comment user="saucedol" audience="Internal" date="2022-08-26">Linked revised image</Comment><Comment audience="Internal" date="2015-12-11" user="saucedol">Linked revised image</Comment><Comment audience="Internal" date="2012-10-03" user="lsaucedo">Labels revised and revised image linked</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2021-12-20</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038752">extrahepatic bile duct cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de las vías biliares extrahepáticas. En el dibujo se señalan las vías biliares extrahepáticas, que abarcan el conducto hepático común, en la región perihiliar, y el conducto colédoco en la región distal. También se muestran el hígado, los conductos hepáticos izquierdo y derecho,  la vesícula biliar, el conducto cístico, el páncreas, la ampolla de Vater y una parte del intestino delgado. En  la parte superior izquierda del dibujo se observa el tronco de una persona adulta y se señala la ubicación del hígado, la vesícula biliar y las vías biliares dentro del cuerpo.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía de las vías biliares extrahepáticas. En el dibujo se señalan las vías biliares extrahepáticas, que abarcan el conducto hepático común, en la región perihiliar, y el conducto colédoco en la región distal. También se muestran el hígado, los conductos hepáticos izquierdo y derecho,  la vesícula biliar, el conducto cístico, el páncreas, la ampolla de Vater y una parte del intestino delgado. En  la parte superior izquierda del dibujo se observa el tronco de una persona adulta y se señala la ubicación del hígado, la vesícula biliar y las vías biliares dentro del cuerpo.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de las vías biliares extrahepáticas. Las vías biliares extrahepáticas son conductos (tubos) pequeños que transportan bilis desde el hígado y la vesícula biliar hasta el intestino delgado. Abarcan el conducto hepático común (región perihiliar) y el conducto colédoco (región distal). El hígado produce la bilis, que fluye por el conducto hepático común y el conducto cístico hasta la vesícula biliar, donde se almacena. Durante el proceso de digestión de los alimentos, la vesícula biliar libera bilis que fluye por el conducto colédoco, atraviesa el páncreas, y sale por la ampolla de Vater hacia el intestino delgado.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía de las vías biliares extrahepáticas.</MediaCaption></Captions><Comment audience="Internal" date="2015-09-02" user="saucedol">HP caption revised as per OCC.</Comment>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000256711">Tratamiento del cáncer de vías biliares (colangiocarcinoma)</Summary>
+  <Summary cdr:ref="CDR0000809673">¿Qué es el cáncer de vías biliares (colangiocarcinoma)?</Summary>
+  
+ <Glossary cdr:ref="CDR0000430860">extrahepatic bile duct</Glossary><Glossary cdr:ref="CDR0000523459">extrahepatic bile duct cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image.  Pending caption and content description review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent new label to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-29</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Reviewed new Sp image: looks good</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-16</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels as well as caption and content description peer review complete</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of labels, caption and cont. descr. pending QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replace image, skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Edited descriptions only; changed "región del hilio" to "región hiliar" for consistency with image label.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Reunión de terminología de 10/13/2015 por cambio en títulos de sumarios Bile Duct Cancer Treatment</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Captions and content descriptions revised.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-03</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-03</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>VID</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-26" user="dbuchhagen">Added image ExtraHepaticBileDuctSpanish.jpg.</Comment><Comment audience="Internal" date="2010-03-23" user="lsaucedo">Translation QC</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000659742">bile duct, extrahepatic, anatomy</TranslationOf></Media>

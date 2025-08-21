@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>VHL hemangioblastoma, brainstem and cerebellar lesions, three-panel image </MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1231</HeightPixels>
+    <WidthPixels>3045</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Multi-panel image assembled by Terese Winslow</Creator>
+   <DateCreated>2016-02-18</DateCreated>
+   <SourceFilename>Three PhotosGeneticsKidneyCancer.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-02-17" user="kuhlmanna">Photos supplied by PDQ Cancer Genetics Editorial Board Member: Eric Jonasch, MD, University of Texas, MD Anderson Cancer Center</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category><Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042846">von Hippel-Lindau syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Three-panel image showing a sagittal view of two prominent light-colored brainstem and cerebellar lesions (left panel), an axial view of a prominent brainstem lesion (middle panel), and an axial view of a cerebellar lesion with a large, dark area that is a cystic component (right panel). </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Hemangioblastomas are the most common disease manifestation in patients with von Hippel-Lindau syndrome. The left panel shows a sagittal view of brainstem and cerebellar lesions. The middle panel shows an axial view of a brainstem lesion. The right panel shows a cerebellar lesion (red arrow) with a dominant cystic component (white arrow).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000574548">Genetics of Kidney Cancer (Renal Cell Cancer)</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

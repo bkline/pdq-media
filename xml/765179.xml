@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>eye anatomy-HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Eyelid</LabelName><LabelName language="en">Pupil</LabelName><LabelName language="en">Sclera</LabelName><LabelName language="en">Iris</LabelName><LabelName language="en">Ciliary body</LabelName><LabelName language="en">Canal of Schlemm</LabelName><LabelName language="en">Cornea</LabelName><LabelName language="en">Lens</LabelName><LabelName language="en">Vitreous humor</LabelName><LabelName language="en">Retina</LabelName><LabelName language="en">Choroid</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Lamina cribrosa </LabelName><ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-10-20</DateCreated>
+   <SourceFilename>EyeAnatomyHPRetinoblastoma2.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038817">intraocular melanoma</Diagnosis><Diagnosis cdr:ref="CDR0000037764">intraocular retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000043733">retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000039197">eye neoplasm</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Anatomy of the eye; two-panel drawing showing the outside and inside of the eye. The top panel shows the outside of the eye, including the eyelid, pupil, sclera, and iris. The bottom panel shows the inside of the eye, including the ciliary body, canal of Schlemm, cornea, lens, vitreous humor, retina, choroid,  optic nerve, and lamina cribrosa.</ContentDescription>
+  </ContentDescriptions>
+   <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the eye showing the outside and inside of the eye, including the eyelid, pupil, sclera, iris, ciliary body, canal of Schlemm, cornea, lens, vitreous humor, retina, choroid,  optic nerve, and lamina cribrosa. The vitreous humor is a gel that fills the center of the eye.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062846">Retinoblastoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-20</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Carlos Rodriquez-Galindo (Ped Ed Board Member)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-07</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-10-20</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment audience="Internal" date="2014-10-20" user="akuhlmann">Added EyeAnatomyHPRetinoblastoma2.jpg</Comment><Comment>Added EyeAnatomyHPRetinoblastoma1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000765365">Illustration Review Sheet: eye anatomy-HP</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

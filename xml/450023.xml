@@ -1,0 +1,64 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>genitourinary system, male, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ureter</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Prostate gland</LabelName><LabelName language="en">Vas deferens</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Testis</LabelName><LabelName language="en">Seminal vesicle</LabelName><LabelName language="en">Ejaculatory duct</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3904</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-08-28</DateCreated>
+   
+   
+   <SourceFilename>Genitourinary AnatomyMale FP IV.1.jpg</SourceFilename>
+   <Comment user="yousufzaimg" date="2023-08-29" audience="Internal">Updated skin tone to FP IV</Comment><Comment>Added new copyright information and added label names. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2023-08-28</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the male reproductive system and urinary system anatomy showing the front and side views of the ureters, bladder, prostate gland, vas deferens,  urethra, penis, and testicles. A side view of the seminal vesicle and ejaculatory duct is also shown. The drawing also shows front and side views of the rectum and lymph nodes in the pelvis.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Drawing of the male reproductive system and urinary system anatomy showing the front and side views of the ureters, bladder, prostate gland, vas deferens,  urethra, penis, and testicles. A side view of the seminal vesicle and ejaculatory duct is also shown. The drawing also shows front and side views of the rectum and lymph nodes in the pelvis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the  male reproductive and urinary systems showing the ureters, bladder, prostate gland, urethra, penis, testicles, and other organs.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the  male reproductive and urinary systems.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-28</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-18</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added HP cap and cont desc.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

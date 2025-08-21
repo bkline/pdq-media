@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>diffuse liver hemangioma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>400</HeightPixels>
+    <WidthPixels>401</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Denise Adams, MD, Boston Children's Hospital</Creator>
+   <DateCreated>2016-04-07</DateCreated>
+   <SourceFilename>Diffuse Liver Hemangioma.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-04-07" user="kuhlmanna">Image resized and made smaller per OCC</Comment><Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Image approved by Pediatric Treatment Editorial Board</Comment><Comment audience="Internal" date="2016-03-21" user="kuhlmanna">Image added as summary placeholder; Board approval pending</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Permissions not required; photo came from Pediatric Treatment Editorial Board member, Denise Adams, MD</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000665617">infantile hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">MRI image of a diffuse infantile hemangioma with diffuse liver lesions.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Diffuse liver lesions with classical imaging picture on MRI of a diffuse infantile hemangioma. Note the peripheral enhancement in early  contrast phase. Credit: Denise Adams, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+       </ProposedUse><ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

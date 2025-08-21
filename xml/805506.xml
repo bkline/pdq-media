@@ -1,0 +1,76 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where neuroendocrine tumors form, anatomy, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Body Where Gastrointestinal Neuroendocrine Tumors Form</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Appendix</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>2925</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-09-03</DateCreated>
+   <SourceFilename>GI NeuroendocrineTumorsChild1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-09-06">Changed title to “Parts of the Body Where Gastrointestinal Neuroendocrine Tumors Form” to align with summary title update</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-06-24">Darkened the liver and added a label; removed the label for the rectum</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-06-21">Removed the lungs, trachea, bronchi, and the corresponding labels; and added the pancreas and labeled it.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Child</Age>
+  <Sex>Male</Sex>
+  <Race>Asian</Race>
+  <SkinTone>Type IV – Light brown skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038092">gastrointestinal carcinoid tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the gastrointestinal tract showing the liver, stomach, pancreas, small intestine, colon, and appendix.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Gastrointestinal neuroendocrine tumors form in the lining of the gastrointestinal tract and other organs in the abdomen. Most gastrointestinal neuroendocrine tumors in children form in the appendix, but they can also form in the stomach, intestines, pancreas, and liver.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000798747">Childhood Gastrointestinal Carcinoid Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-06-21</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2021-06-21">Updated image to GI CarcinoidTumorsChild2.jpg</Comment></ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-07</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

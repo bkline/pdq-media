@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lobectomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Lobectomía</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Extirpación de lóbulo</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>1924</HeightPixels><WidthPixels>2356</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000466538">lobectomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>LobectomyLungSpanish5.jpg</SourceFilename><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image witht titled image</Comment><Comment>2008-03-27; Spanish image Lobectomy9Spanish.jpg. Added new copyright information.  2006-08-16 final Spanish image Lobectomy8Spanish.jpg; mm  2006-07-24 Added Spanish image: Lobectomy7Spanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Lobectomía. En la imagen se observan los lóbulos de ambos pulmones, la tráquea, los bronquios, los bronquiolos y los ganglios linfáticos. El cáncer se muestra en uno de los lóbulos. También se muestra el lóbulo que se extirpó al lado del pulmón de donde se sacó.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Lobectomía. En la imagen se observan los lóbulos de ambos pulmones, la tráquea, los bronquios, los bronquiolos y los ganglios linfáticos. El cáncer se muestra en uno de los lóbulos. También se muestra el lóbulo que se extirpó al lado del pulmón de donde se sacó.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Lobectomía. Se extirpa un lóbulo del pulmón.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Lobectomía.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+       <Glossary cdr:ref="CDR0000046314">lobectomy</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QCd revisions to caption and CD.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Label on image is incorrect. The label text in this file reads "extirpación" but the image reads "remoción." Also revised content descriptions for consistency.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title image published</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Adde label and replaced image</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-11</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Spanish-labeled image from artist 2006-07-12; mm</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2006-07-26 caption / content desc completed; mm 2006-07-10 labels translated; mm</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000466538">lobectomy</TranslationOf></Media>

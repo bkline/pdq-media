@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endometrial cancer stage II-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de endometrio en estadio II</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Endometrio</LabelName><LabelName language="es">Miometrio</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000735235">endometrial cancer stage II</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EndometrialCaStage2Spanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-10-16" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038737">endometrial cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">El dibujo muestra un cáncer de endometrio en estadio II en una sección transversal del útero, el cuello uterino, las trompas de Falopio, los ovarios y la vagina. Se muestra el cáncer en el endometrio y el miometrio del útero, y en el cuello uterino.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de endometrio en estadio II. El cáncer se diseminó hacia el tejido conjuntivo del cuello uterino, pero no se diseminó afuera del útero.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256803">Cáncer del endometrio: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000045117">stage II endometrial cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new image and QCd translations</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spn. labels sent 10/8/12</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

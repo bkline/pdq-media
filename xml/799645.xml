@@ -1,0 +1,55 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Informal Caregivers in Cancer - Coping and Caregiver Outcomes</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Appraisal</LabelName><LabelName language="en">Coping</LabelName><LabelName language="en">Outcomes</LabelName><LabelName language="en">Primary</LabelName><LabelName language="en">Health threat</LabelName><LabelName language="en">Illness that endangers personal goals and values</LabelName><LabelName language="en">Antecedents</LabelName><LabelName language="en">Age</LabelName><LabelName language="en">Gender</LabelName><LabelName language="en">Health status</LabelName><LabelName language="en">Employment</LabelName><LabelName language="en">Secondary</LabelName><LabelName language="en">Demands</LabelName><LabelName language="en">Daily living tasks</LabelName><LabelName language="en">Information</LabelName><LabelName language="en">Transportation</LabelName><LabelName language="en">Decision making</LabelName><LabelName language="en">Resources</LabelName><LabelName language="en">Social support</LabelName><LabelName language="en">Health team</LabelName><LabelName language="en">Interventions</LabelName><LabelName language="en">Palliative care consults</LabelName><LabelName language="en">Resources &gt; Demands</LabelName><LabelName language="en">Acceptable burden</LabelName><LabelName language="en">Resources &lt; Demands</LabelName><LabelName language="en">Coping</LabelName><LabelName language="en">Problem focused</LabelName><LabelName language="en">Emotion focused</LabelName><LabelName language="en">Meaning focused</LabelName><LabelName language="en">Negative psychological consequences</LabelName><LabelName language="en">Positive psychological consequences</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Larry Cripe, MD, Editor-in-Chief, Supportive and Palliative Care Editorial Board</Creator>
+   <DateCreated>2019-10-02</DateCreated>
+   <SourceFilename>Coping and Caregiver Outcomes vldc2 02 October 2019-ak2.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Health_professionals" language="en">Chart showing the Transactional Model of Stress and Coping, including the  primary appraisal of health threats (illness that endangers personal goals and values) and antecedents (age, gender, health status, and employment);  secondary  appraisal  of caregiver demands (daily living tasks, information, transportation, and decision making) and resources (social support, health team, interventions, and palliative care consults); coping (when resources are greater than demands and when demands are greater than resources) and coping strategies (problem focused, emotion focused, and meaning focused); and caregiver outcomes (acceptable burden and negative and positive psychological consequences of being burdened).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The Transactional Model of Stress and Coping may explain why some caregivers experience burden and negative psychological consequences. Clinicians may intervene to reduce demands, increase resources, or foster adoptive coping. The text for antecedents, demands, and resources is from examples in the text of this summary.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-04</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-10-04</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

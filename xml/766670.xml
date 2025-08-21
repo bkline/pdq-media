@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>multiple myeloma-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Mieloma múltiple</LabelName><LabelName language="es">Médula roja donde se elaboran las células plasmáticas</LabelName><LabelName language="es">Hueso</LabelName><LabelName language="es">Células plasmáticas normales</LabelName><LabelName language="es">Anticuerpos</LabelName><LabelName language="es">Células de mieloma múltiple (células plasmáticas anormales)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000766670">multiple myeloma-Spanish</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MultipleMyelomaSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-21" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037974">multiple myeloma and other plasma cell neoplasms</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Mieloma múltiple; en la ilustración, se muestran células plasmáticas normales, células de mieloma múltiple (células plasmáticas anormales) y anticuerpos. También se muestra la médula roja en el hueso, en donde se elaboran las células plasmáticas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Mieloma múltiple. Las células de mieloma múltiple son células plasmáticas anormales (un tipo de glóbulo blanco) que se acumula en la médula ósea y forma tumores en muchos huesos del cuerpo. Las células plasmáticas normales elaboran anticuerpos para ayudar al cuerpo a combatir infecciones y enfermedades. En la medida en que aumenta la cantidad de células de mieloma múltiple, se elaboran más anticuerpos. Esto puede hacer que la sangre se espese y evite que la médula ósea elabore suficientes células sanguíneas sanas. Las células de mieloma múltiple también dañan y debilitan el cuerpo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000429622">Neoplasias de células plasmáticas (incluso mieloma múltiple): Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000045793">multiple myeloma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

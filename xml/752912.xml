@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>perineum anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Mons pubis</LabelName><LabelName language="en">Clitoris</LabelName><LabelName language="en">Urethral opening</LabelName><LabelName language="en">Inner and outer lips of the vagina</LabelName><LabelName language="en">Vaginal opening</LabelName><LabelName language="es">Perineum</LabelName><LabelName language="en">Anus</LabelName><LabelName language="en">Vulva</LabelName><ImageDimensions>
+    <HeightPixels>2640</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-08-24</DateCreated>
+   <SourceFilename>Perineum Anatomy2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-08-24" user="kuhlmanna">REVISION: Shortened the bracket for Vulva so it ends right below the dark pink tissue</Comment><Comment audience="Internal" date="2013-11-04" user="akuhlmann">Made label for Vulva smaller</Comment><Comment audience="Internal" date="2013-09-24" user="akuhlmann">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037961">vulvar cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the vulva shows the mons pubis, clitoris, urethral opening, inner and outer lips of the vagina, and the vaginal opening. Also shown are the perineum and anus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The perineum  is the area between the anus and the vulva in females. In males, it is the area between the anus and the scrotum.</MediaCaption>
+  </Captions><Comment audience="Internal" date="2017-08-28" user="kuhlmanna">2017-08-28: Revised caption approved; ak</Comment>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000321384">perineum</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-28</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-24</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+   <EnteredBy>2013-09-24</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

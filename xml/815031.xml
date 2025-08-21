@@ -1,0 +1,92 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>lymphedema-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfedema</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Vasos linfáticos</LabelName><LabelName language="es">Brazo hinchado</LabelName><LabelName language="es">Piel</LabelName><LabelName language="es">Interrupción del flujo linfático</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Acumulación de líquido en los tejidos</LabelName><LabelName language="es">Linfa</LabelName><LabelName language="es">Glóbulos blancos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000814722">lymphedema</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LymphedemaSpanish3.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type III – Darker white skin</SkinTone>
+  
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041348">lymphedema</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="es">Linfedema. En el dibujo se observa una mujer con un brazo rojo e hinchado. También se señalan ganglios y vasos linfáticos en su cuerpo. Hay una ampliación del brazo hinchado en el que se observa la capa superior de la piel endurecida y roja. Además, en un recuadro se ve un vaso linfático debajo de la piel y un tumor canceroso que interrumpe el flujo de la linfa por el vaso, así como una acumulación de líquido y glóbulos blancos en los tejidos que rodean el vaso.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El linfedema es la hinchazón que se produce por la acumulación de la linfa en el cuerpo, por lo general en una extremidad: brazo  o pierna. El sistema linfático ayuda al cuerpo a combatir infecciones, y se compone de ganglios linfáticos, vasos linfáticos y órganos que recogen y transportan la linfa  o líquido linfático. Cuando un cáncer o su tratamiento dañan o  bloquean parte del sistema linfático, el flujo de la linfa por el cuerpo se interrumpe. Esto puede causar acumulación de líquido en los tejidos, inflamación y liberación de glóbulos blancos, lo que produce la hinchazón del área afectada. En ocasiones también se observa  cambio de color y endurecimiento de la piel en dicha área.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045359">lymphedema</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC, I added minor suggestion per SEO "extremidad: brazo o pierna"</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content description translated.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>I agree to use "linfa" in label per common use in Spanish, then the also called "líquido linfático" can be used in parenthesis in caption/descr per SEO.//Arm: brazo is acceptable per patient register (colloquial use) and the explanation that was included in the drupal text. </Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels translated.</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000814722">lymphedema</TranslationOf></Media>

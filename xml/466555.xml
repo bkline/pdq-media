@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery - resection, wedge</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Wedge Resection of the Lung</LabelName><LabelName language="en">Lung tissue removed</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph nodes</LabelName><ImageDimensions>
+    <HeightPixels>1912</HeightPixels>
+    <WidthPixels>1956</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-03-19</DateCreated>
+   
+   
+   <SourceFilename>WedgeResection10.jpg</SourceFilename>
+   <Comment>Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Wedge resection of the lung; shows trachea and lungs with cancer in a lung lobe.  The removed lung tissue with the cancer and small amount of healthy tissue around it is shown next to the lung lobe it was removed from.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Wedge resection of the lung; shows trachea and lungs with cancer in a lung lobe.  The removed lung tissue with the cancer and small amount of healthy tissue around it is shown next to the lung lobe it was removed from.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Wedge resection of the lung. Part of the lung lobe containing the cancer and a small amount of healthy tissue around it is removed.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Wedge resection of the lung.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary>
+       <Glossary cdr:ref="CDR0000322895">wedge resection</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>minor change in caption; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-06-30</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP cap and cont desc for pilot project.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-05-08</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>In review by group</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2013-03-04" user="anjamison">Update to WedgeResection10.jpg</Comment><Comment>2006-07-18 seventh image; mm 2006-06-12 sixth rough; mm 2006-04-24 fifth rough; mm 2006-04-18 fourth rough; mm 2006-03-28 third rough; mm 2006-03-17 second rough; mm</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000514481">Illustration Review Sheet: Wedge Resection</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

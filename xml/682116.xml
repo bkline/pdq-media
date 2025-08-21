@@ -1,0 +1,90 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIA (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA Lung Cancer (2)</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Left main bronchus</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Primary tumor is larger than 5 cm but not larger than  7 cm</LabelName><LabelName language="en">7 cm</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Nerve that controls diaphragm</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Sac around heart</LabelName><LabelName language="en">e</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Membrane covering the lung or chest wall</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Cancer in lymph nodes in lung or near bronchus</LabelName><LabelName language="en">b</LabelName>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-06-06</DateCreated>
+   
+   
+   <SourceFilename>LungStage3APart2 FemaleEastAsianFP 1.2.jpg</SourceFilename><Comment user="kuhlmanna" audience="Internal" date="2022-06-06">Faded out shoulder bones and arm bones </Comment><Comment user="yousufzaimg" audience="Internal" date="2022-05-24">Diversity updates - added Asian features to figure</Comment>
+   
+  <Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Added a spot of cancer to the nerve that controls the diaphragm</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Adjusted overall canvas size</Comment><Comment audience="Internal" date="2018-12-06" user="kuhlmanna">Removed the large cancer spot in the upper right side of the figure; removed the cancer spot behind the lymph nodes that have cancer in them; and added the letter “a” to the cancer spot in the lower part of the lung where the shaded area from the inset comes in.</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Removed the letter “a” from the lymph nodes in the main figure; removed the letter “b” from the cancer spot in the main figure; added “a” to the large inset on the left and changed the label to say “Primary tumor is larger…7 cm”; and changed the letter “c” to “b”, “d” to “c”, “e” to “d”, and “f” to “e”.</Comment><Comment audience="Internal" date="2018-10-29" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2010-09-17" user="anjamison">Replaced "(part 2)" with "(2)".</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038938">stage IIIA non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIA lung cancer (2); drawing shows (a) a primary tumor (larger than 5 cm but not larger than 7 cm) in the left lung and cancer in lymph nodes in the lung or near the bronchus on the same side of the chest as the primary tumor. Also shown is (b) separate tumors in the same lobe of the lung as the primary tumor and cancer that has spread to (c) the chest wall and the membranes covering the lung and chest wall (top right inset); (d) the nerve that controls the diaphragm; and (e) the sac around the heart (bottom right inset).  The trachea, left main bronchus, diaphragm, heart, and a rib (top right inset) are also shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIA lung cancer (2); drawing shows (a) a primary tumor (larger than 5 cm but not larger than 7 cm) in the left lung and cancer in lymph nodes in the lung or near the bronchus on the same side of the chest as the primary tumor. Also shown is (b) separate tumors in the same lobe of the lung as the primary tumor and cancer that has spread to (c) the chest wall and the membranes covering the lung and chest wall (top right inset); (d) the nerve that controls the diaphragm; and (e) the sac around the heart (bottom right inset).  The trachea, left main bronchus, diaphragm, heart, and a rib (top right inset) are also shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA lung cancer (2). Cancer has spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are in the lung or near the bronchus. Also, one or more of the following is found: (a) the tumor is larger than 5 centimeters but not larger than 7 centimeters; and/or (b) there are one or more separate tumors in the same lobe of the lung as the primary tumor; and/or cancer has spread to any of the following: (c) the chest wall and/or the membrane that lines the inside of the chest wall, (d) the nerve that controls the diaphragm, and/or (e) the outer layer of tissue of the sac around the heart.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIA lung cancer (2). Cancer has spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are in the lung or near the bronchus. Also, one or more of the following is found: (a) the tumor is larger than 5 centimeters but not larger than 7 centimeters; and/or (b) there are one or more separate tumors in the same lobe of the lung as the primary tumor; and/or cancer has spread to any of the following: (c) the chest wall and/or the membrane that lines the inside of the chest wall, (d) the nerve that controls the diaphragm, and/or (e) the outer layer of tissue of the sac around the heart.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045367">stage IIIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" audience="Internal" date="2022-06-06">Updated image to LungStage3APart2 FemaleEastAsianFP 1.2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-05-24">Updated image to LungStage3APart2 FemaleEastAsianFP 1.1.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage3APart2Rev9.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage3APart2Rev8.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage3APart2Rev7.jpg</Comment><Comment audience="Internal" date="2018-12-06" user="kuhlmanna">Updated image to LungStage3APart2Rev6.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated image to LungStage3APart2Rev5.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="kuhlmanna">Updated image to LungStage3APart2Rev4.jpg</Comment><Comment>Updated to LungStage3AbRev3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added Supp Info Doc for stage IIIA part 2.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000798320">Illustration Review Sheet: non-small cell lung cancer stage IIIA (2)</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000682115">Sample illustration: NSCLC stage IIIA part 2</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments></Media>

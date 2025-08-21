@@ -1,0 +1,128 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, adult, stage I-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfoma en estadio I en adultos</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Anillo de Waldeyer</LabelName><LabelName language="es">Timo</LabelName><LabelName language="es">Bazo</LabelName><LabelName language="es">En el estadio IE, el cáncer se diseminó a un área fuera del sistema linfático (no se muestra)</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>3144</HeightPixels><WidthPixels>2970</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000614643">lymphoma, adult, stage I</MediaID></FromCdrMedia>
+    
+   </FromObject><SourceFilename>Stage1AdultLymphomaSpanish.jpg.</SourceFilename>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040479">stage I adult non-Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000736130">stage I AIDS-related lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000040961">stage I adult Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Linfoma en estadio I en adultos. En la imagen se observa cáncer en 1 grupo de ganglios linfáticos y en el bazo. También se observan el anillo de Waldeyer y el timo. En una ampliación, se muestran un ganglio linfático, un vaso linfático, una arteria y una vena. Se observan células cancerosas en el ganglio linfático.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Linfoma en estadio I en adultos. En la imagen se observa cáncer en 1 grupo de ganglios linfáticos y en el bazo. También se observan el anillo de Waldeyer y el timo. En una ampliación, se muestran un ganglio linfático, un vaso linfático, una arteria y una vena. Se observan células cancerosas en el ganglio linfático.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Linfoma en estadio I en adultos. En el estadio I, se encuentra cáncer en 1 o más ganglios linfáticos de un grupo de ganglios linfáticos; en casos muy poco comunes, se encuentra cáncer en el anillo de Waldeyer, el timo o el bazo. En el estadio IE (no se muestra), el cáncer se diseminó a un área fuera del sistema linfático.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Linfoma en estadio I en adultos. En el estadio I, se encuentra cáncer en 1 o más ganglios linfáticos de un grupo de ganglios linfáticos; en casos muy poco comunes, se encuentra cáncer en el anillo de Waldeyer, el timo o el bazo. En el estadio IE (no se muestra), el cáncer se diseminó a un área fuera del sistema linfático.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256771">Tratamiento del linfoma no Hodgkin en adultos</Summary>
+  <Summary cdr:ref="CDR0000420913">Tratamiento del linfoma relacionado con el SIDA</Summary><Summary cdr:ref="CDR0000256760">Tratamiento del linfoma de Hodgkin en adultos</Summary><Glossary cdr:ref="CDR0000045906">stage I adult non-Hodgkin lymphoma</Glossary>
+ <Glossary cdr:ref="CDR0000416102">stage I AIDS-related lymphoma</Glossary><Glossary cdr:ref="CDR0000045894">stage I adult Hodgkin lymphoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Deleted extra period in caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Agreed to describe labeled items only (singular in this case).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-04</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; captions and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-28</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed labels during translation of related summary; added captions and content descriptions in proposed markup</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of new labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-05-19" user="rharrison">Updated translations.</Comment><Comment audience="Internal" date="2009-01-29" user="rharrison">Added translated labels, caption, and content description.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-01-13</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000614643">lymphoma, adult, stage I</TranslationOf></Media>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>oral cavity anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de la cavidad oral</LabelName><LabelName language="es">Labio</LabelName><LabelName language="es">Dientes</LabelName><LabelName language="es">Paladar duro</LabelName><LabelName language="es">Paladar blando</LabelName><LabelName language="es">Trígono retromolar</LabelName><LabelName language="es">Lengua (dos tercios delanteros)</LabelName><LabelName language="es">Encía</LabelName><LabelName language="es">Úvula</LabelName><LabelName language="es">Amígdala</LabelName><LabelName language="es">Mucosa bucal (revestimiento del labio y la mejilla)</LabelName><LabelName language="es">Piso de la boca</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000716338">oral cavity anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>OralCavitySpanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la cavidad oral; el dibujo muestra el labio, el paladar duro, el paladar blando, el trígono retromolar, los dos tercios delanteros de la lengua, la encía, la mucosa bucal y el piso de la boca. También se muestran los dientes, la úvula y la amígdala.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la cavidad oral. La cavidad oral incluye los labios, el paladar duro (la porción delantera ósea del techo de la boca) el paladar blando (la porción muscular posterior del techo de la boca), el trígono retromolar (el área entre las muelas del juicio), los dos tercios delanteros de la lengua, las encías, la mucosa bucal (el revestimiento interno de los labios y las mejillas) y el piso de la boca debajo de la lengua.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000486932">Cáncer del labio y la cavidad oral: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000389464">oral cavity</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Image linked, translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

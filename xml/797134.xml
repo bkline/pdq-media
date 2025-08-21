@@ -1,0 +1,65 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>spine anatomy-MyPart</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Clivus</LabelName><LabelName language="en">Cervical</LabelName><LabelName language="en">Thoracic</LabelName><LabelName language="en">Lumbar</LabelName><LabelName language="en">Sacral</LabelName><LabelName language="en">Coccyx</LabelName><LabelName language="en">Spinal cord</LabelName><LabelName language="en">Vertebra</LabelName><LabelName language="en">Conus medullaris</LabelName><LabelName language="en">Cauda equina</LabelName><LabelName language="en">Disc</LabelName><ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>2175</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-03-02</DateCreated>
+   <SourceFilename>MyPartBone1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the spine; drawing shows a side view of the spine, including the cervical spine (C1-C7), thoracic spine (T1-T12), lumbar spine (L1-L5), sacral spine (S1-S5), and the coccyx (tailbone). Also shown are the spinal cord, vertebra (back bone), conus medullaris (the end of the spinal cord), cauda equina (the bundle of spinal nerves that extend beyond the conus medullaris), and a lumbar disc. The clivus (a bone at the base of the skull near the spinal cord) is also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the spine. The spine is made up of bones, muscles, tendons, nerves, and other tissues that reach from the base of the skull near the spinal cord (clivus) to the coccyx (tailbone). The vertebrae (back bones) of the spine include the cervical spine (C1-C7), thoracic spine (T1-T12), lumbar spine (L1-L5), sacral spine (S1-S5), and the tailbone. Each vertebra is separated by a disc. The vertebrae surround and protect the spinal cord. The spinal cord is divided into segments, each containing a pair of spinal nerves that send messages between the brain and the rest of the body. Many spinal nerves extend beyond the conus medullaris (the end of the spinal cord) to form a bundle of nerves called the cauda equina.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-03-02</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>fecal immunochemical test (FIT)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Prueba inmunoquímica fecal (FIT)</LabelName><LabelName language="es">Instrucciones de uso para el estuche personal</LabelName><LabelName language="es">Depósito  de la muestra</LabelName><LabelName language="es">1.</LabelName><LabelName language="es">2.</LabelName><LabelName language="es">3.</LabelName><LabelName language="es">4.</LabelName><LabelName language="es">Recolección de la muestra</LabelName><LabelName language="es">1.</LabelName><LabelName language="es">2.</LabelName><LabelName language="es">Preguntas  sobre cáncer colorrectal y exámenes de detección del cáncer colorrectal</LabelName><LabelName language="es">BUSINESS REPLY MAIL</LabelName><LabelName language="es">Papel recolector de muestra</LabelName><LabelName language="es">Riesgo biológico</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource><DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000784770">fecal immunochemical test (FIT)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>FITSpanish1.jpg</SourceFilename><Comment audience="Internal" date="2017-02-03" user="lansberryic">Linked new image.</Comment></DerivedFrom>
+  
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis><Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Prueba inmunoquímica fecal (FIT); el dibujo muestra un estuche de FIT, que incluye las instrucciones de uso, el papel recolector de muestra y el tubo recolector  que contiene un pequeño cepillo. También muestra la bolsa de riesgo biológico, el sobre de devolución y la hoja de información sobre cáncer  colorrectal y exámenes de detección del cáncer colorrectal.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Prueba inmunoquímica fecal (FIT); el dibujo muestra un estuche de FIT, que incluye las instrucciones de uso, el papel recolector de muestra y el tubo recolector  que contiene un pequeño cepillo. También muestra la bolsa de riesgo biológico, el sobre de devolución y la hoja de información sobre cáncer  colorrectal y exámenes de detección del cáncer colorrectal.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La prueba inmunoquímica fecal (FIT) sirve para verificar si  hay sangre oculta (escondida) en la materia fecal. Se coloca una muestra pequeña de materia fecal en un tubo recolector especial o en tarjetas especiales y se envían al médico  o laboratorio para su análisis.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">La prueba inmunoquímica fecal (FIT) sirve para verificar si  hay sangre oculta (escondida) en la materia fecal. Se coloca una muestra pequeña de materia fecal en un tubo recolector especial o en tarjetas especiales y se envían al médico  o laboratorio para su análisis.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000744474">Exámenes de detección del cáncer colorrectal</Summary><Summary cdr:ref="CDR0000256761">Cáncer de colon: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000759140">fecal immunochemical test</Glossary><Glossary cdr:ref="CDR0000045050">fecal occult blood test</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-02-03" user="saucedol">Caption and Content description QCd.</Comment><Comment>Caption and Content Desc translated/pending SpaQC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2017-01-25" user="lansberryic">Labels translated/Caption and Content Desc pending.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

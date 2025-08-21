@@ -1,0 +1,50 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>eye anatomy2-HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Eye</LabelName><LabelName language="en">Sclera</LabelName><LabelName language="en">Ciliary body</LabelName><LabelName language="en">Canal of Schlemm</LabelName><LabelName language="en">Cornea</LabelName><LabelName language="en">Iris</LabelName><LabelName language="en">Lens</LabelName><LabelName language="en">Canal of Schlemm</LabelName><LabelName language="en">Ciliary body</LabelName><LabelName language="en">Retina</LabelName><LabelName language="en">Vitreous humor</LabelName><LabelName language="en">Choroid</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Lamina cribrosa </LabelName><ImageDimensions>
+    <HeightPixels>1921</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-08-08</DateCreated>
+   <SourceFilename>EyeAnatomyHPSection2.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories><Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038817">choroidal and ciliary body melanoma</Diagnosis><Diagnosis cdr:ref="CDR0000037764">intraocular retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000043733">retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000039197">eye neoplasm</Diagnosis>
+  </Diagnoses>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Anatomy of the eye; one-panel drawing showing the inside of the eye. The panel shows the inside of the eye, including the ciliary body, canal of Schlemm, cornea, lens, vitreous humor, retina, choroid,  optic nerve, and lamina cribrosa.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the eye showing the inside of the eye, including sclera, iris, ciliary body, canal of Schlemm, cornea, lens, vitreous humor, retina, choroid,  optic nerve, and lamina cribrosa. The vitreous humor is a gel that fills the center of the eye.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062846">Retinoblastoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-09</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

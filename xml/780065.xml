@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Soft Tissue Sarcoma - Distribution of Nonrhabdomyosarcomatous Soft Tissue Sarcomas by Stage</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Distribution of Soft Tissue Sarcoma by Stage</LabelName><LabelName language="en">Percentage of Total</LabelName><LabelName language="en">100%</LabelName><LabelName language="en">90%</LabelName><LabelName language="en">80%</LabelName><LabelName language="en">70%</LabelName><LabelName language="en">60%</LabelName><LabelName language="en">50%</LabelName><LabelName language="en">40%</LabelName><LabelName language="en">30%</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">10%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">Age (years)</LabelName><LabelName language="en">0-9</LabelName><LabelName language="en">10-19</LabelName><LabelName language="en">20-29</LabelName><LabelName language="en">30-39</LabelName><LabelName language="en">40-49</LabelName><LabelName language="en">50-59</LabelName><LabelName language="en">60-69</LabelName><LabelName language="en">70+</LabelName><LabelName language="en">Distant</LabelName><LabelName language="en">Regional</LabelName><LabelName language="en">Localized</LabelName><ImageDimensions>
+    <HeightPixels>1100</HeightPixels>
+    <WidthPixels>1736</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2016-04-18</DateCreated>
+   <SourceFilename>NRSTS Graph3.2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-04-18" user="kuhlmanna">Added Title and Labels</Comment><Comment audience="Internal" date="2016-04-05" user="kuhlmanna">Image recreated by Terese</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-04-18" user="kuhlmanna">Per OCC, okay to translate into Spanish</Comment><Comment audience="Internal" date="2016-04-05" user="kuhlmanna">Permissions not needed; figure created from SEER data</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the distribution of nonrhabdomyosarcomatous soft tissue sarcomas by age according to stage.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The distribution of nonrhabdomyosarcomatous soft tissue sarcomas by age according to stage.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image approved by OCC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-12-08</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000780069">Sample Illustration: Childhood Soft Tissue Sarcoma - Distributions of Nonrhabdomyosarcomatous Soft Tissue Sarcomas</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

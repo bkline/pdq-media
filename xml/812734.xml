@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>hereditary diffuse gastric cancer - endoscopy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>142</HeightPixels><WidthPixels>624</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Patrick Lynch, MD, JD, University of Texas, MD Anderson Cancer Center</Creator>
+   <DateCreated>2023-06-13</DateCreated>
+   <SourceFilename>Endoscopy 3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-06-13" audience="Internal">Image provided by PDQ Genetics Editorial Board Member - copyright permissions not required</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654657">hereditary diffuse gastric cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Three endoscopic images of the inside of the stomach showing several small, white, slightly depressed, scar-like lesions.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Tres fotografías endoscópicas del interior del estómago en las que se observan múltiples lesiones pequeñas de aspecto cicatricial, ligeramente deprimidas y de color blanco.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Several small, white, slightly depressed areas are best seen with narrow-band imaging.  These lesions can resemble scars from previous endoscopic biopsies. However, the images above are from a patient who did not have a prior esophagogastroduodenoscopy.  A microscopic signet ring cell carcinoma focus was found on this biopsy, although non-targeted biopsies in this patient were also positive for signet ring cell carcinoma.</MediaCaption><MediaCaption audience="Health_professionals" language="es">En las imágenes de banda estrecha se observan mejor múltiples áreas pequeñas, blancas y  ligeramente deprimidas. Estas lesiones parecen cicatrices de biopsias endoscópicas previas; sin embargo, las fotografías que se muestran corresponden a un paciente que no se había sometido antes a una esofagogastroduodenoendoscopia. En la biopsia que se obtuvo se encontró un foco microscópico de carcinoma de células en anillo de sello. En este mismo paciente, otras biopsias no dirigidas, también fueron positivas para el carcinoma de células en anillo de sello.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Cont. Descr. and Caption. Registry and accessibility considerations.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-06-13</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000812736">NCI Works Release Permission Form: PLynch Endoscopy 3</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

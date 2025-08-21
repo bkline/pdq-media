@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hypopharynx anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Áreas donde es posible que se forme o se disemine el cáncer de hipofaringe</LabelName><LabelName language="es">Parte superior de la columna vertebral</LabelName><LabelName language="es">Arteria carótida</LabelName><LabelName language="es">Ganglios linfáticos del cuello</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Revestimiento de la cavidad torácica</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Tiroides</LabelName><LabelName language="es">Cartílago que rodea la tiroides y la tráquea</LabelName><LabelName language="es">Hueso debajo de la lengua (hioides)</LabelName><LabelName language="es">Hipofaringe</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Laringe</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2850</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000780507">hypopharynx anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>HypopharynxSpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038955">hypopharyngeal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observan las áreas en donde es posible que se forme o disemine el cáncer de hipofaringe: el hueso debajo de la lengua (hioides), el cartílago que rodea la tiroides y la tráquea, la tiroides, la tráquea y el esófago. También se muestran la parte superior de la columna vertebral, la arteria carótida, los ganglios linfáticos del cuello y el revestimiento de la cavidad torácica. En un recuadro se muestra un corte transversal de la hipofaringe, la laringe, el esófago y la tráquea.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El cáncer de hipofaringe se forma en los tejidos de la hipofaringe (parte inferior de la garganta). Es posible que se disemine a los tejidos cercanos o al cartílago que rodea la tiroides o la tráquea, el hueso debajo de la lengua (hioides), la tiroides, la tráquea, la laringe o el esófago. También es posible que se disemine a los ganglios linfáticos del cuello, la arteria carótida, los tejidos que rodean la parte superior de la columna vertebral, el revestimiento de la cavidad torácica y otras partes del cuerpo (no se muestran en la imagen).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000256820">Tratamiento del cáncer de hipofaringe en adultos</Summary><Glossary cdr:ref="CDR0000046029">hypopharynx</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QCd caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-11-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-11-01</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised labels, content description and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy><Comment audience="Internal" date="2017-05-03" user="lansberryic">Spa QC for labels</Comment>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000780507">hypopharynx anatomy</TranslationOf></Media>

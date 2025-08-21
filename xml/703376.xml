@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where GISTs form, with greater omentum, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Greater omentum</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2011-09-16</DateCreated>
+   <SourceFilename>GIST3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2011-09-02" user="anjamison">Deleted title.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038161">gastrointestinal stromal tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Health_professionals" language="en">Drawing of the gastrointestinal tract showing the esophagus, stomach, colon, small intestine, and rectum. An inset shows the greater omentum (part of the tissue that surrounds the stomach and other organs in the abdomen).
+</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Health_professionals" language="en">Gastrointestinal stromal tumors (GISTs) may be found anywhere in or near the gastrointestinal tract.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000639481">Gastrointestinal Stromal Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2011-09-16" user="anjamison">Updated to GIST3.jpg</Comment><Comment>Updated to GIST2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-06-24</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>New drawing.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

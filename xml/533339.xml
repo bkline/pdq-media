@@ -1,0 +1,91 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph system, male, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lymphatic System</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Tonsils</LabelName><LabelName language="en">Thymus</LabelName><LabelName language="en">Spleen</LabelName><LabelName language="en">Small intestine (one site of mucosal-associated lymphoid tissue)</LabelName><LabelName language="en">Bone marrow</LabelName><ImageDimensions>
+    <HeightPixels>3120</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-03-18</DateCreated>
+   
+   
+   <SourceFilename>Lymphatic System Male FP III.1.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" date="2024-03-18" audience="Internal">Added the legs so that the full body is shown; added the femur bone with the black box pointing to the Bone Marrow pullout (as shown in the female image); added the intestine/appendix with the label Small intestine (one site of mucosal-associated lymphoid tissue) pointing to the intestine from the right side of the figure (as shown in the female image); and added color to the figure’s hair and face</Comment><Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2023-03-18</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000041429">lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lymphatic system; drawing shows the lymph vessels and lymph organs, including the lymph nodes, tonsils, thymus, spleen, and bone marrow.  Also shown is the small intestine (one site of mucosal-associated lymphoid tissue). There are also two pullouts: one showing a close up of the inside structure of a lymph node and the attached artery, vein, and lymph vessels with arrows showing how the lymph (clear, watery fluid) moves into and out of the lymph node, and another showing a close up of bone marrow with blood cells.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Lymphatic system; drawing shows the lymph vessels and lymph organs, including the lymph nodes, tonsils, thymus, spleen, and bone marrow.  Also shown is the small intestine (one site of mucosal-associated lymphoid tissue). There are also two pullouts: one showing a close up of the inside structure of a lymph node and the attached artery, vein, and lymph vessels with arrows showing how the lymph (clear, watery fluid) moves into and out of the lymph node, and another showing a close up of bone marrow with blood cells.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The lymph system is part of the body's immune system and is made up of tissues and organs that help protect the body from infection and disease. These include the tonsils, thymus, spleen, bone marrow, lymph vessels, and lymph nodes. Lymph tissue is also found in many other parts of the body, including the small intestine. Lymph (clear, watery fluid) and lymphocytes (white blood cells) travel through the lymph vessels and into the lymph nodes where the lymphocytes destroy harmful substances. The lymph enters the bloodstream through a large vein near the heart.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">The lymph system is part of the body's immune system and is made up of tissues and organs that help protect the body from infection and disease. These include the tonsils, thymus, spleen, bone marrow, lymph vessels, and lymph nodes. Lymph tissue is also found in many other parts of the body, including the small intestine. Lymph (clear, watery fluid) and lymphocytes (white blood cells) travel through the lymph vessels and into the lymph nodes where the lymphocytes destroy harmful substances. The lymph enters the bloodstream through a large vein near the heart.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000062958">Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257991">Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258030">Primary CNS Lymphoma Treatment</Summary><Glossary cdr:ref="CDR0000044489">lymph gland</Glossary>
+ <Glossary cdr:ref="CDR0000045762">lymph node</Glossary><Glossary cdr:ref="CDR0000269462">lymph vessel</Glossary><Glossary cdr:ref="CDR0000269463">lymphatic vessel</Glossary><Glossary cdr:ref="CDR0000045764">lymphatic system</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment>Updated image to Lymphatic System Male FP III.1.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment audience="Internal" date="2009-12-11" user="dbuchhagen">Changed title to lymph system - male.</Comment><Comment>Added a sentence at the end of caption to read, "The lymph enters the blood through a large vein near the heart.” </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Eric Seifter.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-04-27</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Being reviewed by OCCM multimedia group.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-12-19</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>first draft; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000577403">Illustration Review Sheet: Lymph System</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pneumonectomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Neumonectomía</LabelName><LabelName language="es">Ganglios linfáticos
+</LabelName><LabelName language="es">Cáncer
+</LabelName><LabelName language="es">Extirpación de pulmón</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2460</HeightPixels><WidthPixels>2400</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000466556">pneumonectomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>PneumonectomySpanish5.jpg</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with titled image</Comment><Comment>2008-03-27; Spanish filename Pneumonectomy9Spanish.jpg. Added new copyright information. 2006-08-16 final Spanish filename Pneumonectomy8Spanish.jpg; mm  2006-08-03 waiting for publishable version of English image; mm 2006-07-26 added Spanish labeled image: Pneumonectomy7Spanish.jpg; mm </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Neumonectomía. En la imagen se observan la tráquea, los ganglios linfáticos y los pulmones (con cáncer en un pulmón). Se muestra el pulmón con cáncer que se extirpó.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Neumonectomía. En la imagen se observan la tráquea, los ganglios linfáticos y los pulmones (con cáncer en un pulmón). Se muestra el pulmón con cáncer que se extirpó.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Neumonectomía. Se extirpa todo el pulmón.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Neumonectomía.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000046224">pneumonectomy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised content description; fixed typo and updated style.</Comment>
+       <Comment audience="Internal" date="2019-07-17" user="adlerm2">Label on image reads "remoción" but should read "extirpación."</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title image published</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image with titled image</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-11</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>final Spanish-labeled image received 2006-08-15; mm Spanish-labeled image received 2006-07-12; mm</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-07-03</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2006-07-26 caption/ content desc translation completed; mm 2006-07-10 Label translation completed; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000466556">pneumonectomy</TranslationOf></Media>

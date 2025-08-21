@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>X-linked recessive inheritance-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Herencia recesiva ligada al cromosoma X</LabelName><LabelName language="es">Padre afectado</LabelName><LabelName language="es">Madre no afectada</LabelName><LabelName language="es">Par de cromosomas</LabelName><LabelName language="es">Gen mutado</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Y</LabelName><LabelName language="es">Dos genes normales</LabelName><LabelName language="es">X</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Hija no afectada (portadora)</LabelName><LabelName language="es">X</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Hijo no afectado</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Y</LabelName><LabelName language="es">Padre no afectado</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Y</LabelName><LabelName language="es">Madre no afectada (portadora)</LabelName><LabelName language="es">X</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Hija no afectada</LabelName><LabelName language="es">X</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Hijo no afectado</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Y</LabelName><LabelName language="es">Hija no afectada (portadora)</LabelName><LabelName language="es">X</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Hijo afectado</LabelName><LabelName language="es">X</LabelName><LabelName language="es">Y</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1650</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000802198">X-linked recessive inheritance</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>X-LinkedRecessiveInheritanceSpanish1.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observa la distribución del tipo de herencia recesiva ligada al cromosoma X en dos familias conformadas por padre, madre e hijos. En el lado izquierdo se muestran un padre afectado con un gen mutado (cambiado) en el cromosoma X (los varones solo tienen un cromosoma X); una madre no afectada con un gen normal en cada uno de los cromosomas X (las mujeres tienen dos cromosomas X); una hija no afectada (portadora) con un gen mutado en un cromosoma X y un gen normal en el otro cromosoma X y un hijo no afectado con un gen normal en el cromosoma X. En el lado derecho se muestra un padre no afectado con un gen normal en el cromosoma X; una madre no afectada (portadora) con un gen normal en un cromosoma X y un gen mutado en el otro cromosoma X; una hija no afectada con un gen normal en cada uno de los cromosomas X; un hijo no afectado con un gen normal en el cromosoma X; una hija no afectada (portadora) con un gen mutado en un cromosoma X y un gen normal en el otro cromosoma X; y un hijo afectado con un gen mutado en el cromosoma X.</ContentDescription><ContentDescription audience="Health_professionals" language="es">En la imagen se observa la distribución del tipo de herencia recesiva ligada al cromosoma X en dos familias conformadas por padre, madre e hijos. En el lado izquierdo se muestran un padre afectado con un gen mutado (cambiado) en el cromosoma X (los varones solo tienen un cromosoma X); una madre no afectada con un gen normal en cada uno de los cromosomas X (las mujeres tienen dos cromosomas X); una hija no afectada (portadora) con un gen mutado en un cromosoma X y un gen normal en el otro cromosoma X y un hijo no afectado con un gen normal en el cromosoma X. En el lado derecho se muestra un padre no afectado con un gen normal en el cromosoma X; una madre no afectada (portadora) con un gen normal en un cromosoma X y un gen mutado en el otro cromosoma X; una hija no afectada con un gen normal en cada uno de los cromosomas X; un hijo no afectado con un gen normal en el cromosoma X; una hija no afectada (portadora) con un gen mutado en un cromosoma X y un gen normal en el otro cromosoma X; y un hijo afectado con un gen mutado en el cromosoma X.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La herencia recesiva ligada al cromosoma X es una de las formas en que un rasgo o afección genética pasa de padres a hijos cuando hay mutaciones (cambios) en un gen del cromosoma X. En los hombres, la presencia de una mutación en un gen del único cromosoma X (los varones solo tienen un cromosoma X) causa la enfermedad. Las mujeres presentan la afección únicamente cuando la mutación está en ambos cromosomas X (las mujeres tienen dos cromosomas X). Cuando el gen mutado ligado al cromosoma X solo está en uno de los padres (la madre o el padre), las hijas de la pareja por lo general no están afectadas, pero son portadoras porque tienen la mutación en un cromosoma X y el otro cromosoma X es normal. Los hijos estarán afectados si heredan el cromosoma X mutado de su madre. Los padres no pueden pasar afecciones recesivas ligadas al cromosoma X a sus hijos varones.</MediaCaption><MediaCaption audience="Health_professionals" language="es">La herencia recesiva ligada al cromosoma X es una de las formas en que un rasgo o afección genética pasa de padres a hijos cuando hay mutaciones (cambios) en un gen del cromosoma X. En los hombres, la presencia de una mutación en un gen del único cromosoma X (los varones solo tienen un cromosoma X) causa la enfermedad. Las mujeres presentan la afección únicamente cuando la mutación está en ambos cromosomas X (las mujeres tienen dos cromosomas X). Cuando el gen mutado ligado al cromosoma X solo está en uno de los padres (la madre o el padre), las hijas de la pareja por lo general no están afectadas, pero son portadoras porque tienen la mutación en un cromosoma X y el otro cromosoma X es normal. Los hijos estarán afectados si heredan el cromosoma X mutado de su madre. Los padres no pueden pasar afecciones recesivas ligadas al cromosoma X a sus hijos varones.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000339348">X-linked recessive inheritance</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>2020-10-06</EnteredBy>
+        <Comment>Revised caption and content translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Review new imagen, translation of cap and cont. desc. Pending translation QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, caption and content description pending translation</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC: labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media, translation of labels, pending QC</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000802198">X-linked recessive inheritance</TranslationOf></Media>

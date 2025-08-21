@@ -1,0 +1,63 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>tumor size in  millimeters-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Milímetros (mm)</LabelName><LabelName language="es">10 mm</LabelName><LabelName language="es">0</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">Centímetros (cm)</LabelName><LabelName language="es">1 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">10 mm</LabelName><LabelName language="es">20 mm</LabelName><LabelName language="es">50 mm</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2040</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se muestran objetos comunes de distintos tamaños en milímetros (mm): la punta fina de un lápiz (1 mm), la punta de un crayón nuevo (2 mm), la goma de borrar de un lápiz (5 mm), una arveja (10 mm), un maní (20 mm) y una lima (50 mm). También se observa una regla de dos centímetros (cm)  que muestra que 10 mm equivalen a 1 cm.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Por lo general, el tamaño de un tumor se mide en milímetros (mm) o centímetros (cm). Algunos objetos comunes que se usan para mostrar el tamaño de un tumor en mm son los siguientes: la punta fina de un lápiz (1 mm), la punta de un crayón nuevo (2 mm), la goma de borrar de un lápiz (5 mm), una arveja (10 mm), un maní (20 mm) y una lima (50 mm).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256762">Tratamiento del cáncer de seno (mama)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-12</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated caption and content description</Comment>
+       <Comment audience="Internal" date="2019-02-12" user="adlerm2">Updated proposed use to related Spanish-language summary</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-11</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       <Comment audience="Internal" date="2019-02-11" user="adlerm2">Added "Translation of" element</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000796250">tumor size in  millimeters</TranslationOf></Media>

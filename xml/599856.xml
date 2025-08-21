@@ -1,0 +1,138 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage III (1)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage III Nonmelanoma Skin Cancer of the Head and Neck (1)</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Tumor is  larger than 4 cm</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Nerves</LabelName><LabelName language="en">c</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Bone</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3180</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2020-04-13</DateCreated>
+   
+   
+   <SourceFilename>NonMelanomaStage3Part1rev8.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Adjusted box and label placement</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Under the panel “c”, removed the words “Tissue below the subcutaneous tissue”; added "the Head and Neck" to the title</Comment><Comment audience="Internal" date="2019-12-16" user="kuhlmanna">No changes made since previous version (rev5)</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Changed text in inset box to "Tumor is  larger than 4 cm"; and changed text under the middle panel to "Tissue below subcutaneous tissue"</Comment><Comment audience="Internal" date="2018-08-06" user="yousufzaimg">Made all the fonts the same size</Comment><Comment audience="Internal" date="2018-07-25" user="yousufzaimg">Added Skin Cancer to title; added a third block that shows cancer extending from the surface, through the tissue beneath the subcutaneous layer, to a piece of bone underneath; labeled bone; labeled the pull-out "a", the first block "b", the middle block "c", and the new block "d"; deleted the current part b</Comment><Comment audience="Internal" date="2018-03-19" user="kuhlmanna">Split the tissue block in half, with the cancer going down to the nerve in one half (labelled c) and to the area beneath the subcutaneous layer in the other half (labelled d); for label b, removed the inset with the woman’s head and added arrow coming off of the main block to a picture of a bone with the label “Cancer spreads to nearby bone”; and removed parentheses from the labels a, b, c, and d.</Comment><Comment audience="Internal" date="2018-03-06" user="yousufzaimg">Image revisions made per AJCC 8th edition  updates</Comment><Comment audience="Internal" date="2012-03-30" user="anjamison">Added initial caps to titles.</Comment><Comment audience="Internal" date="2012-03-15" user="anjamison">Deleted inset of lymph nodes.</Comment><Comment>Part one of two-part revised illustration.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage III nonmelanoma skin cancer of the head and neck (1); drawing shows (a) an inset showing that the tumor is larger than 4 centimeters and that 4 centimeters is about the size of a walnut. Also shown is cancer spreading through the epidermis to (b) tissue covering the nerves below the dermis; (c) below the subcutaneous tissue; and (d) bone.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage III nonmelanoma skin cancer of the head and neck (1); drawing shows (a) an inset showing that the tumor is larger than 4 centimeters and that 4 centimeters is about the size of a walnut. Also shown is cancer spreading through the epidermis to (b) tissue covering the nerves below the dermis; (c) below the subcutaneous tissue; and (d) bone.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage III nonmelanoma skin cancer of the head and neck (1). The tumor is (a) larger than 4 centimeters; or cancer has spread to (b) tissue covering the nerves below the dermis; or (c) below the subcutaneous tissue; or (d) the bone and the bone has minor damage. Cancer may have spread to one lymph node on the same side of the body as the tumor and the node is 3 centimeters or smaller, and cancer has not spread through to the outside covering of the lymph node.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage III nonmelanoma skin cancer of the head and neck (1). The tumor is (a) larger than 4 centimeters; or cancer has spread to (b) tissue covering the nerves below the dermis; or (c) below the subcutaneous tissue; or (d) the bone and the bone has minor damage. Cancer may have spread to one lymph node on the same side of the body as the tumor and the node is 3 centimeters or smaller, and cancer has not spread through to the outside covering of the lymph node.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Glossary cdr:ref="CDR0000368448">stage III nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-25</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changes to image recommended per J. Jeter, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Updated image to NonMelanomaStage3Part1rev7.jpg</Comment><Comment audience="Internal" date="2018-08-06" user="yousufzaimg">Updated to NonMelanomaStage3Part1rev4.jpg</Comment><Comment audience="Internal" date="2018-07-25" user="yousufzaimg">Updated to NonMelanomaStage3Part1rev3.jpg</Comment><Comment audience="Internal" date="2018-03-19" user="kuhlmanna">Updated to NonMelanomaStage3Part1rev2.jpg</Comment><Comment audience="Internal" date="2018-03-06" user="yousufzaimg">Updated to NonMelanomaStage3Part1rev1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-17</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-14</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Added expert review sheet from Alberto S. Pappo</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2012-02-20" user="anjamison">First draft revised caption/description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-21</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to MelanomaRevStage3.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommend changing label from "fatty tissue" to "subcutaneous layer".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; revised cont desc. </Comment><Comment>2008-07-30 caption and content desc approved w/ edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-15</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 updated to NonMelanomaStage3.7.jpg; rh.</Comment>
+        <Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 updated to NonMelanomaStage3.6.jpg; rh.</Comment><Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; updated to NonMelanomaStage3.5.jpg; dlb. </Comment><Comment>2008-08-12; updated to NonMelanomaStage3.4.jpg; dlb. </Comment><Comment>2008-07-15; Updated to NonMelanomaStage3.3.jpg; dlb. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-06-30</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000800452">Illustration Review Sheet: stage III nonmelanoma skin cancer (part 1)</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000738609">Illustration Review Sheet: Stage III nonmelanoma skin cancer (1)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

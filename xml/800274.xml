@@ -1,0 +1,58 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>melanocytic macules</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>519</HeightPixels>
+    <WidthPixels>720</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Edward Cowen, MD, MHSc</Creator>
+   <DateCreated>2019-12-20</DateCreated>
+   <SourceFilename>melanocytic macules PJS.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-01-02" user="kuhlmanna">Permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph showing the lips of an individual with Peutz-Jeghers syndrome. The upper and lower lips have several small dark-colored spots.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Melanocytic macules are benign pigmented patches that are commonly found on the lips. They are a characteristic feature of Peutz-Jeghers syndrome, a hereditary syndrome associated with several types of cancer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062863">Genetics of Colorectal Cancer</Summary>
+  <Glossary cdr:ref="CDR0000800268">melanocytic macules associated with Peutz-Jeghers syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the Content Description and Caption (image has no labels)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-12-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  <Comment audience="Internal" date="2020-01-02" user="kuhlmanna">Approved by PDQ Cancer Genetics Editorial Board</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

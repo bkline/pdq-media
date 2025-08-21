@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Predicted Outcomes per 100 Breast Biopsies, Overall and by Diagnostic Category-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Acuerdo global para 100 biopsias de mama</LabelName><LabelName language="es">Acuerdo por categoría específica para  100 biopsias según la interpretación diagnóstica de la biopsia</LabelName><LabelName language="es">Benigna sin atipia</LabelName><LabelName language="es">Atipia</LabelName><LabelName language="es">CDIS</LabelName><LabelName language="es">Cáncer de mama invasivo</LabelName><LabelName language="es">Verificado por un grupo de consenso de referencia</LabelName><LabelName language="es">El diagnóstico patológico es una sobreinterpretación*</LabelName><LabelName language="es">El diagnóstico patológico es una infrainterpretación</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000784729">Predicted Outcomes per 100 Breast Biopsies, Overall and by Diagnostic Category</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>B-Path Annals of Internal Med Figure3Spanish1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-12-16" user="saucedol">Linked image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El gráfico muestra los resultados previstos de 100 biopsias de mama: global y por categoría diagnóstica.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Resultados previstos para 100 biopsias de mama: global y por categoría diagnóstica. De Annals of Internal Medicine, Elmore JG, Nelson HD, Pepe MS, Longton GM, Tosteson AN, Geller B, Onega T, Carney PA, Jackson SL, Allison KH, Weaver, DL, Variability in Pathologists' Interpretations of Individual Breast Biopsy Slides: A Population Perspective, Volume 164, Issue 10, Pages 649–55, Derechos de autor © 2016 American College of Physicians. Todos los derechos reservados. Reimpresión autorizada por el American College of Physicians, Inc.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000744470">Exámenes de detección del cáncer de seno (mama)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revisions QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-10</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Readdy for Spanish QC</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

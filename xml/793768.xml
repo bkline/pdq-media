@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>autosomal dominant inheritance</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Autosomal Dominant Inheritance</LabelName><LabelName language="en">Affected father</LabelName><LabelName language="en">Unaffected mother</LabelName><LabelName language="en">Chromosome pair</LabelName><LabelName language="en">Mutated gene</LabelName><LabelName language="en">Normal gene</LabelName><LabelName language="en">Two normal genes</LabelName><LabelName language="en">Affected daughter</LabelName><LabelName language="en">Unaffected son</LabelName><LabelName language="en">Unaffected daughter</LabelName><LabelName language="en">Affected son</LabelName><ImageDimensions>
+    <HeightPixels>2580</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-09-14</DateCreated>
+   <SourceFilename>AutosomalDominantInheritance3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-09-15" user="yousufzaimg">REVISION: Added an outline around the Affected individuals and around the mutated gene on the chromosomes</Comment><Comment>Made all chromosomes the same color (grey) and made the mutated gene turquoise and the normal gene purple</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing an autosomal dominant inheritance pattern between a father, mother, and their four children: a chromosome pair with a normal gene and a mutated gene in an affected father; two normal genes in an unaffected mother; a normal gene and a mutated gene in an affected daughter and in an affected son; and two normal genes in an unaffected daughter and in an unaffected son.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Drawing showing an autosomal dominant inheritance pattern between a father, mother, and their four children: a chromosome pair with a normal gene and a mutated gene in an affected father; two normal genes in an unaffected mother; a normal gene and a mutated gene in an affected daughter and in an affected son; and two normal genes in an unaffected daughter and in an unaffected son.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Autosomal dominant inheritance is a way a genetic trait or condition can be passed down from parent to child. One copy of a mutated (changed) gene from one parent can cause the genetic condition. A child who has a parent with the mutated gene has a 50% chance of inheriting that mutated gene. Men and women are equally likely to have these mutations and sons and daughters are equally likely to inherit them.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Autosomal dominant inheritance is a way a genetic trait or condition can be passed down from parent to child. One copy of a mutated (changed) gene from one parent can cause the genetic condition. A child who has a parent with the mutated gene has a 50% chance of inheriting that mutated gene. Men and women are equally likely to have these mutations and sons and daughters are equally likely to inherit them.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000793860">autosomal dominant inheritance</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-02-08" user="yousufzaimg">Updated caption</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-09-14</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment audience="Internal" date="2020-09-15" user="yousufzaimg">Updated image to AutosomalDominantInheritance3.jpg</Comment><Comment audience="Internal" date="2018-07-02" user="yousufzaimg">Updated image to AutosomalDominantInheritance2.jpg</Comment></ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000793343">Sample Illustration: Family Cancer Syndromes Associated with RCC</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,115 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where neuroendocrine tumors form, anatomy, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes del cuerpo donde se forman los tumores neuroendocrinos gastrointestinales</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Apéndice</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>2925</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000805506">gastrointestinal system where neuroendocrine tumors form, anatomy, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>GI NeuroendocrineTumorsChildSpanish1.jpg    </SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation>
+  <Age>Child</Age>
+  <Sex>Male</Sex>
+  <Race>Asian</Race>
+  <SkinTone>Type IV – Light brown skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038092">gastrointestinal carcinoid tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Imagen del tubo digestivo donde se muestran el hígado, el estómago, el páncreas, el intestino delgado, el colon y el apéndice.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los tumores neuroendocrinos gastrointestinales se forman en el revestimiento del tubo digestivo y en otros órganos del abdomen.  La mayoría de los tumores neuroendocrinos gastrointestinales en niños se forman en el apéndice, pero a veces surgen en el estómago, los intestinos, el páncreas o el hígado.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800490">Tratamiento de los tumores carcinoides gastrointestinales infantiles</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       <Comment user="dossantosm2" audience="Internal" date="2022-09-26">Revisar con  Isabel si dejamos como principal "tracto digestivo" o si lo cambiamos a "tubo digestivo". También queda pendiente la actualización del título del sumario que aparece bajo Proposed use.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>De acuerdo, la actualización del título del sumario en inglés sigue "in progress".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-15</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>En este documento se actualizó el título del sumario que aparece en proposed use. Sin embargo, el sumario en inglés todavía no se publicó con el título nuevo. En español no se ha actualizado aún.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, translated caption and content description. En las leyendas usé "tubo digestivo" para mantener la congruencia con la traducción que tenemos en el sumario para pacientes. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-29</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels QC pending</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000805506">gastrointestinal system where neuroendocrine tumors form, anatomy, child</TranslationOf></Media>

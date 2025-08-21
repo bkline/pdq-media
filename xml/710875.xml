@@ -1,0 +1,108 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>breast, male, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de la mama masculina</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Pezón</LabelName><LabelName language="es">Aréola</LabelName><LabelName language="es">Pared torácica</LabelName><LabelName language="es">Costillas</LabelName><LabelName language="es">Músculo</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Aréola</LabelName><LabelName language="es">Pezón</LabelName><LabelName language="es">Conductos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000694414">breast, male, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MaleBreastAnatomySpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   
+  <Category>anatomy</Category></Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la mama masculina. En la imagen se observan los ganglios linfáticos, el pezón, la aréola, la pared torácica, las costillas, el músculo, el tejido graso y los conductos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía de la mama masculina. En la imagen se observan los ganglios linfáticos, el pezón, la aréola, la pared torácica, las costillas, el músculo, el tejido graso y los conductos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la mama masculina. Se observan  el pezón y la aréola en la parte exterior de la mama. También se observan los ganglios linfáticos, el tejido graso, los conductos  y otras partes del interior de la mama.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía de la mama masculina. Se observan el pezón y la aréola en la parte exterior de la mama.  También se observan los ganglios linfáticos, el tejido graso, los conductos y otras partes del interior de la mama.</MediaCaption></Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000256841">Tratamiento del cáncer de seno (mama) masculino</Summary>
+       <Summary cdr:ref="CDR0000256747">Tratamiento del cáncer de seno (mama) masculino</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised label (pared torácica) and content descriptions during translation of male breast cancer patient summary.</Comment>
+       <Comment audience="Internal" date="2019-08-14" user="adlerm2">Consistency with other breast images (see female anatomy).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial change per summary review in Spanish</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added HP caption and content description, revised Pat caption and content description and added Proposed used: HP and Patient summaries</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, caption and content description QCd. Added new image.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translations pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000694414">breast, male, anatomy</TranslationOf></Media>

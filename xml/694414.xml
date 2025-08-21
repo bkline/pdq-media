@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>breast, male, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Male Breast</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Nipple</LabelName><LabelName language="en">Areola</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Ribs</LabelName><LabelName language="en">Muscle</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Areola</LabelName><LabelName language="en">Nipple</LabelName><LabelName language="en">Ducts</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    
+   <WidthPixels>3225</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   
+   
+  <Creator>Terese Winslow</Creator><DateCreated>2011-08-19</DateCreated><SourceFilename>MaleBreastAnatomy4.jpg</SourceFilename><Comment>Moved the right side of the Chest wall braket to the left.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   
+  <Category>anatomy</Category></Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the male breast; drawing shows the nipple, areola, fatty tissue, ducts, nearby lymph nodes, ribs, and muscle.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Male breast anatomy:  Anatomy of the male breast showing the nipple, areola, fatty tissue, and ducts.  Nearby lymph nodes, ribs, and muscle are also shown.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-02</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-09-02</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-06-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-08-19</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  <Comment audience="Internal" date="2011-08-19" user="anjamison">Updated to MaleBreastAnatomy4.jpg</Comment><Comment audience="Internal" date="2011-08-05" user="anjamison">Updated to MaleBreastAnatomy3.jpg</Comment><Comment audience="Internal" date="2011-07-22" user="anjamison">Updated to MaleBreastAnatomy2,jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000710814">Illustration Review Sheet: Male Breast Anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,94 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Childhood Melanoma - Trends-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tasa por 1 000 000</LabelName><LabelName language="es">0</LabelName><LabelName language="es">5,0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">15</LabelName><LabelName language="es">20</LabelName><LabelName language="es">25</LabelName><LabelName language="es">Año de diagnóstico</LabelName><LabelName language="es">1999</LabelName><LabelName language="es">2004</LabelName><LabelName language="es">2008</LabelName><LabelName language="es">2012</LabelName><LabelName language="es">2016</LabelName><LabelName language="es">2020</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1275</HeightPixels><WidthPixels>2175</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000813686">Childhood Melanoma - Trends</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>NCCR Melanoma Trends 9-14-23 Spanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el gráfico se observan las tendencias de las tasas de incidencia del melanoma ajustadas por edad desde 1999 hasta 2020, en adolescentes de 15 a 19 años.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Tendencias de las tasas de incidencia del melanoma ajustadas por edad desde 1999 hasta 2020 en adolescentes de 15 a 19 años. Reproducción autorizada de National Childhood Cancer Registry. NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. Instituto Nacional del Cáncer; 7 de sept. de 2023. [actualizada el 8 de sept. de 2023; citada el 4 de oct. de 2023]. Disponible en: <ExternalRef cdr:xref="https://nccrexplorer.ccdi.cancer.gov" SourceTitle="National Childhood Cancer Registry Explorer (NCCR*Explorer)">https://nccrexplorer.ccdi.cancer.gov</ExternalRef>.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800109">Childhood Melanoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Minor editorial change in caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-05</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Peer QC of caption and content description complete. Labels need to be updated in this document to reflect latest changes in the image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Editorial changes to caption and cc</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image in Spanish needs revision and is sent back to Terese.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Peer review of labels complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-26</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000813686">Childhood Melanoma - Trends</TranslationOf></Media>

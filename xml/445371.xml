@@ -1,0 +1,64 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophagoscopy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Esofagoscopia</LabelName><LabelName language="es">Endoscopio</LabelName><LabelName language="es">Esófago</LabelName><ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>2981</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000433289">esophagoscopy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>EsophagoscopySpanish5.jpg</SourceFilename><Comment audience="Internal" date="2019-05-07" user="saucedol">Linked revised image.</Comment><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image with titled image</Comment><Comment> 2008-04-10; EsophagoscopySpanish3.jpg  Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039821">gastric cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Esofagoscopia. Se introduce un endoscopio por la boca hasta el esófago. El recuadro muestra a la paciente en una camilla durante la esofagoscopia.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Esofagoscopia. Se introduce un tubo delgado con luz por la boca hasta el esófago para identificar áreas anormales.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised "esofagoscopia" for consistency (no accent).</Comment>
+       <Comment audience="Internal" date="2019-03-08" user="adlerm2">Needs revision to title on image; should read "esofagoscopia."</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000433289">esophagoscopy</TranslationOf></Media>

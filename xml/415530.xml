@@ -1,0 +1,120 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>tumor size - centimeters-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tamaños de un tumor</LabelName><LabelName language="es">Centímetros (cm)</LabelName><LabelName language="es">0</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">3</LabelName><LabelName language="es">4</LabelName><LabelName language="es">5</LabelName><LabelName language="es">6</LabelName><LabelName language="es">7</LabelName><LabelName language="es">8</LabelName><LabelName language="es">9</LabelName><LabelName language="es">10</LabelName><LabelName language="es">Pulgadas (in)</LabelName><LabelName language="es">0</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">3</LabelName><LabelName language="es">4</LabelName><LabelName language="es">1 cm</LabelName><LabelName language="es">2 cm</LabelName><LabelName language="es">3 cm</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">5 cm</LabelName><LabelName language="es">6 cm</LabelName><LabelName language="es">7 cm</LabelName><LabelName language="es">10 cm</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3240</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000415526">tumor size - centimeters</MediaID></FromCdrMedia>
+    
+   </FromObject><SourceFilename>TumorSize 1 to 10cm and InchSpanish.jpg</SourceFilename><Comment audience="Internal" date="2012-08-22" user="lsaucedo">Added revised Spn image. TumorSizeWithBlackBeanSpanish.jpg</Comment><Comment audience="Internal" date="2008-02-21" user="dbuchhagen">2008-02-21; Added new copyright information. </Comment>
+   <Comment>TumorSizeSpanish3.jpg Added NCI watermark. mm</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Tamaños de un tumor. En la imagen se observan diferentes tamaños de un tumor en centímetros (cm) que se comparan con el tamaño de una arveja (1 cm), un maní (2 cm), una uva (3 cm),  una nuez (4 cm), una lima (5 cm), un huevo (6 cm), un durazno (7 cm) y un pomelo (10 cm). También se muestra una regla de 10 cm y una regla de 4 in.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Tamaños de un tumor. El tamaño de los tumores a menudo se mide en centímetros (cm) o pulgadas (in).  A veces se usan alimentos comunes para mostrar el tamaño de un tumor en centímetros: una arveja  (1 cm), un maní (2 cm), una uva (3 cm),  una nuez (4 cm), una lima (5 cm), un huevo (6 cm), un durazno (7 cm) y un pomelo (10 cm).</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Translation QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of image, description and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-08" user="adlerm2">To improve readability, suggest not mixing the conversion to inches within the explanations in Spanish. Perhaps "toronja" can be removed as well (?).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels, caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>2019-04-29</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added labels, revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image, revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Minor edits to caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Corrected translation for pea</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000415526">tumor size - centimeters</TranslationOf></Media>

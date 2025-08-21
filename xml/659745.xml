@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>liver, child, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Right lobe of liver</LabelName><LabelName language="en">Left lobe of liver</LabelName><LabelName language="en">Bile ducts</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Spleen</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Colon</LabelName><ImageDimensions><HeightPixels>2340</HeightPixels><WidthPixels>3034</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-10-18</DateCreated>
+   <SourceFilename>ChildLiverCa5.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2021-10-18">Darkened skin tone </Comment><Comment audience="Internal" date="2009-12-11" user="dbuchhagen">Added labels: Right lobe of liver and Left lobe of liver.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043714">childhood liver cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the liver; drawing shows the right and left lobes of the liver. Also shown are the bile ducts, gallbladder, stomach, spleen, pancreas, small intestine, and colon. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the liver. The liver is in the upper abdomen near the stomach, intestines, gallbladder, and pancreas. The liver has a right lobe and a left lobe. Each lobe is divided into two sections (not shown). </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258119">Childhood Liver Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Diversity project</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to ChildLiverCa5.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-12-11</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-01-15" user="dbuchhagen">Updated to ChildLiverCancer4.jpg.</Comment><Comment>Updated to ChildLiverCancer3.jpg.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-11-16</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-01-19" user="dbuchhagen">Replaced "two" with "right and left" in Content description.</Comment><Comment>Caption and content description same as for adult image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-16</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

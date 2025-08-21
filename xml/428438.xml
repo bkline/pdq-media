@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>x-ray, chest</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled><LabelName language="en">Chest X-ray</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2178</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+   
+   
+   <DateCreated>2013-03-01</DateCreated><SourceFilename>ChestXRay8.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2013-03-01" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2008-03-12" user="rharrison">Added new copyright information. (Image does not include x-ray picture.)</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Chest x-ray; drawing shows the patient standing with her back to the x-ray machine.  X-rays are used to take pictures of organs and bones of the chest.  X-rays pass through the patient onto film.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">X-ray of the chest.  X-rays are used to take pictures of organs and bones of the chest.  X-rays pass through the patient onto film.  </MediaCaption>
+  </Captions>
+  
+  
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Added "drawing", "the", and "her" to cont descr; dlb. </Comment></MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary><Summary cdr:ref="CDR0000062947">Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000269299">Malignant Mesothelioma Treatment</Summary>
+       <Glossary cdr:ref="CDR0000304687">chest x-ray</Glossary></ProposedUse><DatedAction><ActionDescription>Remove links to the proposed use summaries when chest x-ray image with radiograph of lung is completed.</ActionDescription><ActionDate>2006-09-30</ActionDate></DatedAction><ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-01</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to ChestXRay8.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2005-04-25</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

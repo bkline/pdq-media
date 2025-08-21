@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Incidencia por 100 000 mujeres</LabelName><LabelName language="es">300</LabelName><LabelName language="es">250</LabelName><LabelName language="es">200</LabelName><LabelName language="es">150</LabelName><LabelName language="es">100</LabelName><LabelName language="es">50</LabelName><LabelName language="es">0</LabelName><LabelName language="es">1975</LabelName><LabelName language="es">1980</LabelName><LabelName language="es">1985</LabelName><LabelName language="es">1990</LabelName><LabelName language="es">1995</LabelName><LabelName language="es">2000</LabelName><LabelName language="es">2005</LabelName><LabelName language="es">2010</LabelName><LabelName language="es">Cáncer de mama metastásico</LabelName><LabelName language="es">Introducción del uso generalizado de la mamografía de detección</LabelName><LabelName language="es">Alrededor de 30 % de aumento relacionado  con el uso generalizado de la mamografía de detección</LabelName><LabelName language="es">Todos los cánceres de mama invasivos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000788362">Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>NEJM Figure_04-17-17Breast CancersSpanish5.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El gráfico muestra la relación temporal entre la introducción de la mamografía de detección y el aumento de la incidencia del cáncer de mama invasivo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Se muestran las incidencias generales del cáncer de mama  invasivo y cáncer de mama metastásico en mujeres de 40 o más años en 9 sitios del programa Surveillance, Epidemiology, and End Results (SEER)  durante el período de 1975 a 2012.  New England Journal of Medicine, Welch HG, Prorok PC, O'Malley AJ, Kramer BS, Breast-Cancer Tumor Size, Overdiagnosis, and Mammography Screening Effectiveness, Volume 375, Issue 15, Pages 1438-47, Derechos de autor © 2016 Massachusetts Medical Society. Reproducción autorizada por la  Massachusetts Medical Society.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000744470">Exámenes de detección del cáncer de seno (mama)</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-10</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-05-10" user="lansberryic">QC of Translation of Caption and Content Descr.</Comment><Comment>Added media file</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy><Comment audience="Internal" date="2017-04-27" user="lansberryic">Update Title per update in English Title</Comment><Comment audience="Internal" date="2017-04-27" user="lansberryic">Translation Qc for labels</Comment>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

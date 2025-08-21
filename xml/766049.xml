@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>appendix</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stomach</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Appendix</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Rectum</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-11-17</DateCreated>
+   <SourceFilename>Appendix2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-18" user="myousufzai">Took off the labels for the parts of the small intestine and removed the colors from the image</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows the stomach, small intestine, appendix, colon, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The appendix is a small, fingerlike pouch that is attached to the end of the colon (large intestine).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000044753">appendix</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-13</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-11-12</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment>Updated image to Appendix2.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Classification of Conditioning Regimens</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stem cell support required</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">Non ablative NMA</LabelName><LabelName language="en">Reduced intensity conditioning RIC</LabelName><LabelName language="en">Myeloablative MA</LabelName><LabelName language="en">minimal</LabelName><LabelName language="en">short</LabelName><LabelName language="en">long</LabelName><LabelName language="en">irreversible</LabelName><LabelName language="en">panocytopenia</LabelName><ImageDimensions>
+    <HeightPixels>894</HeightPixels>
+    <WidthPixels>1050</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   
+   <Creator>Open source</Creator><SourcePublication>Biol Blood Marrow Transplant 15 (12): 1628-1633, 2009. © 2009 American Society for Blood and Marrow Transplantation.</SourcePublication>
+   <DateCreated>2011-09-19</DateCreated>
+   
+   
+   <SourceFilename>Bacigalupo slide for Ch HCT summary figure 3.jpg</SourceFilename>
+   
+  </OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Figure 3; chart shows classification of conditioning regimens based on duration of pancytopenia and requirement for stem cell support; chart shows myeloablative regimens, nonmyeloablative regimens, and reduced intensity regimens.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 3. Classification of conditioning regimens in 3 categories, based on duration of pancytopenia and requirement for stem cell support. Myeloablative regimens (MA) produce irreversible pancytopenia and require stem cell support. Nonmyeloablative regimens (NMA) produce minimal cytopenia and would not require stem cell support. Reduced-intensity regimens (RIC) are regimens which cannot be classified as MA nor NMA. Reprinted from Biology of Blood and Marrow Transplantation, 15 (12), Andrea Bacigalupo, Karen Ballen, Doug Rizzo, Sergio Giralt, Hillard Lazarus, Vincent Ho, Jane Apperley, Shimon Slavin, Marcelo Pasquini, Brenda M. Sandmaier, John Barrett, Didier Blaise, Robert Lowski, Mary Horowitz, Defining the Intensity of Conditioning Regimens: Working Definitions, Pages 1628-1633, Copyright 2009, with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-24</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Finalized by OCCM.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-09-19</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy>
+   <Comment>New media doc. Waiting for approval and content description</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

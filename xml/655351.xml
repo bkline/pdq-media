@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage IIIB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIB</LabelName><LabelName language="en">Omentum</LabelName><LabelName language="en">Fallopian tube</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Tumor size</LabelName><LabelName language="en">2 cm or less</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3060</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2015-11-25</DateCreated>
+   
+   
+   <SourceFilename>OFPStage3B.5.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2015-11-30" user="yousufzaimg">Made cancer spot on omentum more visible; made the omentum tissue  look more shear and less like gray stripes</Comment><Comment audience="Internal" date="2015-11-02" user="kuhlmanna">Added the omentum and moved the cancer spot and the tumor size inset box to the omentum, per reviewer.</Comment><Comment audience="Internal" date="2015-08-11" user="yousufzaimg">Removed the cancer spot that is on the right fallopian tube near the top of the uterus</Comment><Comment audience="Internal" date="2015-07-30" user="yousufzaimg">Removed the cancer spots that aren’t in the ovaries and fallopian tubes, and removed the cancer that is growing out of the ovaries onto adjacent tissue.</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">REVISED IMAGE per FIGO update: Removed "ovarian cancer" from title; added the lymph node group that is shown on the lower, left side of the Stage IIIC illustration and labeled the Lymph nodes; on the right side of the image, reduced size of the cancer spot that has the pull-out for Tumor size a tiny bit so that it is actually in the peritoneum layer (but does not go through it).</Comment><Comment audience="Internal" date="2009-10-01" user="rharrison">Reduced the size of the tumor on the peritoneum.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000043701">ovarian epithelial cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040968">fallopian tube cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040969">primary peritoneal cavity cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of stage IIIB shows cancer inside both ovaries that has spread to the omentum. The cancer in the omentum is 2 centimeters or smaller. An inset shows 2 centimeters is about the size of a peanut. Also shown are the small intestine, colon, fallopian tubes, uterus, bladder, and lymph nodes behind the peritoneum.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Drawing of stage IIIB shows cancer inside both ovaries that has spread to the omentum. The cancer in the omentum is 2 centimeters or smaller. An inset shows 2 centimeters is about the size of a peanut. Also shown are the small intestine, colon, fallopian tubes, uterus, bladder, and lymph nodes behind the peritoneum.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">In stage IIIB, cancer is found in one or both ovaries or fallopian tubes and has spread to the omentum, and the cancer in the omentum is 2 centimeters or smaller.  Cancer may have spread to lymph nodes behind the peritoneum. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">In stage IIIB, cancer is found in one or both ovaries or fallopian tubes and has spread to the omentum, and the cancer in the omentum is 2 centimeters or smaller.  Cancer may have spread to lymph nodes behind the peritoneum. </MediaCaption></Captions>
+  
+ <Comment audience="Internal" date="2016-01-26" user="kuhlmanna">2016-01-26: Revised content &amp; caption approved by OCC; added HP content &amp; caption.</Comment></MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000062963">Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000045901">stage III ovarian epithelial, fallopian tube, and primary peritoneal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-30</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2015-11-30" user="yousufzaimg">Updated to OFPStage3B.5.jpg</Comment><Comment audience="Internal" date="2015-11-02" user="kuhlmanna">Updated to OFPStage3B.4.jpg</Comment><Comment audience="Internal" date="2015-08-11" user="yousufzaimg">Updated to OFPStage3B.3.jpg</Comment><Comment audience="Internal" date="2015-07-30" user="yousufzaimg">Updated to OFPStage3B.2.jpg</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">Updated to OFPStage3B.1.jpg</Comment><Comment audience="Internal" date="2011-08-19" user="anjamison">Updated to OvarianCaStage3B.10.jpg</Comment><Comment>Updated to OvarianCaStage3B.9.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-09-16</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  <Comment audience="Internal" date="2009-09-16" user="rharrison">Added OvarianCaStage3B.1.jpg.</Comment></ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-10-20</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ 
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000618028">sample illustration: ovarian cancer stage III</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

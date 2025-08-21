@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bone anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Anatomía del hueso</LabelName><LabelName language="es">Hueso esponjoso (contiene médula roja)</LabelName><LabelName language="es">Médula amarilla</LabelName><LabelName language="es">Hueso compacto</LabelName><LabelName language="es">Vasos sanguíneos de la médula ósea</LabelName><LabelName language="es">Célula madre sanguínea</LabelName><LabelName language="es">Glóbulos rojos</LabelName><LabelName language="es">Glóbulos blancos</LabelName><LabelName language="es">Plaquetas</LabelName><ImageDimensions>
+    <HeightPixels>2925</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000761775">bone anatomy-Spanish</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BoneAnatomySpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-06-11" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039808">bone cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del hueso; en la ilustración, se muestra el hueso esponjoso, la médula roja y la médula amarilla. En un corte  trasversal del hueso, se muestran el hueso compacto y los vasos sanguíneos en la médula ósea. También se muestran los glóbulos rojos, los glóbulos blancos, las plaquetas y las células madre sanguíneas. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del hueso. El hueso se compone de hueso compacto, hueso esponjoso y médula ósea. El hueso compacto forma la capa exterior del hueso. El hueso esponjoso se encuentra, más que todo, a los extremos de los huesos y contiene médula roja. La médula ósea se encuentra en el centro de la mayoría de los huesos y tiene muchos vasos sanguíneos. Hay dos tipos de médula ósea: roja y amarilla. La médula roja contiene células madre sanguíneas que se pueden convertir en glóbulos rojos, glóbulos blancos o plaquetas. La médula amarilla está compuesta, en mayor parte, de grasa.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000256846">Osteosarcoma e histiocitoma fibroso maligno óseo: Tratamiento</Summary>
+       <Glossary cdr:ref="CDR0000434562">bone cancer</Glossary><Glossary cdr:ref="CDR0000045622">bone marrow</Glossary><Glossary cdr:ref="CDR0000430857">bone marrow cancer</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

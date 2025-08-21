@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mammography</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Mammography</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-05-06</DateCreated>
+   <SourceFilename>Mammography11.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-05-06" user="anjamison">In the inset: deleted X-ray title; moved cancer to the center; changed arrow color from yellow to black.</Comment><Comment audience="Internal" date="2013-03-29" user="anjamison">Added labels to inset.</Comment><Comment audience="Internal" date="2013-03-21" user="anjamison">Added inset with x-ray film.</Comment><Comment>Added the title "Mammography". Made it look more like the left breast is on the imaging plate. Added a plexiglass shield in front of the imaging technician.    </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039644">breast cancer in situ</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="en">Mammography; the left breast is pressed between two plates.  An X-ray machine is used to take pictures of the breast. An inset shows the x-ray film image with an arrow pointed at abnormal tissue.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Mammography. The breast is pressed between two plates.  X-rays are used to take pictures of breast tissue.</MediaCaption></Captions>
+ <Comment audience="Internal" date="2013-03-21" user="anjamison">Added inset to description.</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257995">Breast Cancer Screening</Summary>
+  <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment</Summary><Glossary cdr:ref="CDR0000045775">mammogram</Glossary>
+ <Glossary cdr:ref="CDR0000045996">mammography</Glossary></ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-02-01</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-25</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Illustration review by group</ProcessingStatusValue><ProcessingStatusDate>2013-05-06</ProcessingStatusDate><EnteredBy>anjamison</EnteredBy><Comment audience="Internal" date="2013-05-06" user="anjamison">Updated to Mammography11.jpg</Comment><Comment audience="Internal" date="2013-03-29" user="anjamison">Updated to Mammography10.jpg</Comment><Comment audience="Internal" date="2013-03-21" user="anjamison">Updated to Mammography9.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to Mammogram8.jpg</Comment><Comment audience="Internal" date="2013-01-25" user="anjamison">Updated to Mammogram7.jpg</Comment><Comment>Added Mammography6.jpg</Comment><Comment audience="Internal" date="2012-12-11" user="anjamison">Updated to Mammogram5.jpg</Comment><Comment>Added Mammogram4.jpg</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-09-02</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  <Comment audience="Internal" date="2011-09-07" user="anjamison">Added Mammogram2.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000749334">Illustration Review Sheet: mammogram</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

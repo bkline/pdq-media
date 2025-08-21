@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lumbar puncture-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Médula espinal</LabelName><LabelName language="es">Líquido cefalorraquídeo</LabelName><LabelName language="es">Aguja espinal</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000581236">lumbar puncture-Spanish</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment audience="Internal" date="2013-02-06" user="lsaucedo">Replaced image with new titled image</Comment><Comment>Spanish filename: LumbarPunctureSpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Punción lumbar; la imagen muestra a un paciente acostado sobre una camilla en posición encorvada y una aguja intrarraquídea o espinal, la cual es larga y fina, que se inserta en la parte inferior de la espalda. El recuadro muestra una vista de cerca de esta aguja insertada en el líquido cefalorraquídeo (LCR), en la parte inferior de la columna vertebral.  </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Punción lumbar. El paciente se acuesta sobre una camilla en posición encorvada. Después que se adormece un área pequeña en la parte inferior de la espalda, se inserta una aguja intrarraquídea o espinal, la cual es larga y fina, en la parte inferior de la columna vertebral para extraer líquido cefalorraquídeo (LCR, se muestra en azul). El líquido se puede enviar a un laboratorio para analizarse.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256789">Leucemia linfoblástica aguda en adultos: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256790">Leucemia mieloide aguda en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000256771">Linfoma no Hodgkin en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000420913">Linfoma relacionado con el sida: Tratamiento</Summary><Summary cdr:ref="CDR0000256765">Leucemia linfoblástica aguda infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000256797">Leucemia mieloide aguda infantil/otras malignidades mieloides: Tratamiento</Summary><Summary cdr:ref="CDR0000256783">Linfoma no Hodgkin infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000426390">Linfoma primario del sistema nervioso central: Tratamiento</Summary><Glossary cdr:ref="CDR0000046303">lumbar puncture</Glossary>
+ <Glossary cdr:ref="CDR0000046592">spinal tap</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-02-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new titled image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-02-06</ProcessingStatusDate>
+        <EnteredBy>2008-02-06</EnteredBy>
+        <Comment audience="Internal" date="2008-02-06" user="dbuchhagen">2008-02-06; Artist uploaded Spanish labeled image. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-02</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment audience="Internal" date="2008-02-19" user="rharrison">2008-02-19 translation of addl changes complete. </Comment><Comment>2007-12-13 translation of caption/content description complete; rh. 2007-11-05 translation of labels complete; rh.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

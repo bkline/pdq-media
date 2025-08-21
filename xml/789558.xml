@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>immunohistochemical tumor testing for MMR proteins</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">MSH2</LabelName><LabelName language="en">MLH1</LabelName><LabelName language="en">MSH6</LabelName><LabelName language="en">PMS2</LabelName><ImageDimensions>
+    <HeightPixels>717</HeightPixels>
+    <WidthPixels>804</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Fay Kastrinos, MD, MPH, Herbert Irving Comprehensive Cancer Center and New York-Presbyterian Hospital/Columbia University Medical Center</Creator>
+   <DateCreated>2017-06-21</DateCreated>
+   <SourceFilename>IHC tumor testing.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2017-06-21" user="kuhlmanna">Permissions not required; image supplied by Board member</Comment></PermissionInformation><MediaContent>
+  <Categories><Category>genetics</Category>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039585">colorectal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Protein stains of normal and colorectal tumor tissue are shown for a single patient. The stains from the tumor (in four insets) show the presence of MSH2 and MSH6 (the dark stain is visible) and absence of MLH1 and PMS2 (the dark stain is not visible). </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Immunohistochemical tumor testing for protein expression of the MMR genes associated with Lynch syndrome, depicted for a single patient with colorectal cancer. Protein expression is preserved for MSH2 and MSH6 (inset) and absent for MLH1 and PMS2 (inset). Absence of MMR protein expression is suggestive of Lynch syndrome and warrants additional evaluation.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062863">Genetics of Colorectal Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-07-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-07-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Received NCI works release form</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-06-21</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>NCI works release form pending</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000789986">NCI Works Release Permission Form: immunohistochemical tumor testing for MMR proteins</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

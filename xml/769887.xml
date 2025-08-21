@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>malignant mesothelioma-CTHP image</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lung</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Abdominal cavity</LabelName><LabelName language="en">Testicles</LabelName><ImageDimensions>
+    <HeightPixels>2775</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-03-12</DateCreated>
+   <SourceFilename>MalignantMesotheliomaNoTitle2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-12" user="akuhlmann">Removed title</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038142">malignant mesothelioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Malignant mesothelioma; drawing shows parts of the body where malignant mesothelioma may form, including the lungs, heart, pleura, abdominal cavity, and testicles.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Malignant mesothelioma forms in the thin layer of tissue that covers the lung, chest wall,  abdomen, heart, or testicles.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-03-09</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added MalignantMesothelioma1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, sentinel lymph node, breast (3-panel)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Sentinel Lymph Node Biopsy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">Radioactive substance or dye</LabelName><LabelName language="en">Probe</LabelName><LabelName language="en">Sentinel nodes</LabelName><LabelName language="en">Tumor and sentinel nodes removed</LabelName><ImageDimensions>
+    <HeightPixels>1260</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-10-24</DateCreated><SourceFilename>BiopsySentinelLymphNodeBreast FP III-IV.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated skin tone to FP III-IV</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2010-01-22" user="dbuchhagen">Breast in first panel changed to look like the ones in middle and third panels re size and coloration; Label "Tumor and sentinel lymph nodes removed" added to last panel.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Sentinel lymph node biopsy of the breast; the first panel shows a  radioactive substance and/or blue dye being injected near the tumor; the second panel shows that the injected material is  followed visually and/or with a probe that detects radioactivity to find the sentinel nodes (the first lymph nodes to which cancer cells are likely to spread from a primary tumor); and the third panel shows the removal of the tumor and the sentinel nodes to check for cancer cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Sentinel lymph node biopsy of the breast. A radioactive substance and/or blue dye is injected near the tumor (first panel). The injected material is followed visually and/or with a probe that detects radioactivity to find the sentinel nodes (the first lymph nodes to which cancer cells are likely to spread from a primary tumor) (second panel). The sentinel nodes are removed and checked for cancer cells (third panel). A sentinel lymph node biopsy is usually done at the same time the primary tumor is removed, but it can also be done before or after the tumor is removed.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257994">Breast Cancer Prevention</Summary>
+  <Summary cdr:ref="CDR0000257995">Breast Cancer Screening</Summary><Summary cdr:ref="CDR0000062955">Breast Cancer Treatment (Adult)</Summary><Glossary cdr:ref="CDR0000046712">sentinel lymph node biopsy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-10-24</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated image to BiopsySentinelLymphNodeBreast FP III-IV.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to SentinelNodeABC6.jpg</Comment><Comment audience="Internal" date="2010-02-19" user="dbuchhagen">Updated image to SentinelNodeABC4.jpg.</Comment><Comment audience="Internal" date="2010-01-22" user="dbuchhagen">Updated image to SentinelNodeABC2.jpg.</Comment><Comment>Image created from three separate images -- sentinel lymph node biopsy 1, 2, and 3.</Comment>
+  </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-11</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-04-19" user="dbuchhagen">Revised content description to match changes to caption.</Comment><Comment audience="Internal" date="2010-04-16" user="dbuchhagen">Revised caption per OCCM.</Comment><Comment audience="Internal" date="2010-03-12" user="dbuchhagen">Added "of the breast" to cap and cont desc.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-26</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-03-08" user="dbuchhagen">Modified the caption and content description per JM.</Comment><Comment audience="Internal" date="2010-03-08" user="dbuchhagen">Modified the caption and content description.</Comment><Comment>Added definiton from sentinel lymph node biopsy in the Dictionary of Cancer Terms per OCCM. Added "of the breast" to the caption and content description.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

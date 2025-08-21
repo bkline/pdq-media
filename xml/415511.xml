@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>polyp, colon-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1929</HeightPixels>
+    <WidthPixels>2346</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000415500">polyp, colon</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>2008-03-27; Spanish image PolypsSpanish3.jpg. Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000039550">anal cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pólipos del colon; muestra dos pólipos (uno plano y otro pedunculado) en el interior del colon. El recuadro interior muestra imagen de un pólipo pedunculado.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Pólipos en el colon. Algunos pólipos tienen un pedículo y otros no. El recuadro interior muestra la imagen de un pólipo con pedículo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+</Media>

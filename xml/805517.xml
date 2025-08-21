@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>adrenal gland anatomy, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Glándula suprarrenal</LabelName><LabelName language="es">Corteza suprarrenal</LabelName><LabelName language="es">Médula suprarrenal</LabelName><LabelName language="es">Glándula suprarrenal derecha</LabelName><LabelName language="es">Glándula suprarrenal izquierda</LabelName><LabelName language="es">Riñón izquierdo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3900</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000805084">adrenal gland anatomy, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AdrenocorticalCarcinomaChildSpanish3.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038758">adrenocortical carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la glándula suprarrenal. En la imagen del abdomen se muestran las glándulas suprarrenales izquierda y derecha, los riñones izquierdo y derecho y los vasos sanguíneos mayores. En el recuadro se observa una sección de la glándula suprarrenal que muestra la corteza suprarrenal y la médula suprarrenal.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la glándula suprarrenal. Hay dos glándulas suprarrenales, una encima de cada riñón.  La capa exterior de cada glándula es la corteza suprarrenal y el centro es la médula suprarrenal.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800485">Tratamiento del carcinoma de corteza suprarrenal infantil</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image as per changes to the EN version.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image and translated caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-10</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       <Comment audience="Internal" date="2021-06-10" user="dossantosm2">Labels ready for peer review.</Comment></ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000805084">adrenal gland anatomy, child</TranslationOf></Media>

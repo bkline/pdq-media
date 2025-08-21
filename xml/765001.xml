@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, squamous cell carcinoma, face and leg</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1260</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-09-22</DateCreated>
+   <SourceFilename>SquamousCellCarcinomaTwoPhotos2.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-09-30" user="akuhlmann">Original source of photographs: Kelly Nelson (Genetics Board Member); unrestricted permission for reuse</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042790">squamous cell carcinoma of the skin</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photographs showing a pink, raised lesion on the skin of the face (left panel) and on the skin of the leg (right panel).</ContentDescription>
+  <ContentDescription audience="Patients" language="en">Photographs showing the side of a person’s face with a skin cancer lesion that looks raised and crusty (left panel) and a person’s leg with a skin cancer lesion that looks pink and raised (right panel).</ContentDescription><ContentDescription audience="Patients" language="es">En las fotografías, se muestra el costado del rostro de una persona con una lesión de cáncer de piel de aspecto levantado y costroso (panel izquierdo) y la pierna de una persona con una lesión de cáncer de piel de aspecto  levantado y de color rosa (panel derecho).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Squamous cell carcinoma. Squamous cell carcinoma on the face (left panel) and squamous cell carcinoma on the leg (right panel).</MediaCaption><MediaCaption audience="Patients" language="en">Squamous cell carcinoma. A skin cancer lesion on the  face that looks raised and crusty (left panel) and a skin cancer lesion on the leg that looks pink and raised (right panel).</MediaCaption>
+  <MediaCaption audience="Patients" language="es">Carcinoma de células escamosas. Lesión de cáncer de piel en el rostro de aspecto levantado y costroso (panel izquierdo) y lesión de cáncer de piel en la pierna de aspecto levantado y de color rosa (panel derecho).</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+  
+ <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Summary cdr:ref="CDR0000256809">Cáncer de piel: Tratamiento</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Missing caption and content description for Spanish patient summary.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-30</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added SquamousCellCarcinomaTwoPhotos2.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

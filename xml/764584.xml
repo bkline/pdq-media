@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, basal cell carcinoma, superficial and nodular</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1260</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-09-22</DateCreated>
+   <SourceFilename>BasalCarcinomaTwoPhotos2.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-09-11" user="akuhlmann">Original source of photographs: Kelly Nelson (Genetics Board Member); unrestricted permission for reuse</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039109">basal cell carcinoma of the skin</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photographs showing a pink, scaly lesion on the skin (left panel) and flesh-colored nodules on the skin (right panel).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Basal cell carcinoma.  Superficial basal cell carcinoma (left panel) and nodular basal cell carcinoma (right panel).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-01</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Updated image to BasalCarcinomaTwoPhotos2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-09-12</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment>Added BasalCarcinomaTwoPhotos1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

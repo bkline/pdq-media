@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hereditary leiomyomatosis and renal cell cancer</MediaTitle>
+ <PhysicalMedia>
+ <ImageData>
+          <ImageType>drawing</ImageType>
+          <ImageEncoding>JPEG</ImageEncoding>
+          <Color>Color</Color>
+          <Labeled>Yes</Labeled>
+          <LabelName language="en">Areas of the Body Affected by Hereditary Leiomyomatosis and Renal Cell Cancer</LabelName><LabelName language="en">Skin</LabelName><LabelName language="en">Kidneys</LabelName><LabelName language="en">Uterus</LabelName><ImageDimensions>
+            <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+         </ImageData></PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-07-17</DateCreated>
+   <SourceFilename>HereditaryLeiomyotasosisRenalCellCancer FP V.1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-07-17" audience="Internal">Updated skin tone to FP V</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>Black or African American</Race><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2023-07-17</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories><Category>genetics</Category>
+   
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000599273">hereditary leiomyomatosis and renal cell cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing areas of the body affected by hereditary leiomyomatosis and renal cell cancer, including the skin, kidneys, and uterus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Areas of the body affected by hereditary leiomyomatosis and renal cell cancer (HLRCC). HLRCC is an inherited disorder that causes an increased risk of kidney cancer. It can also cause lesions in the skin and uterus (in females).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000797087">Hereditary Kidney Cancer Syndromes</Summary><Glossary cdr:ref="CDR0000305992">hereditary leiomyomatosis and renal cell cancer syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-07-17</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment user="kuhlmanna" date="2023-07-17" audience="Internal">Updated image to HereditaryLeiomyotasosisRenalCellCancer FP V.1.jpg</Comment><Comment>Updated image to HereditaryLeiomyotasosisRenalCellCancer2.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-02-08" user="yousufzaimg">Updated caption</Comment></ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000793343">Sample Illustration: Family Cancer Syndromes Associated with RCC</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

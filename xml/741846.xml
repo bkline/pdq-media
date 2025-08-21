@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Ch STS - Distribution of soft tissue sarcomas in children from SEER</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Distribution of Nonrhabdomyosarcomatous Soft Tissue Sarcomas in Children 0-19 Years (SEER 1975-2008)</LabelName><LabelName language="en">Number of Cases</LabelName><LabelName language="en">3000</LabelName><LabelName language="en">2500</LabelName><LabelName language="en">2000</LabelName><LabelName language="en">1500</LabelName><LabelName language="en">1000</LabelName><LabelName language="en">500</LabelName><LabelName language="en">0</LabelName><LabelName language="en">&lt;5y</LabelName><LabelName language="en">5 - 9 y</LabelName><LabelName language="en">10 -14 y</LabelName><LabelName language="en">15 – 19 y</LabelName><LabelName language="en">&lt;20 y</LabelName><LabelName language="en">Unspecified soft tissue sarcomas</LabelName><LabelName language="en">Other specified soft tissue sarcomas</LabelName><LabelName language="en">Fibrosarcomas, peripheral nerve &amp; other</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Board Member</Creator>
+   <DateCreated>2012-10-18</DateCreated>
+   <SourceFilename>Figure 1 for Ch STS 10-17-12 JPEG.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-15" user="akuhlmann">Copyright permission not needed; image created by Board Member from SEER data</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Bar chart showing number of cases of nonrhabdomyosarcomatous soft tissue sarcomas in children aged younger than 5 years, 5 to 9 years, 10 to 14 years, 15 to19 years, and younger than 20 years.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The distribution of nonrhabdomyosarcomatous soft tissue sarcomas in children aged 0 to 19 years, as reported by the Surveillance Epidemiology and End Results program from 1975 to 2008.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-10-18</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

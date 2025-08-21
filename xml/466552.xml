@@ -1,0 +1,102 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, endoscopic (EUS), with biopsy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Endoscopic Ultrasound (EUS)</LabelName><LabelName language="en">Endoscope with ultrasound probe</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Biopsy needle</LabelName><LabelName language="en">Lymph nodes with cancer</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>2625</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-09-28</DateCreated>
+   
+   
+   <SourceFilename>EndoscopicUltrasoundGuidedFineNeedleAspirationFP I.3.jpg</SourceFilename>
+   <Comment user="kuhlmanna" audience="Internal" date="2022-09-29">Refined the eye</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-09-28">Minor adjustment made to skin color and ear and faded pharynx anatomy</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-09-26">Diversity updates: updated skin tone to FP I and enhanced facial features: made hair color red and the eye green
+</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type I – Pale white skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Endoscopic ultrasound-guided fine-needle aspiration biopsy; drawing shows an endoscope with an ultrasound probe and biopsy needle inserted through the mouth and into the esophagus. Also shown are the lymph nodes near the esophagus and cancer in one lung. An inset shows the ultrasound probe locating the lymph nodes with cancer and the biopsy needle removing tissue from one of the lymph nodes near the esophagus.  </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Endoscopic ultrasound-guided fine-needle aspiration biopsy. An endoscope that has an ultrasound probe and a biopsy needle is inserted through the mouth and into the esophagus. The probe bounces sound waves off body tissues to make echoes that form a sonogram (computer picture) of the lymph nodes near the esophagus. The sonogram helps the doctor see where to place the biopsy needle to remove tissue from the lymph nodes.  This tissue is checked under a microscope for signs of cancer. </MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+       <Summary cdr:ref="CDR0000062947">Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000269299">Malignant Mesothelioma Treatment (Adult)</Summary><Glossary cdr:ref="CDR0000592940">EUS-FNA</Glossary><Glossary cdr:ref="CDR0000572411">endoscopic ultrasound-guided fine needle aspiration</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to EndoscopicUltrasoundGuidedFineNeedleAspirationFP I.1.jpg</Comment><Comment>2007-04-06 seventh draft; mm 2007-03-16 sixth draft; mm 2007-02-26 fifth draft; mm 2007-02-16 fourth draft; mm 2007-01-31 third rough; mm 2006-12-19 second rough; mm 2006-07-18 first rough; mm</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-17</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-03-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Being reviewed by OCCM multimedia group.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Reference photos pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Nov 2006 Information sent to artist.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-03-17</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Need to find a CT scan-directed lung biopsy image. mm</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000560806">Illustration Review Sheet: EUS fine needle aspiration</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,116 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage II-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de cuello uterino en estadios IIA1 y IIA2</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">Cáncer</LabelName>
+  <LabelName language="es">Cáncer de cuello uterino en estadio IIB</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cáncer</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000658904">cervical cancer stage II</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CervicalCaStage2A1.2A2.2B.Spanish3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-04-11" user="lsaucedo">Linked image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038063">stage II cervical cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   <Topic cdr:ref="CDR0000037892">cervical cancer</Topic>
+  </Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de cuello uterino en estadio II. En la imagen se observan dos cortes transversales del útero, el cuello uterino y la vagina. En la imagen de la izquierda se muestra cáncer de cuello uterino en estadios IIA1 y IIA2, con un tumor que mide 4 cm y se diseminó a los dos tercios superiores de la vagina. En la imagen de la derecha se muestra cáncer de cuello uterino en estadio IIB que se diseminó del cuello uterino al tejido que rodea el útero.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de cuello uterino en estadio II. En la imagen se observan dos cortes transversales del útero, el cuello uterino y la vagina. En la imagen de la izquierda se muestra cáncer de cuello uterino en estadios IIA1 y IIA2, con un tumor que mide 4 cm y se diseminó a los dos tercios superiores de la vagina. En la imagen de la derecha se muestra cáncer de cuello uterino en estadio IIB que se diseminó del cuello uterino al tejido que rodea el útero.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de cuello uterino en estadio II. En los estadios IIA1 y IIA2, el cáncer se diseminó del cuello uterino a los dos tercios superiores de la vagina, pero no se diseminó al tejido que rodea el útero. En el estadio IIA1, el tumor mide 4 cm o menos. En el estadio IIA2, el tumor mide más de 4 cm. En el estadio IIB, el cáncer se diseminó del cuello uterino al tejido que rodea el útero.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de cuello uterino en estadio II. En los estadios IIA1 y IIA2, el cáncer se diseminó del cuello uterino a los dos tercios superiores de la vagina, pero no se diseminó al tejido que rodea el útero. En el estadio IIA1, el tumor mide 4 cm o menos. En el estadio IIA2, el tumor mide más de 4 cm. En el estadio IIB, el cáncer se diseminó del cuello uterino al tejido que rodea el útero.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary>
+  <Summary cdr:ref="CDR0000256680">Tratamiento del cáncer de cuello uterino</Summary><Glossary cdr:ref="CDR0000045887">stage II cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, translation of caption and content description  ready for peer review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to  Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-20</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       <Comment audience="Internal" date="2020-05-20" user="dossantosm2">Only labels</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised Spanish labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Label corrected and image replaced</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-26</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000658904">cervical cancer stage II</TranslationOf></Media>

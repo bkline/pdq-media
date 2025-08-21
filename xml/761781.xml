@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>DNA structure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">DNA Structure</LabelName><LabelName language="en">Cell</LabelName><LabelName language="en">Nucleus</LabelName><LabelName language="en">Chromosome</LabelName><LabelName language="en">DNA</LabelName><LabelName language="en">Nucleosome</LabelName><LabelName language="en">Histone</LabelName><LabelName language="en">Gene</LabelName><LabelName language="en">Nucleotide</LabelName><LabelName language="en">Nucleotide base pairs:</LabelName><LabelName language="en">Guanine</LabelName><LabelName language="en">Cytosine</LabelName><LabelName language="en">Adenine</LabelName><LabelName language="en">Thymine</LabelName><ImageDimensions>
+    <HeightPixels>2580</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-01-26</DateCreated>
+   <SourceFilename>DNAstructure5.jpg</SourceFilename><Comment audience="Internal" date="2015-01-27" user="myousufzai">Changed title to DNA Structure; made it clear that only one strand of DNA is coming out of the tip of the chromosome; corrected hydrogen bonds between the base pairs; removed the line pointing from the DNA label to the chromosome; extended the bracket showing a Gene so that the upper end of it is about halfway between where it is now and the first nucleosome; removed the parenthetical (during cell division) from the Chromosome label; moved the tip of the shaded triangle that points from the chromosome to the nucleus over; added a small bracket around one of the nucleosomes and added the label “Nucleosome”; pointed the label “Histone” to one of the subunits of the Nucleosome</Comment>
+  <Comment audience="Internal" date="2014-11-24" user="akuhlmann">Fixed typo in label for "Cytosine"</Comment><Comment audience="Internal" date="2014-11-17" user="akuhlmann">Labeled one of the histone proteins “Histone”; removed the label for “Supercoiled DNA”; made the bracket for the Gene almost as long as the DNA double helix area, and removed  the label for "DNA double helix"; added label for "DNA".</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions><ContentDescription audience="Health_professionals" language="en">Structure of DNA; drawing shows a chromosome, nucleosome, histone, gene, and nucleotide base pairs: guanine, cytosine, adenine, and thymine. Also shown is a cell and its nucleus.</ContentDescription>
+   <ContentDescription audience="Patients" language="en">Structure of DNA; drawing shows a chromosome, nucleosome, histone, gene, and nucleotide base pairs: guanine, cytosine, adenine, and thymine. Also shown is a cell and its nucleus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions><MediaCaption audience="Health_professionals" language="en">Structure of DNA. Most DNA is found inside the nucleus of a cell, where it forms the chromosomes. Chromosomes have proteins called histones that bind to DNA. DNA has two strands that twist into the shape of a spiral ladder called a helix. DNA is made up of four building blocks called nucleotides: adenine (A), thymine (T), guanine (G), and cytosine (C). The nucleotides attach to each other (A with T, and G with C) to form chemical bonds called base pairs, which connect the two DNA strands. Genes are short pieces of DNA that carry specific genetic information.</MediaCaption>
+   <MediaCaption audience="Patients" language="en">Structure of DNA. Most DNA is found inside the nucleus of a cell, where it forms the chromosomes. Chromosomes have proteins called histones that bind to DNA. DNA has two strands that twist into the shape of a spiral ladder called a helix. DNA is made up of four building blocks called nucleotides: adenine (A), thymine (T), guanine (G), and cytosine (C). The nucleotides attach to each other (A with T, and G with C) to form chemical bonds called base pairs, which connect the two DNA strands. Genes are short pieces of DNA that carry specific genetic information.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045671">DNA</Glossary><Glossary cdr:ref="CDR0000045693">gene</Glossary>
+ <Glossary cdr:ref="CDR0000046470">chromosome</Glossary><Glossary cdr:ref="CDR0000318814">histone</Glossary><Glossary cdr:ref="CDR0000460201">nucleotide</Glossary><Glossary cdr:ref="CDR0000650576">adenine</Glossary><Glossary cdr:ref="CDR0000650582">thymine</Glossary><Glossary cdr:ref="CDR0000650580">guanine</Glossary><Glossary cdr:ref="CDR0000650578">cytosine</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-27</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Rick Manrow; image needs further revisions per Rick's comments</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-24</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2015-01-27" user="akuhlmann">Updated to DNAstructure5.jpg</Comment><Comment audience="Internal" date="2014-11-17" user="akuhlmann">Updated to DNAstructure3.jpg</Comment><Comment>Added DNAstructure2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-06-04</ProcessingStatusDate>
+   <EnteredBy>2014-06-05</EnteredBy>
+   <Comment>Added CellStructureDNA1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000768221">Illustration Review Sheet: DNA structure</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

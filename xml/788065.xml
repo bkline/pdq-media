@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>larynx anatomy-detailed-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Áreas donde es posible que se forme o se disemine el cáncer de laringe</LabelName><LabelName language="es">Parte superior de la columna vertebral</LabelName><LabelName language="es">Arteria carótida</LabelName><LabelName language="es">Ganglios linfáticos del cuello</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Cartílago que rodea la tiroides y la tráquea</LabelName><LabelName language="es">Tiroides</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Tórax</LabelName><LabelName language="es">Epiglotis</LabelName><LabelName language="es">Supraglotis</LabelName><LabelName language="es">Glotis (cuerdas vocales)</LabelName><LabelName language="es">Subglotis</LabelName><LabelName language="es">Laringe</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Esófago</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2850</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000786385">larynx anatomy-detailed</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LarynxDetailedSpanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2017-05-11" user="saucedol">Linked revised image as per Terese</Comment><Comment audience="Internal" date="2017-04-13" user="saucedol">Linked new Spn. image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038962">laryngeal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">El dibujo muestra las áreas en las que es posible que se forme o disemine el cáncer de laringe: la supraglotis, la glotis (cuerdas vocales), la subglotis, la tiroides, la tráquea y el esófago. También se muestran la epiglotis, la parte superior de la columna vertebral (columna espinal), la arteria carótida, el cartílago que rodea la tiroides y la tráquea, los ganglios linfáticos del cuello y el tórax.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El cáncer de laringe se forma en los tejidos de la laringe (área de la garganta que contiene las cuerdas vocales). La laringe está compuesta por la supraglotis, la glotis (cuerdas vocales) y la subglotis. Es posible que el cáncer se disemine a los tejidos cercanos o a la tiroides, la tráquea o el esófago. También es posible que el cáncer se disemine a los ganglios linfáticos del cuello, la arteria carótida, la parte superior de la columna vertebral (columna espinal), el tórax y otras partes del cuerpo (no se muestran en la imagen).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000393556">Tratamiento del cáncer de laringe</Summary>
+  <Glossary cdr:ref="CDR0000445040">laryngeal cancer</Glossary><Glossary cdr:ref="CDR0000046026">larynx</Glossary><Glossary cdr:ref="CDR0000046317">laryngeal</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised imaged by Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Spa QC caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spa QC labels, content descr. and caption</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

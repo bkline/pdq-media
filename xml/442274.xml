@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostatectomy, radical</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Radical Prostatectomy</LabelName><LabelName language="en">Incision</LabelName><LabelName language="en">Scrotum</LabelName><LabelName language="en">Anus</LabelName><LabelName language="en">Retropubic Prostatectomy</LabelName><LabelName language="en">Perineal Prostatectomy</LabelName><ImageDimensions>
+    <HeightPixels>2325</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-04</DateCreated>
+   
+   
+   <SourceFilename>RadProstatectomy7.jpg</SourceFilename>
+   <Comment>Added new copyright information and added label names.  </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two panel drawing showing two ways  of doing a  radical prostatectomy;  in the first panel, dotted line shows where incision is made through the wall of the abdomen for a retropubic prostatectomy;  in the second panel, dotted line shows where incision is made in area between the scrotum and the anus for a perineal prostatectomy.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Two panel drawing showing two ways  of doing a  radical prostatectomy;  in the first panel, dotted line shows where incision is made through the wall of the abdomen for a retropubic prostatectomy;  in the second panel, dotted line shows where incision is made in area between the scrotum and the anus for a perineal prostatectomy.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Two types of radical prostatectomy. In a retropubic prostatectomy,  the prostate is removed through an incision in the wall of  the abdomen.  In a perineal prostatectomy, the prostate is removed through an incision in the area between the scrotum and the anus.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Two types of radical prostatectomy.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to RadProstatectomy7.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-18</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added HP cap and cont desc.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

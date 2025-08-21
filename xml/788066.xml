@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>penile anatomy-detailed-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía del pene</LabelName><LabelName language="es">Pubis</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Pene</LabelName><LabelName language="es">Base</LabelName><LabelName language="es">Cuerpo</LabelName><LabelName language="es">Glande</LabelName><LabelName language="es">Prepucio</LabelName><LabelName language="es">Orificio de la uretra</LabelName><LabelName language="es">Escroto</LabelName><LabelName language="es">Tejido eréctil</LabelName><LabelName language="es">Cuerpo cavernoso</LabelName><LabelName language="es">Cuerpo esponjoso</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Nervio dorsal</LabelName><LabelName language="es">Vasos sanguíneos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2100</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000780509">penile anatomy-detailed</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PenileAnatomySectionSpanish1.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2017-04-13" user="saucedol">Linked new Spanish image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038214">penile cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del pene; el dibujo muestra la base, el cuerpo, el glande, el prepucio y el orificio de la uretra. También se muestra el escroto, la próstata, el pubis y los ganglios linfáticos. En un recuadro se muestra un corte transversal del interior del pene que incluye los vasos sanguíneos, el nervio dorsal, el tejido conjuntivo, el tejido eréctil (cuerpo cavernoso y cuerpo esponjoso) y la uretra.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del pene. Las partes del pene son la base, el cuerpo, el glande y el prepucio. Los tejidos que componen el pene son el nervio dorsal, los vasos sanguíneos, el tejido conjuntivo y el tejido eréctil (cuerpo cavernoso y cuerpo esponjoso).  La uretra se extiende desde la vejiga hasta la punta del pene.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000502300">Tratamiento del cáncer de pene</Summary>
+  <Glossary cdr:ref="CDR0000257215">penis</Glossary><Glossary cdr:ref="CDR0000446430">penile cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Spa QC for caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spa QC for labels, content desc. and caption.</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

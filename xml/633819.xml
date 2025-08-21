@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, non-Hodgkin, childhood, stage III</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage III Childhood Non-Hodgkin Lymphoma</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymphoma cells (Cancer)</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">a</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Appendix</LabelName><LabelName language="en">c</LabelName><LabelName language="en">c</LabelName><LabelName language="en">a</LabelName><LabelName language="en">c</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Spleen</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels>
+    <WidthPixels>3060</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2009-07-01</DateCreated>
+   
+   
+   
+   
+  <SourceFilename>ChildNHLstage3.7.jpg</SourceFilename><Comment audience="Internal" date="2009-06-30" user="rharrison">Removed filename.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000038957">non-Hodgkin lymphoma</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043670">childhood non-Hodgkin lymphoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage III childhood non-Hodgkin lymphoma; drawing shows cancer in lymph node groups above and below the diaphragm, in the chest, and throughout the abdomen in the liver, spleen, small intestines, and appendix. The colon is also shown. An inset shows a lymph node with a lymph vessel, an artery, and a vein. Lymphoma cells containing cancer are shown in the lymph node.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage III childhood non-Hodgkin lymphoma. Cancer is found in at least one area above and below the diaphragm (a); or cancer started in the chest (b); or cancer started in the abdomen and spread throughout the abdomen (c); or in the area around the spine (not shown).</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000330110">stage III childhood non-Hodgkin lymphoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-28</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sending to Dr. Gross.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-06-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Entered caption revisions per OCCM. Updated content description accordingly.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Caption is pending. Content description is incomplete (waiting for image to be revised).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-02-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment>Updated to ChildNHLstage3.7.jpg.</Comment><Comment>Updated to ChildNHLstage3.6.jpg.</Comment><Comment audience="Internal" date="2009-06-30" user="rharrison">Updated to ChildNHLStage3.5.jpg. </Comment><Comment audience="Internal" date="2009-03-06" user="rharrison">Updated to ChildNHLStage3.4.jpg. </Comment><Comment audience="Internal" date="2009-02-24" user="rharrison">Updated to ChildNHLStage3.3.jpg. </Comment><Comment audience="Internal" date="2009-02-06" user="rharrison">Updated to ChildNHLStage3.2.jpg. </Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-01-26</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

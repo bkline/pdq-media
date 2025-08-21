@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, squamous cell carcinoma, leg</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2848</HeightPixels>
+    <WidthPixels>4272</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Kelly Nelson, MD</Creator>
+   <DateCreated>2012-03-05</DateCreated>
+   <SourceFilename>scc leg 10_10.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2015-04-28" user="akuhlmann">Photo provided by Genetics Board member with unrestricted permission for reuse </Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042790">squamous cell carcinoma of the skin</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph of a pink, raised lesion on the skin of the leg.</ContentDescription>
+  <ContentDescription audience="Patients" language="en">Photograph showing a person’s leg with a skin cancer lesion that looks pink and raised.</ContentDescription><ContentDescription audience="Patients" language="es">La fotografía muestra la pierna de una persona con una lesión cancerosa de la piel que luce rosada y levantada.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Squamous cell carcinoma.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">A skin cancer lesion that looks pink and raised.</MediaCaption><MediaCaption audience="Patients" language="es">Una lesión cancerosa de la piel que luce rosada y levantada.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+  
+ <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Summary cdr:ref="CDR0000256809">Cáncer de piel: Tratamiento</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated caption and content description QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Pending caption and content description translations for patients</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Ready to publish with patient caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Added patient caption/content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-03-05</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added scc leg 10_10.jpg.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

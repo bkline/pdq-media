@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage IV</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV</LabelName><LabelName language="en">Extra fluid around the lung</LabelName><LabelName language="en">Cancer has spread to other parts of the body:</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Lymph nodes in the groin</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2640</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-05-17</DateCreated>
+   <SourceFilename>OFPCaStage4.8.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-05-17">Removed the brain anatomy showing through the face</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Added a face to the figure, removed the label for Bone, and changed the title of the image to “Stage IV”</Comment><Comment audience="Internal" date="2016-05-15" user="kuhlmanna">Removed Lymph nodes label pointing to the neck area</Comment><Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Updated metastasis inset</Comment><Comment audience="Internal" date="2015-07-30" user="yousufzaimg">Changed the label in the inset box to say “Extra fluid around the lung”</Comment><Comment audience="Internal" date="2015-07-14" user="yousufzaimg">In the inset box with the lungs, changed the label to say “Extra fluid around the lungs”; made a single line pointing down to the large yellow area of fluid near the middle/bottom of the right lung (left side of image)</Comment><Comment audience="Internal" date="2015-06-30" user="yousufzaimg">REVISED IMAGE: In the inset, added more fluid around the lungs</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">REVISED IMAGE per FIGO update: Removed "Ovarian Cancer" from title; deleted the label “Cancer in the ovaries” and also deleted the cancer spots in the ovaries; added lymph nodes in the groin, and labeled them “Lymph nodes in the groin”; made a pull-out that shows cancer in fluid around the lungs.</Comment><Comment audience="Internal" date="2009-11-02" user="dbuchhagen">Added Ovarian Cancer to title.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000043705">stage IV ovarian epithelial cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040291">stage IV ovarian germ cell tumor</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of stage IV shows other parts of the body where ovarian cancer may spread, including the lung, liver, and lymph nodes in the groin. An inset on the top shows extra fluid around the lung. An inset on the bottom shows cancer cells spreading through the blood and lymph system to another part of the body where metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Drawing of stage IV shows other parts of the body where ovarian cancer may spread, including the lung, liver, and lymph nodes in the groin. An inset on the top shows extra fluid around the lung. An inset on the bottom shows cancer cells spreading through the blood and lymph system to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">In stage IV, cancer has spread beyond the abdomen to other parts of the body. In stage IVA, cancer cells are found in extra fluid that builds up around the lungs. In stage IVB, cancer has spread to organs and tissues outside the abdomen, including the lung, liver, and lymph nodes in the groin.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">In stage IV, cancer has spread beyond the abdomen to other parts of the body. In stage IVA, cancer cells are found in extra fluid that builds up around the lungs. In stage IVB, cancer has spread to organs and tissues outside the abdomen, including the lung, liver, and lymph nodes in the groin.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062963">Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment</Summary><Summary cdr:ref="CDR0000062967">Ovarian Germ Cell Tumors Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045902">stage IV ovarian epithelial, fallopian tube, and primary peritoneal cancer</Glossary><Glossary cdr:ref="CDR0000438725">stage IV ovarian germ cell tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" audience="Internal" date="2022-05-17">Updated image to OFPCaStage4.8.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Updated image to OFPCaStage4.7.jpg</Comment><Comment audience="Internal" date="2016-05-16" user="kuhlmanna">Updated to OFPCaStage4.6.jpg</Comment><Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Updated to OFPCaStage4.5.jpg</Comment><Comment audience="Internal" date="2015-07-30" user="yousufzaimg">Updated to OFPStage4.4.jpg</Comment><Comment audience="Internal" date="2015-07-14" user="yousufzaimg">Updated to OFPStage4.3.jpg</Comment><Comment audience="Internal" date="2015-06-30" user="yousufzaimg">Updated to OFPStageIV.2.jpg</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">Updated to OFPStageIV.1.jpg</Comment><Comment audience="Internal" date="2009-11-16" user="dbuchhagen">Updated to OvarianCaStage4.3.jpg.</Comment><Comment>Updated to OvarianCaStage4.2.jpg.</Comment>
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

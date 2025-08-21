@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, non-Hodgkin, childhood, stage I-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfoma no Hodgkin infantil en estadio I</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Células de linfoma (cancerosas)</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Vaso linfático</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>3240</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000614610">lymphoma, non-Hodgkin, childhood,  stage I</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Spanish filename: ChildNHLStage1Spanish.jpg.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038957">non-Hodgkin lymphoma</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000043670">childhood non-Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Linfoma no Hodgkin infantil en estadio I; la imagen muestra el cáncer en un grupo de ganglios linfáticos. En el recuadro se observa un ganglio linfático con un vaso linfático, una arteria y una vena. En el ganglio linfático se observan las células de linfoma (cancerosas).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Linfoma no Hodgkin infantil en estadio I. El cáncer se encuentra en un grupo de ganglios linfáticos o en un área fuera de los ganglios linfáticos, pero no  en el abdomen o el mediastino (área entre los pulmones).</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256783">Linfoma no Hodgkin infantil: Tratamiento</Summary>
+  
+ <Glossary cdr:ref="CDR0000330108">stage I childhood non-Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-13</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>"Linfoma no Hodgkin infantil en estadio I. " was added to caption by Linda.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Transltion of labels, caption, and content complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  <Comment audience="Internal" date="2009-07-30" user="rharrison">Translation of labels complete.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

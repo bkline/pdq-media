@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cardiac tumors</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Heart</LabelName><LabelName language="en">Superior vena cava</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Pericardium</LabelName><LabelName language="en">Coronary artery</LabelName><LabelName language="en">Inferior vena cava</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-05-19</DateCreated>
+   <SourceFilename>CardiacTumorsChild5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2021-05-19" user="kuhlmanna">Removed title from image</Comment><Comment audience="Internal" date="2021-05-17" user="yousufzaimg">Simplified the image; took out the inset block that shows the various layers of the heart and the muscle fiber pull out.  Also took out the pull out that shows the cells that line the blood vessels.</Comment><Comment audience="Internal" date="2021-04-26" user="kuhlmanna">Made one large inset coming from the main figure; made a cross section of part of the heart in the inset and added a block that shows the tissue layers coming off of that (an inset within an inset); added the “Epicardium”; labeled the "Aorta", "Inferior vena cava", and "Superior vena cava"; and removed  the inset "conduction system of the heart”.</Comment><Comment audience="Internal" date="2021-04-12" user="kuhlmanna">Change label “Sac around the heart” to “Pericardium”; added pullouts of the Pericardium, Coronary Arteries, and Conduction System of the Heart </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the heart; a pullout shows the aorta, superior vena cava, pericardium, coronary artery, and inferior vena cava.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Cardiac tumors are rare tumors that form in the tissues of the heart, including muscle tissue, connective tissue, and tissues that line the blood vessels, control heart rhythm, and cover the nerves of the heart. They may also form in the pericardium (the sac around the heart). Most cardiac tumors are benign (not cancer), but some may be malignant (cancer).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000790961">Childhood Cardiac (Heart) Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-05-17</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment audience="Internal" date="2021-05-17" user="yousufzaimg">Updated image to CardiacTumorsChild4.jpg</Comment><Comment audience="Internal" date="2021-04-26" user="kuhlmanna">Updated image to CardiacTumors3.jpg</Comment><Comment audience="Internal" date="2021-04-12" user="kuhlmanna">Updated image to CardiacTumors2.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

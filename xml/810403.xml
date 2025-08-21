@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>tumor grade</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Tumor Grade</LabelName><LabelName language="en">Grade 1</LabelName><LabelName language="en">Grade 2</LabelName><LabelName language="en">Grade 3</LabelName><LabelName language="en">Grade 4</LabelName><LabelName language="en">Well differentiated</LabelName><LabelName language="en">Moderately differentiated</LabelName><LabelName language="en">Poorly differentiated</LabelName><LabelName language="en">Undifferentiated</LabelName><ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-10-17</DateCreated>
+   <SourceFilename>TumorGrade4.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-10-17">Removed the darker shading on the arrow so that the entire arrow is a light grey (i.e., same shading);	removed the hyphens from the “Well-differentiated” and “Moderately-differentiated” labels</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-10-11">Changed title to Tumor Grade; added a gradation below the image to illustrate well-differentiated to undifferentiated </Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Tumor grade; drawing of four panels showing different grades of cancer cells based on how abnormal they look under a microscope. The first panel shows grade 1 or well-differentiated cancer cells. The second panel shows grade 2 or moderately differentiated cancer cells. The third panel shows grade 3 or poorly differentiated cancer cells. The fourth panel shows grade 4 or undifferentiated cancer cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Tumor grade. A description of a tumor based on how abnormal the cancer cells look under a microscope and how quickly the cancer cells are likely to grow and spread. Grade 1 (well-differentiated) cancer cells look more like normal cells. Grade 2 (moderately differentiated) cancer cells look more abnormal than grade 1 (well-differentiated) cancer cells but not as abnormal as grade 3 (poorly differentiated) or grade 4 (undifferentiated) cancer cells. The higher the grade number, the more the cancer cells look like abnormal cells and the more likely they will grow and spread quickly.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045702">tumor grade</Glossary>
+ <RequestedBy>SWRB</RequestedBy></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Reviewed by a pathologist at St. Jude Children's Hospital (Dr. Alberto Pappo’s colleague) </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to TumorGrade4.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-08-29</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses><RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000811032">Illustration  Review Sheet: tumor grade</SupplementaryInfoLink></RelatedDocuments></Media>

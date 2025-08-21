@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>bowel obstruction</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Bowel Obstruction</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Large intestine</LabelName><LabelName language="en">Obstruction (cancer)</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Anus</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels><WidthPixels>2760</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-07-22</DateCreated>
+   <SourceFilename>BowelObstruction3.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-07-22" audience="Internal">Made the tumor larger; 
+showed more stool back-up behind the obstruction with the colon looking enlarged;
+and changed the “Colon” label back to “Large intestine”</Comment><Comment user="kuhlmanna" date="2024-05-21" audience="Internal">Faded the esophagus, liver, and stomach to emphasize the bowel obstruction a bit more; changed the label “Large intestine” to “Colon”</Comment><Comment user="kuhlmanna" date="2024-05-13" audience="Internal">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type I – Pale white skin</SkinTone>
+  
+ <DateLastReviewed>2024-05-21</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing a large mass of dark brown stool in the large intestine caused by a tumor blockage. The tumor is at the end of the large intestine just before the rectum. Also shown are other parts of the digestive tract, including the stomach, small intestine, rectum, and anus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">A bowel obstruction is a serious condition that occurs when the small intestine or large intestine becomes blocked. The blockage stops food and stool from moving through the intestines. A bowel obstruction can be caused by certain cancers and cancer treatments.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000779580">bowel obstruction</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-22</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" date="2024-07-22" audience="Internal">Updated image to BowelObstruction3.jpg</Comment><Comment user="kuhlmanna" date="2024-05-21" audience="Internal">Updated image to Bowel Obstruction2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-05-13</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  <Comment user="kuhlmanna" date="2024-05-13" audience="Internal">Added Bowel Obstruction1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

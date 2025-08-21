@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lumpectomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lumpectomy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Chest wall lining</LabelName><ImageDimensions>
+    <HeightPixels>2325</HeightPixels><WidthPixels>3165</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-05-22</DateCreated>
+   
+   
+   <SourceFilename>Lumpectomy FP III and V2.jpg</SourceFilename>
+   <Comment user="kuhlmanna" date="2024-05-22" audience="Internal">Changed image title to "Lumpectomy"</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-02-13">Added white to all the leader lines in image so they are more visible </Comment><Comment user="kuhlmanna" audience="Internal" date="2022-11-17">Fixed the white leader line in the bottom right of image</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated skin tone  to FP IV (left figure) and FP V (right figure)</Comment><Comment audience="Internal" date="2015-06-03" user="yousufzaimg">REVISED IMAGE: Removed the labels Lumpectomy and Partial Mastectomy, and added the word OR between the two parts of the figure</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated copyright to 2012.</Comment><Comment>Changed inset label to Chest wall lining; reduced the area inside the dotted line to include only the inner chest wall lining.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2022-10-24</DateLastReviewed></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2022-10-24</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+   <Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lumpectomy; the drawing on the left shows removal of the tumor and some of the normal tissue around it. The drawing on the right shows removal of some of the lymph nodes under the arm and removal of the tumor and part of the chest wall lining near the tumor. Also shown is fatty tissue in the breast.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Lumpectomy. The tumor and some normal tissue around it are removed, but not the breast itself. Some lymph nodes under the arm may also be removed. If the cancer is near the chest wall, part of the chest wall lining may be removed as well.</MediaCaption>
+   
+  </Captions>
+ </MediaContent>
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062970">Breast Cancer Treatment During Pregnancy</Summary>
+       <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment</Summary><Glossary cdr:ref="CDR0000045758">lumpectomy</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" audience="Internal" date="2023-02-13">Updated image to BreastConservSurgery FP III and V2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated image to BreastConservSurgery FP III and V.jpg</Comment><Comment audience="Internal" date="2015-06-16" user="kuhlmanna">Updated to BreastConservSurgery5.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to BreastConservSurgery4.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to BreastConservSurgery3.jpg</Comment><Comment audience="Internal" date="2011-12-16" user="anjamison">Updated to BreastConservSurgery2.jpg</Comment><Comment>Updated to BreastConservSurgery1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

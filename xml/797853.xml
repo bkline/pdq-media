@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endocrine glands</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Glands of the Endocrine System</LabelName><LabelName language="en">Pineal gland</LabelName><LabelName language="en">Hypothalamus</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Parathyroid glands</LabelName><LabelName language="en">Thyroid gland (back view)</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Thymus</LabelName><LabelName language="en">Adrenal gland</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Ovaries (female)</LabelName><LabelName language="en">Testes (male)</LabelName><ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>2940</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-05-13</DateCreated>
+   <SourceFilename>MyPartEndocrineOvariesTestes2.png</SourceFilename>
+  <Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Added title Glands of the Endocrine System</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Glands and organs of the endocrine system; drawing shows the hypothalamus, pituitary gland, pineal gland,  thyroid gland, thymus, adrenal gland, pancreas, ovaries (female), and testes (male). An inset shows the back view of the thyroid gland with the four pea-sized parathyroid glands on it.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Glands and organs of the endocrine system. The endocrine system is made up of glands and organs that make hormones that control many important functions in the body. These include the hypothalamus, pituitary gland, pineal gland,  thyroid gland, parathyroid glands, thymus, adrenal glands, pancreas, and the reproductive organs (ovaries in females and testes in males).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000468796">endocrine system</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Updated image to MyPartEndocrineOvariesTestes2.png</Comment><Comment>Added MyPartEndocrineOvariesTestes1.png</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

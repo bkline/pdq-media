@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>intestinal metaplasia - endoscopy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>315</HeightPixels><WidthPixels>444</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Patrick Lynch, MD, JD, University of Texas, MD Anderson Cancer Center</Creator>
+   <DateCreated>2023-06-26</DateCreated>
+   <SourceFilename>Endoscopy 1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-06-26" audience="Internal">Image provided by PDQ Genetics Editorial Board Member - copyright permissions not required</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000721421">intestinal metaplasia of gastric mucosa</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Endoscopic image showing a small area of intestinal metaplasia (circled in yellow) in the antrum of the stomach.</ContentDescription><ContentDescription language="es" audience="Health_professionals">Imagen endoscópica donde se observa un pequeña zona con metaplasia intestinal, señalada con un círculo amarillo, en el antro del estómago.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Endoscopic image showing a small area of intestinal metaplasia (circled in yellow) in the antrum of the stomach.</MediaCaption><MediaCaption language="es" audience="Health_professionals">Imagen endoscópica donde se observa una pequeña zona con metaplasia intestinal, señalada con un círculo amarillo, en el antro del estómago.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-11</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of cont. Descr. and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-06-26</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000812833">NCI Works Release Permission Form: PLynch Endoscopy 1</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

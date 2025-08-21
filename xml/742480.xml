@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>vulva anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Vulva</LabelName><LabelName language="en">Mons pubis</LabelName><LabelName language="en">Clitoris</LabelName><LabelName language="en">Urethral opening</LabelName><LabelName language="en">Inner and outer lips of the vagina</LabelName><LabelName language="en">Vaginal opening</LabelName><LabelName language="en">Vulva</LabelName><LabelName language="en">Perineum</LabelName><LabelName language="en">Anus</LabelName><ImageDimensions>
+    <HeightPixels>2640</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-01-24</DateCreated>
+   <SourceFilename>vulvaranatomy4.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-01-24">Revised image: Adjusted the bracket so that the Perineum is outside the vulva, per feedback from PDQ Editorial Board Member Larissa Meyer</Comment><Comment audience="Internal" date="2013-11-04" user="akuhlmann">Made Vulva label smaller</Comment><Comment audience="Internal" date="2013-09-12" user="myousufzai">Showed a little more thigh and buttock; made the title slightly larger; moved the labels for Clitoris and Urethral opening over to the left side of image;  and made a bracket on the right side of the image that spans from above the Mons pubis to right above the anus, and labeled it Vulva</Comment><Comment audience="Internal" date="2013-08-26" user="akuhlmann">First image draft.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037961">vulvar cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the vulva; drawing shows the mons pubis, clitoris, urethral opening, inner and outer lips of the vagina, and the vaginal opening. Also shown are the perineum and anus.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Anatomy of the vulva; drawing shows the mons pubis, clitoris, urethral opening, inner and outer lips of the vagina, and the vaginal opening. Also shown are the perineum and anus.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the vulva. The vulva includes the mons pubis, clitoris, inner and outer lips of the vagina, and the openings of the  urethra and vagina.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the vulva. The vulva includes the mons pubis, clitoris, inner and outer lips of the vagina, and the openings of the  urethra and vagina.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000419665">Vulvar Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000044974">vulva</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-24</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-10-21</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Approved by L. Boyd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-10-21</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-11-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2013-11-04" user="akuhlmann">Updated image to vulvaranatomy3.jpg</Comment><Comment>Added image vulvaranatomy2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-10-31</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000742481">vulva anatomy</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000753738">Illustration Review Sheet: vulva anatomy</SupplementaryInfoLink></RelatedDocuments></Media>

@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>reproductive system, male, anatomy, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Conducto deferente</LabelName><LabelName language="es">Epidídimo</LabelName><LabelName language="es">Testículo</LabelName><LabelName language="es">Conductos deferentes</LabelName><LabelName language="es">Glándula prostática</LabelName><LabelName language="es">Pene</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2580</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000805505">reproductive system, male, anatomy, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ReproductiveSystemMaleChildWithInsetSpanish2.jpg</SourceFilename>
+  <Comment user="lansberryic" audience="Internal" date="2021-09-28">New image linked</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038579">testicular cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato reproductor masculino. En la imagen se observan el conducto deferente (tubo largo que transporta los espermatozoides fuera de los testículos), la glándula prostática, el pene y los testículos. En un recuadro se observan el conducto deferente y el epidídimo (tubo con forma de espiral que se conecta a cada uno de los testículos y que es donde maduran y se almacenan los espermatozoides).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del aparato reproductor masculino. El aparato reproductor masculino está formado por órganos y glándulas que participan en la procreación (engendrar descendencia). Estos abarcan el conducto deferente (tubo largo que transporta los espermatozoides fuera de los testículos), el epidídimo (tubo con forma de espiral que se conecta a cada uno de los testículos y que es donde maduran y se almacenan los espermatozoides), la glándula prostática, el pene y los testículos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Glossary cdr:ref="CDR0000615503">epididymis</Glossary><Glossary cdr:ref="CDR0000044309">vas deferens</Glossary><Glossary cdr:ref="CDR0000046611">testicle</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-04</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and description revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-29</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked, pending translation of caption and content desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-21</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>QC Labels</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>labels only</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000805505">reproductive system, male, anatomy, child</TranslationOf></Media>

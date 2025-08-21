@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostate cancer stage IIIB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de próstata en estadio IIIB</LabelName><LabelName language="es">Pared pélvica</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Vesículas seminales</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Grupo de grado 1, 2, 3 o 4</LabelName><LabelName language="es">PSA de cualquier concentración</LabelName><LabelName language="es">Cáncer en las vesículas seminales o en los tejidos u órganos cercanos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000795018">prostate cancer stage IIIB</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ProstateStage3BSpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038785">stage III prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de próstata en estadio IIIB. En la imagen se observa cáncer que se diseminó de la próstata a las vesículas seminales y al tejido cercano. El PSA es de cualquier concentración y el grupo de grado es 1, 2, 3 o 4. También se muestran la pared pélvica, la vejiga y el recto.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de próstata en estadio IIIB. En la imagen se observa cáncer que se diseminó de la próstata a las vesículas seminales y al tejido cercano. El PSA es de cualquier concentración y el grupo de grado es 1, 2, 3 o 4. También se muestran la pared pélvica, la vejiga y el recto.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de próstata en estadio IIIB. El cáncer se diseminó de la próstata a las vesículas seminales o a los tejidos u órganos cercanos, como el recto, la vejiga o la pared pélvica. El antígeno prostático específico es de cualquier concentración y el grupo de grado es 1, 2, 3 o 4.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de próstata en estadio IIIB. El cáncer se diseminó de la próstata a las vesículas seminales o a los tejidos u órganos cercanos, como el recto, la vejiga o la pared pélvica. El antígeno prostático específico es de cualquier concentración y el grupo de grado es 1, 2, 3 o 4.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256716">Tratamiento del cáncer de próstata</Summary><Summary cdr:ref="CDR0000256810">Tratamiento del cáncer de próstata</Summary>
+  <Glossary cdr:ref="CDR0000045131">stage III prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Suggest shortening text in last label; matches style in other labels (not full sentence).</Comment>
+       <Comment audience="Internal" date="2019-05-17" user="adlerm2">Reviewed image, captions and descriptions</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, caption and CD QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment audience="Internal" date="2019-05-07" user="adlerm2">Sp QC2</Comment><Comment audience="Internal" date="2019-05-06" user="lansberryic">Translation QC</Comment><Comment audience="Internal" date="2019-05-03" user="adlerm2">Revised labels and translated captions and content descriptions; readability adjustments approved by client in March 2019.</Comment><Comment audience="Internal" date="2019-05-03" user="adlerm2">In the inset box with staging text, colons have been removed; suggest not using bold and adding bullets for each phrase. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New Spa Media file and translation of labels only</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000795018">prostate cancer stage IIIB</TranslationOf></Media>

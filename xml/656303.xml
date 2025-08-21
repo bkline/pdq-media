@@ -1,0 +1,94 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph system, child, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Amígdalas</LabelName><LabelName language="es">Timo</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Bazo</LabelName><LabelName language="es">Médula ósea</LabelName><ImageDimensions>
+    <HeightPixels>3225</HeightPixels>
+    <WidthPixels>3178</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000653807">lymph system, child, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>ChildLymphoidSystemEastAsianGirl Spanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Sistema linfático. En la imagen se observan las amígdalas, el timo, el bazo, la médula ósea, los vasos linfáticos y los ganglios linfáticos. En un recuadro se muestra la estructura interior de un ganglio linfático y los vasos linfáticos contiguos, con flechas que indican cómo circula la linfa (líquido claro) hacia dentro y fuera del ganglio linfático. En otro recuadro se muestra una ampliación de la médula ósea con células sanguíneas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El sistema linfático, que es parte del sistema inmunitario del cuerpo, está formado por tejidos y órganos que ayudan a proteger el cuerpo contra infecciones y enfermedades. Este sistema incluye  las amígdalas, el timo, el bazo, la médula ósea, los vasos linfáticos y los ganglios linfáticos. La linfa (líquido claro) y los linfocitos (glóbulos blancos) recorren los vasos linfáticos y entran a los ganglios linfáticos donde los linfocitos destruyen las sustancias dañinas. La linfa entra en la corriente sanguínea por una vena grande cerca del corazón. </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256830">Tratamiento del linfoma de Hodgkin infantil</Summary>
+  <Summary cdr:ref="CDR0000256783">Tratamiento del linfoma no Hodgkin infantil</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-11</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to artist for diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC labels as well as Caption and content decr.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Update labels (only order, no changes in translation)//Also updates in Conct. Descr and Caption. Pending QC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised caption and content description peer review complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Update translation of content and caption per sum comprehensive revision</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-09-30</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  <Comment audience="Internal" date="2009-09-30" user="rharrison">Entered translated labels, caption, and content description from adult lymph system image.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000653807">lymph system, child, anatomy</TranslationOf></Media>

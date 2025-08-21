@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, positron emission tomography (PET) -Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   
+  <ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000466545">scan, positron emission tomography (PET)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PetScanSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-05-07" user="saucedol">Added revised image, revised title only</Comment><Comment audience="Internal" date="2013-01-29" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Tomografía por emisión de positrones (TEP). En la imagen se observa  a un paciente acostado en una camilla que se desliza a través de una máquina de TEP.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Tomografía por emisión de positrones (TEP).  El paciente se acuesta en una camilla que se desliza a través de una máquina de TEP.  El soporte de cabeza y la faja blanca ayudan al paciente a permanecer inmóvil.  Se inyecta en una vena una cantidad pequeña de glucosa (azúcar) radioactiva. El escáner crea una imagen de los lugares del cuerpo que usan la glucosa. Las células cancerosas se ven más brillantes en la imagen porque  absorben más glucosa que las células normales.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       
+       <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Summary cdr:ref="CDR0000256767">Tratamiento del cáncer de pulmón de células pequeñas</Summary><Glossary cdr:ref="CDR0000046140">PET scan</Glossary><Glossary cdr:ref="CDR0000046218">positron emission tomography scan</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC; cambiar el título de la imagen a "Tomografía por emisión de positrones".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Terminology meeting oct-nov 2017 (revised scan terms in Spanish)//Label in Spanish needs to change to "Tomografía por emisión de positrones"/Pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd revisions to caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>New imaged added</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spanish titled image pending</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000466545">scan, positron emission tomography (PET)</TranslationOf></Media>

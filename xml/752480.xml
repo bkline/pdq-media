@@ -1,0 +1,119 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage 0-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de vejiga en estadio 0</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Lumen</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Grasa que rodea la vejiga</LabelName><LabelName language="es">Capas de tejido muscular</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Revestimiento interno</LabelName><LabelName language="es">Estadio 0a</LabelName><LabelName language="es">Carcinoma papilar no invasivo</LabelName><LabelName language="es">Estadio 0is</LabelName><LabelName language="es">Carcinoma in situ</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000747928">bladder cancer stage 0</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BladderCaStage0a0isSpanish4.jpg </SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="es">Cáncer de vejiga en estadio 0 (cáncer de vejiga no invasivo). En la imagen se muestran la vejiga, el lumen (espacio donde se almacena la orina), el uréter, la próstata y la uretra. En el recuadro de la izquierda se observa cáncer en estadio 0a (también llamado carcinoma papilar no invasivo) en el revestimiento interno de la vejiga. En el recuadro de la derecha se observa cáncer en estadio 0is (también llamado carcinoma in situ) en el revestimiento interno de la vejiga. También se muestran el tejido conjuntivo y  las capas de tejido muscular de la vejiga, así como la grasa que la rodea.</ContentDescription>
+   
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de vejiga en estadio 0 (cáncer de vejiga no invasivo). En la imagen se muestran la vejiga, el lumen (espacio donde se almacena la orina), el uréter, la próstata y la uretra. En el recuadro de la izquierda se observa cáncer en estadio 0a (también llamado carcinoma papilar no invasivo) en el revestimiento interno de la vejiga. En el recuadro de la derecha se observa cáncer en estadio 0is (también llamado carcinoma in situ) en el revestimiento interno de la vejiga. También se muestran el tejido conjuntivo y  las capas de tejido muscular de la vejiga, así como la grasa que la rodea.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Cáncer de vejiga en estadio 0  (cáncer de vejiga no invasivo). Se encuentran células cancerosas en el revestimiento interno de la vejiga, pero no han invadido la pared de la vejiga. El estadio 0a (también se llama carcinoma papilar no invasivo) a veces tiene el aspecto de bultos  largos y delgados que   se extienden hacia dentro del lumen (espacio donde se almacena la orina) de la vejiga. El estadio 0is  (también se llama carcinoma in situ) es un tumor plano en el tejido que reviste el interior de la vejiga.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de vejiga en estadio 0  (cáncer de vejiga no invasivo). Se encuentran células cancerosas en el revestimiento interno de la vejiga, pero no han invadido la pared de la vejiga. El estadio 0a (también se llama carcinoma papilar no invasivo) a veces tiene el aspecto de bultos  largos y delgados que   se extienden hacia dentro del lumen (espacio donde se almacena la orina) de la vejiga. El estadio 0is  (también se llama carcinoma in situ) es un tumor plano en el tejido que reviste el interior de la vejiga.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256808">Tratamiento del cáncer de vejiga</Summary>
+  
+ <Glossary cdr:ref="CDR0000350363">stage 0 bladder carcinoma in situ</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Additional changes to labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-12</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Spanish Caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist and requested addition of the label Lumen as per updates to the EN version</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Content description revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised images and reviewed descriptions, revised Source file name</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       <Comment>Si se revisan las etiquetas, podemos aprovechar para poner "in situ" en cursiva en la etiqueta de la imagen.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised, one label, HP and PT captions and content descriptions per AJCC updates// pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>New image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-12</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000747928">bladder cancer stage 0</TranslationOf></Media>

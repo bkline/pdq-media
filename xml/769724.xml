@@ -1,0 +1,129 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IIIA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Adenocarcinoma de esófago en estadio IIIA</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Capa muscular delgada</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa muscular gruesa</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Cáncer en 3 a 6 ganglios linfáticos cercanos</LabelName><LabelName language="es">Cáncer en 1 a 2 ganglios linfáticos cercanos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000762220">esophageal adenocarcinoma stage IIIA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AdenocarcinomaEsophagusStage3ASpanish3.jpeg</SourceFilename><Comment audience="Internal" date="2019-08-14" user="lansberryic">Revised image linked</Comment>
+  <Comment audience="Internal" date="2015-04-23" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717461">stage IIIA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Adenocarcinoma de esófago en estadio IIIA. En la imagen se observan el esófago y el estómago. En una ampliación con dos paneles, se muestran las capas de la pared del esófago: la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo. En el panel izquierdo, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa y en 3 ganglios linfáticos cercanos. En el panel derecho, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y en 1 ganglio linfático cercano.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IIIA. En la imagen se observan el esófago y el estómago. En una ampliación con dos paneles, se muestran las capas de la pared del esófago: la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo. En el panel izquierdo, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa y en 3 ganglios linfáticos cercanos. En el panel derecho, se observa cáncer en la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y en 1 ganglio linfático cercano.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Adenocarcinoma de esófago en estadio IIIA. Se presenta una de las siguientes situaciones: 1) El cáncer se diseminó a la mucosa, la capa muscular delgada o la submucosa de la pared del esófago; se encuentra cáncer en 3 a 6 ganglios linfáticos cercanos. 2) El cáncer se diseminó a la capa muscular gruesa de la pared del esófago; se encuentra cáncer en 1 a 2 ganglios linfáticos cercanos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IIIA. Se presenta una de las siguientes situaciones: 1) El cáncer se diseminó a la mucosa, la capa muscular delgada o la submucosa de la pared del esófago; se encuentra cáncer en 3 a 6 ganglios linfáticos cercanos. 2) El cáncer se diseminó a la capa muscular gruesa de la pared del esófago; se encuentra cáncer en 1 a 2 ganglios linfáticos cercanos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary><Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary>
+  <Glossary cdr:ref="CDR0000720254">stage III esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of Caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-16</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed with SCC images</Comment>
+       <Comment audience="Internal" date="2019-07-16" user="adlerm2">For readability purposes, suggest deleting "O" in Spanish. Added "On left panel" and "On right panel" to caption to improve readability.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC for Caption and Content Desc. (In adenocarcinoma of esophagus images, please unifiy "el cáncer se encuentra en XX ganglios" vs "se encuentra cáncer en XX ganglios".)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated captions and content descriptions. Minor style and editorial adjustments to improve readability in Spanish; instead of "OR," used "...uno de los siguientes: 1)...; 2)..."</Comment>
+       <Comment audience="Internal" date="2019-01-29" user="adlerm2">Proposed edit to "nearby lymph nodes" (vs. "lymph nodes near the tumor") for consistency in Spanish with "ganglios linfáticos cercanos" used throughout staging language. This edit helps shorten text on labels and avoids ambiguity in Spanish since "cercanos" clearly modifies "ganglios linfáticos." Confirmed w/Amy that this doesn't change the meaning. 01/29/19;MA</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Qc for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only; added missing language attribute to one label</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000762220">esophageal adenocarcinoma stage IIIA</TranslationOf></Media>

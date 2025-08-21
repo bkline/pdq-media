@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>larynx anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Larynx</LabelName><LabelName language="en">Tongue</LabelName><LabelName language="en">Epiglottis</LabelName><LabelName language="en">Supraglottis</LabelName><LabelName language="en">Vocal cord</LabelName><LabelName language="en">Glottis</LabelName><LabelName language="en">Subglottis</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Trachea</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-02-17</DateCreated>
+   <SourceFilename>Larynx5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-02-23" user="akuhlmann">Moved the label for Larynx, (Supraglottis, Glottis, Subglottis) to the right side of the figure (so its on the same side as Epiglottis).</Comment><Comment audience="Internal" date="2012-01-20" user="anjamison">Removed the inset; enhanced the vocal cords to make them more visible; added a bracket called Larynx to the left of the labels for Supraglottis, Glottis, and Subglottis; added a tiny bracket to the vocal cords and the space between them indicate that where the label Glottis points to; faded the nasal sinus and top part of the throat.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038962">laryngeal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the larynx; drawing shows the epiglottis, supraglottis, glottis, subglottis, and vocal cords. Also shown are the tongue, trachea, and esophagus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the larynx. The three parts of the larynx are the supraglottis (including the epiglottis), the glottis (including the vocal cords), and the subglottis.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258016">Laryngeal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046026">larynx</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2012-04-10" user="anjamison">No review sheet; approved by James Neifeld, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2012-02-23" user="akuhlmann">Updated to Larynx5.jpg</Comment><Comment audience="Internal" date="2012-02-03" user="anjamison">Updated to Larynx3.jpg</Comment><Comment>Updated to Larynx2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-10-28</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added larynx1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

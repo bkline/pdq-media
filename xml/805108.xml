@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophagus anatomy, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía del esófago</LabelName><LabelName language="es">Faringe (garganta)</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Interior del esófago</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Capa muscular delgada</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa muscular gruesa</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Estómago</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000804898">esophagus anatomy, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EsophagealCancerChildSpanish1.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del esófago; en la imagen se observan la faringe (garganta), el esófago y el estómago. En una ampliación, se muestran la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo de la pared del esófago. También se muestran ganglios linfáticos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del esófago. El esófago es un tubo hueco y muscular por el que pasan los alimentos y los líquidos desde la faringe (garganta) hasta el estómago. La pared del esófago se compone de varias capas de tejido, como la mucosa, la capa muscular delgada, la submucosa, la capa muscular gruesa y el tejido conjuntivo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800327">Tratamiento del cáncer de esófago infantil</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-25</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Description and caption translation complete</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, caption and content description pending translation</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Updated the proposed use (changed it to the Spanish version of the summary). Also checked with Isabel and she confirmed that we can use "Anatomía del esófago" instead of "Características anatómicas del esfófago".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-18</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000804898">esophagus anatomy, child</TranslationOf></Media>

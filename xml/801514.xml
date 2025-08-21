@@ -1,0 +1,65 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>larynx anatomy, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Larynx</LabelName><LabelName language="en">Tongue</LabelName><LabelName language="en">Epiglottis</LabelName><LabelName language="en">Supraglottis</LabelName><LabelName language="en">Vocal cord</LabelName><LabelName language="en">Glottis</LabelName><LabelName language="en">Subglottis</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Trachea</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>2850</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-04-28</DateCreated>
+   <SourceFilename>LaryngealTumor2.jpg</SourceFilename>
+  <Comment>Fixed hair in figure</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038962">laryngeal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the larynx; drawing shows the epiglottis, supraglottis, vocal cord, glottis, and subglottis. Also shown are the tongue, trachea, and esophagus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the larynx. The larynx is a part of the throat, between the base of the tongue and the trachea. The three main parts of the larynx are the supraglottis (including the epiglottis), the glottis (including the vocal cords), and the subglottis.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000789588">Childhood Laryngeal Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment audience="Internal" date="2020-04-29" user="yousufzaimg">Updated image to LaryngealTumor2.jpg</Comment><Comment audience="Internal" date="2020-04-27" user="yousufzaimg">Added LaryngealTumor1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

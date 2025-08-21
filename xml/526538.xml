@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hematopoietic tree, expanded lymphoid line</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Blood stem cell</LabelName><LabelName language="en">Myeloid stem cell</LabelName><LabelName language="en">Myeloblast</LabelName><LabelName language="en">Red blood cells</LabelName><LabelName language="en">Platelets</LabelName><LabelName language="en">Granulocytes</LabelName><LabelName language="en">Eosinophil</LabelName><LabelName language="en">Basophil</LabelName><LabelName language="en">Neutrophil</LabelName><LabelName language="en">Lymphoid stem cell</LabelName><LabelName language="en">Lymphoblast</LabelName><LabelName language="en">B lymphocyte</LabelName><LabelName language="en">T lymphocyte</LabelName><LabelName language="en">Natural killer cell</LabelName><LabelName language="en">White blood cells</LabelName><ImageDimensions>
+    <HeightPixels>2342</HeightPixels>
+    <WidthPixels>3138</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-02-05</DateCreated>
+   
+   
+   <SourceFilename>HematopoieticExpand10.jpg</SourceFilename>
+   
+  <Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-15" user="akuhlmann">Copyright permission not needed; image created by T Winslow</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Blood cell development; drawing shows the steps a blood stem cell goes through to become a red blood cell, platelet, or white blood cell. A myeloid stem cell becomes a red blood cell, a platelet, or a myeloblast, which then becomes a granulocyte (the types of granulocytes are eosinophils, basophils, and neutrophils). A lymphoid stem cell becomes a lymphoblast and then becomes a B-lymphocyte, T-lymphocyte, or natural killer cell.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Blood cell development; drawing shows the steps a blood stem cell goes through to become a red blood cell, platelet, or white blood cell. A myeloid stem cell becomes a red blood cell, a platelet, or a myeloblast, which then becomes a granulocyte (the types of granulocytes are eosinophils, basophils, and neutrophils). A lymphoid stem cell becomes a lymphoblast and then becomes a B-lymphocyte, T-lymphocyte, or natural killer cell.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Blood cell development. A blood stem cell goes through several steps to become a red blood cell, platelet, or white blood cell. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Blood cell development. A blood stem cell goes through several steps to become a red blood cell, platelet, or white blood cell.   </MediaCaption></Captions>
+  
+ <Comment audience="Internal" date="2007-07-09" user="mmulrow">The following sentence will be added as the last sentence when making the media link in each summary because it will vary depending on the type of cancer: "(type of cancer) is cancer of the (type of cell)." Example: "Acute lymphoblastic  leukemia (ALL) is cancer of the lymphoblasts."</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257989">Adult Acute Lymphoblastic Leukemia Treatment</Summary>
+  <Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258005">Chronic Lymphocytic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000368374">Chronic Myeloproliferative Disorders Treatment</Summary><Summary cdr:ref="CDR0000258013">Hairy Cell Leukemia Treatment</Summary>
+  
+ <Summary cdr:ref="CDR0000258022">Mycosis Fungoides and the Sézary Syndrome Treatment</Summary></ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-30</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>HP caption and content added per OCCM.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Change labels from Pre-myeloid cell and Pre-lymphoid cell to Myeloid stem cell and Lymphoid stem cell, respectively. 
+Move the Myeloblast cell and label to the right and draw arrows from the Myeloid stem cell to the Myeloblast and then to the Granulocytes.  Bascially, the only cell types that come from the myeloblast are the granulocytes. 
+Draw longer arrows directly from the Myeloid stem cell to the Red blood cells and the Platelets.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Eric Seifter.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-03-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Being reviewed by multimedia group.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-12-19</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-04-26 seventh image; mm 2007-03-16 sixth image-refined; mm 2007-02-26 fifth and final image; mm 2007-02-16 fourth draft; mm  2007-01-31 third draft; mm 2006-12-19 second draft; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-08-01</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>first rough; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000577402">Illustration Review Sheet: Hematopoietic Tree Lymphoid</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000577401">Illustration Review Sheet: Blood Cells</SupplementaryInfoLink></RelatedDocuments></Media>

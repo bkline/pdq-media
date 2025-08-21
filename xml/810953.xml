@@ -1,0 +1,88 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>hepatic sections</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Hepatic Sections</LabelName><LabelName language="en">Right posterior section (VI and VII)</LabelName><LabelName language="en">VII</LabelName><LabelName language="en">VI</LabelName><LabelName language="en">Right anterior section (V and VIII)</LabelName><LabelName language="en">VIII</LabelName><LabelName language="en">V</LabelName><LabelName language="en">Right hepatic vein</LabelName><LabelName language="en">Middle hepatic vein</LabelName><LabelName language="en">Left hepatic vein</LabelName><LabelName language="en">I</LabelName><LabelName language="en">Left medial section (IV)</LabelName><LabelName language="en">IV</LabelName><LabelName language="en">Left lateral section (II and III)</LabelName><LabelName language="en">II</LabelName><LabelName language="en">III</LabelName><LabelName language="en">Portal vein</LabelName><LabelName language="en">Vena cava</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-12-15</DateCreated>
+   <SourceFilename>HepaticSections5.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-12-15">Moved the word “vein” in the label ‘Right hepatic vein’ up so that it’s all on one line like the other labels at the top, and moved the  Roman numeral I label up a bit so that it’s not tucked down quite as far in the middle of the image</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-12-09">Updated the labels to correspond with the roman numeral sections in the image, and made section one of the liver slightly more visible through the other sections</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-11-28">Changed the Arabic numbers in all the labels to Roman numerals and removed the tail-like structure below section IV</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043714">childhood liver cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing showing 4 sections of the liver: the right posterior section, the right anterior section, the left medial section, and the left lateral section.  Also shown are 8 segments (I-VIII), each corresponding to a specific section of the liver. The boundaries of each section are separated by the right hepatic vein, middle hepatic vein, and left hepatic vein. The vena cava and portal vein are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The liver is divided into 4 sections: the right posterior section, the right anterior section, the left medial section, and the left lateral section.  Each section of the liver is further divided into segments: segments VI and VII make up the right posterior section, segments V and VIII make up the right anterior section, segment IV makes up the left medial section, and segments II and III make up the left lateral section. Segment I is found deep in the left side of the liver, in front of the inferior vena cava and behind the right, middle, and left hepatic veins.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062836">Childhood Liver Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" audience="Internal" date="2022-12-15">Updated image to HepaticSections5.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-12-09">Updated image to HepaticSections4.jpg</Comment><Comment>Updated image to HepaticSections3.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-11-14</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000811376">Illustration Review Sheet: Hepatic Sections for SShochart</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

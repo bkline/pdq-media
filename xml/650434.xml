@@ -1,0 +1,95 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Pap test-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Prueba de Pap</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Cepillo</LabelName><LabelName language="es">Espéculo</LabelName><LabelName language="es">Cuello uterino</LabelName><ImageDimensions>
+    <HeightPixels>2652</HeightPixels>
+    <WidthPixels>2908</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000609927">Pap test</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>PapTestSkinTypeIVProviderSpanish1.jpg</SourceFilename><Comment audience="Internal" date="2013-12-30" user="lsaucedo">Replace image with new title</Comment><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with titled image</Comment><Comment>Spanish filename: PapSmearSpanish.jpg.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Prueba de Pap. En la imagen se observa una vista lateral anatómica del aparato reproductor femenino durante una prueba de Pap. Se observa un espéculo que ensancha la abertura de la vagina. Se muestra un cepillo que se introdujo en la vagina ensanchada y que toca el cuello uterino en la base del útero. También se observa el recto. En un recuadro, se observa el cepillo tocando el centro del cuello uterino. En la parte superior izquierda de la imagen, se muestra a una mujer cubierta por una sábana en una camilla que tiene las piernas separadas y los pies en los estribos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Prueba de Pap. Se introduce un espéculo en la vagina para ensancharla. Luego, se introduce un cepillo en la vagina para obtener células del cuello uterino. Las células se observan al microscopio para determinar si hay signos de enfermedad.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary><Summary cdr:ref="CDR0000740255">Exámenes de detección del cáncer de cuello uterino</Summary><Summary cdr:ref="CDR0000452962">Tratamiento del sarcoma uterino</Summary><Summary cdr:ref="CDR0000452956">Tratamiento del cáncer de vagina</Summary><Glossary cdr:ref="CDR0000045086">Pap smear</Glossary>
+ <Glossary cdr:ref="CDR0000045978">Pap test</Glossary><Glossary cdr:ref="CDR0000631499">Papanicolaou test</Glossary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image, skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised updates to content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-12-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised content description only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-12-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with new title and made editorial changes to caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with titled image, added label and Summary link</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translations of labels, caption, and content complete. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000609927">Pap test</TranslationOf></Media>

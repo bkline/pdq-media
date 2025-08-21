@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>larynx anatomy-detailed</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Areas Where Laryngeal Cancer May Form or Spread</LabelName><LabelName language="en">Upper part of the spinal column</LabelName><LabelName language="en">Carotid artery</LabelName><LabelName language="en">Lymph nodes in the neck</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Cartilage around the thyroid and trachea</LabelName><LabelName language="en">Thyroid</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Chest</LabelName><LabelName language="en">Epiglottis</LabelName><LabelName language="en">Supraglottis</LabelName><LabelName language="en">Glottis (vocal cords)</LabelName><LabelName language="en">Subglottis</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Esophagus</LabelName><ImageDimensions>
+    <HeightPixels>2850</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-05-10</DateCreated>
+   <SourceFilename>LarynxDetail3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-05-11" user="kuhlmanna">Small enhancement made to image: realigned shading and structures on right side of main figure</Comment><Comment audience="Internal" date="2017-02-06" user="kuhlmanna">Added title to image</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038962">laryngeal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows areas where laryngeal cancer may form or spread, including the supraglottis, glottis (vocal cords), subglottis, thyroid, trachea, and esophagus. Also shown are the epiglottis, the upper part of the spinal column, the carotid artery, the cartilage around the thyroid and trachea, lymph nodes in the neck, and the chest.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Laryngeal cancer forms in the tissues of the larynx (area of the throat that contains the vocal cords). The larynx includes the supraglottis, glottis (vocal cords), and subglottis. The cancer may spread to nearby tissues or to the thyroid, trachea, or esophagus. It may also spread to the lymph nodes in the neck, the carotid artery, the upper part of the spinal column, the chest, and to other parts of the body (not shown).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258016">Laryngeal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000445040">laryngeal cancer</Glossary><Glossary cdr:ref="CDR0000046026">larynx</Glossary><Glossary cdr:ref="CDR0000046317">laryngeal</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Sent to Dr. Andrea Hayes-Jordan</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-01-23</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000787981">Illustration Review Sheet: Larynx Anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

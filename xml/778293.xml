@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood AML -  JMML Caye Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Sporadic JMML</LabelName><LabelName language="en">PTPN11</LabelName><LabelName language="en">NRAS</LabelName><LabelName language="en">KRAS</LabelName><LabelName language="en">Syndromic JMML</LabelName><LabelName language="en">NF1</LabelName><LabelName language="en">PTPN11 (NS)</LabelName><LabelName language="en">CBL</LabelName><LabelName language="en">Patient ID</LabelName><LabelName language="en">RAS</LabelName><LabelName language="en">PTPN11</LabelName><LabelName language="en">NRAS</LabelName><LabelName language="en">KRAS</LabelName><LabelName language="en">NF1</LabelName><LabelName language="en">CBL</LabelName><LabelName language="en">RRAS</LabelName><LabelName language="en">RAC2</LabelName><LabelName language="en">Other</LabelName><LabelName language="en">aUPD</LabelName><LabelName language="en">PRC2</LabelName><LabelName language="en">PRC2 genes</LabelName><LabelName language="en">del7/7q</LabelName><LabelName language="en">Other</LabelName><LabelName language="en">Spliceosome</LabelName><LabelName language="en">Molecular</LabelName><LabelName language="en">Cytogenetics</LabelName><LabelName language="en">Blast excess</LabelName><LabelName language="en">Blast crisis</LabelName><LabelName language="en">Relapse</LabelName><LabelName language="en">Death</LabelName><LabelName language="en">HSCT</LabelName><LabelName language="en">RAS double mutation</LabelName><LabelName language="en">Any additional alteration</LabelName><LabelName language="en">Somatic heterozygous point mutation</LabelName><LabelName language="en">Somatic homozygous point mutation</LabelName><LabelName language="en">Germline heterozygous point mutation</LabelName><LabelName language="en">Germline homozygous point mutation</LabelName><LabelName language="en">Somatic deletion</LabelName><LabelName language="en">Germline deletion</LabelName><LabelName language="en">Somatic del7/del7q</LabelName><LabelName language="en">Number of other somatic alterations</LabelName><LabelName language="en">Loss of heterozygosity</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Not applicable</LabelName><LabelName language="en">Unavailable data</LabelName><LabelName language="en">Long-term survivor</LabelName><ImageDimensions>
+    <HeightPixels>678</HeightPixels>
+    <WidthPixels>946</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Nature Genetics</Creator>
+   <SourcePublication>Caye A, Strullu M, Guidez F, et al.: Juvenile myelomonocytic leukemia displays mutations in components of the RAS pathway and the PRC2 network. Nat Genet 47 [11]: 1334-40, copyright (2015).</SourcePublication><DateCreated>2016-01-22</DateCreated>
+   <SourceFilename>Ch AML  JMML Caye Figure 1-22-16.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2016-01-22</PermissionRequestDate>
+    
+    
+    
+    
+    
+    <PermissionResponse>Permission Granted</PermissionResponse><PermissionResponseDate>2016-02-10</PermissionResponseDate><PublisherPermissionText>Reprinted by permission from Macmillan Publishers Ltd: Nature Genetics (Caye A, Strullu M, Guidez F, et al.: Juvenile myelomonocytic leukemia displays mutations in components of the RAS pathway and the PRC2 network. Nat Genet 47 [11]: 1334-40, 2015), copyright (2015).</PublisherPermissionText><SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000778289">Juvenile myelomonocytic leukemia displays mutations in components of the RAS pathway and the PRC2 network.</CitationLink><Comment audience="Internal" date="2016-02-29" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment Editorial Board &amp; permissions received; per Sharon, image will not be translated into Spanish, but okay to translate caption - 02/29/16</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038439">juvenile myelomonocytic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing alteration profiles in individual JMML cases.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Alteration profiles in individual JMML cases. Germline and somatically acquired alterations with recurring hits in the RAS pathway and PRC2 network are shown for 118 patients with JMML who underwent detailed genetic analysis. Blast excess was defined as a blast count ≥10% but &lt;20% of nucleated cells in the bone marrow at diagnosis. Blast crisis was defined as a blast count ≥20% of nucleated cells in the bone marrow. NS, Noonan syndrome. Reprinted by permission from Macmillan Publishers Ltd: Nature Genetics (Caye A, Strullu M, Guidez F, et al.: Juvenile myelomonocytic leukemia displays mutations in components of the RAS pathway and the PRC2 network. Nat Genet 47 [11]: 1334-40, 2015), copyright (2015).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062896">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per Sharon, image will not be translated into Spanish, but okay to translate caption</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779175">Caye_Genomics of JuvenileMyelomoncyticLeukemia_CopyrightPermissions_2016-02-29</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

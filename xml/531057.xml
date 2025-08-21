@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, fine needle aspiration (FNA), lung</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Fine-Needle Aspiration Biopsy of the Lung</LabelName><LabelName language="en">Biopsy needle</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>1888</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-09-27</DateCreated>
+   
+   
+   <SourceFilename>Biopsy Fine-Needle AspirationFNA FP V.2.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2022-09-28">Updated the skin color slightly and refined the ear</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-09-26">Diversity updates: changed skin tone to FP V and darkened hair to reflect updated skin tone</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Sex>Female</Sex><Race>White</Race>
+  <SkinTone>Type V – Brown skin</SkinTone><SkinTone>Type II – Fair skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040962">small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Fine-needle aspiration biopsy of the lung; drawing shows a patient lying on a table that slides through the computed tomography (CT) machine with an x-ray picture of a cross-section of the lung on a monitor above the patient. Drawing also shows a doctor using the x-ray picture to help place the biopsy needle through the chest wall and into the area of abnormal lung tissue. Inset shows a side view of the chest cavity and lungs with the biopsy needle inserted into the area of abnormal tissue.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Fine-needle aspiration biopsy of the lung. The patient lies on a table that slides through the computed tomography (CT) machine, which takes x-ray pictures of the inside of the body. The x-ray pictures help the doctor see where the abnormal tissue is in the lung. A biopsy needle is inserted through the chest wall and into the area of abnormal lung tissue. A small piece of tissue is removed through the needle and checked under the microscope for signs of cancer. </MediaCaption>
+  </Captions><Comment audience="Internal" date="2016-02-11" user="kuhlmanna">2016-02-11: Revised 1st sentence in Content Description &amp; Caption to match image title; ak</Comment><Comment audience="Internal" date="2013-02-11" user="anjamison">Revised caption per SQK.</Comment>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062947">Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000269299">Malignant Mesothelioma Treatment (Adult)</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2022-09-26">Updated to Biopsy Fine-Needle AspirationFNA FP V.1.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to FineNeedleAspirationBiopsyLung13.jpeg</Comment><Comment>2007-05-14 tenth draft; mm 2007-05-08 ninth draft; mm 2007-04-26 eighth draft; mm 2007-04-12 seventh draft; mm 2007-03-30 sixth draft; mm 2007-03-01 fifth draft; mm 2007-02-16 third rough; mm 2007-02-02 second rough; mm</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-04-27</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Being reviewed by multimedia group.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-02-14</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2006-02-14 first draft; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000560876">Illustration Review Sheet: lung biopsy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

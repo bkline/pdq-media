@@ -1,0 +1,74 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Prevalence of endocrine disorders at the last follow-up visit, by gender-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Deficiencia de la HC</LabelName><LabelName language="es">Hipotiroidismo primario</LabelName><LabelName language="es">Hipotiroidismo central</LabelName><LabelName language="es">Alteración de la espermatogénesis</LabelName><LabelName language="es">Hipogonadismo primario masculino</LabelName><LabelName language="es">Hipogonadismo primario femenino</LabelName><LabelName language="es">Hipogonadismo hipogonadotrópico</LabelName><LabelName language="es">DMO baja</LabelName><LabelName language="es">Diabetes mellitus</LabelName><LabelName language="es">Diabetes insípida</LabelName><LabelName language="es">Hiperprolactinemia</LabelName><LabelName language="es">Hipoadrenalismo central</LabelName><LabelName language="en">Cualquier problema endocrino</LabelName><LabelName language="es">0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">20</LabelName><LabelName language="es">30</LabelName><LabelName language="es">40</LabelName><LabelName language="es">50</LabelName><LabelName language="es">60</LabelName><LabelName language="es">70</LabelName><LabelName language="es">Mujeres</LabelName><LabelName language="es">14,62 (9,03-21,88)</LabelName><LabelName language="es">20,77 (14,16-28,76)</LabelName><LabelName language="es">1,54 (0,19-5,45)</LabelName><LabelName language="es">21,54 (14,81-29,60)</LabelName><LabelName language="es">4,62 (1,71-9,78)</LabelName><LabelName language="es">17,69 (11,56-25,35)</LabelName><LabelName language="es">1,54 (0,19-5,45)</LabelName><LabelName language="es">0,77 (0,02-4,21)</LabelName><LabelName language="es">2,31 (0,48-6,60)</LabelName><LabelName language="es">0,77 (0,02-4,21)</LabelName><LabelName language="es">48,46 (39,61-57,39)</LabelName><LabelName language="es">Hombres</LabelName><LabelName language="es">17,22 (12,01-23,55)</LabelName><LabelName language="es">15,56 (10,59-21,69)</LabelName><LabelName language="es">2,78 (0,91-6,36)</LabelName><LabelName language="es">42,22 (34,91-49,79)</LabelName><LabelName language="es">13,33 (8,73-19,19)</LabelName><LabelName language="es">5,00 (2,31-9,28)</LabelName><LabelName language="es">13,89 (9,19-19,76)</LabelName><LabelName language="es">1,67 (0,35-4,79)</LabelName><LabelName language="es">1,11 (0,13-3,96)</LabelName><LabelName language="es">1,67 (0,35-4,79)</LabelName><LabelName language="es">1,67 (0,35-4,79)</LabelName><LabelName language="es">62,78 (55,27-69,85)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000767820">Late Effects - Prevalence of endocrine disorders at the last follow-up visit, by gender</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PrevalenceOfEndocrineDisordersAtTheLastFollowupVisitByGenderSpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043724">childhood cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El gráfico muestra la prevalencia de trastornos endocrinos en el momento de la última visita de seguimiento por sexo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Prevalencia de trastornos endocrinos en el momento de la última visita de seguimiento, por sexo. Derechos de autor © 2013, European Society of Endocrinology.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000371825">Efectos tardíos del tratamiento anticanceroso en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000767820">Late Effects - Prevalence of endocrine disorders at the last follow-up visit, by gender</TranslationOf></Media>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, transrectal - prostate</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Transrectal Biopsy</LabelName><LabelName language="en">Bladder </LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Needle</LabelName><LabelName language="en">Ultrasound probe</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-04</DateCreated>
+   
+   
+   <SourceFilename>TransrectalBiopsy6.jpg</SourceFilename>
+   <Comment>Added new copyright information and added label names. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Transrectal biopsy; drawing shows a side view of the prostate, bladder, and rectum. Drawing also shows an ultrasound probe with a needle inserted into the rectum to remove a tissue sample from the prostate.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Transrectal biopsy; drawing shows a side view of the prostate, bladder, and rectum. Drawing also shows an ultrasound probe with a needle inserted into the rectum to remove a tissue sample from the prostate.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Transrectal biopsy. An ultrasound probe is inserted into the rectum to show where the tumor is. Then a needle is inserted through the rectum into the prostate to remove tissue from the prostate.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Transrectal biopsy.</MediaCaption></Captions>
+  
+  
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Added "drawing", "a", "the", and "Drawing" in cont descr; dlb.</Comment></MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to TransrectalBiopsy6.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added HP caption and content description.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

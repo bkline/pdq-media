@@ -1,0 +1,97 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIA Adenocarcinoma of the Esophagus</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Cancer is grade 3 or unknown</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Thin muscle layer</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Thick muscle layer</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Lymph node</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-08-13</DateCreated>
+   <SourceFilename>AdenocarcinomaEsophagusStage2A.7.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-08-13" user="kuhlmanna">Added leader line to the Esophagus label</Comment><Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Changed “grade” to lowercase in label </Comment><Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Separated the brackets around the mucosa layer and thin muscle layer; and removed the bottom part of cancer spot in the thick muscle layer so that it just extends about ¼ inch below the white dividing line between the two main thick muscle layers</Comment><Comment audience="Internal" date="2018-08-20" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2014-09-08" user="akuhlmann">Changed brackets to curly brackets with the label line pointing to the middle of the bracket; added label for Submucosa, pointing to the white band near the top, and made the mucosa layer just include the layers from the top of the submucosa to the top of the image; and made the connective tissue layer at the very bottom a little thicker.</Comment><Comment audience="Internal" date="2014-07-02" user="myousufzai">Removed the (1) from the title; Took off the bottom of the cancer spot so it doesn't extend quite so far into the muscle layer</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717441">stage IIA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIA adenocarcinoma of the esophagus; drawing shows the esophagus and stomach. An inset shows cancer cells in the mucosa layer, thin muscle layer, submucosa layer, and thick muscle layer of the esophagus wall.  The cancer cells are grade 3 or the grade is not known. Also shown is the connective tissue layer of the esophagus wall and the lymph nodes. </ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIA adenocarcinoma of the esophagus; drawing shows the esophagus and stomach. An inset shows cancer cells in the mucosa layer, thin muscle layer, submucosa layer, and thick muscle layer of the esophagus wall.  The cancer cells are grade 3 or the grade is not known. Also shown is the connective tissue layer of the esophagus wall and the lymph nodes. </ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIA adenocarcinoma of the esophagus. Cancer has spread into the thick muscle layer of the esophagus wall. The cancer cells are grade 3 or the grade is not known. Grade 3 cancer cells look more abnormal under a microscope and grow and spread more quickly than grade 1 and 2 cancer cells.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIA adenocarcinoma of the esophagus. Cancer has spread into the thick muscle layer of the esophagus wall. The cancer cells are grade 3 or the grade is not known. Grade 3 cancer cells look more abnormal under a microscope and grow and spread more quickly than grade 1 and 2 cancer cells.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000720252">stage II esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Added AdenocarcinomaEsophagusStage2A.5.jpg</Comment><Comment audience="Internal" date="2018-08-20" user="kuhlmanna">Added AdenocarcinomaEsophagusStage2A.4.jpg</Comment><Comment audience="Internal" date="2014-09-08" user="akuhlmann">Added AdenocarcinomaEsophagusStage2A.3.jpg</Comment><Comment>Added AdenocarcinomaEsophagusStage2A.2.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-25</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-02</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000795457">Illustration Review Sheet: Adenocarcinoma of the Esophagus Stage IIA</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000769698">Illustration Review Sheet: esophageal adenocarcinoma stages, except stage IIB</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000792772">Sample Illustration: Esophageal Adenocarcinoma AJCC Revisions</SupplementaryInfoLink></RelatedDocuments><Comment>Added HP caption/content description; my</Comment><Comment audience="Internal" date="2015-02-27" user="myousufzai">2015-02-27: Added Sup Info Link; my</Comment></Media>

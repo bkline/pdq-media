@@ -1,0 +1,108 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IA</LabelName><LabelName language="en">Cancer inside one ovary</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Fallopian tube</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Stage IB</LabelName><LabelName language="en">Cancer inside both ovaries or fallopian tubes</LabelName><LabelName language="en">Fallopian tube</LabelName><LabelName language="en">Stage IC</LabelName><LabelName language="en">Fallopian tube</LabelName><LabelName language="en">a</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Cancer cells in pelvic peritoneal fluid</LabelName>
+  <LabelName language="en">c</LabelName><ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-06-20</DateCreated>
+   
+   
+   <SourceFilename>OFPStage1ABC.4.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2022-06-21">In the inset of the Stage IC panel, made the cancer cells as single floating cells in the pelvic peritoneum rather showing a tumor mass, and updated the label to say “Cancer cells in pelvic peritoneal fluid” - changes made per expert reviewer</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">In the Stage IC panel, accentuated the rupturing of the cells in label a and showed the tumor growing out toward the surface a bit more so that it is accentuated in label b.</Comment><Comment audience="Internal" date="2015-10-23" user="kuhlmanna">In third panel, changed label from “…in peritoneal cavity” to “Cancer cells in pelvic peritoneum”</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">REVISED IMAGE per FIGO update: Removed "ovarian cancer" from title; In the middle and last panel, added a label for Fallopian tube; in the middle panel, changed label to say “Cancer inside both ovaries or fallopian tubes"; in the last panel, changed label to say “Cancer cells in peritoneal cavity”</Comment><Comment audience="Internal" date="2009-10-01" user="rharrison">Spacing of Fallopian tube label corrected.</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043702">stage I ovarian epithelial cancer</Diagnosis><Diagnosis cdr:ref="CDR0000698991">stage I fallopian tube cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040288">stage I ovarian germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Three-panel drawing of stage IA, stage IB, and stage IC; each panel shows the ovaries, fallopian tubes, uterus, cervix, and vagina. The first panel (stage IA) shows cancer inside one ovary. The second panel (stage IB) shows cancer inside both ovaries. The third panel (stage IC) shows cancer inside both ovaries and (a) the tumor in the ovary on the left has ruptured (broken open), (b) there is cancer on the surface of the ovary on the right, and (c) there are cancer cells in the pelvic peritoneal fluid (inset).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Three-panel drawing of stage IA, stage IB, and stage IC; each panel shows the ovaries, fallopian tubes, uterus, cervix, and vagina. The first panel (stage IA) shows cancer inside one ovary. The second panel (stage IB) shows cancer inside both ovaries. The third panel (stage IC) shows cancer inside both ovaries and (a) the tumor in the ovary shown on the left has ruptured (broken open), (b) there is cancer on the surface of the ovary shown on the right, and (c) there are cancer cells in the pelvic peritoneal fluid (inset).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">In stage IA, cancer is found inside a single ovary or fallopian tube. In stage IB, cancer is found inside both ovaries or fallopian tubes. In stage IC, cancer is found inside one or both ovaries or fallopian tubes and one of the following is true: (a) either the tumor or the capsule (outer covering) of the ovary has ruptured (broken open), or (b) cancer is also found on the surface of the ovary or fallopian tube, or (c) cancer cells are found in the pelvic peritoneal fluid.</MediaCaption><MediaCaption audience="Health_professionals" language="en">In stage IA, cancer is found inside a single ovary or fallopian tube. In stage IB, cancer is found inside both ovaries or fallopian tubes. In stage IC, cancer is found inside one or both ovaries or fallopian tubes and one of the following is true: (a) either the tumor or the capsule (outer covering) of the ovary has ruptured (broken open), or (b) cancer is also found on the surface of the ovary or fallopian tube, or (c) cancer cells are found in the pelvic peritoneal fluid.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062963">Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062967">Ovarian Germ Cell Tumors Treatment</Summary><Glossary cdr:ref="CDR0000045899">stage I ovarian epithelial and fallopian tube cancer</Glossary><Glossary cdr:ref="CDR0000438722">stage I ovarian germ cell tumor</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Recommended revising Stage IC panel to show free floating cancer cells in the pelvic peritoneum rather than showing what looks like a metastatic tumor in the peritoneum</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2022-06-06">Sent to Larissa Meyer, MD, MPH</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy><Comment user="kuhlmanna" audience="Internal" date="2022-06-21">Updated image to OFPStage1ABC.4.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Updated image to OFPStage1ABC.3.jpg</Comment><Comment audience="Internal" date="2015-10-23" user="kuhlmanna">REVISED IMAGE: Updated to OFPStage1ABC.2.jpg</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">REVISED IMAGE: Updated to OFPStage1ABC.1.jpg</Comment><Comment audience="Internal" date="2010-01-15" user="dbuchhagen">Updated to OvarianCaStage1ABC.10.jpg</Comment><Comment audience="Internal" date="2010-01-08" user="dbuchhagen">Updated to OvarianCaStage1ABC.9.jpg</Comment><Comment audience="Internal" date="2009-11-16" user="dbuchhagen">Updated to OvarianCaStage1ABC.8.jpg</Comment><Comment audience="Internal" date="2009-10-19" user="dbuchhagen">Updated to OvarianCaStage1ABC.7.jpg</Comment><Comment audience="Internal" date="2009-10-06" user="dbuchhagen">Updated to OvarianCaStage1ABC.6.jpg</Comment><Comment audience="Internal" date="2009-10-01" user="rharrison">Updated to OvarianCaStage1ABC.5.jpg.</Comment><Comment audience="Internal" date="2009-09-16" user="rharrison">Updated to OvarianCaStage1ABC.4.jpg. </Comment>
+        <Comment audience="Internal" date="2009-09-16" user="rharrison">Updated to OvarianCaStage1ABC.3.jpg.</Comment><Comment>Updated to OvarianCaStage1ABC.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-02-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-10-20</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000618023">sample illustration: ovarian cancer stage I </SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000809904">Illustration Review Sheet: ovarian cancer stage I</SupplementaryInfoLink></RelatedDocuments></Media>

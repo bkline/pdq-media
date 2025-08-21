@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>kidney cancer stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage I Kidney Cancer</LabelName><LabelName language="en">Right kidney</LabelName><LabelName language="en">Left kidney</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Tumor is 7 cm or smaller</LabelName><LabelName language="en">7 cm</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2430</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2018-02-08</DateCreated><SourceFilename>KidneyCancerStage1.6.jpg</SourceFilename><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Made the fatty tissue layer on the right side of the kidney match the brighter color on the part to the left of the grey pull out area; Removed the label for Ureter;
+Labeled Fatty tissue
+</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Made the cancer bulge out of the kidney a little bit more and look more encapsulated. </Comment><Comment audience="Internal" date="2018-01-10" user="kuhlmanna">AJCC 8th edition updates made</Comment><Comment audience="Internal" date="2017-08-07" user="kuhlmanna">Made cancer spot bigger so that it looks almost as big as the peach in the inset</Comment><Comment audience="Internal" date="2017-07-24" user="yousufzaimg">Made the inset box smaller</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043689">stage I renal cell cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage I kidney cancer; drawing shows cancer in the left kidney and the tumor is 7 centimeters or smaller. An inset shows 7 centimeters is about the size of a peach. Also shown are fatty tissue and the right kidney.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage I kidney cancer; drawing shows cancer in the left kidney and the tumor is 7 centimeters or smaller. An inset shows 7 centimeters is about the size of a peach. Also shown are fatty tissue and the right kidney.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I kidney cancer. The tumor is 7 centimeters or smaller and is found in the kidney only.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage I kidney cancer. The tumor is 7 centimeters or smaller and is found in the kidney only.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000276462">Renal Cell Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046167">stage I kidney cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Added KidneyCancerStage1.6.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-05-24</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000789095">Sample Illustration: kidney cancer staging</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000791821">Illustration Review Sheet: Stage I Kidney Cancer</SupplementaryInfoLink></RelatedDocuments></Media>

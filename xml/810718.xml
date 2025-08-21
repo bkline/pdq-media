@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood ALL - Genomic Subtypes of T-ALL-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Subtipos genómicos de LLA-T</LabelName><LabelName language="es">BCL11B, 1,9 %</LabelName><LabelName language="es">HOXA, 19,5 %</LabelName><LabelName language="es">LMO1/2, 4,1 %</LabelName><LabelName language="es">NKX2_1, 4,7 %</LabelName><LabelName language="es">SPI1, 0,4 %</LabelName><LabelName language="es">Otros-T, 17,6 %</LabelName><LabelName language="es">TAL1, 29,0 %</LabelName><LabelName language="es">TAL2, 1,7 %</LabelName><LabelName language="es">TLX1, 6,7 %</LabelName><LabelName language="es">TLX3, 14,4 %</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1301</HeightPixels>
+    <WidthPixels>1806</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000810691">Childhood ALL - Genomic Subtypes of T-ALL</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>T-ALL Genomic SubtypesSpanish1.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039919">childhood acute lymphoblastic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En la figura se muestran los subtipos genómicos de LLA-T.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Subtipos genómicos de LLA-T. En la figura se observan los datos de 466 niños diagnosticados con LLA-T e inscritos en los ensayos clínicos del St. Jude Children’s Research Hospital o el Children’s Oncology Group. Adaptado de Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54: 1376-1389, 2022.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256671">Tratamiento de la leucemia linfoblástica aguda infantil</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-02</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-31</ProcessingStatusDate>
+        <EnteredBy>bringascasadop</EnteredBy>
+        <Comment>Translation of Caption and Cont. Desc. Complete</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-12</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Translation Peer-Review Complete (only labels”)</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>New media file translation</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810691">Childhood ALL - Genomic Subtypes of T-ALL</TranslationOf></Media>

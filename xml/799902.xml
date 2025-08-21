@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skalet retinoblastoma figure 3</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Management Guidelines for Childhood Screening for Retinoblastoma Familes</LabelName><LabelName language="en">Risk Category</LabelName><LabelName language="en">% risk</LabelName><LabelName language="en">Eye examination schedule based upon age of unaffected child</LabelName><LabelName language="en">Birth to 8 weeks*</LabelName><LabelName language="en">&gt;8 weeks to 12 weeks</LabelName><LabelName language="en">&gt;3 months to 12 months</LabelName><LabelName language="en">&gt;12 months to 24 months</LabelName><LabelName language="en">&gt;24 months to 36 months</LabelName><LabelName language="en">&gt;36 months to 48 months</LabelName><LabelName language="en">&gt;48 months to 60 months</LabelName><LabelName language="en">5-7 years</LabelName><LabelName language="en">High Risk</LabelName><LabelName language="en">&gt; 7.5</LabelName><LabelName language="en">Every 2-4 weeks</LabelName><LabelName language="en">Monthly</LabelName><LabelName language="en">Every 2 months</LabelName><LabelName language="en">Every 3 months</LabelName><LabelName language="en">Every 4 months</LabelName><LabelName language="en">Every 6 months</LabelName><LabelName language="en">Every 6 months</LabelName><LabelName language="en">Intermediate Risk</LabelName><LabelName language="en">1 - 7.5</LabelName><LabelName language="en">Monthly</LabelName><LabelName language="en">Every 2 months</LabelName><LabelName language="en">Every 3 months</LabelName><LabelName language="en">Every 4-6 months</LabelName><LabelName language="en">Every 6 months</LabelName><LabelName language="en">Low Risk</LabelName><LabelName language="en">&lt; 1</LabelName><LabelName language="en">Monthly</LabelName><LabelName language="en">Every 3 months</LabelName><LabelName language="en">Every 4 months</LabelName><LabelName language="en">Every 6 months</LabelName><LabelName language="en">Annually</LabelName><LabelName language="en">General Population</LabelName><LabelName language="en">0.007</LabelName><LabelName language="en">Screening with pediatrician</LabelName><LabelName language="en">Non-sedated office examination preferred by most centers</LabelName><LabelName language="en">Examination under sedation preferred by most centers</LabelName><ImageDimensions>
+    <HeightPixels>1374</HeightPixels>
+    <WidthPixels>3445</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Ophthalmology</Creator>
+   <SourcePublication>Ophthalmology, Volume 125, Issue 3, Alison H. Skalet, Dan S. Gombos, Brenda L. Gallie, Jonathan W. Kim, Carol L. Shields, Brian P. Marr, Sharon E. Plon, Patricia Chévez-Barrios, Screening Children at Risk for Retinoblastoma: Consensus Report from the American Association of Ophthalmic Oncologists and Pathologists, Pages 453–458, Copyright Elsevier (2018)</SourcePublication><DateCreated>2019-11-06</DateCreated>
+   <SourceFilename>Skalet Retinoblastoma Figure 3 11-6-19.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2019-10-10</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2019-10-10</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from Ophthalmology, Volume 125, Issue 3, Alison H. Skalet, Dan S. Gombos, Brenda L. Gallie, Jonathan W. Kim, Carol L. Shields, Brian P. Marr, Sharon E. Plon, Patricia Chévez-Barrios, Screening Children at Risk for Retinoblastoma: Consensus Report from the American Association of Ophthalmic Oncologists and Pathologists, Pages 453–458, Copyright (2018), with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062846">Retinoblastoma Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    </PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043733">retinoblastoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Table showing management guidelines for childhood screening for retinoblastoma. The presented schedules are general guidelines and reflect a schedule for examinations in which no lesions of concern are noted. It may be appropriate to examine some children more frequently. Decisions regarding examination method, examination under anesthesia (EUA) versus nonsedated examination in the office, are complex and best decided by the clinician in discussion with the patient's family. The preference of the majority of the clinical centers involved in the creation of this consensus statement is reflected, but individual centers may make policy decisions based on available resources and expert clinician preference. Examination under anesthesia will be strongly considered for any child who is unable to participate in an office examination sufficiently to allow thorough examination of the retina. *A minority of clinical centers also prefer EUA for high- and intermediate-risk children (calculated risk &gt;1%) from birth to 8 weeks of age.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Management guidelines for childhood screening for retinoblastoma. The presented schedules are general guidelines and reflect a schedule for examinations in which no lesions of concern are noted. It may be appropriate to examine some children more frequently. Decisions regarding examination method, examination under anesthesia (EUA) versus nonsedated examination in the office, are complex and best decided by the clinician in discussion with the patient's family. The preference of the majority of the clinical centers involved in the creation of this consensus statement is reflected, but individual centers may make policy decisions based on available resources and expert clinician preference. Examination under anesthesia will be strongly considered for any child who is unable to participate in an office examination sufficiently to allow thorough examination of the retina. *A minority of clinical centers also prefer EUA for high- and intermediate-risk children (calculated risk &gt;1%) from birth to 8 weeks of age. Reprinted from Ophthalmology, Volume 125, Issue 3, Alison H. Skalet, Dan S. Gombos, Brenda L. Gallie, Jonathan W. Kim, Carol L. Shields, Brian P. Marr, Sharon E. Plon, Patricia Chévez-Barrios, Screening Children at Risk for Retinoblastoma: Consensus Report from the American Association of Ophthalmic Oncologists and Pathologists, Pages 453–458, Copyright (2018), with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062846">Retinoblastoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-11-06</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-11-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000799897">Skalet_Table and Figure_Copyright&amp;Permissions_2019-10-31</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

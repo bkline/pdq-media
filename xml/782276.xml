@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - Ependymoma Figure 2</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomic Compartment</LabelName><LabelName language="en">SPINE (SP-)</LabelName><LabelName language="en">Posterior Fossa (PF-)</LabelName><LabelName language="en">Supratentorial (ST-)</LabelName><LabelName language="en">Molecular Subgroup</LabelName><LabelName language="en">SE</LabelName><LabelName language="en">MPE</LabelName><LabelName language="en">EPN</LabelName><LabelName language="en">SE</LabelName><LabelName language="en">EPN-A</LabelName><LabelName language="en">EPN-B</LabelName><LabelName language="en">SE</LabelName><LabelName language="en">EPN-YAP1</LabelName><LabelName language="en">EPN-RELA</LabelName><LabelName language="en">Histopathology</LabelName><LabelName language="en">sub-ependymoma (WHO I)</LabelName><LabelName language="en">myxopapillary ependymoma (WHO II)</LabelName><LabelName language="en">(anaplastic) ependymoma (WHO II/III)</LabelName><LabelName language="en">sub-ependymoma (WHO I)</LabelName><LabelName language="en">(anaplastic) ependymoma (WHO II/III)</LabelName><LabelName language="en">(anaplastic) ependymoma (WHO II/III)</LabelName><LabelName language="en">sub-ependymoma (WHO I)</LabelName><LabelName language="en">(anaplastic) ependymoma (WHO II/III)</LabelName><LabelName language="en">(anaplastic) ependymoma (WHO II/III)</LabelName><LabelName language="en">Genetics</LabelName><LabelName language="en">Oncogenic Driver</LabelName><LabelName language="en">6q del.</LabelName><LabelName language="en">CIN</LabelName><LabelName language="en">CIN</LabelName><LabelName language="en">balanced</LabelName><LabelName language="en">balanced</LabelName><LabelName language="en">CIN</LabelName><LabelName language="en">balanced</LabelName><LabelName language="en">aberr. 11q</LabelName><LabelName language="en">aberr. 11q</LabelName><LabelName language="en">?</LabelName><LabelName language="en">?</LabelName><LabelName language="en">NF2</LabelName><LabelName language="en">?</LabelName><LabelName language="en">?</LabelName><LabelName language="en">?</LabelName><LabelName language="en">?</LabelName><LabelName language="en">YAP1-fusion</LabelName><LabelName language="en">Chromo-thripsis RELA-fusion</LabelName><LabelName language="en">Tumor Location</LabelName><LabelName language="en">Age Distribution (years)</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">4 18 60</LabelName><LabelName language="en">Gender Distribution</LabelName><LabelName language="en">Patient Survival (OS; months)</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><LabelName language="en">120</LabelName><ImageDimensions>
+    <HeightPixels>527</HeightPixels>
+    <WidthPixels>600</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Cancer Cell</Creator>
+   <SourcePublication>Pajtler KW, Witt H, Sill M, et al., Molecular Classification of Ependymal Tumors across All CNS Compartments, Histopathological Grades, and Age Groups. Cancer Cell 27(5), Pages 728-743, Copyright 2015.</SourcePublication><DateCreated>2016-07-13</DateCreated>
+   <SourceFilename>Ch Ependymoma_Pajtler Figure.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-08-08" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment  Editorial Board and permissions received - 08/08/16</Comment><Comment audience="Internal" date="2016-07-13" user="kuhlmanna">Permissions needed; image added as summary placeholder - needs Board approval</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2016-08-05</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from Cancer Cell, Volume 27, Kristian W. Pajtler, Hendrik Witt, Martin Sill, David T.W. Jones, Volker Hovestadt, Fabian Kratochwil, Khalida Wani, Ruth Tatevossian, Chandanamali Punchihewa, Pascal Johann, Juri Reimand, Hans-Jorg Warnatz, Marina Ryzhova, Steve Mack, Vijay Ramaswamy, David Capper, Leonille Schweizer, Laura Sieber, Andrea Wittmann, Zhiqin Huang, Peter van Sluis, Richard Volckmann, Jan Koster, Rogier Versteeg, Daniel Fults, Helen Toledano, Smadar Avigad, Lindsey M. Hoffman, Andrew M. Donson, Nicholas Foreman, Ekkehard Hewer, Karel Zitterbart, Mark Gilbert, Terri S. Armstrong, Nalin Gupta, Jeffrey C. Allen, Matthias A. Karajannis, David Zagzag, Martin Hasselblatt, Andreas E. Kulozik, Olaf Witt, V. Peter Collins, Katja von Hoff, Stefan Rutkowski, Torsten Pietsch, Gary Bader, Marie-Laure Yaspo, Andreas von Deimling, Peter Lichter, Michael D. Taylor, Richard Gilbertson, David W. Ellison, Kenneth Aldape, Andrey Korshunov, Marcel Kool, and Stefan M. Pfister, Molecular Classification of Ependymal Tumors across All CNS Compartments, Histopathological Grades, and Age Groups, Pages 728–743, Copyright (2015), with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000774921">Childhood Cancer Genomics</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000781157">Molecular Classification of Ependymal Tumors across All CNS Compartments, Histopathological Grades, and Age Groups.</CitationLink><Comment audience="Internal" date="2016-08-08" user="yousufzaimg">Figure approved by PDQ Pediatric Treatment  Editorial Board and permissions received - 08/08/16</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043448">childhood ependymoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph showing key molecular and clinical characteristics of ependymal tumor subgroups.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Graphical summary of key molecular and clinical characteristics of ependymal tumor subgroups. Schematic representation of key genetic and epigenetic findings in the nine molecular subgroups of ependymal tumors as identified by methylation profiling. CIN, Chromosomal instability. Reprinted from Cancer Cell, Volume 27, Kristian W. Pajtler, Hendrik Witt, Martin Sill, David T.W. Jones, Volker Hovestadt, Fabian Kratochwil, Khalida Wani, Ruth Tatevossian, Chandanamali Punchihewa, Pascal Johann, Juri Reimand, Hans-Jorg Warnatz, Marina Ryzhova, Steve Mack, Vijay Ramaswamy, David Capper, Leonille Schweizer, Laura Sieber, Andrea Wittmann, Zhiqin Huang, Peter van Sluis, Richard Volckmann, Jan Koster, Rogier Versteeg, Daniel Fults, Helen Toledano, Smadar Avigad, Lindsey M. Hoffman, Andrew M. Donson, Nicholas Foreman, Ekkehard Hewer, Karel Zitterbart, Mark Gilbert, Terri S. Armstrong, Nalin Gupta, Jeffrey C. Allen, Matthias A. Karajannis, David Zagzag, Martin Hasselblatt, Andreas E. Kulozik, Olaf Witt, V. Peter Collins, Katja von Hoff, Stefan Rutkowski, Torsten Pietsch, Gary Bader, Marie-Laure Yaspo, Andreas von Deimling, Peter Lichter, Michael D. Taylor, Richard Gilbertson, David W. Ellison, Kenneth Aldape, Andrey Korshunov, Marcel Kool, and Stefan M. Pfister, Molecular Classification of Ependymal Tumors across All CNS Compartments, Histopathological Grades, and Age Groups, Pages 728–743, Copyright (2015), with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062843">Childhood Ependymoma Treatment</Summary><Summary cdr:ref="CDR0000774921">Childhood Cancer Genomics</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-05</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-22</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-07-13</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000782664">Pajtler_Figure_CopyrightPermissions_2016-08-05</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Unusual Cancers – Cancer incidence rates for young patients in the SEER program</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Age-Adjusted and Age-Specific Cancer Incidence Rates for Patients 0-19 Years of Age (SEER 2005-2009)</LabelName><LabelName language="en">0-14 Years</LabelName><LabelName language="en">31.1% Leukemia</LabelName><LabelName language="en">10.0% Lymphomas</LabelName><LabelName language="en">25.4% CNS</LabelName><LabelName language="en">6.1% Neuroblastoma</LabelName><LabelName language="en">2.5% Retinoblastoma</LabelName><LabelName language="en">4.7% Renal</LabelName><LabelName language="en">1.5% Hepatic</LabelName><LabelName language="en">4.4% Bone tumors</LabelName><LabelName language="en">6.6% Soft tissue</LabelName><LabelName language="en">3.4% Germ cell</LabelName><LabelName language="en">4.0% Carcinomas &amp; Melanoma</LabelName><LabelName language="en">0.3% Other</LabelName><LabelName language="en">15-19 Years</LabelName><LabelName language="en">13.8% Leukemia</LabelName><LabelName language="en">20.7% Lymphomas</LabelName><LabelName language="en">18.7% CNS</LabelName><LabelName language="en">0.4% Neuroblastoma</LabelName><LabelName language="en">0.7% Renal</LabelName><LabelName language="en">0.6% Hepatic</LabelName><LabelName language="en">6.2% Bone tumors</LabelName><LabelName language="en">6.8% Soft tissue</LabelName><LabelName language="en">12.3% Germ cell</LabelName><LabelName language="en">19.6% Carcinomas &amp; Melanoma</LabelName><LabelName language="en">0.3% Other</LabelName><ImageDimensions>
+    <HeightPixels>2205</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>SEER</Creator>
+   <DateCreated>2012-05-24</DateCreated>
+   <SourceFilename>UnusualCancersPieChartAges0-19.2jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-05-23" user="anjamison">Divided chart into two pies.</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-15" user="akuhlmann">No copyright permission needed; image taken from SEER data/website, cited</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Age-adjusted and age-specific cancer incidence rates for patients 0-19 years of age (SEER 2005-2009); chart shows leukemia, lymphoma, central nervous system (CNS) tumors, neuroblastoma, retinoblastoma, renal tumors, hepatic tumors, bone tumors, soft tissue tumors, germ cell tumors, carcinomas and melanomas, and other cancer incidence by percent.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cancer incidence rates for patients aged 0 to 14 years and 15 to 19 years in the Surveillance Epidemiology and End Results (SEER) program from 2005 to 2009. Incidence rates are age-adjusted and age-specific and are shown for leukemia, lymphoma, central nervous system (CNS) tumors, neuroblastoma, retinoblastoma, renal tumors, hepatic tumors, bone tumors, soft tissue tumors, germ cell tumors, carcinomas and melanomas, and other cancers. Retinoblastoma occurs infrequently in adolescents aged 15 to 19 years.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062872">Unusual Cancers of Childhood Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-23</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2012-05-16" user="anjamison">Updated caption/description while image revision is underway.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        <Comment>Added PedCancerRatesPieChart3DNoLegend.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-05-25</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  <Comment audience="Internal" date="2012-05-25" user="anjamison">Updated to UnusualCancersPieChartAges0-19.2.jpg</Comment><Comment audience="Internal" date="2012-05-23" user="anjamison">Updated to UnusualCancersPieChartAges0-19.jpg</Comment><Comment audience="Internal" date="2012-04-27" user="anjamison">Added Unusual Cancers - Incidence rates SEER0001.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

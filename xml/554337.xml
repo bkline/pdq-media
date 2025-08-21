@@ -1,0 +1,98 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, bone marrow aspiration and </MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Bone Marrow Aspiration and Biopsy</LabelName><LabelName language="en">Bone marrow needle</LabelName><LabelName language="en">Bone marrow</LabelName><LabelName language="en">Skin</LabelName><LabelName language="en">Hip bone</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-06-20</DateCreated>
+   
+   
+   <SourceFilename>Biopsy BoneMarrow FP V 2018.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" date="2024-06-20" audience="Internal">Diversity update: changed patient to a Black male with a skin tone of FP V (brown skin); kept provider as is</Comment><Comment audience="Internal" date="2015-09-22" user="kuhlmanna">Changed label from "Jamshidi needle" to "Bone marrow needle"</Comment><Comment audience="Internal" date="2012-11-09" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2007-10-30" user="rharrison">Removed filename and updated copyright information.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>Black or African American</Race><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2024-06-24</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+  <ContentDescription audience="Patients" language="en">Bone marrow aspiration and biopsy; drawing shows a patient lying face down on a table and a bone marrow needle being inserted into the hip bone. An inset shows a close up of the needle being inserted through the skin and hip bone into the bone marrow.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Bone marrow aspiration and biopsy. After a small area of skin is numbed, a long, hollow needle is inserted through the patient's skin and hip bone into the bone marrow. A sample of bone marrow and a small piece of bone are removed for examination under a microscope.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000257989">Adult Acute Lymphoblastic Leukemia Treatment</Summary>
+  
+  <Summary cdr:ref="CDR0000257990">Acute Myeloid Leukemia Treatment</Summary><Summary cdr:ref="CDR0000257991">Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000062958">Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258000">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary><Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000258005">Chronic Lymphocytic Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258006">Chronic Myelogenous Leukemia Treatment</Summary><Summary cdr:ref="CDR0000368374">Chronic Myeloproliferative Neoplasms Treatment</Summary><Summary cdr:ref="CDR0000258013">Hairy Cell Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258195">Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment</Summary><Summary cdr:ref="CDR0000378089">Myelodysplastic Syndromes Treatment</Summary><Summary cdr:ref="CDR0000378291">Myelodysplastic/ Myeloproliferative Neoplasms Treatment</Summary><Summary cdr:ref="CDR0000258030">Primary CNS Lymphoma Treatment</Summary><Glossary cdr:ref="CDR0000046506">bone marrow biopsy</Glossary>
+ <Glossary cdr:ref="CDR0000046505">bone marrow aspiration</Glossary><Glossary cdr:ref="CDR0000597156">Jamshidi needle</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Updated image to Biopsy BoneMarrow FP V 2018.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Added revised image: BoneMarrowAspirationBiopsy7.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-01-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-12-13</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent to Jim Nachman.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-12-07</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2008-02-18" user="rharrison">2008-02-15 caption/description approved with additional changes.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-11-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-10-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2007-12-10 updated to BoneMarrowBiopsy4.jpg, ready for expert review; rh. 2007-11-16 updated to BoneBiopsy3.jpg. 2007-10-30 updated to BoneBiopsy2.jpg; rh.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-25</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, basal cell carcinoma, superficial and ulcerated-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   
+  <ImageDimensions>
+    <HeightPixels>1260</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-10-22</DateCreated>
+   <SourceFilename>BasalCellCarcinomaSuperficialandUlcerated.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039109">basal cell carcinoma of the skin</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Las fotografías muestran una lesión de cáncer de piel que aparece de color rojizo oscuro y ligeramente abultada (panel izquierdo) y la parte trasera de la oreja de una persona con lesión cancerosa en la piel que luce como una llaga abierta con un anillo perlado (panel derecho).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Carcinoma de célula basal. Una lesión de cáncer de piel que aparece de color rojizo oscuro y ligeramente abultada (panel izquierdo) y una lesión cancerosa en la piel que luce como una llaga abierta con un anillo perlado (panel derecho).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256809">Cáncer de piel: Tratamiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-07</ProcessingStatusDate>
+        <EnteredBy>2014-11-07</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

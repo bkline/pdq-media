@@ -1,0 +1,64 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, transrectal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Transrectal Ultrasound</LabelName><LabelName language="en">Bladder </LabelName><LabelName language="en">Prostate </LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Anus</LabelName><LabelName language="en">Ultrasound probe</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels><WidthPixels>3168</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-09-21</DateCreated>
+   
+   
+   <SourceFilename>TransrectalUltrasound Provider FP VI.2.jpg</SourceFilename>
+   <Comment user="kuhlmanna" date="2023-09-21" audience="Internal">Removed yellow growth from the prostate</Comment><Comment user="yousufzaimg" date="2023-09-11" audience="Internal">Updated provider skin tone to FP VI</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment>Added new copyright information and added label names. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>Black or African American</Race><SkinTone>Type VI – Dark brown or black skin</SkinTone><DateLastReviewed>2023-09-11</DateLastReviewed></DemographicInformation><DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2023-09-11</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Transrectal ultrasound; drawing shows a side view of the male reproductive and urinary system anatomy, including the bladder and prostate. Also shown is the rectum and anus. There is also an  ultrasound probe inserted into the rectum to check the prostate. An inset shows a  provider inserting the ultrasound probe into the patient's rectum while viewing an image of the ultrasound on a computer screen. The patient is lying on their back on a table.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Transrectal ultrasound; drawing shows a side view of the male reproductive and urinary system anatomy, including the bladder and prostate. Also shown is the rectum and anus. There is also an  ultrasound probe inserted into the rectum to check the prostate. An inset shows a  provider inserting the ultrasound probe into the patient's rectum while viewing an image of the ultrasound on a computer screen. The patient is lying on their back on a table.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Transrectal ultrasound. An ultrasound probe is inserted into the rectum  to check the prostate.  The probe bounces sound waves off body tissues to  make echoes that  form a sonogram (computer picture) of the prostate.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Transrectal ultrasound.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-09-11" audience="Internal">Updated to TransrectalUltrasound Provider FP VI.1.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to TransrectalUltrasound6.jpg</Comment><Comment>Updated to TransrectalUltrasound5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-18</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added HP cap and cont desc.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

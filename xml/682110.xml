@@ -1,0 +1,106 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIB (1)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIB Lung Cancer (1)</LabelName><LabelName language="en">Primary tumor is 5 cm or smaller</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">Cancer in lymph nodes in lung or near bronchus</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Main bronchus</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Diaphragm</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-04-11</DateCreated>
+   
+   
+   <SourceFilename>LungStage2BPart1 MaleFP IV.2.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2022-04-11">Adjusted the eyes/gaze so that they're at a similar angle as the LungStage1A image; removed facial hair over the trachea anatomy</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-29">Diversity updates - rough draft</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Deleted the items relating to “a”, “b”, and “c” on the image per expert reviewer</Comment><Comment audience="Internal" date="2019-02-27" user="kuhlmanna">Added a fork to the line that points to the lymph nodes with cancer so that one fork is pointing to the group of lymph nodes with cancer in the lung</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Edited name credit</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Adjusted overall canvas size</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Changed the wording in the top left inset to say “Primary tumor is 5 cm or smaller”; removed the line from the label Diaphragm that is pointing to the back of the diaphragm; and added a label for Pleura above the Diaphragm label. </Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Removed the “c.” in front of the label “Part of all of the lung collapsed” and added “or has pneumonitis”</Comment><Comment audience="Internal" date="2018-10-02" user="yousufzaimg">Changed title to Stage IIB Lung Cancer (1); took off the clear-looking covering on the diaphragm; removed the letter “a” from the top inset; changed the letter ”b” in the main figure to “a” and moved it up above where the bronchus goes into the lung; removed the letter “b” from the main figure; changed the letter “d” to “b”; changed the letter “e” to “c”; moved the label “Right main bronchus” to the other side of the figure and changed it to “Main bronchus” with lines that point to both the right and the left bronchus; moved the label “Cancer in lymph nodes in lung or near bronchus” up under the top inset; labeled the Lung on the right side of the figure; and removed the label for Bronchioles. </Comment><Comment audience="Internal" date="2018-10-02" user="kuhlmanna">Separated Stage IIB Lung  Cancer into two images, part 1 and part 2</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2010-09-17" user="anjamison">Same file, new filename.</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682742">stage IIB non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIB lung cancer (1); drawing shows a primary tumor (5 cm or smaller) in the right lung and cancer in lymph nodes in the same lung as the primary tumor. Also shown are the trachea, main bronchus, pleura, and diaphragm.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIB lung cancer (1); drawing shows a primary tumor (5 cm or smaller) in the right lung and cancer in lymph nodes in the same lung as the primary tumor. Also shown are the trachea, main bronchus, pleura, and diaphragm.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIB lung cancer (1). The primary tumor is 5 centimeters or smaller and cancer has spread to the lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are in the lung or near the bronchus.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIB lung cancer (1). The primary tumor is 5 centimeters or smaller and cancer has spread to the lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are in the lung or near the bronchus.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000682419">stage IIB non-small cell lung cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2022-04-11">Updated image to LungStage2BPart1 MaleFP IV.2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-29">Updated image to LungStage2BPart1 MaleFP IV.1.jpg</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Updated image to LungStage2BPart1.9.jpg</Comment><Comment audience="Internal" date="2019-02-27" user="kuhlmanna">Updated image to LungStage2BPart1.8.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage2BPart1.5.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage2BPart1.4.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated image to LungStage2BPart1.3.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to LungStage2BPart1.2.jpg</Comment><Comment audience="Internal" date="2018-10-02" user="yousufzaimg">Updated image to LungStage2BPart1.1.jpg</Comment><Comment>Updated to LungStage2B.Rev6.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>New media doc for NSCLC stage IIB.</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000682112">Sample illustration: NSCLC stage IIB</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments></Media>

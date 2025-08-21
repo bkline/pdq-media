@@ -1,0 +1,64 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>metastatic breast cancer</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Metastatic Breast Cancer</LabelName><LabelName language="en">Cancer spreads to other parts of the body</LabelName><LabelName language="en">Brain metastasis</LabelName><LabelName language="en">Lung metastasis</LabelName><LabelName language="en">Liver metastasis</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Bone metastasis</LabelName><LabelName language="en">Metastatic tumor</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels><WidthPixels>3045</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-04-01</DateCreated>
+   <SourceFilename>MetastaticBreastCancerFemale FP II.2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2024-04-01" audience="Internal">Enhanced facial features</Comment><Comment>Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type II – Fair skin</SkinTone>
+  
+ <DateLastReviewed>2023-03-18</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Metastatic breast cancer; drawing shows other parts of the body where primary breast cancer may spread, including the brain, lung, liver, and bone. An inset shows cancer cells spreading from the breast, through the blood and lymph system, to another part of the body where a metastatic tumor has formed. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">In metastatic breast cancer, cancer cells break away from where they first formed in the breast (primary breast cancer), travel through the blood and lymph system, and form a new tumor (metastatic tumor) in another part of the body, such as brain, lung, liver, and bone. The cancer cells in the new, metastatic tumor are the same type of cells as those found in the primary breast cancer. Metastatic breast cancer is also called stage IV (or stage 4) breast cancer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment user="kuhlmanna" date="2024-04-01" audience="Internal">Updated to MetastaticBreastCancerFemale FP II.2.jpg</Comment><Comment>Added MetastasisBreastCancerFemale1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

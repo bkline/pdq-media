@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Ch STS - Distribution of soft tissue sarcomas in children from SEER-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Distribución de los sarcomas de tejido blando no rabdomiosarcomatosos
+en niños de 0-19 años (SEER 1975-2008)
+</LabelName><LabelName language="es">Número de casos</LabelName><LabelName language="es">3000</LabelName><LabelName language="es">2500</LabelName><LabelName language="es">2000</LabelName><LabelName language="es">1500</LabelName><LabelName language="es">1000</LabelName><LabelName language="es">500</LabelName><LabelName language="es">0</LabelName><LabelName language="es">&lt;5 años</LabelName><LabelName language="es">5 - 9 años</LabelName><LabelName language="es">10 -14 años</LabelName><LabelName language="es">15 – 19 años</LabelName><LabelName language="es">&lt;20 años</LabelName><LabelName language="es">Sarcomas de tejido blando sin otra especificación </LabelName><LabelName language="es">Sarcomas de tejido blando con otra especificación</LabelName><LabelName language="es">Fibrosarcomas,  nervio periférico y otros</LabelName>
+  <ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000741846">Ch STS - Distribution of soft tissue sarcomas in children from SEER</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Ch STS - Distribution of soft tissue sarcomas in children from SEER;measurement2.jpg</SourceFilename><Comment audience="Internal" date="2012-11-19" user="lsaucedo">Linked new image</Comment>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El gráfico de barras que muestra el número de casos de los sarcomas de tejido blando no rabdomiosarcomatosos en niños menores de 5 años, de 5 a 9 años, de 10 a 14 años, de 15 a 19 años y menores de 20 años. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Distribución de sarcomas de tejido blando no rabdomiosarcomatosos en niños de 0 a 19 años según lo notificado por el programa  Surveillance Epidemiology and End Results entre1975 a 2008.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

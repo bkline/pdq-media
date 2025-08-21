@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>CAR T-cell therapy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">CAR T-cell Therapy</LabelName><LabelName language="en">Remove blood from patient to get T cells</LabelName><LabelName language="en">T cell</LabelName><LabelName language="en">Make CAR T cells in the lab</LabelName><LabelName language="en">Insert gene for CAR</LabelName><LabelName language="en">T cell</LabelName><LabelName language="en">Chimeric antigen receptor (CAR)</LabelName><LabelName language="en">CAR T cell</LabelName><LabelName language="en">Grow millions of CAR T cells</LabelName><LabelName language="en">Infuse CAR T cells into patient</LabelName><LabelName language="en">CAR T cells bind to cancer cells and kill them</LabelName><LabelName language="en">Cancer cell </LabelName><LabelName language="en">Antigens</LabelName><LabelName language="en">CAR T cell</LabelName><LabelName language="en">Cancer cell</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2017-10-23</DateCreated><SourceFilename>CAR TcellTherapy7.jpg</SourceFilename><Comment audience="Internal" date="2017-10-23" user="kuhlmanna">Added "Antigens" label and further darkened figure</Comment><Comment audience="Internal" date="2017-10-23" user="kuhlmanna">Changed title to "CAR T-cell therapy"; removed hyphens between T and cell in all labels other than title; darkened figure in "Infuse CAR T cells into patient" panel;  and in last panel, changed label to "CAR T cells bind to cancer cells and kill them" and added orange/blue DNA molecule into the center of each CAR T cell.</Comment><Comment audience="Internal" date="2017-10-16" user="kuhlmanna">Added hyphens to "T-cell(s)" labels throughout image and added more grey to large arrows between the panels so they stand out more. In the “Make CAR T cells in the lab” panel, added DNA strand (with the orange) to the CAR T-cell so it matches the regular T-cell and moved the T-cells up so that there is more space between the end of the big arrow and the box that says “Grow millions of CAR T cells”. In the “Infuse CAR T cells into patient” panel, made the body less mature female so it could pass as an adolescent, removed the cancer spot (and label) from the body, made the liquid in the IV bag and the tubing clear but with blue T cells in it, and in the drip chamber of the IV, made the liquid in the bottom 2/3 match the liquid in the IV bag and tubing and made top third of the drip chamber clear;</Comment><Comment audience="Internal" date="2017-09-20" user="kuhlmanna">Image simplified</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">CAR T-cell therapy; drawing of blood being removed from a vein in a patient’s arm to get T cells. Also shown is a special receptor called a chimeric antigen receptor (CAR) being made in the laboratory; the gene for CAR is inserted into the T cells and then millions of CAR T cells are grown. Drawing also shows the CAR T cells being given to the patient by infusion and binding to antigens on the cancer cells and killing them.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">CAR T-cell therapy. A type of treatment in which a patient’s T cells (a type of immune cell) are changed in the laboratory so they will bind to cancer cells and kill them. Blood from a vein in the patient’s arm flows through a tube to an apheresis machine (not shown), which removes the white blood cells, including the T cells, and sends the rest of the blood back to the patient. Then, the gene for a special receptor called a chimeric antigen receptor (CAR) is inserted into the T cells in the laboratory. Millions of the CAR T cells are grown in the laboratory and then given to the patient by infusion. The CAR T cells are able to bind to an antigen on the cancer cells and kill them.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000771302">CAR T-cell therapy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Reviewed by Malcom Smith and Nita Seibel</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2017-10-23" user="kuhlmanna">Updated image to CAR TcellTherapy7.jpg</Comment><Comment audience="Internal" date="2017-10-23" user="kuhlmanna">Updated image to CAR TcellTherapy6.jpg</Comment><Comment audience="Internal" date="2017-10-16" user="kuhlmanna">Updated image to CAR TcellTherapy5.jpg</Comment><Comment audience="Internal" date="2017-09-20" user="kuhlmanna">Updated image to CAR TcellTherapy4.jpg</Comment><Comment>Updated image to CAR TcellTherapy3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-21</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Added CAR TcellTherapyROUGH1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-05-30</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000774644">Sample Illustration: immunotherapy</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000789218">Sample Illustration: Car T-Cell Therapy</SupplementaryInfoLink></RelatedDocuments></Media>

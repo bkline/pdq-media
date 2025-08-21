@@ -1,0 +1,74 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreatic cancer stage 4</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV Pancreatic Cancer</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Pancreatic cancer has spread to other parts of the body:</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Peritoneal cavity</LabelName><LabelName language="en">Pancreas</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>2550</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-11-20</DateCreated>
+   
+   
+   <SourceFilename>PancreaticStage4 Male FP II.2.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Added additional aging to the figure</Comment><Comment user="yousufzaimg" date="2023-11-06" audience="Internal">Changed the figure to an older male, updated the skin tone to FP II, and removed the brain and added a person’s face </Comment><Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Updated metastasis inset</Comment><Comment>Added new image</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2023-11-27</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042547">stage IV pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV pancreatic cancer; drawing shows other parts of the body where pancreatic cancer may spread, including the lung, liver, and peritoneal cavity. An inset shows cancer cells spreading from the pancreas, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IV pancreatic cancer; drawing shows other parts of the body where pancreatic cancer may spread, including the lung, liver, and peritoneal cavity. An inset shows cancer cells spreading from the pancreas, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV pancreatic cancer. The tumor is any size and cancer has spread to other parts of the body, such as the lung, liver, or peritoneal cavity (the body cavity that contains most of the organs in the abdomen). </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IV pancreatic cancer. The tumor is any size and cancer has spread to other parts of the body, such as the lung, liver, or peritoneal cavity (the body cavity that contains most of the organs in the abdomen). </MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062957">Pancreatic Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045511">stage IV pancreatic cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Updated to PancreaticStage4 Male FP II.2.jpg</Comment><Comment user="yousufzaimg" date="2023-11-06" audience="Internal">Updated to PancreaticStage4 Male FP II.1.jpg</Comment><Comment audience="Internal" date="2016-05-03" user="yousufzaimg">Updated to PancreaticCaStage4.3.jpg</Comment><Comment audience="Internal" date="2013-01-07" user="anjamison">Updated to PancreaticCaStage4.2.jpg</Comment><Comment>Added PancreaticCaStage4.1.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-22</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Uploaded new illustration: PancreasCaStage4.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000742420">Sample Illustration: pancreatic cancer stage 4</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

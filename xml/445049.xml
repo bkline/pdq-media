@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system, upper, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>3075</HeightPixels>
+    <WidthPixels>2253</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000428446">gastrointestinal system, upper, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>2008-04-10; NormalUpperGI6Spanish3.jpg Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039821">gastric cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato gastrointestinal (digestivo); muestra el esófago, hígado, estómago, intestino grueso e intestino delgado.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El estómago y el esófago forman la parte superior del aparato digestivo. </MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+</Media>

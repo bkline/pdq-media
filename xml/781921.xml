@@ -1,0 +1,92 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, papillary and follicular, stage II (younger than 55 years)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage II Papillary and Follicular Thyroid Cancer (younger than 55 years) </LabelName><LabelName language="en">Thyroid cancer has spread to other parts of the body:</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Bone</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-04-20</DateCreated>
+   <SourceFilename>PapillaryFollicularThyroidCaStage2Younger55.3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-04-24" user="yousufzaimg">Deleted label for lymph nodes</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Changed label from thyroid to thyroid gland</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Image revisions made per AJCC updates (8th edition)</Comment><Comment audience="Internal" date="2017-04-17" user="kuhlmanna">Changed age on label back to "younger than 45 years"; added "nearby lymph nodes" to another label</Comment><Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Changed age on label to "younger than 55 years", per comments from expert reviewer</Comment><Comment audience="Internal" date="2016-08-22" user="yousufzaimg">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038803">stage II papillary thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000038806">stage II follicular thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II papillary and follicular thyroid cancer in patients younger than 55 years; drawing shows other parts of the body where thyroid cancer may spread, including the lung and bone. An inset shows cancer cells spreading from the thyroid gland, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage II papillary and follicular thyroid cancer in patients younger than 55 years; drawing shows other parts of the body where thyroid cancer may spread, including the lung and bone. An inset shows cancer cells spreading from the thyroid gland, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II papillary and follicular thyroid cancer in patients younger than 55 years. The tumor is any size and cancer may have spread to nearby tissues and lymph nodes. Cancer has spread from the thyroid to other parts of the body, such as the lungs or bones.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage II papillary and follicular thyroid cancer in patients younger than 55 years. The tumor is any size and cancer may have spread to nearby tissues and lymph nodes. Cancer has spread from the thyroid to other parts of the body, such as the lungs or bones.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-04-24" user="yousufzaimg">Updated image to PapillaryFollicularThyroidCaStage2Younger55.3.jpg</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Updated image to PapillaryFollicularThyroidCaStage2Younger55.2.jpg</Comment><Comment audience="Internal" date="2017-04-17" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage2Younger45.2.jpg</Comment><Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage2Younger55.jpg</Comment><Comment audience="Internal" date="2016-08-23" user="yousufzaimg">Added PapillaryFollicularThyroidCaStage2Younger45.1.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-08-22</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792860">Illustration Review Sheet: stage II papillary and follicular thyroid cancer (younger than 55 years)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

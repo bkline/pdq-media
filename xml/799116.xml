@@ -1,0 +1,94 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>von Hippel-Lindau disease-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Áreas del cuerpo afectadas por la enfermedad de Von Hippel-Lindau</LabelName><LabelName language="es">Sistema nervioso central (tronco encefálico, cerebelo, médula espinal)</LabelName><LabelName language="es">Retina</LabelName><LabelName language="es">Saco endolinfático del oído</LabelName><LabelName language="es">Glándulas suprarrenales</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Riñones</LabelName><LabelName language="es">Ligamento ancho (mujeres)</LabelName><LabelName language="es">Epidídimo (varones)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000793775">von Hippel-Lindau disease</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>VonHippel-LindauSyndromeSpanish2.jpg</SourceFilename><Comment audience="Internal" date="2020-08-07" user="yousufzaimg">Softened the body outline of the female to match the male</Comment></DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category><Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042846">von Hippel-Lindau syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observan las siluetas del cuerpo de un hombre y de una mujer en las que se muestran las áreas del cuerpo afectadas por la enfermedad de Von Hippel-Lindau. Estas áreas son el sistema nervioso central (incluso  el tronco encefálico, el cerebelo y la médula espinal), la retina, el saco endolinfático del oído, las glándulas suprarrenales,  el páncreas, los riñones, el epidídimo (en varones) y el ligamento ancho (en mujeres).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Áreas del cuerpo afectadas por la enfermedad de Von Hippel-Lindau (VHL). La enfermedad de VHL es un trastorno hereditario que produce tumores y quistes en ciertas áreas del cuerpo, como el sistema nervioso central (incluso  el tronco encefálico, el cerebelo y la médula espinal), la retina, el saco endolinfático del oído, las glándulas suprarrenales,  el páncreas, los riñones, el epidídimo (en varones) y el ligamento ancho (en mujeres). La enfermedad de VHL también aumenta el riesgo de ciertos tipos de cáncer, en especial, el cáncer de riñón y el cáncer de páncreas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000794341">von Hippel-Lindau disease</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised label</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-13</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of caption and description</Comment>
+       <Comment audience="Internal" date="2019-09-13" user="adlerm2">Suggest using "varones" (vs. hombres) for "male." </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised new image//Caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-03</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels</Comment>
+       <Comment audience="Internal" date="2019-09-03" user="adlerm2">Added note on capitalization for future reference. Please do not change spelling to lowercase "von" in Spanish. It is correctly spelled with initial capitalization, unless it is preceded with the first name (i.e., Eugen von Hippel); see related GTN for translation resource.</Comment></ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media document, translation of labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000793775">von Hippel-Lindau disease</TranslationOf></Media>

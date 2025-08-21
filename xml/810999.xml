@@ -1,0 +1,37 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External"> 
+  
+ <MediaTitle>risk-reducing oophorectomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <SoundData>
+   <SoundType>Speech</SoundType>
+   <SoundEncoding>MP3</SoundEncoding>
+   <RunSeconds>3</RunSeconds>
+  </SoundData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Vanessa Richardson, VR Voice</Creator>
+   <DateCreated>2024-01-11</DateCreated>
+   <SourceFilename>Week_2023_49_Rev1/808594_es_rr.mp3</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>pronunciation</Category>
+  </Categories>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "ooforectomía preventiva"</ContentDescription>
+  </ContentDescriptions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000808594">risk-reducing oophorectomy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2024-01-31</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2024-01-31</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2023-04-24</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2023-04-24</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment user="saucedol" audience="Internal" date="2022-11-16">Created new media doc and linked audio</Comment></ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810323">risk-reducing oophorectomy</TranslationOf></Media>

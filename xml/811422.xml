@@ -1,0 +1,102 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>hepatic sections-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Secciones del hígado</LabelName><LabelName language="es">Sección posterior derecha (VI y VII)</LabelName><LabelName language="es">VII</LabelName><LabelName language="es">VI</LabelName><LabelName language="es">Sección anterior derecha (V y VIII)</LabelName><LabelName language="es">VIII</LabelName><LabelName language="es">V</LabelName><LabelName language="es">Vena hepática derecha</LabelName><LabelName language="es">Vena hepática media</LabelName><LabelName language="es">Vena hepática izquierda</LabelName><LabelName language="es">I</LabelName><LabelName language="es">Sección medial izquierda (IV)</LabelName><LabelName language="es">IV</LabelName><LabelName language="es">Sección lateral izquierda (II y III)</LabelName><LabelName language="es">II</LabelName><LabelName language="es">III</LabelName><LabelName language="es">Vena porta</LabelName><LabelName language="es">Vena cava</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000810953">hepatic sections</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>HepaticSectionsSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043714">childhood liver cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el dibujo se observan los 8 segmentos que conforman las 4 secciones del hígado. Los segmentos VI y  VII forman la sección posterior derecha, los segmentos V y VIII forman la sección anterior derecha, el segmento IV forma la sección medial izquierda, y los segmentos II y III forman la sección lateral izquierda. Las secciones están delimitadas por la vena hepática derecha, la vena hepática media y la vena hepática izquierda que se señalan en el dibujo. También se observan la vena cava y la vena porta.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">El hígado está dividido en 4 secciones: la sección posterior derecha, la sección anterior derecha, la sección medial izquierda y la sección lateral izquierda.  Además, cada sección del hígado se divide en segmentos. Los segmentos VI y  VII forman la sección posterior derecha, los segmentos V y VIII forman la sección anterior derecha, el segmento IV forma la sección medial izquierda, y los segmentos II y III forman la sección lateral izquierda. El segmento I tiene una ubicación más profunda en el lado izquierdo del hígado, delante de la vena cava inferior y por detrás de las venas hepáticas derecha, media e izquierda.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256692">Tratamiento del cáncer de hígado infantil</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised cont. descr.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-30</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content description translated.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>"sección medial izquierda" instead of "sección media izquierda" is the name used in anatomical publications in Spanish. In DTM "medial [ingl. medial]
+
+1  adj. Situado cerca de la línea media o del plano sagital medio. Generalmente por contraposición a → lateral". En este caso esta sección es medial y la otra es lateral.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-23</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation of labels complete</Comment>
+       <Comment user="dossantosm2" audience="Internal" date="2023-01-23">Isabel, tengo dudas con la etiqueta del  título. En el sumario usamos 2 veces lo de "secciones del hígado", y una vez lo de "sección hepática", siempre de acuerdo a lo que usaban en inglés.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000810953">hepatic sections</TranslationOf></Media>

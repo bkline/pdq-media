@@ -1,0 +1,105 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage I Nonmelanoma Skin Cancer of the Head and Neck</LabelName><LabelName language="en">Tumor is 2 cm or smaller</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-10-23</DateCreated>
+   
+   
+   <SourceFilename>NonmelanomaStage1 FP IV.1.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" date="2023-10-23" audience="Internal">Diversity updates: updated skin tone to FP IV and aged the skin a bit</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Added “of the Head and Neck” to the image title</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Changed text in the inset box to "Tumor is 2 cm or smaller"</Comment><Comment audience="Internal" date="2018-08-06" user="yousufzaimg">Made the lines from the shaded box go into the top part of the yellow tumor</Comment><Comment audience="Internal" date="2018-07-25" user="yousufzaimg">Added Skin Cancer to the title</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Changed label in inset to "Tumor is smaller than 2 cm” and moved inset over to the right</Comment><Comment audience="Internal" date="2018-03-06" user="yousufzaimg">Image revisions made per AJCC 8th edition updates</Comment><Comment audience="Internal" date="2012-08-21" user="anjamison">Changed title from Stage I nonmelanoma skin cancer to: Stage I Nonmelanoma Skin Cancer</Comment><Comment>Added copyright information.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2023-10-23</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage I nonmelanoma skin cancer of the head and neck; drawing shows cancer in the epidermis (the outer layer of the skin). An inset shows that the tumor is 2 centimeters or smaller and that 2 centimeters is about the size of a peanut. Also shown are the dermis (the inner layer of the skin) and the subcutaneous tissue below the dermis.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage I nonmelanoma skin cancer of the head and neck; drawing shows cancer in the epidermis (the outer layer of the skin). An inset shows that the tumor is 2 centimeters or smaller and that 2 centimeters is about the size of a peanut. Also shown are the dermis (the inner layer of the skin) and the subcutaneous tissue below the dermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I nonmelanoma skin cancer of the head and neck. The tumor is 2 centimeters or smaller.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage I nonmelanoma skin cancer of the head and neck. The tumor is 2 centimeters or smaller.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Glossary cdr:ref="CDR0000368446">stage I nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-23</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2023-10-23" audience="Internal">Updated image to NonmelanomaStage1 FP IV.1.jpg</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Updated image to NonMelanomaStage1rev6.jpg</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Updated image to NonMelanomaStage1rev5.jpg</Comment><Comment audience="Internal" date="2018-08-06" user="yousufzaimg">Updated image to NonMelanomaStage1rev4.jpg</Comment><Comment audience="Internal" date="2018-07-25" user="yousufzaimg">Updated image to NonMelanomaStage1rev3.jpg</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Updated image to NonMelanomaStage1rev2.jpg</Comment><Comment audience="Internal" date="2018-03-06" user="yousufzaimg">Added NonMelanomaStage1rev1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changes to image recommended per J. Jeter, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommend changing label from "fatty tissue" to "subcutaneous layer".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; revised cap and cont desc. </Comment><Comment>2008-07-30 caption and content desc approved w/ edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-06-13</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2008-06-16; Added NonMelanomaStage1.2.3.1.jpg.</Comment>
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000800444">Illustration  Review Sheet: stage I nonmelanoma skin cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

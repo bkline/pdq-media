@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>tumor size - millimeter</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">1 mm</LabelName><LabelName language="en">2 mm</LabelName><LabelName language="en">5 mm</LabelName><LabelName language="en">Millimeters (mm)</LabelName><LabelName language="en">Centimeters (cm)</LabelName><LabelName language="en">10 mm</LabelName><ImageDimensions>
+    <HeightPixels>1664</HeightPixels>
+    <WidthPixels>2296</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-05-16</DateCreated>
+   
+   
+   <SourceFilename>Millimeters5.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2008-04-14" user="rharrison">File name taken off, tops of pencil, etc. faded. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Millimeters; drawing shows millimeters (mm) using everyday objects. A sharp pencil point shows 1 mm, a new crayon point shows 2 mm, and a new pencil-top eraser shows 5 mm. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Millimeters (mm). A sharp pencil point is about 1 mm, a new crayon point is about 2 mm, and a new pencil eraser is about 5 mm.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary><Glossary cdr:ref="CDR0000044215">millimeter</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-03-07</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-05-20" user="rharrison">2008-05-20 updated to Millimeters5.jpg; rh.</Comment>
+        <Comment audience="Internal" date="2008-05-09" user="rharrison">2008-05-09 updated to Millimeters.4.jpg; rh.</Comment><Comment audience="Internal" date="2008-04-14" user="rharrison">2008-04-14 updated to Millimeters.3.jpg; rh.</Comment><Comment>2008-03-11 updated to Millimeters.2.jpg; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000578122">Sample Illustration: Millimeter</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

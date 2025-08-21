@@ -1,0 +1,63 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>Lobular Breast Cancer: How Breast Cancer Cells are Different Graphic</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Invasive Lobular Carcinoma (ILC) Tumor Cells VS. Invasive Ductal Carcinoma (IDC) Tumor Cells</LabelName><LabelName language="en">&gt;95% lack the protein E-Cadherin that enables clumping</LabelName><LabelName language="en">Cells grow in single file formation</LabelName><LabelName language="en">The protein E-Cadherin acts like "cellular glue"</LabelName><LabelName language="en">Tumors clump together in masses or "lumps"</LabelName><LabelName language="en">Cancer Cell</LabelName><LabelName language="en">Healthy Cell</LabelName><LabelName language="en">Healthy VS. Cancer Cells</LabelName><LabelName language="en">Round or elliptic cell shape</LabelName><LabelName language="en">Single nucleus, spheroid shape</LabelName><LabelName language="en">Single nucleolus</LabelName><LabelName language="en">Greater cytoplasmic volume</LabelName><LabelName language="en">Controlled growth</LabelName><LabelName language="en">Does not spread to other sites</LabelName><LabelName language="en">Irregular cell shape or size</LabelName><LabelName language="en">Darker nucleus</LabelName><LabelName language="en">Multiple nucleoli</LabelName><LabelName language="en">Less cytoplasmic volume</LabelName><LabelName language="en">Uncontrolled growth</LabelName><LabelName language="en">Can spread to different locations in the body (metastasis)</LabelName><LabelName language="en">Nucleus: the control center of the cell containing DNA and RNA</LabelName><LabelName language="en">Nucleolus: composed of RNA and proteins, which form around specific chromosomal regions</LabelName><LabelName language="en">Cytoplasm: gelatinous liquid that fills the inside of a cell</LabelName><ImageDimensions>
+    <HeightPixels>668</HeightPixels><WidthPixels>921</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>The Lobular Breast Cancer Alliance Inc.</Creator>
+   <DateCreated>2024-10-04</DateCreated>
+   <SourceFilename>How Lobular Breast Cancer Cells Are Different - The Lobular Breast Cancer Alliance.jpg</SourceFilename><Comment user="yousufzaimg" date="2024-10-04" audience="Internal">Reprinted with permission from the Lobular Breast Cancer Alliance</Comment>
+  </OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039847">lobular breast carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graphic showing the differences between invasive lobular carcinoma tumor cells and invasive ductal carcinoma cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The differences between invasive lobular carcinoma (ILC) tumor cells and invasive ductal carcinoma (IDC) tumor cells. Reprinted with permission from the Lobular Breast Cancer Alliance (<ExternalRef cdr:xref="https://lobularbreastcancer.org/">https://lobularbreastcancer.org/</ExternalRef>).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062770">Breast Cancer Treatment During Pregnancy</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-10-04</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

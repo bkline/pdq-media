@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><LabelName language="en">Hair follicle</LabelName><LabelName language="en">Sweat gland</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Nerve</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Oil gland</LabelName><LabelName language="en">Hair shaft</LabelName><ImageDimensions>
+    <HeightPixels>2523</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-09-24</DateCreated>
+   
+   <SourceFilename>SkinAnatomy7.jpg</SourceFilename>
+   
+  <Comment>Spaces between brackets made uniform. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Skin anatomy; drawing shows layers of the epidermis, dermis, and subcutaneous tissue including hair shafts and follicles, oil glands, lymph vessels, nerves, fatty tissue, veins, arteries, and a sweat gland.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the skin, showing the epidermis, dermis, and subcutaneous tissue.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258037">Skin Cancer Screening</Summary>
+  <Summary cdr:ref="CDR0000062802">Skin Cancer Prevention</Summary><Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Glossary cdr:ref="CDR0000445084">skin cancer   </Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommends adding "subcutaneous layer" label, and making border between epidermis and dermis more prominent. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-25" user="rharrison">2008-09-25 rev caption to include subcutaneous tissue. </Comment><Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; rev cont desc. to include subcutaneous tissue.</Comment><Comment>2008-07-30 caption and content desc approved w/ edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-06-23</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2008-09-29" user="dbuchhagen">2008-09-29; Updated to SkinAnatomy7.jpg; dlb. </Comment><Comment audience="Internal" date="2008-09-22" user="dbuchhagen">2008-09-22; Updated to SkinAnatomy5.jpg; dlb. </Comment><Comment>2008-07-15; Updated to SkinAnatomy4.jpg; dlb.</Comment><Comment audience="Internal" date="2008-06-30" user="dbuchhagen">2008-06-30; Updated to SkinAnatomy3.jpg; dlb. </Comment><Comment>Updated to SkinAnatomy2.jpg; dlb.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ <RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000579037">Sample Illustration: Skin Anatomy</SupplementaryInfoLink>
+       </RelatedDocuments>
+</Media>

@@ -1,0 +1,62 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mastectomy, total (simple)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Total (Simple) Mastectomy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-02-13</DateCreated><SourceFilename>TotalSimpleMastectomy FP VI.3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2023-02-13">Added white to all the leader lines in image so they are more visible </Comment><Comment user="kuhlmanna" audience="Internal" date="2022-10-27">Brightened up the dotted lines around the breast and lymph nodes so that they are more visible</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated skin tone to FP VI</Comment><Comment audience="Internal" date="2015-10-06" user="kuhlmanna">Added "Terese Winslow" as Creator and deleted Source Publication field</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated copyright to 2012.</Comment><Comment audience="Internal" date="2011-12-05" user="akuhlmann">Replaced solid line with dotted line.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+   <Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Total (simple) mastectomy; drawing shows removal of the whole breast and some of the lymph nodes under the arm.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Total (simple) mastectomy.  The whole breast is removed.  Some of the lymph nodes under the arm may also be removed.</MediaCaption>
+   
+  </Captions>
+ </MediaContent>
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062970">Breast Cancer Treatment During Pregnancy</Summary>
+       <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment (Adult)</Summary><Glossary cdr:ref="CDR0000046620">total mastectomy</Glossary><Glossary cdr:ref="CDR0000045071">simple mastectomy</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2023-02-13">Updated image to TotalSimpleMastectomy FP VI.3.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated image to TotalSimpleMastectomy FP VI.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to TotalSimpleMastectomy4.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to TotalSimpleMastectomy3.jpg</Comment><Comment audience="Internal" date="2011-12-16" user="anjamison">Updated to TotalSimpleMastectomy2.jpg</Comment><Comment audience="Internal" date="2011-12-05" user="akuhlmann">Updated to TotalSimpleMastectomy1.jpg</Comment></ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

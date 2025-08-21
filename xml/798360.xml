@@ -1,0 +1,74 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>spine anatomy-MyPart-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Clivus</LabelName><LabelName language="es">Región cervical</LabelName><LabelName language="es">Región torácica</LabelName><LabelName language="es">Región lumbar</LabelName><LabelName language="es">Región sacra</LabelName><LabelName language="es">Cóccix</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Vértebra</LabelName><LabelName language="es">Cono medular</LabelName><LabelName language="es">Cola de caballo</LabelName><LabelName language="es">Disco</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>2175</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000797134">spine anatomy-MyPart</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MyPartSpineCordMidSagitalSpanish.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la columna vertebral. En el dibujo se observa una vista lateral de la columna vertebral, que incluye la región cervical (C1-C7), la región torácica (T1-T12), la región lumbar (L1-L5), la región sacra (S1-S5) y el cóccix (hueso coccígeo). También se muestran la médula espinal, las vertebras (huesos de la columna), el cono medular (parte final de la médula espinal), la cola de caballo (conjunto de nervios raquídeos que continúan más allá del cono medular) y los discos lumbares. Además, se muestra el clivus (hueso en la base del cráneo cerca de la médula espinal).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la columna vertebral. La columna vertebral está formada por huesos, músculos, tendones, nervios y otros tejidos que  se extienden desde la base del cráneo cerca del  comienzo de la médula espinal (a la altura del clivus) hasta el cóccix (hueso coccígeo). Las vértebras (huesos de la columna) forman la región cervical (C1-C7), la región torácica (T1-T12), la región lumbar (L1-L5), la región sacra (S1-S5) y el cóccix. Entre cada vértebra hay un disco que la separa de la siguiente. Las vértebras rodean  y protegen la médula espinal. La médula espinal se divide en segmentos y cada segmento tiene un par de nervios raquídeos que envían mensajes entre el encéfalo y el resto del cuerpo. Hay muchos nervios raquídeos que continúan más allá del cono medular (parte final de la médula espinal); este conjunto de nervios se llama cola de caballo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-10</ProcessingStatusDate>
+        <EnteredBy>2019-06-10</EnteredBy>
+        <Comment audience="Internal" date="2019-06-10" user="adlerm2">Suggest using "nervios raquídeos" (vs. nervios espinales) because "nervio espinal" is also used to refer to the accessory nerve or 11th cranial nerve. See Cosnautas and DTM.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-07</ProcessingStatusDate>
+        <EnteredBy>2019-06-07</EnteredBy>
+        <Comment audience="Internal" date="2019-06-07" user="lansberryic">Translation of caption and content description, pending QC</Comment><Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-04</ProcessingStatusDate>
+        <EnteredBy>2019-06-04</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-03</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Suggest using "región" or "vértebras" for grouping the vertebral column segments.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image, translation of labels done. Use DTM</Comment><Comment audience="Internal" date="2019-05-29" user="lansberryic">In Spanish I don´t recommed using only adjetives for labels "columna cervical" vs. "cervical"</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000797134">spine anatomy-MyPart</TranslationOf></Media>

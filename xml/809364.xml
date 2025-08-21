@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>mastectomy, radical-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Mastectomía radical</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">Pared torácica</LabelName><LabelName language="es">Costillas</LabelName><LabelName language="es">Músculo</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">Tejido graso</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000809324">mastectomy, radical</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MastectomyRadicalFemaleSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Mastectomía radical. En la imagen  de la izquierda una línea de puntos señala la zona que se extirpa, abarca toda la mama y  los ganglios linfáticos de la axila. En  la imagen  de la derecha se observa un corte transversal de la mama que incluye el tejido graso y  la pared torácica (costillas y músculo). También se muestra un tumor en la mama.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Mastectomía radical. Se extirpa toda la mama, todos los ganglios linfáticos de la axila y los músculos de la pared torácica debajo de la mama. Durante muchos años, la mastectomía radical fue el tipo de cirugía de cáncer de mama más común, pero ahora se usa muy poco. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256762">Tratamiento del cáncer de seno (mama) en adultas</Summary>
+  <Glossary cdr:ref="CDR0000046548">radical mastectomy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-27</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       <Comment user="dossantosm2" audience="Internal" date="2022-04-27">Translation QC of caption, content.and image</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Peer review, labels only</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000809324">mastectomy, radical</TranslationOf></Media>

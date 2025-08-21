@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mediastinoscopy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Mediastinoscopy</LabelName><LabelName language="en">Mediastinoscope</LabelName><LabelName language="en">Incision</LabelName><LabelName language="en">Right lung</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Left lung</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Anterior Mediastinotomy</LabelName><LabelName language="en">Chamberlain procedure</LabelName><ImageDimensions>
+    <HeightPixels>2100</HeightPixels>
+    <WidthPixels>3060</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-04</DateCreated>
+   
+   
+   <SourceFilename>Mediastinoscopy8.jpg</SourceFilename>
+   <Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Mediastinoscopy; shows mediastinoscope with light and lens inserted into
+the chest through an incision above the breastbone. Drawing shows right
+and left lungs, trachea, and lymph nodes. Inset shows anterior
+mediastinotomy (Chamberlain procedure) with incision beside the
+breastbone.
+</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Mediastinoscopy. A mediastinoscope is inserted into the chest through an
+incision above the breastbone to look for abnormal areas between the
+lungs. A mediastinoscope is a thin, tube-like instrument with a light
+and a lens for viewing. It may also have a cutting tool. Tissue samples
+may be taken from lymph nodes on the right side of the chest and checked
+under a microscope for signs of cancer. In an anterior mediastinotomy
+(Chamberlain procedure), the incision is made beside the breastbone to
+remove tissue samples from the lymph nodes on the left side of the
+chest.
+</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary>
+       <Glossary cdr:ref="CDR0000046287">mediastinoscopy</Glossary><Glossary cdr:ref="CDR0000046533">anterior mediastinotomy</Glossary><Glossary cdr:ref="CDR0000044370">Chamberlain procedure</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-01</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-06-12</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>in group review; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to Mediastinoscopy8.jpg</Comment><Comment>2006-07-18 fifth rough; mm 2006-06-12 fourth rough; 2006-04-25 third rough; 2006-03-19 second rough; need more research on both procedures; looking for a thoracic expert. mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-01-31</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2006-02-21 Looking for more sample illustrations for Chamberlain procedure (anterior mediastinotomy) and mediastinoscopy. mm</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000514479">Illustration Review Sheet: Mediastinoscopy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

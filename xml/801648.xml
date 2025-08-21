@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IB2 and IB3-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de cuello uterino en estadio IB2</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">2 cm</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Cáncer de cuello uterino en estadio IB3</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000800957">cervical cancer stage IB2 and IB3</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CervicalCaStageIB2and1B3Spanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de cuello uterino en estadios IB2 y IB3. En la imagen se observan dos cortes transversales del cuello uterino y la vagina. En la imagen de la izquierda se muestra cáncer de cuello uterino en estadio IB2, y el tumor mide más de 2 cm, pero no más de 4 cm. En la imagen de la derecha se muestra cáncer de cuello uterino en estadio  IB3, y el tumor mide más de 4 cm.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de cuello uterino en estadios IB2 y IB3. En la imagen se observan dos cortes transversales del cuello uterino y la vagina. En la imagen de la izquierda se muestra cáncer de cuello uterino en estadio IB2, y el tumor mide más de 2 cm, pero no más de 4 cm. En la imagen de la derecha se muestra cáncer de cuello uterino en estadio  IB3, y el tumor mide más de 4 cm.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de cuello uterino en estadios IB2 y IB3. En el estadio IB2, el tumor mide más de 2 cm, pero no más de 4 cm. En el estadio IB3, el tumor mide más de 4 cm.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de cuello uterino en estadios IB2 y IB3. En el estadio IB2, el tumor mide más de 2 cm, pero no más de 4 cm. En el estadio IB3, el tumor mide más de 4 cm.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary>
+  <Summary cdr:ref="CDR0000256680">Tratamiento del cáncer de cuello uterino</Summary><Glossary cdr:ref="CDR0000045886">stage I cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, translation of caption and content description  ready for peer review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>New labels sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-20</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image, Spanish labels ready for 1st QC</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000800957">cervical cancer stage IB2 and IB3</TranslationOf></Media>

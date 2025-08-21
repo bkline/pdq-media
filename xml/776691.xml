@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Soft Tissue Sarcoma - Risk Stratification and Treatment Assignment</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Diagnosis of eligible soft tissue sarcoma</LabelName><LabelName language="en">Non-metastatic</LabelName><LabelName language="en">Grossly Resected</LabelName><LabelName language="en">Tumor Grade</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">Microscopic margins</LabelName><LabelName language="en">- or +</LabelName><LabelName language="en">Arm A</LabelName><LabelName language="en">Observation</LabelName><LabelName language="en">High</LabelName><LabelName language="en">Maximal Tumor Diameter</LabelName><LabelName language="en">≤5cm</LabelName><LabelName language="en">Microscopic Margins -</LabelName><LabelName language="en">Microscopic Margins +</LabelName><LabelName language="en">Arm B</LabelName><LabelName language="en">Adjuvant radiotherapy</LabelName><LabelName language="en">&gt;5cm</LabelName><LabelName language="en">Arm C</LabelName><LabelName language="en">Adjuvant chemo + RT</LabelName><LabelName language="en">Unresected (Unresectable or high grade tumor &gt;5cm where delayed resection planned)</LabelName><LabelName language="en">Arm D</LabelName><LabelName language="en">Neoadjuvant chemoradiotherapy</LabelName><LabelName language="en">Metastatic to lymph nodes and/or distant sites</LabelName><LabelName language="en">Tumor Grade</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">All Disease Resected?</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">Microscopic margins</LabelName><LabelName language="en">- or +</LabelName><LabelName language="en">Arm A</LabelName><LabelName language="en">Observation</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Assess Resection Status of Primary Tumor</LabelName><LabelName language="en">Grossly resected</LabelName><LabelName language="en">Arm C</LabelName><LabelName language="en">Adjuvant chemo + RT</LabelName><LabelName language="en">Unresected</LabelName><LabelName language="en">Arm D</LabelName><LabelName language="en">Neoadjuvant chemoradiotherapy</LabelName><LabelName language="en">High</LabelName><LabelName language="en">Low Risk</LabelName><LabelName language="en">Intermediate Risk</LabelName><LabelName language="en">High Risk</LabelName><ImageDimensions>
+    <HeightPixels>1092</HeightPixels>
+    <WidthPixels>1413</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Sheri L. Spunt, MD, MBA, Lucile Packard Children’s Hospital at Stanford</Creator>
+   <SourcePublication>Spunt SL,  Million L, Anderson JR, et al.: Risk-based treatment for nonrhabdomyosarcoma soft tissue sarcomas (NRSTS) in patients under 30 years of age: Children’s Oncology Group study ARST0332. J Clin Oncol 32 (Suppl 15): A-10008, 2014</SourcePublication><DateCreated>2016-03-30</DateCreated>
+   <SourceFilename>Ch STS Spunt Figure 3-29-16.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-03-30" user="kuhlmanna">Image approved by PDQ Pediatric Treatment Editorial Board; permissions received</Comment><Comment audience="Internal" date="2015-11-03" user="kuhlmanna">Permissions needed - needs Board approval; image added as summary placeholder</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2016-03-14</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2016-03-29</PermissionResponseDate>
+    
+    <PublisherPermissionText>Spunt SL,  Million L, Anderson JR, et al.: Risk-based treatment for nonrhabdomyosarcoma soft tissue sarcomas (NRSTS) in patients under 30 years of age: Children’s Oncology Group study ARST0332. J Clin Oncol 32 (Suppl 15): A-10008, 2014</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000770861">Risk-based treatment for nonrhabdomyosarcoma soft tissue sarcomas (NRSTS) in patients under 30 years of age: Children’s Oncology Group study ARST0332</CitationLink><Comment audience="Internal" date="2016-03-30" user="kuhlmanna">Permissions received; per SQK, image will not be translated into Spanish</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing risk stratification and treatment assignment for the Children's Oncology Group ARST0332 trial.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Risk stratification and treatment assignment for the Children's Oncology Group ARST0332 trial. Credit: Sheri L. Spunt, MD, MBA</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

@@ -1,0 +1,114 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IA Lung Cancer</LabelName><LabelName language="en">Tumor is 3 cm or smaller</LabelName><LabelName language="en">3 cm</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Diaphragm</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-07-11</DateCreated>
+   
+   
+   <SourceFilename>LungStage1A MaleEastAsianFP II.5</SourceFilename><Comment user="kuhlmanna" audience="Internal" date="2022-07-11">Centered the figure, adjusted the borders in image</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-03-30">Removed/added some brown lines in the head/ear</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-14">Angled the person's head slightly  to show the faded extended trachea to oral cavity/nasal cavity connection (similar to the Stage 1B image);
+matched the skin tone of the face to the rest of the body</Comment>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2022-02-28">Made figure an East Asian male and updated skin tone to FP II</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Added label for Lymph nodes per expert reviewer</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Changed wording in the inset box to say “Tumor is 3 cm or smaller”</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Changed the inset to say “Tumor is 3 cm or less” and shortened the line to the Pleura so that it points to the middle of the grey area.</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Labeled the label "Pleura"</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Unbolded the labels and moved the labels for "Lung" and "Diaphragm" to the right side of the figure; removed the outline of the ribs; and removed "Lung Cancer" from the title</Comment><Comment audience="Internal" date="2018-10-01" user="yousufzaimg">Changed the title to Stage IA Lung Cancer; added labels for Trachea, Lung, Diaphragm; and removed the clear-looking covering on the diaphragm</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2010-09-17" user="anjamison">Added outlines of bones to panel IA ; added space after 3 in "3cm"; changed Pleura to Lung lining &amp; deleted a pointer line; added Carina; increased size of tumor “a”.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000682739">stage IA non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IA lung cancer; drawing shows a tumor (3 cm or smaller) in the right lung. Also shown are the lymph nodes, trachea, pleura, and diaphragm.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IA lung cancer; drawing shows a tumor (3 cm or smaller) in the right lung. Also shown are the lymph nodes, trachea, pleura, and diaphragm.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IA lung cancer. The tumor is in the lung only and is 3 centimeters or smaller. Cancer has not spread to the lymph nodes.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IA lung cancer. The tumor is in the lung only and is 3 centimeters or smaller. Cancer has not spread to the lymph nodes.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045349">stage IA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-03-14">Updated to LungStage1A MaleEastAsianFP II.2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-02-28">Updated to LungStage1A MaleEastAsianFP II.jpg</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Updated to LungStage1A7.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated to LungStage1A6.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated to LungStage1A5.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated to LungStage1A4.jpg</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Updated to LungStage1A3.jpg</Comment><Comment audience="Internal" date="2018-10-01" user="yousufzaimg">Updated to LungStage1A.2.jpg</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Updated to LungStage1A1.jpg</Comment><Comment>Updated to LungStage1AandB.Rev3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-07-19" user="dbuchhagen">Sample illustration for AJCC revisions.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-02-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-10-20</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000682108">Sample illustration: NSCLC stage I (A and B)</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000537807">Illustration Review Sheet: NSCLC Stage I</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

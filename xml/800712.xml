@@ -1,0 +1,125 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage IIB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Melanoma en estadio IIB</LabelName><LabelName language="es">El tumor mide más de 2 mm pero no más de 4 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">3 mm</LabelName><LabelName language="es">4 mm</LabelName><LabelName language="es">Ulceración</LabelName><LabelName language="es">El tumor mide más de 4 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">4 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">6 mm</LabelName><LabelName language="es">No hay ulceración</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels><WidthPixels>3225</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000797843">skin cancer, melanoma stage IIB</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>MelanomaStage2B FP IV Spanish1.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><SkinTone>Type IV – Light brown skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682695">stage IIB melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Dibujo de dos paneles del melanoma en estadio IIB. En el panel de la izquierda se observa un tumor que mide más de 2 mm pero no más  4 mm y  hay ulceración (rotura de la piel). Además, hay un recuadro en el que se indica que 2 mm es aproximadamente la medida de la punta de un crayón, y  5 mm, la de la goma de borrar del extremo de un lápiz. En el panel de la derecha se observa un tumor que mide más de 4 mm de grosor y no hay ulceración. Además, hay un recuadro en el que se indica que 5 mm es aproximadamente la medida de la goma de borrar del extremo de un lápiz.  También se muestran la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Dibujo de dos paneles del melanoma en estadio IIB. En el panel de la izquierda se observa un tumor que mide más de 2 mm pero no más  4 mm y  hay ulceración (rotura de la piel). Además, hay un recuadro en el que se indica que 2 mm es aproximadamente   la medida de la punta de un crayón, y  5 mm, la de la goma de borrar del extremo de un lápiz. En el panel de la derecha se observa un tumor que mide más de 4 mm y no hay ulceración. Además, hay un recuadro en el que se indica que 5 mm es aproximadamente la medida de la goma de borrar del extremo de un lápiz. También se muestran la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Melanoma en estadio IIB. Se encuentra una de las siguientes situaciones: 1) El tumor mide más de 2 mm pero no más de 4 mm de grosor y hay ulceración (rotura de la piel). 2) El tumor mide más de 4 mm y no hay ulceración. El grosor de la piel es distinto en diferentes partes del cuerpo.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Melanoma en estadio IIB. Se encuentra una de las siguientes situaciones: 1) El tumor mide más de 2 mm pero no más de 4 mm de grosor y hay ulceración (rotura de la piel). 2) El tumor mide más de 4 mm y no hay ulceración. El grosor de la piel es distinto en diferentes partes del cuerpo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256816">Tratamiento del melanoma</Summary>
+  <Glossary cdr:ref="CDR0000045137">stage II melanoma</Glossary>
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of image, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-15</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image looks good</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked updated image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to incorporate skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-14</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised caption and content</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        
+        <ProcessingStatusDate>2020-04-16</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>QCd caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd captions and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image and translation of captions and content description. QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image. Caption and content description translation pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels reviewed, translation of caption and CD pending.  Deleted Image Dimensions.  This is a new image and the image dimensions of the EN media doc should not be included. This element is added when the ES image is ready and approved.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-02</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image, Spanish labels ready for 1st QC</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000797843">skin cancer, melanoma stage IIB</TranslationOf></Media>

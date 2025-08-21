@@ -1,0 +1,96 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>reproductive system, female, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Aparato reproductor femenino</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Endometrio</LabelName><LabelName language="es">Miometrio</LabelName><ImageDimensions>
+    <HeightPixels>3150</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000609921">reproductive system, female, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>FemaleReproductiveSystemSkinTypeVISpanish1.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato reproductor femenino. En la imagen se observan el útero, el miometrio (capa muscular externa del útero), el endometrio (revestimiento interno del útero), los ovarios, las trompas de Falopio, el cuello uterino y la vagina.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del aparato reproductor femenino. En la imagen se observan el útero, el miometrio (capa muscular externa del útero), el endometrio (revestimiento interno del útero), los ovarios, las trompas de Falopio, el cuello uterino y la vagina.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del aparato reproductor femenino. Los órganos del aparato reproductor femenino incluyen el útero, los ovarios, las trompas de Falopio, el cuello uterino y la vagina. El útero tiene una capa muscular externa (miometrio) y un revestimiento interno (endometrio).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía normal del aparato reproductor femenino.</MediaCaption></Captions><Comment audience="Internal" date="2016-06-21" user="saucedol">Added HP caption and content description.</Comment>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000738369">Prevención del cáncer de cuello uterino</Summary>
+  
+  <Summary cdr:ref="CDR0000740255">Exámenes de detección del cáncer de cuello uterino</Summary><Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary><Summary cdr:ref="CDR0000757227">Prevención del cáncer de endometrio</Summary><Summary cdr:ref="CDR0000756923">Exámenes de detección del cáncer de endometrio</Summary><Summary cdr:ref="CDR0000256803">Tratamiento del cáncer de endometrio</Summary><Summary cdr:ref="CDR0000256801">Tratamiento de la enfermedad trofoblástica de la gestación</Summary><Summary cdr:ref="CDR0000755031">Prevención del cáncer de ovario, de trompas de Falopio y primario de peritoneo</Summary><Summary cdr:ref="CDR0000755033">Exámenes de detección del cáncer de ovario, de trompas de Falopio y primario de peritoneo</Summary><Summary cdr:ref="CDR0000256785">Tratamiento del cáncer epitelial de ovario, de trompas de Falopio y primario de peritoneo</Summary><Summary cdr:ref="CDR0000256832">Tratamiento de los tumores de células germinativas del ovario</Summary><Summary cdr:ref="CDR0000256839">Tratamiento de los tumores de ovario de bajo potencial maligno</Summary><Summary cdr:ref="CDR0000452962">Tratamiento del sarcoma uterino</Summary><Summary cdr:ref="CDR0000452956">Tratamiento del cáncer de vagina</Summary><Glossary cdr:ref="CDR0000046133">cervix</Glossary>
+ <Glossary cdr:ref="CDR0000046108">endometrium</Glossary><Glossary cdr:ref="CDR0000045687">fallopian tube</Glossary><Glossary cdr:ref="CDR0000046280">myometrium</Glossary><Glossary cdr:ref="CDR0000046687">ovary</Glossary><Glossary cdr:ref="CDR0000046645">uterus</Glossary><Glossary cdr:ref="CDR0000046646">vagina</Glossary><Glossary cdr:ref="CDR0000045056">gynecologic</Glossary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image, skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised updates to caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-12-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised descriptions and caption for readability; AJCC cervical cancer related images</Comment>
+       <Comment audience="Internal" date="2019-12-06" user="adlerm2">Added six missing Proposed Use Summary elements</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with title image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new label</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-01-15" user="dbuchhagen">2010-01-15: Received revised Spanish image from artist.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translations of labels, caption, and content complete.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000609921">reproductive system, female, anatomy</TranslationOf></Media>

@@ -1,0 +1,61 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood ALL - Genomic Subtypes of T-ALL</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">T-ALL Genomic Subtypes</LabelName><LabelName language="en">BCL11B, 1.9%</LabelName><LabelName language="en">HOXA, 19.5%</LabelName><LabelName language="en">LMO1/2, 4.1%</LabelName><LabelName language="en">NKX2_1, 4.7%</LabelName><LabelName language="en">SPI1, 0.4%</LabelName><LabelName language="en">T-other, 17.6%</LabelName><LabelName language="en">TAL1, 29.0%</LabelName><LabelName language="en">TAL2, 1.7%</LabelName><LabelName language="en">TLX1, 6.7%</LabelName><LabelName language="en">TLX3, 14.4%</LabelName><ImageDimensions>
+    <HeightPixels>1301</HeightPixels>
+    <WidthPixels>1806</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>Adapted from Nature Genetics</Creator>
+   
+   <SourcePublication>Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54, 1376-1389 (2022).</SourcePublication><DateCreated>2022-10-31</DateCreated>
+   <SourceFilename>T-ALL Genomic SubtypesEnglish1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-10-31">Terese re-created and enhanced pie chart</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-10-06">Image pie chart created from data - copyright permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039919">childhood acute lymphoblastic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Figure showing genomic subtypes of T-ALL.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Genomic subtypes of T-ALL. The figure represents data from 466 children diagnosed with T-ALL and enrolled on St. Jude Children’s Research Hospital or Children’s Oncology Group clinical trials. Adapted from Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54: 1376-1389, 2022.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062923">Childhood Acute Lymphoblastic Leukemia Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-10-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

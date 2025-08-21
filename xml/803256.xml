@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreas anatomy, adolescent-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Vías biliares</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Bazo</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Cola</LabelName><LabelName language="es">Cuerpo</LabelName><LabelName language="es">Cabeza</LabelName><LabelName language="es">Conducto biliar</LabelName><LabelName language="es">Conducto pancreático</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Colon</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2760</HeightPixels>
+    <WidthPixels>3060</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     
+    <MediaID cdr:ref="CDR0000803045">pancreas anatomy, adolescent</MediaID></FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PancreasAnatomy18yrWomanWithInsetBlackSpanish.jpg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041487">pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Anatomía del páncreas. En la imagen se observan el páncreas, el estómago, el bazo, el hígado, las vías biliares, la vesícula biliar, el intestino delgado y el colon. En el recuadro, se muestran la cabeza, el cuerpo y la cola del páncreas. También se muestran un conducto biliar y el conducto pancreático</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Anatomía del páncreas. El páncreas tiene tres partes: la cabeza, el cuerpo y la cola. Se encuentra en el abdomen cerca del estómago, los intestinos y otros órganos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000800508">Tratamiento del cáncer de páncreas infantil</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed caption, content description and labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of image, cont descr and caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-17</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        <Comment>Added content descriptions and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels and media document//pending caption and content description</Comment>
+       <Comment>I suggest to use "vías biliares" as the most common term in Spanish when it refers to "bile ducts".</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-02</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000803045">pancreas anatomy, adolescent</TranslationOf></Media>

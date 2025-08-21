@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>VHL hemangioblastoma, spinal, sagittal view</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>300</HeightPixels>
+    <WidthPixels>300</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Eric Jonasch, MD, University of Texas, MD Anderson Cancer Center</Creator>
+   <DateCreated>2016-02-25</DateCreated>
+   <SourceFilename>VHL hemangioblastomas, spinal, sagittal view_small.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-02-25" user="kuhlmanna">Image resized and made smaller</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-02-17" user="kuhlmanna">Permissions not required; image supplied by Board member</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category><Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042846">von Hippel-Lindau syndrome</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Sagittal view of an individual’s neck showing several light-colored lesions along the spinal cord.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Hemangioblastomas are the most common disease manifestation in patients with von Hippel-Lindau syndrome. Multiple spinal cord hemangioblastomas are shown.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000574548">Genetics of Kidney Cancer (Renal Cell Cancer)</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000778948">Permission: VHL hemangioblastomas, spinal, sagittal view </SupplementaryInfoLink>
+       </RelatedDocuments></Media>

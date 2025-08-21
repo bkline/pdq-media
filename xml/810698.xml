@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>cervical sampling</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cervical Sampling</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Brush</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Speculum</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Rectum</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2652</HeightPixels>
+    <WidthPixels>2908</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-10-11</DateCreated>
+   <SourceFilename>CervicalSampling Provider FP IV.1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-10-11">New image for Cervical Cancer SVPC summary per DCEG review</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race><Race>Black or African American</Race>
+  <SkinTone>Type II – Fair skin</SkinTone><SkinTone>Type VI – Dark brown or black skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Cervical sampling; drawing shows a side view of the female reproductive anatomy. A speculum is shown widening the opening of the vagina. Also shown is a provider's gloved hand inserting a brush into the open vagina to collect cells from the cervix. The brush is touching the cervix at the base of the uterus. The rectum is also shown. One inset shows the brush touching the center of the cervix. A second inset shows a woman covered by a drape on an exam table with her legs apart and her feet in stirrups.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Cervical sampling. A speculum is inserted into the vagina to widen it. Then, a brush is inserted into the vagina to collect cells from the cervix.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000810140">Cervical Cancer Screening</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-10-11</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added CervicalSampling Provider FP IV.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

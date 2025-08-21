@@ -1,0 +1,65 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma staging (tumor thickness)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">How deep is the cancer?</LabelName><LabelName language="en">Depth of Invasion (mm)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">1.0</LabelName><LabelName language="en">2.0</LabelName><LabelName language="en">3.0</LabelName><LabelName language="en">4.0</LabelName><LabelName language="en">5.0</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>1650</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-01-31</DateCreated>
+   <SourceFilename>HowDeepIsCancer3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-02-03" user="kuhlmanna">Made the tumor spot on the far right come down just to the 4.0 mm line, and not go into the subcutaneous tissue at all; and made the tumor spot next to the far right one a little shorter so that it just comes down to the middle of the dermis. </Comment><Comment audience="Internal" date="2019-10-21" user="yousufzaimg">Removed dotted white line</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Melanoma staging (tumor thickness); drawing shows different depths of cancer invasion (0, 1.0, 2.0, 3.0, 4.0, and 5.0 mm) into the epidermis (outer layer of the skin), the dermis (inner layer of the skin), and the subcutaneous tissue below the dermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Melanoma staging (tumor thickness). One of the factors that helps determine the stage of melanoma is the depth of cancer invasion (the thickness of the tumor). It is measured in millimeters from the surface of the skin to the deepest part of the tumor, which could be in the epidermis (outer layer of the skin), the dermis (inner layer of the skin), or the subcutaneous tissue below the dermis.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-10-28</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

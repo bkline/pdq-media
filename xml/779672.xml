@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>focal liver lesion - liver congenital hemangioma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>746</HeightPixels>
+    <WidthPixels>965</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Denise Adams, MD, Boston Children's Hospital</Creator>
+   <DateCreated>2017-11-08</DateCreated>
+   <SourceFilename>Focal Liver Lesion MRI300dpi.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-11-08" user="kuhlmanna">REVISED image: Removed left panel so image only shows MRI; enhanced resolution</Comment><Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Removed third panel on the right so image now has 2 panels; image approved by Pediatric Treatment Editorial Board </Comment><Comment audience="Internal" date="2016-03-21" user="kuhlmanna">Image added as summary placeholder; Board approval pending</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-04-04" user="kuhlmanna">Permissions not required; photo came from Pediatric Treatment Editorial Board member, Denise Adams, MD</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000779864">congenital hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">MRI image of a single liver lesion (intrahepatic congenital hemangioma).</ContentDescription><ContentDescription audience="Health_professionals" language="es">Imagen por resonancia magnética de una lesión hepática única (hemangioma intrahepático congénito).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Single liver lesion (intrahepatic congenital hemangioma). MRI image of a congenital hemangioma. Note the central enhancement, which is typical  for an intrahepatic congenital hemangioma. Credit: Denise Adams, M.D.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Lesión hepática única (hemangioma intrahepático congénito). Imagen por resonancia magnética  de un hemangioma congénito. Observar el realce central característico del hemangioma intrahepático congénito. Crédito: Denise Adams, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+       <Summary cdr:ref="CDR0000779919">Tratamiento de los tumores vasculares infantiles</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translations updates per English revision/pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image, caption, and content description revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

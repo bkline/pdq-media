@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>small intestine anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Small Intestine</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Duodenum</LabelName><LabelName language="en">Jejunum</LabelName><LabelName language="en">Ileum</LabelName><LabelName language="en">Appendix</LabelName><LabelName language="en">Large intestine</LabelName><LabelName language="en">Rectum</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-05-18</DateCreated>
+   <SourceFilename>SmallIntestine3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2023-05-18">Changed the label "Colon" to "Large intestine"</Comment><Comment audience="Internal" date="2013-08-06" user="akuhlmann">Added image title “Parts of the Small Intestine”</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038736">small intestine cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the small intestine showing the duodenum, jejunum, and ileum. Also shown are the stomach, appendix, large intestine, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The small intestine is a long tube-like organ that connects the stomach to the large intestine. The small intestine includes the duodenum, jejunum, and ileum.
+</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000350260">Small Intestine Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046582">small intestine</Glossary><Glossary cdr:ref="CDR0000446525">small intestine cancer</Glossary>
+ <Glossary cdr:ref="CDR0000046443">duodenum</Glossary><Glossary cdr:ref="CDR0000751987">jejunum</Glossary><Glossary cdr:ref="CDR0000751989">ileum</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-18</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-06</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Updated to SmallIntestine2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-07-29</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added new draft image: SmallIntestine1.jpg</Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-05</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Added caption and content description</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

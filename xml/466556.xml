@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pneumonectomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Pneumonectomy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lung removed</LabelName><ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-04</DateCreated>
+   
+   
+   <SourceFilename>Pneumonectomy11.jpg</SourceFilename>
+   <Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment>Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Pneumonectomy; drawing shows the trachea, lymph nodes, and lungs, with cancer in one lung. The removed lung with the cancer is shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Pneumonectomy; drawing shows the trachea, lymph nodes, and lungs, with cancer in one lung. The removed lung with the cancer is shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Pneumonectomy. The whole lung is removed.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Pneumonectomy.</MediaCaption></Captions>
+  
+  
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Added "drawing, "the", "lymph nodes", and a comma to cont descr; dlb.</Comment></MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary><Glossary cdr:ref="CDR0000046224">pneumonectomy</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-06-30</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP cap and cont desc for pilot project.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-05-08</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>In review by group.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to Pneumonectomy11.jpg</Comment><Comment>2006-07-18 final image; mm 2006-06-12 sixth rough; 2006-04-24 fifth rough; mm 2006-04-18 fourth rough; mm 2006-03-27 Third rough draft; mm  2006-03-14 Second rough draft. mm</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000514483">Illustration Review Sheet: Pneumonectomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

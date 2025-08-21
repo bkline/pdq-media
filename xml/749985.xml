@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>MEN2A pedigree</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">MEN2A Pedigree</LabelName><LabelName language="en">MTC, dx 38</LabelName><LabelName language="en">MTC, dx 54 Pheo, dx 67</LabelName><LabelName language="en">42</LabelName><LabelName language="en">22</LabelName><LabelName language="en">MTC, dx 22 HPT, dx 24 </LabelName><LabelName language="en">Prophylactic throidectomy, age 5</LabelName><LabelName language="en">HPT = hyperparathyoidism; MTC = medullary thyroid cancer; Pheo = pheochromocytoma.</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Robin Juthe</Creator>
+   <DateCreated>2013-05-28</DateCreated>
+   <SourceFilename>MEN2A Pedigree.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654716">multiple endocrine neoplasia type 2</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pedigree showing some of the classic features of a family with a deleterious RET mutation across four generations, including transmission occurring through paternal lineage. The unaffected female proband is shown as having an affected brother (medullary thyroid cancer diagnosed at age 22 y and hyperparathyroidism diagnosed at age 24 y), father (medullary thyroid cancer diagnosed at age 54 y and pheochromocytoma diagnosed at age 67 y), and paternal aunt (medullary thyroid cancer diagnosed at age 38 y).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">MEN2A pedigree. This pedigree shows some of the classic features of a family with a deleterious RET mutation across four generations, including affected family members with medullary thyroid cancer, pheochromocytoma, and hyperparathyroidism. Age at onset can vary widely, even within families. Medullary thyroid cancer can present with earlier onset and more aggressive disease in successive generations, depending on the genotype. MEN2A families may exhibit some or all of these features. As an autosomal dominant syndrome, transmission can occur through maternal or paternal lineages.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062890">Genetics of Endocrine and Neuroendocrine Neoplasias</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-05-29</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added MEN2A Pedigree.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

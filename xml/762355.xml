@@ -1,0 +1,97 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IIB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIB Adenocarcinoma of the Esophagus</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Thin muscle layer</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Thick muscle layer</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Cancer in 1 to 2 lymph nodes near tumor</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-02-12</DateCreated>
+   <SourceFilename>AdenocarcinomaEsophagusStage2B.5.jpg</SourceFilename><Comment audience="Internal" date="2019-02-13" user="kuhlmanna">Added the little black box to the main figure, and added the shaded cone that goes from the main figure to the inset. </Comment><Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Separated the brackets around the mucosa layer and thin muscle layer; and changed the label under the right panel to say “Cancer in 1 to 2 lymph nodes near tumor”</Comment><Comment audience="Internal" date="2018-08-20" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2014-09-08" user="akuhlmann">Changed brackets to curly brackets with the label line pointing to the middle of the bracket; added label for Submucosa, pointing to the white band near the top, and made the mucosa layer just include the layers from the top of the submucosa to the top of the image; and made the connective tissue layer at the very bottom a little thicker.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717460">stage IIB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIB adenocarcinoma of the esophagus; drawing shows the esophagus and stomach. A two-panel inset shows the layers of the esophagus wall: the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer. The left panel shows cancer in the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer. The right panel shows cancer in the mucosa layer, thin muscle layer, and submucosa layer and in 1 nearby lymph node.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIB adenocarcinoma of the esophagus; drawing shows the esophagus and stomach. A two-panel inset shows the layers of the esophagus wall: the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer. The left panel shows cancer in the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer. The right panel shows cancer in the mucosa layer, thin muscle layer, and submucosa layer and in 1 nearby lymph node.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIB adenocarcinoma of the esophagus. Cancer has spread into the connective tissue layer of the esophagus wall; OR cancer has spread into the mucosa layer, thin muscle layer, or submucosa layer of the esophagus wall. Cancer is found in 1 to 2 lymph nodes near the tumor.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIB adenocarcinoma of the esophagus. Cancer has spread into the connective tissue layer of the esophagus wall; OR cancer has spread into the mucosa layer, thin muscle layer, or submucosa layer of the esophagus wall. Cancer is found in 1 to 2 lymph nodes near the tumor.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000720252">stage II esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Added AdenocarcinomaEsophagusStage2B.4.jpg</Comment><Comment audience="Internal" date="2018-08-20" user="kuhlmanna">Added AdenocarcinomaEsophagusStage2B.3.jpg</Comment><Comment audience="Internal" date="2014-09-08" user="akuhlmann">Added AdenocarcinomaEsophagusStage2B.2.jpg</Comment><Comment>Added AdenocarcinomaEsophagusStage2B.1.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-02</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000795458">Illustration Review Sheet: Adenocarcinoma of the Esophagus Stage IIB</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000769699">Illustration Review Sheet: esophageal adenocarcinoma stage IIB</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000792772">Sample Illustration: Esophageal Adenocarcinoma AJCC Revisions</SupplementaryInfoLink></RelatedDocuments><Comment audience="Internal" date="2015-10-12" user="yousufzaimg">Added HP caption/content description; my</Comment><Comment audience="Internal" date="2015-02-27" user="myousufzai">2015-02-27: Added sup info link; my</Comment></Media>

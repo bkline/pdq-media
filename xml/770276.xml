@@ -1,0 +1,94 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>extracranial germ cell tumor-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tumor extracraneal de células germinativas</LabelName><LabelName language="es">Niña</LabelName><LabelName language="es">Niño</LabelName><LabelName language="es">Cabeza y cuello</LabelName><LabelName language="es">Sacro</LabelName><LabelName language="es">Cóccix</LabelName><LabelName language="es">Ovarios</LabelName><LabelName language="es">Testículos</LabelName><LabelName language="es">Mediastino (azul)</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Peritoneo</LabelName><LabelName language="es">Retroperitoneo (rojo)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3120</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000770217">extracranial germ cell tumor</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ExtracranialGermCellTumorSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-30" user="lsaucedo">Linked image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Tumor extracraneal de células germinativas. En la imagen se observan las partes del cuerpo adonde se pueden formar tumores extracraneales de células germinativas, que incluyen: la cabeza y el cuello, el mediastino (área entre los pulmones, que se muestra en azul), el retroperitoneo (área detrás de los órganos abdominales, que se muestra en rojo), el sacro, el cóccix, los testículos (en los niños) y los ovarios (en las niñas).  También se muestran el corazón y el peritoneo.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Tumor extracraneal de células germinativas. En la imagen se observan las partes del cuerpo adonde se pueden formar tumores extracraneales de células germinativas, que incluyen: la cabeza y el cuello, el mediastino (área entre los pulmones, que se muestra en azul), el retroperitoneo (área detrás de los órganos abdominales, que se muestra en rojo), el sacro, el cóccix, los testículos (en los niños) y los ovarios (en las niñas).  También se muestran el corazón y el peritoneo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los tumores extracraneales de células germinativas se forman en partes del cuerpo fuera del encéfalo.  Estas incluyen los testículos, los ovarios, el sacro (parte inferior de la columna vertebral), el cóccix (hueso coccígeo), el mediastino (área entre los pulmones), el retroperitoneo (pared posterior del abdomen), la cabeza y el cuello.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Los tumores extracraneales de células germinativas se forman en partes del cuerpo fuera del encéfalo.  Estas incluyen los testículos, los ovarios, el sacro (parte inferior de la columna vertebral), el cóccix (hueso coccígeo), el mediastino (área entre los pulmones), el retroperitoneo (pared posterior del abdomen), la cabeza y el cuello.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256849">Tratamiento de los tumores extracraneales de células germinativas en la niñez</Summary>
+  <Summary cdr:ref="CDR0000256755">Tratamiento de los tumores extracraneales de células germinativas en la niñez</Summary><Glossary cdr:ref="CDR0000444992">extracranial germ cell tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-30</ProcessingStatusDate>
+        <EnteredBy>2018-11-30</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC: labels, cont. desc. and captions.</Comment>
+       <Comment audience="Internal" date="2018-11-30" user="lansberryic">En español usar mujer y hombre para una imagen de un menores es extraño, así que me parece bien el cambio sugerido y lo marqué. En imágenes de adultos sería diferente, creo que es un caso que no se puede unificar el uso en español. También hay que unificar el nombre de la neoplasia. Usé lo publicado en el título del sumario y en el GTN, es una versión correcta de uso más frecuente en la bibliografía y el cliente aprobó el nombre el año pasado. Simplifiqué las marcas de QC en este caso para facilitar el 2QC.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-30</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated labels, caption and content description</Comment>
+       <Comment audience="Internal" date="2018-11-30" user="adlerm2">En esta imagen me parece extraño poner "hombre" y "mujer" porque se muestran los cuerpos de niños. Pero también se usa en la definición del glosario, así que lo dejé igual.</Comment><Comment audience="Internal" date="2018-11-30" user="adlerm2">Falta actualizar el tamaño de la imagen y añadir el sumario de HP a "Proposed Use" cuando se haga el reemplazo.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Editorial changes to captions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-06-28</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        <Comment>Added HP Caption and Content Description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000770217">extracranial germ cell tumor</TranslationOf></Media>

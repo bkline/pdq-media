@@ -1,0 +1,73 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Childhood Thyroid Cancer - Lebbink ETA Figure 3</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Levothyroxine therapy TSH goal: 0.1-0.5mlU/L</LabelName><LabelName language="en">Tg and TgAbs on Levothyroxine</LabelName><LabelName language="en">Undetectable</LabelName><LabelName language="en">Detectable (not rising)</LabelName><LabelName language="en">High detectable and/or rising</LabelName><LabelName language="en">Low-risk patient</LabelName><LabelName language="en">Non low-risk patient</LabelName><LabelName language="en">Continue follow-up: Tg and TgAbs</LabelName><LabelName language="en">Continue follow-up: Tg and TgAbs and neck ultrasound in first 5 years of follow-up.</LabelName><LabelName language="en">Neck ultrasound</LabelName><LabelName language="en">Neck ultrasound</LabelName><LabelName language="en">Negative</LabelName><LabelName language="en">Consider I-123 scan</LabelName><LabelName language="en">Positive</LabelName><LabelName language="en">FNB</LabelName><LabelName language="en">Positive</LabelName><LabelName language="en">FNB</LabelName><LabelName language="en">Negative</LabelName><LabelName language="en">I-123 scan and/or FDG PET/CT</LabelName><LabelName language="en">Negative</LabelName><LabelName language="en">Positive</LabelName><LabelName language="en">Positive</LabelName><LabelName language="en">Negative</LabelName><LabelName language="en">Negative</LabelName><LabelName language="en">Follow-up Tg and TgAbs every 3-6 months in the 1st year, thereafter yearly</LabelName><LabelName language="en">Surgery or I-131</LabelName><LabelName language="en">Empiric I-131</LabelName><ImageDimensions>
+    <HeightPixels>4647</HeightPixels><WidthPixels>5338</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>European Thyroid Journal</Creator>
+   <SourcePublication>Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A., &amp; van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146.</SourcePublication><DateCreated>2024-08-06</DateCreated>
+   <SourceFilename>Lebbink ETA Figure 3 8-3-24.jpeg</SourceFilename>
+  <Comment user="kuhlmanna" date="2024-08-06" audience="Internal">Image licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Open access - copyright permissions not required </Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038801">thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Flowchart showing the follow-up of children with differentiated thyroid carcinoma who achieved complete remission after initial treatment with total thyroidectomy and I-131.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Diagrama de flujo que muestra el seguimiento de niños con carcinoma diferenciado de tiroides que alcanzaron la remisión completa tras el tratamiento inicial con tiroidectomía total e I-131.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Flowchart showing the follow-up of children with differentiated thyroid carcinoma (DTC) who achieved complete remission after initial treatment with total thyroidectomy and I-131. This flowchart was developed for children with DTC who achieved complete remission defined as: undetectable levels of serum thyroglobulin (Tg) on levothyroxine (LT4), undetectable levels of Tg antibodies, negative neck ultrasound, and if performed, negative whole-body scan one year after last treatment. ^In the first year until clinical remission, thyroid-stimulating hormone (TSH) levels should be suppressed, while a normal low value of TSH (between 0.5 and 1.0 mIU/L) will be advisable thereafter. ^^The definition of consistently rising Tg on LT4 is debatable; the levels of Tg as well as the doubling time should be taken into account and weighted in the individual patient. *The expert panel suggests that, in children with detectable (but not rising) Tg and no focus on neck ultrasound, I-123 scanning may be considered in individual cases. When both ultrasound and radioiodine imaging did not yield a focus, FDG PET/CT may be considered. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Credit: Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A., &amp; van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146. Retrieved Aug 2, 2024, from <ExternalRef cdr:xref="https://doi.org/10.1530/ETJ-22-0146">https://doi.org/10.1530/ETJ-22-0146</ExternalRef>.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Diagrama de flujo que muestra el seguimiento de niños con carcinoma diferenciado de tiroides (CDT) que lograron la remisión completa tras el tratamiento inicial con tiroidectomía total e I-131. Este diagrama de flujo se creó para niños con CDT que lograron la remisión completa definida como aquella con concentraciones indetectables de tiroglobulina sérica (Tg) con levotiroxina (LT4), concentraciones indetectables de anticuerpos Tg, ecografía de cuello negativa y, en su caso, gammagrafía de cuerpo entero negativa un año después del último tratamiento. ^En el primer año hasta la remisión clínica, deben reducirse las concentraciones de hormona estimulante del tiroides (TSH), mientras que a partir de entonces será aconsejable un valor bajo normal de TSH (entre 0,5 y 1,0 mUI/l). ^^La definición de Tg en aumento constante con LT4 es discutible; las concentraciones de Tg, así como el tiempo de duplicación, deben tenerse en cuenta y considerarse en cada paciente. *El panel de expertos indica que, en niños con Tg detectable (pero sin aumento) y sin focos en la ecografía de cuello, es posible considerar la gammagrafía con I-123 en casos individuales. Cuando ni la ecografía ni las imágenes con yodo radiactivo muestran algún foco, quizás se considere la TEP/TC con FDG. Esta obra se distribuye con una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Crédito: Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A. y  van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146. Información obtenida el 2 de agosto de 2024 de <ExternalRef cdr:xref="https://doi.org/10.1530/ETJ-22-0146">https://doi.org/10.1530/ETJ-22-0146</ExternalRef>. Levothyroxine therapy, TSH goal: 0.1-0.5mIU/L^: tratamiento con levotiroxina, objetivo de TSH: 0.1-0.5mIU/L^; Tg and TgAbs on Levothyroxine: tiroglobulina (Tg) y anticuerpos contra la tiroglobulina (TgAb) durante el tratamiento con levotiroxina; Undetectable: indetectable; Detectable (not rising): detectable (sin aumento); High detectable and/or rising^^: muy detectable o en aumento^^; Low-risk patient: paciente de riesgo bajo; non low-risk patient: paciente sin riesgo bajo; Continue follow-up: Tg and TgAbs: seguimiento continuado: Tg y TgAbs; Continue follow-up: Tg and TgAbs and neck ultrasound in first 5 years of follow-up: Seguimiento continuado: Tg y TgAbs, así como ecografía de cuello en los primeros 5 años de seguimiento; Neck ultrasound: ecografía de cuello; Positive: positiva; Negative: negativa; FNB: biopsia con aguja fina; Consider I-123 scan*: considerar gammagrafía con I-123; I-123 scan and/or FDG PET/TC: gammagrafía con I-123 o TEP/TC con FDG; Follow-up Tg and TgAbs every 3-6 months in the 1st year, thereafter yearly: seguimiento de Tg y TgAbs cada 3-6 meses el primer año; después, cada año; Surgery or I-131: cirugía o I-131; Empiric I-131: terapia empírica con I-131.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000790382">Childhood Thyroid Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-26</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Translation of Caption and Cont. Desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the caption and content description; a separate Spanish image will not be created</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

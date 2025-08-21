@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>adjustment disorders</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">The Distress Continuum</LabelName><LabelName language="en">Normal Adjustment</LabelName><LabelName language="en">Adjustment Disorders</LabelName><LabelName language="en">Subthreshold to Mental Disorders</LabelName><LabelName language="en">Diagnosable Mental Disorders (e.g., major depressive disorder)</LabelName><ImageDimensions>
+    <HeightPixels>230</HeightPixels>
+    <WidthPixels>1147</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Margaret Beckwith</Creator>
+   
+   <DateCreated>2010-09-29</DateCreated>
+   
+   
+   <SourceFilename>adjustment disorders.jpg</SourceFilename>
+   <Comment>Added new illustration.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042479">anxiety disorder</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Diagram of the distress continuum showing that psychosocial distress ranges from normal adjustment issues, to adjustment disorders, to a subthreshold to mental disorders, to diagnosable mental disorders (e.g., major depressive disorder).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The distress continuum. Psychosocial distress exists on a continuum that ranges from normal adjustment issues to syndromes that meet the full diagnostic criteria for a mental disorder.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062891">Adjustment to Cancer: Anxiety and Distress;Supportive care;Health professionals</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-12</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-04</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added adjustment disorders.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

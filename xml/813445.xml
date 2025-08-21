@@ -1,0 +1,64 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>MEN1 syndrome</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Body Affected by MEN1 Syndrome</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Parathyroid glands</LabelName><LabelName language="en">Thyroid gland (back view)</LabelName><LabelName language="en">Pancreas</LabelName><ImageDimensions>
+    <HeightPixels>2370</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-08-17</DateCreated>
+   <SourceFilename>MEN1 Syndrome3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-08-21" audience="Internal">Made slight adjustment to canvas size</Comment><Comment user="yousufzaimg" date="2023-08-10" audience="Internal">Removed the second  MEN1 Syndrome title</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Child</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type II – Fair skin</SkinTone>
+  
+ <DateLastReviewed>2023-08-10</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654711">multiple endocrine neoplasia type 1</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows parts of the body affected by MEN1 syndrome, including the pituitary gland, parathyroid glands, and pancreas. There is also an inset that shows the back view of the thyroid gland with the four pea-sized parathyroid glands. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Multiple endocrine neoplasia 1 (MEN1) syndrome is a rare, inherited disorder that affects the endocrine glands or organs. MEN1 syndrome usually causes pituitary gland, parathyroid gland, or pancreas tumors. The tumors may be benign (not cancer) or malignant (cancer).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000270861">multiple endocrine neoplasia type 1 syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

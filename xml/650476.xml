@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, non-Hodgkin, childhood, stage II-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfoma no Hodgkin infantil en estadio II</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Células de linfoma (cancerosas)</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">b</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Apéndice</LabelName><LabelName language="es">a</LabelName><LabelName language="es">d</LabelName><LabelName language="es">c</LabelName><LabelName language="es">c</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels>
+    <WidthPixels>3060</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000633800">lymphoma, non-Hodgkin, childhood, stage II</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Spanish filename: ChildNHLStage2Spanish.jpg.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038957">non-Hodgkin lymphoma</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000043670">childhood non-Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Linfoma no Hodgkin infantil en estadio II; la imagen muestra el cáncer en grupos de ganglios linfáticos por encima o debajo del diafragma, en el hígado y en el apéndice. También se observan el intestino delgado y el colon. En el recuadro se observa un ganglio linfático con un vaso linfático, una arteria y una vena. En el ganglio linfático se observan las células de linfoma (cancerosas).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Linfoma no Hodgkin infantil en estadio II. El cáncer se encuentra en un área fuera de los ganglios linfáticos y en ganglios linfáticos cercanos (a); o en dos o más áreas por encima (b) o debajo (c) del diafragma; o el cáncer empezó en el estómago, el apéndice o los intestinos (d) y se puede extirpar mediante cirugía.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256783">Linfoma no Hodgkin infantil: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000330109">stage II childhood non-Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translation of labels, caption, and content complete.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  <Comment audience="Internal" date="2009-07-30" user="rharrison">Translation of labels complete.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

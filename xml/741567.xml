@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where neuroendocrine tumors form, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Body Where Gastrointestinal Neuroendocrine Tumors Form</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Duodenum</LabelName><LabelName language="en">Jejunum</LabelName><LabelName language="en">Ileum</LabelName><LabelName language="en">Appendix</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Rectum</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-09-03</DateCreated>
+   <SourceFilename>GI NeuroendocrineTumors1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-09-06">Changed title to “Parts of the Body Where Gastrointestinal Neuroendocrine Tumors Form” to align with summary title update</Comment><Comment audience="Internal" date="2012-10-25" user="anjamison">Added bracket for Small intestine label.</Comment><Comment audience="Internal" date="2012-10-25" user="akuhlmann">Color coded the duodenum, jejunum, and ileum to distinguish the different parts of the small intestine; moved the small intestine label, along with the duodenum, jejunum, and ileum labels to the left side of the image;  and moved the colon label to the right side of the image.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Race>White</Race>
+  <SkinTone>Type III – Darker white skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038092">gastrointestinal carcinoid tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of the gastrointestinal tract showing the stomach, small intestine (including the duodenum, jejunum, and ileum), appendix, colon, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Gastrointestinal neuroendocrine tumors form in the lining of the gastrointestinal tract, most often in the small intestine, appendix, or rectum.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258021">Gastrointestinal Carcinoid Tumors Treatment (Adult)</Summary>
+  <Glossary cdr:ref="CDR0000446559">gastrointestinal carcinoid tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-25</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-14</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2012-11-14" user="akuhlmann">Updated to GI.CarcinoidTumor4.jpg</Comment><Comment audience="Internal" date="2012-10-25" user="anjamison">Updated to GI.CarcinoidTumor3.jpg</Comment><Comment>Updated to GI.CarcinoidTumor2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-10-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added new image: GI.CarcinoidTumor1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

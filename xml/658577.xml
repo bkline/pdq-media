@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Merkel - Intermediate variant of MCC</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>566</HeightPixels>
+    <WidthPixels>1978</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <DateCreated>2009-10-30</DateCreated>
+   <SourceFilename>J of Clinical Oncology 20:588-598, 2002</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Intermediate variant of MCC showing vesicular, basophilic nuclei with prominent nucleoli and multiple mitoses: Three color slides showing intermediate variant of MCC, small-cell variant, and trabecular variant. This is actually Figure 5 because Table 2  had to be a Figure (4) because of CDR (8-col.) constrictions and permission restrictions.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 4. (A) Intermediate variant of MCC showing vesicular, basophilic nuclei with prominent nucleoli and multiple mitoses. (B) Small-cell variant, histologically indistinguishable from bronchial small-cell carcinoma. (C) Trabecular variant is rare and normally only seen as a small component of a mixed variant. Goessling W et al: Merkel Cell Carcinoma, J Clin Oncol, 20 (2), pp. 588–98. Reprinted with permission. © 2009 American Society of Clinical Oncology. All rights reserved</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062884">Merkel Cell Carcinoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-10-30</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

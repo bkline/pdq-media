@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>BRAF-RAS pathway</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Growth factor Receptor</LabelName><LabelName language="en">GRB2</LabelName><LabelName language="en">SOS</LabelName><LabelName language="en">RAS</LabelName><LabelName language="en">CRAF</LabelName><LabelName language="en">ARAF</LabelName><LabelName language="en">BRAF</LabelName><LabelName language="en">MEK</LabelName><LabelName language="en">ERK</LabelName><LabelName language="en">Negative Feedback</LabelName><LabelName language="en">Cell Cycle Regulation</LabelName><LabelName language="en">Transcriptional Regulation</LabelName><ImageDimensions>
+    <HeightPixels>827</HeightPixels>
+    <WidthPixels>650</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Rikhia Chakraborty Ph.D</Creator>
+   <DateCreated>2014-05-21</DateCreated>
+   <SourceFilename>BRAF RAS Pathway_R Chakraborty Ph.D</SourceFilename>
+  <Comment audience="Internal" date="2014-05-22" user="akuhlmann">Figure courtesy of Rikhia Chakraborty Ph.D. Permission to reuse the figure in any form must be obtained directly from Dr. Chakraborty.</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000600550">Langerhans Cell Histiocytosis Treatment</Summary>
+     
+    </ApprovedUse>
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested><Comment audience="Internal" date="2014-05-22" user="akuhlmann">Permission not needed- figure courtesy of Rikhia Chakraborty Ph.D. Okay to translate.</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000641624">Langerhans cell histiocytosis</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">BRAF-RAS pathway</ContentDescription>
+  </ContentDescriptions>
+  
+ <Comment audience="Internal" date="2014-05-22" user="akuhlmann">Per Sharon, a caption will not be used for this image.</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000600550">Langerhans Cell Histiocytosis Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-05-22</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

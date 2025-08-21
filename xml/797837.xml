@@ -1,0 +1,63 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>digestive tract anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Digestive Tract</LabelName><LabelName language="en">Mouth</LabelName><LabelName language="en">Pharynx (throat)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Large intestine</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Anus</LabelName><ImageDimensions>
+    <HeightPixels>3225</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-03-27</DateCreated>
+   <SourceFilename>DigestiveTractAsianNon-binary5.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2023-03-27">Changed figure to a middle-aged adult and re-shaped the eyebrows to be a bit fuller and less arch shaped</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-02-28">Add East Asian features</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-11-28">Changed figure to male</Comment><Comment audience="Internal" date="2020-09-15" user="yousufzaimg">Made the pharynx region the same color as the rest of the organs</Comment><Comment audience="Internal" date="2020-09-14" user="yousufzaimg">Removed the faded liver and other organs that aren’t labeled</Comment><Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Removed outline of the woman’s hair</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the digestive tract; drawing shows the mouth, pharynx (throat), esophagus, stomach, small intestine, large intestine, rectum, and anus.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the digestive tract. The digestive tract is made up of organs that food and liquids travel through when they are swallowed, digested, absorbed, and leave the body as feces. These organs include the mouth, pharynx (throat), esophagus, stomach, small intestine, large intestine, rectum, and anus.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046447">digestive tract</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-03-27</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment user="kuhlmanna" audience="Internal" date="2023-03-27">Updated image to DigestiveTractAsianNon-binary5.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-02-28">Updated image to DigestiveTractAsianNon-binary4.jpg</Comment><Comment audience="Internal" date="2020-09-15" user="yousufzaimg">Updated image to DigestiveTractAsianNon-binary3.jpg</Comment><Comment audience="Internal" date="2020-09-14" user="yousufzaimg">Updated image to DigestiveTract3.jpg</Comment><Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Updated image to DigestiveTract2.png</Comment><Comment>Added DigestiveTract1.png</Comment>
+  </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

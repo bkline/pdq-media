@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mastectomy, modified radical, male-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Mastectomía radical modificada</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">Pared  torácica</LabelName><LabelName language="es">Costillas</LabelName><LabelName language="es">Músculo</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Tumor</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000723802">mastectomy, modified radical, male</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ModRadicalMastectomyMaleSpanish3.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041338">male breast cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   <Topic cdr:ref="CDR0000041338">male breast cancer</Topic>
+  </Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Mastectomía radical modificada. En la imagen  de la izquierda una línea de puntos señala la zona que se extirpa, abarca toda la mama y la mayoría de los ganglios linfáticos de la axila. En  la imagen  de la derecha se observa un corte transversal de la mama que incluye el tejido graso y  la pared torácica (costillas y músculo). También se muestra un tumor en la mama.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Mastectomía radical modificada. La línea de puntos señala la zona que se extirpa, abarca toda la mama y la mayoría de los ganglios linfáticos de la axila. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256841">Tratamiento del cáncer de seno (mama) masculino</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked image, revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-13</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000723802">mastectomy, modified radical, male</TranslationOf></Media>

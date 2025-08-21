@@ -1,0 +1,91 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cystoscopy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cistoscopia</LabelName><LabelName language="es">Cistoscopio</LabelName><LabelName language="es">Líquido</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Ano</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Útero</LabelName>
+  <LabelName language="es">Líquido llenando la vejiga</LabelName><ImageDimensions>
+    <HeightPixels>2850</HeightPixels>
+    <WidthPixels>2888</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000649521">cystoscopy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CystoscopySpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cistoscopia. En la imagen se muestra una vista lateral de la pelvis inferior donde se encuentran la vejiga, el útero, la vagina, el recto y el ano.   Se muestra un cistoscopio (instrumento delgado en forma de tubo, con una luz y una lente para observar) que pasa a través de la uretra hasta la vejiga. Se usa un  líquido para llenar la vejiga. En el recuadro se observa a una mujer con una sábana, acostada en una camilla con las rodillas dobladas y las piernas separadas. El médico observa una imagen de la pared interna de la vejiga en el monitor de una computadora para verificar si hay áreas anormales.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Cistoscopia. Se introduce un cistoscopio (instrumento delgado en forma de tubo, con una luz y una lente para observar) a través de la uretra hasta la vejiga. Se usa un líquido para llenar la vejiga. El médico observa una imagen de la pared interna de la vejiga en el monitor de una computadora para verificar si hay áreas anormales.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256808">Tratamiento del cáncer de vejiga</Summary>
+  <Summary cdr:ref="CDR0000452956">Tratamiento del cáncer de vagina</Summary><Summary cdr:ref="CDR0000752320">Exámenes de detección del cáncer de vejiga y otros cánceres uroteliales</Summary><Glossary cdr:ref="CDR0000045988">cystoscopy</Glossary>
+ <Glossary cdr:ref="CDR0000046455">cystoscope</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent label to Terese and requested skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-16</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Lables, caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised label and caption and content</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image with new titled image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-24</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-07-07" user="dbuchhagen">Updated image to CystoscopySpanish3.jpg.</Comment><Comment audience="Internal" date="2010-07-02" user="dbuchhagen">Updated image to CystoscopySpanish2.jpg.</Comment><Comment>Added image CystoscopySpanish.jpg.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-24</ProcessingStatusDate>
+        <EnteredBy>VID</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-05-17" user="dbuchhagen">Added translation for Fluid filling the bladder.</Comment><Comment audience="Internal" date="2010-03-25" user="lsaucedo">Translation QC</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000649521">cystoscopy</TranslationOf></Media>

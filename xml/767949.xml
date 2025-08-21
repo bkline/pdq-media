@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Hematopoietic Cell Transplantation - Phases of Predictable Immune Suppression and Associated Opportunistic Infections</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Phases of Predictable Immune Suppression and Associated Opportunistic Infections</LabelName><LabelName language="en">Engraftment</LabelName><LabelName language="en">Day 60</LabelName><LabelName language="en">Day 90</LabelName><LabelName language="en">Day 180</LabelName><LabelName language="en">1 year</LabelName><LabelName language="en">Immune System Defects</LabelName><LabelName language="en">Neutropenia</LabelName><LabelName language="en">Lymphopenia</LabelName><LabelName language="en">Hypogammaglobulinemia</LabelName><LabelName language="en">Transplant-related Factors Contributing to Infection</LabelName><LabelName language="en">Mucositis</LabelName><LabelName language="en">VOD</LabelName><LabelName language="en">Central line</LabelName><LabelName language="en">Thrombocytopenia</LabelName><LabelName language="en">Idiopathic pneumonia</LabelName><LabelName language="en">Acute GVHD</LabelName><LabelName language="en">Chronic GVHD</LabelName><LabelName language="en">High Incidence Infections</LabelName><LabelName language="en">HSV</LabelName><LabelName language="en">Adenovirus</LabelName><LabelName language="en">CMV</LabelName><LabelName language="en">VZV</LabelName><LabelName language="en">Candida</LabelName><LabelName language="en">Early aspergillus</LabelName><LabelName language="en">Late aspergillus</LabelName><LabelName language="en">Viridans group streptococci</LabelName><LabelName language="en">Facultative gram negative</LabelName><LabelName language="en">Coagulase negative staphylococci</LabelName><LabelName language="en">Low Incidence Infections</LabelName><LabelName language="en">Encapsulated bacteria</LabelName><LabelName language="en">Pneumocystis</LabelName><LabelName language="en">Respiratory and enteric viruses (episodic, endemic)</LabelName><LabelName language="en">Epstein-Barr virus lymphoproliferative disease</LabelName><LabelName language="en">Toxoplasma</LabelName><LabelName language="en">Stronglyloides Cryptosporidia</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Clinical Oncology</Creator>
+   <SourcePublication>Clinical Oncology, 3rd edition, Abeloff et al., Chapter: Infection in the severely immunocompromised patient, Pages 941–956, Copyright Elsevier (2004)</SourcePublication><DateCreated>2015-06-25</DateCreated>
+   <SourceFilename>Phases of Predictable Immune Suppression and Associated Opportunistic Infections2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-06-25" user="kuhlmanna">Changed colors in figure to match the original figure</Comment><Comment audience="Internal" date="2015-06-24" user="kuhlmanna">Figure recreated by Terese from Clinical Oncology textbook</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionRequestDate>2015-04-09</PermissionRequestDate><PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    
+    
+    <PermissionResponseDate>2015-05-08</PermissionResponseDate><PublisherPermissionText>Adapted from Burik and Freifeld. This figure was published in Clinical Oncology, 3rd edition, Abeloff et al., Chapter: Infection in the severely immunocompromised patient, Pages 941–956, Copyright Elsevier (2004)</PublisherPermissionText><SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000767953">Infection in the severely
+immunocompromised
+patient</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing phases of predictable immune suppression and associated opportunistic infections among allogeneic hematopoietic stem cell transplantation recipients.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Phases of predictable immune suppression with their opportunistic infections among allogeneic hematopoietic stem cell transplantation recipients. Adapted from Burik and Freifeld. This figure was published in Clinical Oncology, 3rd edition, Abeloff et al., Chapter: Infection in the severely immunocompromised patient, Pages 941–956, Copyright Elsevier (2004).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000700000">Childhood Hematopoietic Cell Transplantation</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-06-24</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  <Comment audience="Internal" date="2015-06-24" user="kuhlmanna">Added Phases of Predictable Immune Suppression and Associated Opportunistic Infections1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000773177">Abeloff_Ch HCT_CopyrightPermissions_2015-06-10</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

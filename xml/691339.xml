@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, child, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Meninges</LabelName><LabelName language="es">Cráneo</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Ventrículos (espacios llenos de líquido)</LabelName><LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Bulbo raquídeo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2820</HeightPixels>
+    <WidthPixels>2625</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000686379">brain, child, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BrainLateralChildSpanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2011-01-04" user="lsaucedo">Added image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041539">childhood brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Dibujo de la anatomía del encéfalo que muestra el tronco encefálico, la protuberancia, el bulbo raquídeo, la médula espinal, el cerebelo, el cerebro, las meninges, los ventrículos (espacios llenos de líquido) y el cráneo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del encéfalo, que muestra el cerebro, el cerebelo, el tronco encefálico y otras partes del encéfalo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000600419">Descripción del tratamiento de tumores de encéfalo y de médula espinal infantiles</Summary><Summary cdr:ref="CDR0000256776">Tratamiento del glioma de tronco encefálico infantil</Summary>
+  <Glossary cdr:ref="CDR0000387264">brain tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-03-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Changed figure to a child so that it matches the corresponding English version</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-12-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, caption and content description QCd</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-12-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translated</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000686379">brain, child, anatomy</TranslationOf></Media>

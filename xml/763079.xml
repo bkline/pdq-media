@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>multiple myeloma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Multiple Myeloma</LabelName><LabelName language="en">Red marrow where plasma cells are made</LabelName><LabelName language="en">Bone</LabelName><LabelName language="en">Normal plasma cells</LabelName><LabelName language="en">Antibodies</LabelName><LabelName language="en">Multiple myeloma cells (abnormal plasma cells)</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-11-17</DateCreated>
+   <SourceFilename>MultipleMyelomaAC6.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-18" user="myousufzai">Added the word “cells” in the label above the myeloma cells [Multiple myeloma cells (abnormal plasma cells)]</Comment><Comment audience="Internal" date="2014-11-06" user="myousufzai">Changed label “Spongy bone (contains red marrow)” to  “Red marrow where plasma cells are made”; changed label  "Compact bone" to “Bone”; removed "Yellow marrow" label; changed label "Antibody" to "Antibodies"; changed label “Abnormal plasma cells in multiple myeloma” to “Multiple myeloma (abnormal plasma cells)”; and changed title of image to “Multiple Myeloma”</Comment><Comment audience="Internal" date="2014-10-21" user="myousufzai">Removed some of the antibodies from the lower part of the figure and added several more abnormal plasma cells; changed the top label to say “Normal plasma cells” and the bottom label to say “Abnormal plasma cells in multiple myeloma”.</Comment><Comment audience="Internal" date="2014-08-12" user="myousufzai">Changed title to “Multiple Myeloma Cells”; Changed “produce” to “make” in the label for normal plasma cells.</Comment><Comment audience="Internal" date="2014-07-28" user="myousufzai">Changed the title to “Myeloma Cells in the Bone Marrow”; took out the middle part of the illustration (labelled Compact bone); cut off the part of the long bone about an inch or so below where the cut out part begins; added a few more normal plasma cells and changed the label to say “Normal plasma cells make antibodies”; and added a few more multiple myeloma cells making lots of antibodies and changed the label to say “Multiple myeloma plasma cells make more antibodies than normal cells”.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037974">multiple myeloma and other plasma cell neoplasms</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Multiple myeloma; drawing shows normal plasma cells, multiple myeloma cells (abnormal plasma cells), and antibodies. Also shown is red marrow inside bone, where plasma cells are made. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Multiple myeloma. Multiple myeloma cells are abnormal plasma cells (a type of white blood cell) that build up in the bone marrow and form tumors in many bones of the body. Normal plasma cells make antibodies to help the body fight infection and disease. As the number of multiple myeloma cells increases, more antibodies are made. This can cause the blood to thicken and keep the bone marrow from making enough healthy blood cells. Multiple myeloma cells also damage and weaken the bone.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258195">Plasma Cell Neoplasms (Including Multiple Myeloma) Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045793">multiple myeloma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-18</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-03</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Rick Manrow</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-30</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment audience="Internal" date="2014-11-18" user="myousufzai">Updated image to MultipleMyelomaAC6.jpg</Comment><Comment audience="Internal" date="2014-11-06" user="myousufzai">Updated image to MultipleMyelomaAC5.jpg</Comment><Comment audience="Internal" date="2014-11-04" user="akuhlmann">Updated image to MultipleMyelomaAC4.jpg</Comment><Comment audience="Internal" date="2014-08-12" user="myousufzai">Updated image to MultipleMyelomaAC3.jpg</Comment><Comment>Added MultipleMyelomaAC2.jpg</Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000765054">Illustration Review Sheet: multiple myeloma cells</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

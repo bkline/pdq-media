@@ -1,0 +1,124 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IA</LabelName><LabelName language="es">El tumor mide 3 cm o menos</LabelName><LabelName language="es">3 cm</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Diafragma</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000520459">lung cancer, stage IA</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>LungStage1A MaleEastAsianFP II Spanish2.jpg</SourceFilename><Comment audience="Internal" date="2010-10-14" user="lsaucedo">Uploaded LungStageIAandBRev.Spanish.jpg with new and revised labels</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded LungStageIAandBSpanish2.jpg with new copyright information.</Comment>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IA. En la imagen se observa un tumor que mide 3 cm o menos en el pulmón derecho.  También se observan los ganglios linfáticos, la tráquea, la pleura y el diafragma.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IA. En la imagen se observa un tumor que mide 3 cm o menos en el pulmón derecho.  También se observan los ganglios linfáticos, la tráquea, la pleura y el diafragma.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IA. El tumor se encuentra solo en el pulmón y mide 3 cm o menos.  El cáncer no se diseminó a los ganglios linfáticos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IA. El tumor se encuentra solo en el pulmón y mide 3 cm o menos.  El cáncer no se diseminó a los ganglios linfáticos.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045349">stage IA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image. Image was centered as per changes to EN version.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image with skin tone changes and gender</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed new image; ready for QC of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels, captions and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Caption revised.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment audience="Internal" date="2010-10-14" user="lsaucedo">Illustration revised and linked to Media doc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>2010-10-11</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description revised</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-01-25 Spanish labels added to images; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-01-08</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-02-20 captions and content descriptions completed; mm 2007-01-18 Label translations completed; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000520459">lung cancer, stage IA</TranslationOf></Media>

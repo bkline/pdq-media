@@ -1,0 +1,159 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lumpectomy, female-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Lumpectomía</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">O</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Revestimiento de la pared torácica</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2325</HeightPixels><WidthPixels>3165</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000415521">lumpectomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Lumpectomy FP III and V2 Spanish1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-06-12" user="saucedol">Image revised and replaced</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2022-10-24</DateLastReviewed></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2022-10-24</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+   <Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   
+   <ContentDescription audience="Patients" language="es">Lumpectomía. En el dibujo se observan las mamas (senos) de una mujer. En la mama de la izquierda se señala con una línea punteada el tumor que se extirpará y una parte de tejido normal que lo rodea. En la mama de la derecha se señalan con líneas punteadas las áreas que se extirparán: algunos ganglios linfáticos de la axila, el tumor y parte del revestimiento de la pared torácica cerca del tumor. También se observa una ampliación de la vista lateral de la mama donde se muestra el tejido graso mamario.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   
+   <MediaCaption audience="Patients" language="es">Lumpectomía. Se extirpa el tumor y parte del tejido que lo rodea, pero no se extirpa toda la mama (seno). Es posible que se extirpen algunos ganglios linfáticos de la axila y cuando el cáncer está cerca de la pared torácica a veces también se extirpa una parte del revestimiento de esta pared.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProposedUse>
+       <Summary cdr:ref="CDR0000256762">Tratamiento del cáncer de seno (mama)</Summary>
+       <Summary cdr:ref="CDR0000256843">Tratamiento del cáncer de seno (mama) durante el embarazo</Summary><Glossary cdr:ref="CDR0000045626">breast-conserving surgery</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-05-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-05-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent revised label to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-16</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revision of Labels, Cont. Descr. and Caption per SEO breast</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and content revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-09</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist to revise with skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-08</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC</Comment>
+       <Comment audience="Internal" date="2019-07-08" user="adlerm2">Me parecen bien tus sugerencias pero usaría "indica" en vez de "delinear", y "zonas que se extirparán" en vez de "de extirpación". Como las marcas iniciales eran mías, pasé las marcas a rojo para no confundir tanto.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-06-18" user="lansberryic">Translation QC</Comment><Comment>Revised content and captions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Caption and content description revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-09</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        <Comment audience="Internal" date="2015-07-09" user="imasduchovnyv">Revision of caption and content description done.</Comment><Comment>Image replaced, revision to caption and content description pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-24</ProcessingStatusDate>
+        <EnteredBy>Mvalencia</EnteredBy>
+        <Comment>Revised translation for "chest wall"</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spanish illustration added and translations QCd.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-29</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spn labels pending</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000415521">lumpectomy</TranslationOf></Media>

@@ -1,0 +1,103 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIA (1)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA Lung Cancer (1)</LabelName><LabelName language="en">Cancer in lymph nodes around trachea</LabelName><LabelName language="en">Carina</LabelName><LabelName language="en">Left main bronchus</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Primary tumor is 5 cm or smaller</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">Membrane covering the lung</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Part or all of the lung has collapsed or has pneumonitis</LabelName><LabelName language="en">c</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-04-27</DateCreated>
+   
+   
+   <SourceFilename>LungStage3APart1 MaleFP VI.2.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2022-04-28">Added color to two ribs on the lower right side of the figure</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Made figure male, updated skin tone to FP V</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Revised name credit</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Adjusted overall canvas size</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Changed the wording in the top right inset to say “Primary tumor is 5 cm or smaller”; and added a label for Pleura on the bottom left side of the figure. </Comment><Comment audience="Internal" date="2018-10-29" user="kuhlmanna">No additional changes made to image</Comment><Comment audience="Internal" date="2018-10-01" user="kuhlmanna">Changed the title to Stage IIIA Lung Cancer (1); made the label “Cancer in lymph nodes around trachea” the same size as the other labels; changed the letter “c” in the main figure to an “a” and moved it up; changed the letter “ c” in the lower inset to a “b”; moved the cancer spot and small box that has the lines to the lower inset up in the main figure so that the cancer spot in the small box is up closer to the main primary cancer spot;   changed the letter “e” in the main figure to a “c”; and changed the label “Part or all of the lung has collapsed” to  “Part or all of the lung has collapsed or has pneumonitis” and removed the “e.” in front of the label. </Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2010-09-17" user="anjamison">Replaced "(part 1)" with "(1)".</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038938">stage IIIA non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIA lung cancer (1); drawing shows a primary tumor (5 cm or smaller) in the left lung (top inset) and cancer in lymph nodes around the trachea. Also shown is cancer that has spread to (a) the left main bronchus and (b) the membrane covering the lung (bottom inset). Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina, pleura, and a rib (bottom inset) are also shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIA lung cancer (1); drawing shows a primary tumor (5 cm or smaller) in the left lung (top inset) and cancer in lymph nodes around the trachea. Also shown is cancer that has spread to (a) the left main bronchus and (b) the membrane covering the lung (bottom inset). Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina, pleura, and a rib (bottom inset) are also shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA lung cancer (1). The tumor is 5 centimeters or smaller and cancer has spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are around the trachea or aorta (not shown),  or where the trachea divides into the bronchi. Also, one or more of the following may be found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIA lung cancer (1). The tumor is 5 centimeters or smaller and cancer has spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are around the trachea or aorta (not shown), or where the trachea divides into the bronchi. Also, one or more of the following may be found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045367">stage IIIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-26</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Updated image to LungStage3APart1 MaleFP VI.1.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage3APart1Rev9.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage3APart1Rev8.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated to LungStage3APart1Rev7.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated to LungStage3APart1Rev6.jpg</Comment><Comment audience="Internal" date="2018-10-01" user="kuhlmanna">Updated to LungStage3APart1Rev5.jpg</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Updated to LungStage3APart1Rev4.jpg</Comment><Comment>Updated to LungStage3AaRev3.jgp.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-05-29" user="kuhlmanna">Changes to caption only</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added Supp Info Doc for revisions to stage IIIA part 1.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-02-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-10-20</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000682113">Sample illustration: NSCLC stage IIIA part 1</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000798319">Illustration Review Sheet: non-small cell lung cancer stage IIIA (1)</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000538078">Illustration Review Sheet: NSCLC Stage IIIA</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments></Media>

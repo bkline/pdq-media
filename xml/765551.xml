@@ -1,0 +1,101 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>stem cell transplant, donor-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Se extraen células madre formadoras de sangre del donante</LabelName><LabelName language="es">Células madre</LabelName><LabelName language="es">Máquina de aféresis</LabelName><LabelName language="es">El paciente recibe un tratamiento para destruir células cancerosas y preparar el cuerpo para recibir las células madre del donante</LabelName><LabelName language="es">Quimioterapia</LabelName><LabelName language="es">El paciente recibe las células madre del donante</LabelName>
+  <LabelName language="es">Células madre</LabelName><ImageDimensions>
+    <HeightPixels>1530</HeightPixels><WidthPixels>3120</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000765030">stem cell transplant, donor</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>DonorStemCellTransplantSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>Black or African American</Race><SkinTone>Type VI – Dark brown or black skin</SkinTone></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category><Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041186">leukemia</Diagnosis><Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Trasplante de células madre de un donante. Se observan tres paneles. Panel 1: en el dibujo se muestra la extracción de células madre del torrente sanguíneo de una donante mediante una máquina de aféresis. Se extrae sangre de una vena del brazo y se la hace pasar por la máquina que separa las células madre. La sangre que queda se devuelve a la donante por una vena del otro brazo. Panel 2: en el dibujo se observa a una proveedora de atención de la salud que administra una infusión de quimioterapia a un paciente mediante un catéter en el tórax. La quimioterapia se administra para destruir células cancerosas y preparar el cuerpo del paciente para recibir las células madre del donante. Panel 3: en el dibujo se observa a un paciente que recibe una infusión de las células madre del donante a través de un catéter en el tórax.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Trasplante de células madre de un donante. Paso 1: cuatro o cinco días antes de la extracción de las células madre del donante, este recibe un medicamento para aumentar el número de células madre que circulan por el torrente sanguíneo (no se muestra). A continuación, se extraen las células madre formadoras de sangre del donante a través de una vena grande de un brazo. La sangre pasa por una máquina de aféresis que separa las células madre y luego, el resto de la sangre, se devuelve al donante por una vena del otro brazo. Paso 2: el paciente recibe quimioterapia para eliminar las células cancerosas y preparar el cuerpo para recibir las células madre del donante. Es posible que el paciente también reciba radioterapia (no se muestra). Paso 3: el paciente recibe una infusión de las células madre del donante.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000256789">Tratamiento de la leucemia linfoblástica aguda en adultos</Summary><Summary cdr:ref="CDR0000256790">Tratamiento de la leucemia mieloide aguda</Summary><Summary cdr:ref="CDR0000420913">Tratamiento del linfoma relacionado con el SIDA</Summary>
+  <Summary cdr:ref="CDR0000256765">Tratamiento de la leucemia linfoblástica aguda infantil</Summary><Summary cdr:ref="CDR0000256797">Tratamiento de la leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles</Summary><Summary cdr:ref="CDR0000256783">Tratamiento del linfoma no Hodgkin infantil</Summary><Summary cdr:ref="CDR0000256791">Tratamiento de la leucemia mielógena crónica</Summary><Summary cdr:ref="CDR0000420952">Tratamiento de las neoplasias mieloproliferativas crónicas</Summary><Summary cdr:ref="CDR0000426393">Tratamiento de los síndromes mielodisplásicos</Summary><Summary cdr:ref="CDR0000453835">Tratamiento de las neoplasias mielodisplásicas o mieloproliferativas</Summary><Summary cdr:ref="CDR0000429622">Tratamiento de las neoplasias de células plasmáticas (incluso mieloma múltiple)</Summary><Summary cdr:ref="CDR0000256799">Tratamiento del cáncer de testículo</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-29</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image looks good</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-23</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised image and caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-22</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Revised image, caption, content description, and media doc title</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised caption and content description, linked revised image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-01</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised caption for readability and consistency; revised one label</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000765030">stem cell transplant, donor</TranslationOf></Media>

@@ -1,0 +1,104 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon cancer stage IV</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Colon cancer has spread to other parts of the body:</LabelName><LabelName language="en">Distant lymph nodes</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Abdominal wall</LabelName><LabelName language="en">Colon</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-02-04</DateCreated>
+   
+   
+   <SourceFilename>ColonCaStage4 FP VI.4.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2022-02-07">Removed the Prostate label and faded out the prostate</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-01-20">Removed the brain image and label</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Diversity project: Changed female to an older male (with a face), darkened skin tone, and added "Prostate" label</Comment><Comment audience="Internal" date="2018-04-16" user="kuhlmanna">Changed image title to "Stage IV"</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2016-02-23" user="yousufzaimg">Removed the bone from the person’s right leg</Comment><Comment audience="Internal" date="2016-02-08" user="yousufzaimg">Removed lines connecting the inset box to the primary tumor on the main figure; shaded in the area connecting the primary tumor in the inset box to the primary tumor on the main figure; changed label "Cancer in the colon" to just "Colon"</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Changed the title to say Stage IV Colon Cancer</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Moved the inset box down so that it isn’t so close to the Stage IV title; changed label in box to say “Metastatic cancer”</Comment><Comment audience="Internal" date="2015-11-30" user="yousufzaimg">Replaced metastasis inset with a new inset from the Metastasis image</Comment><Comment audience="Internal" date="2010-11-18" user="anjamison">Updated credit year to 2011.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038760">stage IV colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV colon cancer; drawing shows other parts of the body where colon cancer may spread, including the distant lymph nodes, lung, liver, and abdominal wall. An inset shows cancer cells spreading from the colon, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IV colon cancer; drawing shows other parts of the body where colon cancer may spread, including the distant lymph nodes, lung, liver, and abdominal wall. An inset shows cancer cells spreading from the colon, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV colon cancer. Cancer has spread to other parts of the body, such as the lung, liver, abdominal wall, ovary (not shown), or distant lymph nodes.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IV colon cancer. Cancer has spread to other parts of the body, such as the lung, liver, abdominal wall, ovary (not shown), or distant lymph nodes.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062954">Colon Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045893">stage IV colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" audience="Internal" date="2022-01-20">Updated to ColonCaStage4 FP VI.3.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Updated to ColonCaStage4 FP VI.2.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-04-16" user="kuhlmanna">Updated to ColonCaStageRev4.15.jpg</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Updated to ColonCaStageRev4.14.jpg</Comment><Comment audience="Internal" date="2016-03-21" user="kuhlmanna">Updated to ColonCaStageRev4.13.jpg</Comment><Comment>Updated to ColonCaStageRev4.12.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-29</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added ColonCaStageRev4AB.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

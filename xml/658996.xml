@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage II - Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estadio IIA</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Trompas de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Estadio IIB</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Estadio II</LabelName><LabelName language="es">Cáncer en el peritoneo pélvico</LabelName><LabelName language="es">Peritoneo</LabelName><LabelName language="es">Cáncer primario de peritoneo</LabelName><ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000618027">ovarian cancer stage II</MediaID>
+    </FromCdrMedia>
+   </FromObject><SourceFilename>OFPStageI2ABCSpanish.jpeg</SourceFilename><Comment audience="Internal" date="2016-02-01" user="saucedol">Linked revised image</Comment><Comment audience="Internal" date="2011-10-21" user="lsaucedo">Linked revised image, OvarianCaStage2ABCSpanish2</Comment><Comment audience="Internal" date="2010-01-15" user="dbuchhagen">Spanish filename: OvarianCaStage2ABCSpanish.jpg</Comment>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000043701">ovarian epithelial cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040968">fallopian tube cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040969">primary peritoneal cavity cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Figura de tres paneles para el cáncer primario de peritoneo en estadios IIA, IIB y II; el primer panel (estadio IIA) muestra  cáncer en el interior de ambos ovarios que se diseminó hasta el útero y las trompas de Falopio. El segundo panel (estadio IIB) muestra cáncer en el interior de ambos ovarios que se diseminó hasta el  colon. El tercer panel (cáncer primario de peritoneo en estadio II) muestra cáncer en el peritoneo pélvico. También se muestran el cuello uterino y la vagina.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Figura de tres paneles para el cáncer primario de peritoneo en estadios IIA, IIB y II; el primer panel (estadio IIA) muestra  cáncer en el interior de ambos ovarios que se diseminó hasta el útero y las trompas de Falopio. El segundo panel (estadio IIB) muestra cáncer en el interior de ambos ovarios que se diseminó hasta el  colon. El tercer panel (cáncer primario de peritoneo en estadio II) muestra cáncer en el peritoneo pélvico. También se muestran el cuello uterino y la vagina.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">En el estadio IIA, el cáncer se encuentra en  uno o ambos ovarios o las trompas de Falopio y se diseminó hasta el útero o las trompas de Falopio o los ovarios. En el estadio IIB, el cáncer se encuentra en  uno o ambos ovarios o trompas de Falopio y se diseminó hasta el colon. En el cáncer primario de peritoneo, el cáncer se encuentra en el peritoneo pélvico y no procede de otra parte del cuerpo. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">En el estadio IIA, el cáncer se encuentra en  uno o ambos ovarios o las trompas de Falopio y se diseminó hasta el útero, las trompas de Falopio o los ovarios. En el estadio IIB, el cáncer se encuentra en  uno o ambos ovarios o trompas de Falopio y se diseminó hasta el colon. En el cáncer primario de peritoneo, el cáncer se encuentra en el peritoneo pélvico y no procede de otra parte del cuerpo.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256785">Cáncer epitelial de ovario, de trompa de Falopio y primario de peritoneo: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000045900">stage II ovarian epithelial, fallopian tube, and primary peritoneal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-01-26" user="saucedol">Revised labels sent to Terese</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised labels sent to Terese. Revised caption and content description.  </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-12</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>2010-01-14; Spanish image from artist.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-05</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy>
+   
+  <Comment audience="Internal" date="2010-01-15" user="dbuchhagen">Corrected label name (capital F in falopio) and added language attribute.</Comment><Comment audience="Internal" date="2010-01-15" user="dbuchhagen">2010-01-15; Translation complete.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

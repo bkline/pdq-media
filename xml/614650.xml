@@ -1,0 +1,117 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, adult, stage IIE</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIE Adult Lymphoma</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Cancer spread to nearby area</LabelName><LabelName language="en">Lung</LabelName><ImageDimensions>
+    <HeightPixels>3144</HeightPixels>
+    <WidthPixels>2970</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2019-06-03</DateCreated>
+   
+   <SourceFilename>Stage2EAdultLymphoma5.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Moved the diaphragm up so that more of the liver is exposed and added label for Lung, per expert reviewer</Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Removed purple liver and added thymus</Comment><Comment audience="Internal" date="2019-03-04" user="yousufzaimg">Changed title to Stage IIE Adult Lymphoma; and changed label next to lymph node pull out to say “Cancer” instead of “Lymphoma cells (Cancer)”</Comment><Comment audience="Internal" date="2019-02-05" user="yousufzaimg">Revised image per AJCC 8th edition</Comment><Comment audience="Internal" date="2009-05-20" user="rharrison">Made cancer in lung smaller per reviewer comment.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000040480">stage II adult non-Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000736131">stage II AIDS-related lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000041815">stage II adult Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIE adult lymphoma; drawing shows cancer that has spread from a group of lymph nodes to a nearby area. Also shown is a lung and the diaphragm.   An inset shows a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown in the lymph node.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIE adult lymphoma; drawing shows cancer that has spread from a group of lymph nodes to a nearby area. Also shown is a lung and the diaphragm.   An inset shows a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown in the lymph node.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIE adult lymphoma. Cancer has spread from a group of lymph nodes to a nearby area that is outside the lymph system. Cancer may have spread to other lymph node groups on the same side of the diaphragm.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIE adult lymphoma. Cancer has spread from a group of lymph nodes to a nearby area that is outside the lymph system. Cancer may have spread to other lymph node groups on the same side of the diaphragm.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062958">Adult Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257991">Adult Hodgkin Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045907">stage II adult non-Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000416103">stage II AIDS-related lymphoma</Glossary><Glossary cdr:ref="CDR0000045896">stage II adult Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Updated image to Stage2EAdultLymphoma4.jpg</Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Updated image to Stage2EAdultLymphoma3.jpg</Comment><Comment audience="Internal" date="2019-03-04" user="yousufzaimg">Updated image to Stage2EAdultLymphoma1.jpg</Comment><Comment audience="Internal" date="2019-02-05" user="yousufzaimg">Updated to Stage2EAdultNHLymphoma4.jpg</Comment><Comment audience="Internal" date="2009-05-06" user="rharrison">Updated to Stage2EAdultNHLymphoma2.jpg</Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Updated to Stage2EAdultNHLymphoma.jpg</Comment><Comment audience="Internal" date="2009-04-06" user="dbuchhagen">Updated to Stage2EAdultLymphoma.jpg.</Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to NHLstage2E.5.jpg, ready for review</Comment><Comment audience="Internal" date="2009-01-12" user="rharrison">Updated to NHLstage2E.4.jpg</Comment><Comment>2008-12-15; updated image to NHLstage2E.3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-21</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-05-21" user="dbuchhagen">Revised caption per OCCM.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-05-19" user="rharrison">Changes approved by Dr. Levis.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-15</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent back to Dr. Levis.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Disapproved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Reviewer comment: The illustration looks like a primary lung cancer with mediastinal lymph node involvement.  Hodgkins usually causes much larger lymph nodes, and, when E disease is present, has a smaller amount of malignant material extending into, or contiguous with, the involved node.  In the current illustration, the extranodal material is much larger in bulk than what is depicted involving the nodes.  So, while the illustration is technically correct, it is not a very realistic depiction of extranodal disease.  I would suggest changing the illustration to one with larger nodes in bulk, and some smaller amount of cancer in the adjacent lung parenchyma.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent to Mark Levis.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-09</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-04-20" user="rharrison">Revisions approved.</Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Revised caption and content desc. to reflect changes. </Comment><Comment audience="Internal" date="2009-01-12" user="rharrison">Minor edits to caption - moved letters (a, b) to follow text they refer to. Revised sentences re: B- and T-cells in content description. </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-12-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-09-10</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000642597">Illustration Review Sheet: Adult NHL Hodgkin Lymphoma stage IIE</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000796970">Sample Illustration: adult lymphoma AJCC 8th edition changes</SupplementaryInfoLink></RelatedDocuments></Media>

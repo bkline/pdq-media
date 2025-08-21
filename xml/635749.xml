@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>SPCG-4 study - flow diagram</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>864</HeightPixels>
+    <WidthPixels>606</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <SourcePublication>JNCI. Vol 100, Issue 16. August 20, 2008. Page 1148.</SourcePublication>
+   
+   
+   
+   <SourceFilename>SPCG-4 flowchart.jpg</SourceFilename>
+   
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>to be specified</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Scandinavian Prostate Cancer Group-4 study; flow diagram shows participants randomly allocated to radical prostatectomy versus watchful waiting within 12 months, results of follow-up after 12 months and to the end of year 2006, and an analysis according to intention to treat.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Estudio del Scandinavian Prostate Cancer Group-4; el diagrama de flujo muestra los participantes asignados de forma aleatorizada a la prostatectomía radical frente a la conducta expectante durante 12 meses, los resultados del seguimiento después de 12 meses y hasta el final del año 2006, y un análisis de acuerdo a la intención de administrar tratamiento.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Scandinavian Prostate Cancer Group-4 (SPCG-4) study. Trial flow diagram of the 695 men randomly assigned in the SPCG-4 study. RT = radiation therapy; RP = radical prostatectomy. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Estudio del Scandinavian Prostate Cancer Group-4 (SPCG-4). Diagrama de flujo del ensayo con 695 hombres asignados de forma aleatorizada al estudio SPCG-4. RT = radioterapia; RP = prostatectomía radical.  </MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062910">Prostate Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-11-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-02-16</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-02-17" user="rharrison">Plan to add sentence to caption re: permission.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-02-16</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

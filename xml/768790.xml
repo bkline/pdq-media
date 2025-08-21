@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>transition to end-of-life care</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">High</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">Likely benefit of LST</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Curative</LabelName><LabelName language="en">Noncurative</LabelName><LabelName language="en">Observation</LabelName><LabelName language="en">EOL care</LabelName><LabelName language="en">Quality of remaining life</LabelName><LabelName language="en">EOL care</LabelName><LabelName language="en">Quality of dying</LabelName><LabelName language="en">Cancer-Directed Phase</LabelName><LabelName language="en">Transitional Phase</LabelName><LabelName language="en">End-of-Life Phase</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Larry Cripe, MD</Creator>
+   <DateCreated>2015-06-29</DateCreated>
+   <SourceFilename>Transition to EOL Care1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-06-29" user="kuhlmanna">Image enhanced by Terese</Comment><Comment audience="Internal" date="2015-02-04" user="akuhlmann">Original figure; permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2015-02-04" user="akuhlmann">Original figure from Larry Cripe, Editor-in-Chief, Supportive and Palliative Care Editorial Board; permissions not needed</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Diagram showing a phase model of planning the transition to end-of-life (EOL)  care  in advanced cancer. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">A phase model of planning the transition to end-of-life (EOL)  care in advanced cancer. The trajectory of advanced cancer begins with the realization that disease-directed treatments are no longer curative. Over time, the patient, family, and oncology clinician should strive to develop a shared understanding of available treatments and recognize when the likelihood of benefit decreases in relation to the potential harm of treatment.  LST = life-sustaining treatment; EOL = end-of-life</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000755559">Planning the Transition to End-of-Life Care in Advanced Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-02-04</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

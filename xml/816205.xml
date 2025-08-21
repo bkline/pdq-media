@@ -1,0 +1,81 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>bowel obstruction-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Obstrucción intestinal</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Intestino grueso</LabelName><LabelName language="es">Obstrucción (cáncer)</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Ano</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1950</HeightPixels><WidthPixels>2760</WidthPixels>
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource><DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000815602">bowel obstruction</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BowelObstructionSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+  
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type I – Pale white skin</SkinTone>
+  
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En el dibujo del abdomen de una persona adulta se muestra una obstrucción intestinal, con una masa grande de materia fecal de color marrón oscuro en el intestino grueso causada por el bloqueo de un tumor.  El tumor se encuentra en la porción final del intestino grueso justo antes del recto.  También se señalan otras partes del tubo digestivo, como el estómago, el intestino delgado, el recto y el ano.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Una obstrucción intestinal es una afección grave que  se presenta cuando hay un bloqueo u oclusión en el intestino delgado o el intestino grueso.  La obstrucción impide que los alimentos y la material fecal se muevan a través de los intestinos.  La obstrucción intestinal a veces se debe a ciertos cánceres y tratamientos del cáncer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000779580">bowel obstruction</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC, and semantic optimization suggestions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels, no changes</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000815602">bowel obstruction</TranslationOf></Media>

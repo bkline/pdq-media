@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Vascular Tumors - Theiler Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Type I</LabelName><LabelName language="en">Localized IH involving bulbar conjunctiva</LabelName><LabelName language="en">Type II</LabelName><LabelName language="en">Localized IH involving tarsal  conjunctiva</LabelName><LabelName language="en">Type III</LabelName><LabelName language="en">Localized IH involving bulbar and tarsal  conjunctiva</LabelName><LabelName language="en">Type IV</LabelName><LabelName language="en">Segmental facial IH with contiguous conjunctival involvement</LabelName><ImageDimensions>
+    <HeightPixels>1395</HeightPixels>
+    <WidthPixels>1758</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Pediatric Dermatology</Creator>
+   <SourcePublication>Theiler M, Baselga E, Gerth-Kahlert C, et al.: Infantile hemangiomas with conjunctival involvement: An underreported occurrence. Pediatric Dermatology, Volume 34 (Issue 6), Pages 681–685, 2017</SourcePublication><DateCreated>2018-11-06</DateCreated>
+   <SourceFilename>Theiler Figure 2 conjunctival hemangioma 11-6-18. jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2018-11-06</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    
+    <PermissionResponseDate>2018-11-14</PermissionResponseDate><PublisherPermissionText>Theiler M, Baselga E, Gerth-Kahlert C, et al. Infantile hemangiomas with conjunctival involvement: An underreported occurrence. Pediatr Dermatol. 2017; 34:681–685. https://doi.org/10.1111/pde.13305 Copyright © 2017 John Wiley &amp; Sons, Inc.</PublisherPermissionText><ApprovedUse>
+     <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000795548">Infantile hemangiomas with conjunctival involvement: An underreported occurrence.</CitationLink><Comment audience="Internal" date="2018-11-15" user="kuhlmanna">Per Sharon, image will not be translated into Spanish - did not get approval from publisher.</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000665617">infantile hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photographs showing different types of infantile hemangiomas involving the conjunctiva.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Proposed classification of infantile hemangiomas involving the conjunctiva. Theiler M, Baselga E, Gerth-Kahlert C, et al. Infantile hemangiomas with conjunctival involvement: An underreported occurrence. Pediatr Dermatol. 2017; 34:681–685. <ExternalRef cdr:xref="https://onlinelibrary.wiley.com/doi/full/10.1111/pde.13305">https://doi.org/10.1111/pde.13305</ExternalRef> Copyright © 2017 John Wiley &amp; Sons, Inc.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-11-15" user="kuhlmanna">Please translate only the Content Description and Caption</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-11-06</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>Image approved by Pediatric Treatment Editorial Board</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000795692">Theiler_ChVascularTumors_Copyright Permissions_2018-11-14</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

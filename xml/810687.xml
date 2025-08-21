@@ -1,0 +1,61 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood ALL - Genomic Subtypes of B-ALL</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">iAMP21, 6.2%</LabelName><LabelName language="en">B-other, 10.2%</LabelName><LabelName language="en">BCL2/MYC, 0.1%</LabelName><LabelName language="en">BCR::ABL1, 3.6%</LabelName><LabelName language="en">BCR::ABL1-like_CRLF2,...</LabelName><LabelName language="en">BCR::ABL1-like_other, 5.8%</LabelName><LabelName language="en">DUX4, 4.2%</LabelName><LabelName language="en">ETV6::RUNX1, 17.6%</LabelName><LabelName language="en">ETV6::RUNX1-like, 1.6%</LabelName><LabelName language="en">HLF, 0.4%</LabelName><LabelName language="en">Hyperdiploid, 23.3%</LabelName><LabelName language="en">IKZF1 N159Y, 0.2%</LabelName><LabelName language="en">KMT2A, 3.7%</LabelName><LabelName language="en">KMT2A-like, 0.1%</LabelName><LabelName language="en">Low hypodiploid, 1.5%</LabelName><LabelName language="en">MEF2D, 1.5%</LabelName><LabelName language="en">NUTM1, 0.5%</LabelName><LabelName language="en">Near haploid, 1.9%</LabelName><LabelName language="en">PAX5 P80R, 1.1%</LabelName><LabelName language="en">PAX5alt, 6.8%</LabelName><LabelName language="en">TCF3::PBX1, 4.7%</LabelName><LabelName language="en">ZEB2/CEBP, 0.2%</LabelName><LabelName language="en">ZNF384, 1.4%</LabelName><LabelName language="en">ZNF384-like, 0.1%</LabelName><ImageDimensions>
+    <HeightPixels>1668</HeightPixels>
+    <WidthPixels>2147</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>Adapted from Nature Genetics</Creator><SourcePublication>Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54, 1376-1389 (2022).</SourcePublication>
+   
+   
+   <DateCreated>2022-10-31</DateCreated><SourceFilename>B-ALL Genomic SubtypesEnglish2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-10-31">Updated onogene labels to new format per CS</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-10-31">Terese re-created and enhanced pie chart</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-10-06">Image pie chart created from data - copyright permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039919">childhood acute lymphoblastic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Figure showing genomic subtypes of B-ALL.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Genomic subtypes of B-ALL. The figure represents data from 2,288 children diagnosed with B-ALL and enrolled on St. Jude Children’s Research Hospital or Children’s Oncology Group clinical trials. Adapted from Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54: 1376-1389, 2022.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062923">Childhood Acute Lymphoblastic Leukemia Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-10-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph node groups, neck</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Lymph Node Groups of the Neck</LabelName><LabelName language="en">IA</LabelName><LabelName language="en">IB</LabelName><LabelName language="en">IIA</LabelName><LabelName language="en">IIB</LabelName><LabelName language="en">III</LabelName><LabelName language="en">IV</LabelName><LabelName language="en">VA</LabelName><LabelName language="en">VB</LabelName><LabelName language="en">VI</LabelName><ImageDimensions>
+    <HeightPixels>2775</HeightPixels>
+    <WidthPixels>2850</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2016-07-25</DateCreated>
+   <SourceFilename>LymphNodeGroups4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-07-25" user="kuhlmanna">Removed squiggly lines on face around ear; added bone color to enhance jaw</Comment><Comment audience="Internal" date="2016-07-13" user="yousufzaimg">Made Stage IV group all one color</Comment><Comment audience="Internal" date="2016-06-13" user="kuhlmanna">Enhanced the lines between the lymph node groups; changed the color of group VA and VB so it looks less like the skin of the neck</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038965">oropharyngeal cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Lymph node groups of the neck; drawing shows six groups of lymph nodes in the neck: group IA and IB, group IIA and IIB, group III, group IV, group VA and VB, and group VI.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Lymph node groups of the neck.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000062924">Oropharyngeal Cancer Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment>Sent to Dr. Andrea Hayes-Jordan</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2016-07-25" user="kuhlmanna">Updated image to LymphNodeGroups4.jpg</Comment><Comment>Updated image to LymphNodeGroups3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment>Added LymphNodeGroups1.jpg image</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-03-10</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779436">Sample Illustration: Oropharygeal anatomy and lymph node regions</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000787975">Illustration Review Sheet: LN Groups Neck</SupplementaryInfoLink></RelatedDocuments></Media>

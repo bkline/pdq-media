@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lobectomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lobectomy</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lobe removed</LabelName><LabelName language="en">Lymph nodes</LabelName><ImageDimensions>
+    <HeightPixels>1924</HeightPixels>
+    <WidthPixels>2356</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-04</DateCreated>
+   
+   
+   <SourceFilename>Lobectomy11.jpg</SourceFilename>
+   <Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment>Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lobectomy; drawing shows lobes of both lungs, trachea, bronchi, bronchioles, and lymph nodes. Cancer is shown in one lobe. The removed lobe is shown next to the lung from which it was removed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Lobectomy; drawing shows lobes of both lungs, trachea, bronchi, bronchioles, and lymph nodes. Cancer is shown in one lobe. The removed lobe is shown next to the lung from which it was removed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Lobectomy. A lobe of the lung is removed.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Lobectomy.</MediaCaption></Captions>
+  
+  
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Changed cont descr to read "from which it was removed", dlb.</Comment></MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary>
+       <Glossary cdr:ref="CDR0000046314">lobectomy</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-06-30</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP cap and cont desc for pilot project.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-05-08</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>In review by group. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+       <Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to Lobectomy11.jpg</Comment><Comment>2006-07-18 seventh image; 2006-05-31 sixth rough; mm 2006-04-24 fifth rough; 2006-04-18 fourth rough; 2006-03-23 third rough; mm 2006-01-31 second rough; mm </Comment></ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000514482">Illustration Review Sheet: Lobectomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

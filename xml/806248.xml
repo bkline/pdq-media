@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Lynch syndrome pedigree-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Árbol genealógico de una familia con síndrome de Lynch</LabelName><LabelName language="es">Colon, Dx 59 </LabelName><LabelName language="es">Endometrio, Dx 53</LabelName><LabelName language="es">Colon, Dx 42</LabelName><LabelName language="es">Colon, Dx 37</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000766496">Lynch syndrome pedigree</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LynchSyndromePedigreeSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042841">hereditary non-polyposis colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Árbol genealógico en el que se observan algunas de las características clásicas de una familia con síndrome de Lynch en tres generaciones. Se indica la transmisión por vía materna y paterna, además de los miembros afectados por cáncer de colon y cáncer de endometrio.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Árbol genealógico de una familia con síndrome de Lynch. Se observan algunas de las características clásicas de una familia con síndrome de Lynch, como  las personas afectadas por cáncer de colon y cáncer de endometrio, además de la edad de inicio de la enfermedad, que en algunos casos es más temprana de lo habitual. Las familias afectadas pueden exhibir solo algunas de las características o todas las características descritas. En ocasiones, se presentan otros cánceres, de tipo gastrointestinal, ginecológico, genitourinario o extracolónico. El síndrome de Lynch es de herencia autosómica dominante y se transmite por línea materna o paterna, como se observa en la figura.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000044868">pedigree</Glossary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC: Linda, confirmé con Isabel que faltaba añadir lo que sugerí en verde.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of caption and content descr. Pending QC.//Pending added proposed use in sum when available.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image. Pending caption and content description translation</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-14</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Only labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>"Diagnóstico: Dx o Dco."// I suggest to use Dx because is the most frequent use in Spanish medical documents, including pedigrees.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>labels pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000766496">Lynch syndrome pedigree</TranslationOf></Media>

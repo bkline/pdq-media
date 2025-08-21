@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>craniotomy, child</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Craniotomy</LabelName><LabelName language="en">Dura</LabelName><LabelName language="en">Skull</LabelName><LabelName language="en">Skull piece</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Muscle</LabelName><LabelName language="en">Scalp</LabelName><ImageDimensions>
+    <HeightPixels>2820</HeightPixels><WidthPixels>2625</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-02-20</DateCreated>
+   
+   
+   <SourceFilename>CraniotomyChild FP III.1.jpg</SourceFilename>
+   <Comment user="yousufzaimg" date="2024-02-21" audience="Internal">Diversity update: updated the skin tone of the figure to  FP III (darker white skin)</Comment><Comment>New draft illustration.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Child</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2024-02-20</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000041539">childhood brain tumor</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of a craniotomy showing a section of the scalp that has been pulled back to remove a piece of the skull; the dura covering the brain has been opened to expose the brain. The layer of muscle under the scalp is also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Craniotomy.  An opening is made in the skull and a piece of the skull is removed to show part of the brain.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000813728">Childhood Glioma (including Astrocytoma)</Summary><Summary cdr:ref="CDR0000813727">Diffuse Intrinsic Pontine Glioma (DIPG)</Summary><Summary cdr:ref="CDR0000813718">Childhood Ependymoma</Summary><Summary cdr:ref="CDR0000574137">Childhood Craniopharyngioma Treatment</Summary><Summary cdr:ref="CDR0000574573">Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor Treatment</Summary><Summary cdr:ref="CDR0000719453">Childhood Central Nervous System Germ Cell Tumors Treatment</Summary><Summary cdr:ref="CDR0000552550">Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors Treatment</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-20</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" date="2024-02-21" audience="Internal">Updated to CraniotomyChild FP III.1.jpg</Comment><Comment audience="Internal" date="2012-04-19" user="anjamison">Updated to CraniotomyChild2.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-08</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-08</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>New illustration: CraniotomyChild1.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

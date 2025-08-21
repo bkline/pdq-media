@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mastectomy, modified radical, male</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Modified Radical Mastectomy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Ribs</LabelName><LabelName language="en">Muscle</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Tumor</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-04-10</DateCreated>
+   <SourceFilename>MastectomyModifiedRadicalMale3.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-04-11">In the right panel, moved the dotted red line so that it does not include any muscle; in the left panel, extended the dotted red line to include the lymph nodes under the arm</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  <Category>test or procedure</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041338">male breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Modified radical mastectomy; the drawing on the left shows the removal of the whole breast, including the  lymph nodes under the arm. The drawing on the right shows a cross-section of the breast, including the fatty tissue and chest wall (ribs  and muscle). A tumor is also shown in the breast.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Modified radical mastectomy.  The whole breast and most of the lymph nodes under the arm are removed.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062969">Male Breast Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Updated to MastectomyModifiedRadicalMale3.jpg</Comment>
+  </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-01</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       <Comment audience="Internal" date="2012-03-15" user="anjamison">Reviewer had no comments.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000728453">Illustration Review Sheet: modified radical mastectomy, male</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

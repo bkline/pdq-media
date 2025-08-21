@@ -1,0 +1,117 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, medullary, stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Stage II Medullary Thyroid Cancer</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Tumor is larger than 2 cm</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Muscles</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">b</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>2820</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-11-13</DateCreated><SourceFilename>MedullaryThyroidCaStage2.9.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-11-13" user="kuhlmanna">Extended the line for "Thyroid gland" label so that it touches the thyroid</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Added an “s” to the label for Muscle and moved it down under the label for Cancer; added lines pointing to the two muscles where they split</Comment><Comment audience="Internal" date="2017-09-12" user="yousufzaimg">Image revisions made per AJCC updates (8th edition)</Comment><Comment audience="Internal" date="2016-10-03" user="kuhlmanna">In the inset, changed the wording to say “Tumor is larger than 2 cm”; made the cancer spot for “a” a little larger</Comment><Comment audience="Internal" date="2016-04-19" user="yousufzaimg">In the inset box, took out the “More than” in the grey circle, and changed the label at the top to say “Tumor is more than 2 cm”</Comment><Comment audience="Internal" date="2008-02-21" user="dbuchhagen">Made person a younger woman; Made the cancer spot next to a) larger and moved the inset with the peanut over to that side; For b), made the cancer spot larger than shown in a), and more of it going onto the nearby tissue; Removed the outlines of the breast bones and ribs; Removed the labels on the bottom left  describing a) and b)</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038801">thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II medullary thyroid cancer; drawing shows (a) cancer in the thyroid gland and the tumor is larger than 2 centimeters and (b) cancer has spread to nearby muscles in the neck. An inset shows 2 centimeters is about the size of a peanut. Also shown are the larynx and trachea.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage II medullary thyroid cancer; drawing shows (a) cancer in the thyroid gland and the tumor is larger than 2 centimeters and (b) cancer has spread to nearby muscles in the neck.  An inset shows 2 centimeters is about the size of a peanut. Also shown are the larynx and trachea.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II medullary thyroid cancer. The cancer (a) is found in the thyroid only and the tumor is larger than 2 centimeters; or (b) has spread from the thyroid to nearby muscles in the neck and the tumor is any size.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage II medullary thyroid cancer. The cancer  (a) is found in the thyroid only and the tumor is larger than 2 centimeters; or (b) has spread from the thyroid to nearby muscles in the neck and the tumor is any size.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary><Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>2017-09-18</EnteredBy>
+        <Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Updated image to MedullaryThyroidCaStage2.8.jpg</Comment><Comment>Updated image to MedullaryThyroidCaStage2.7.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-10-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-10-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2016-10-03" user="kuhlmanna">Updated image to MedullaryThyroidCaStage2.6.jpg</Comment><Comment>Added MedullaryThyroidCaStage2.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-22</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-03-08</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779376">Sample Illustration: Thyroid Staging</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

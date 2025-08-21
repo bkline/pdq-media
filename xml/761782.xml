@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>transcription and translation</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Transcription</LabelName><LabelName language="en">DNA</LabelName><LabelName language="en">Codon</LabelName><LabelName language="en">Base pair</LabelName><LabelName language="en">Pre-mRNA</LabelName><LabelName language="en">mRNA</LabelName><LabelName language="en">Cell nucleus</LabelName><LabelName language="en">Cytoplasm</LabelName><LabelName language="en">Translation</LabelName><LabelName language="en">tRNA</LabelName><LabelName language="en">Amino acids</LabelName><LabelName language="en">Ribosome</LabelName><LabelName language="en">Codon</LabelName><LabelName language="en">Growing protein chain</LabelName><LabelName language="en">Protein</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-12-23</DateCreated>
+   <SourceFilename>TranscriptionTranslation13.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2021-12-23">Removed T (thymine) from the codons in Translation and replaced it with U (uracil)</Comment><Comment audience="Internal" date="2020-08-10" user="kuhlmanna">Adjusted font of labels</Comment><Comment audience="Internal" date="2017-09-17" user="kuhlmanna">Matched the codons in transcription with those in translation; removed the red tips from the mRNA; enhanced arrow linking the tRNA that is leaving the ribosome with the empty zone inside the ribosome where it came from.</Comment><Comment audience="Internal" date="2017-05-16" user="kuhlmanna">Removed labels for Intron and Exon; changed background color to lighter blue inside nucleus and white outside nucleus; for the translation part, added one large ribosome and labeled the “Growing Protein Chain” coming off of it and added the completed protein near it as it breaks off.</Comment><Comment audience="Internal" date="2014-12-16" user="akuhlmann">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Transcription and translation; the top part of the drawing shows transcription occurring in the nucleus of a cell: a piece of DNA that codes for a specific gene is copied into mRNA; bases in the copied DNA, adenine (A), cytosine (C), guanine (G), and thymine (T), form specific pairs with the bases in the mRNA, except adenine (A) in the DNA pairs with uracil (U) in the mRNA (also shown is a sequence of 3 bases called a codon in the mRNA); the mRNA then carries the genetic information from the DNA to the cytoplasm. The bottom part of the drawing shows translation occurring in the cytoplasm of a cell: the mRNA attaches to and passes through the ribosome; tRNA carries an amino acid to the ribosome, where it binds to a matching codon sequence in the mRNA; the amino acid joins with the other amino acids to form a growing protein chain; the completed protein is then released from the ribosome.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Transcription and translation; the top part of the drawing shows transcription occurring in the nucleus of a cell: a piece of DNA that codes for a specific gene is copied into mRNA; bases in the copied DNA, adenine (A), cytosine (C), guanine (G), and thymine (T), form specific pairs with the bases in the mRNA, except adenine (A) in the DNA pairs with uracil (U) in the mRNA (also shown is a sequence of 3 bases called a codon in the mRNA); the mRNA then carries the genetic information from the DNA to the cytoplasm. The bottom part of the drawing shows translation occurring in the cytoplasm of a cell: the mRNA attaches to and passes through the ribosome; tRNA carries an amino acid to the ribosome, where it binds to a matching codon sequence in the mRNA; the amino acid joins with the other amino acids to form a growing protein chain; the completed protein is then released from the ribosome.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Transcription and translation are processes a cell uses to make all proteins the body needs to function from information stored in the sequence of bases in DNA. The four bases (C, A, T/U, and G in the figure) are the building blocks of DNA and RNA. During transcription, a piece of DNA that codes for a specific gene is copied into messenger RNA (mRNA) in the nucleus of the cell. The mRNA then carries the genetic information from the DNA to the cytoplasm, where translation occurs. During translation, proteins are made using the information stored in the mRNA sequence. The mRNA attaches to a structure called a ribosome that can read the genetic information. As the mRNA passes through the ribosome, another type of RNA called transfer RNA (tRNA) carries a protein building block called an amino acid to the ribosome. The tRNA carrying the amino acid binds to a matching sequence in the mRNA. As each tRNA binds to the mRNA strand, the amino acid it carried joins with the other amino acids to form a chain of amino acids. Once all of the amino acids coded for in the piece of mRNA have been linked, the completed protein is released from the ribosome. </MediaCaption><MediaCaption audience="Health_professionals" language="en">Transcription and translation are processes a cell uses to make all proteins the body needs to function from information stored in the sequence of bases in DNA. The four bases (C, A, T/U, and G in the figure) are the building blocks of DNA and RNA. During transcription, a piece of DNA that codes for a specific gene is copied into messenger RNA (mRNA) in the nucleus of the cell. The mRNA then carries the genetic information from the DNA to the cytoplasm, where translation occurs. During translation, proteins are made using the information stored in the mRNA sequence. The mRNA attaches to a structure called a ribosome that can read the genetic information. As the mRNA passes through the ribosome, another type of RNA called transfer RNA (tRNA) carries a protein building block called an amino acid to the ribosome. The tRNA carrying the amino acid binds to a matching sequence in the mRNA. As each tRNA binds to the mRNA strand, the amino acid it carried joins with the other amino acids to form a chain of amino acids. Once all of the amino acids coded for in the piece of mRNA have been linked, the completed protein is released from the ribosome. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000390290">transcription</Glossary><Glossary cdr:ref="CDR0000460221">translation</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Revised image and minor editorial change made to caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Added HP caption and content description so image can be used in Genetics Dictionary</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-07-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2017-09-17" user="kuhlmanna">Updated image to TranscriptionTranslation11.jpg</Comment><Comment audience="Internal" date="2017-06-26" user="kuhlmanna">Updated image to TranscriptionTranslation10.jpg</Comment><Comment audience="Internal" date="2017-05-16" user="kuhlmanna">Updated image to TranscriptionTranslation8.jpg</Comment><Comment audience="Internal" date="2017-05-01" user="kuhlmanna">Updated image to TranscriptionTranslation7.jpg</Comment><Comment audience="Internal" date="2014-12-16" user="akuhlmann">Image on hold until About Cancer content is fully developed, per OCC.</Comment><Comment>Added Transcription7.jpg </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-06-04</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added TranscriptionTranslation1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000791026">Illustration Review Sheet: transcription and translation</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

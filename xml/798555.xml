@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IVA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IVA</LabelName><LabelName language="es">b) El cáncer se diseminó al líquido o los ganglios linfáticos que rodean los pulmones o el corazón</LabelName><LabelName language="es">Tumor primario</LabelName><LabelName language="es">a</LabelName><LabelName language="es">c) El cáncer se diseminó a una parte de un órgano o tejido alejado del pulmón</LabelName><LabelName language="es">Encéfalo</LabelName><LabelName language="es">Glándula suprarrenal</LabelName><LabelName language="es">Riñón</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Ganglios linfáticos distantes</LabelName><LabelName language="es">Hueso</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000794785">lung cancer, stage IVA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LungStage MaleHispanicLatinoFP IV Spanish1.jpg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000792121">stage IVA non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IVA. En la imagen se observa un tumor primario en el pulmón derecho y un tumor en el pulmón izquierdo (a). En un recuadro se muestran líquido y ganglios linfáticos cancerosos alrededor de los pulmones y el corazón (b). También se muestran otros órganos o tejidos donde a veces se disemina el cáncer de pulmón, como el encéfalo, la glándula suprarrenal, el riñón, el hígado y los ganglios linfáticos distantes (c).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IVA. En la imagen se observa un tumor primario en el pulmón derecho y un tumor en el pulmón izquierdo (a). En un recuadro se muestran líquido y ganglios linfáticos cancerosos alrededor de los pulmones y el corazón (b). También se muestran otros órganos o tejidos donde a veces se disemina el cáncer de pulmón, como el encéfalo, la glándula suprarrenal, el riñón, el hígado y los ganglios linfáticos distantes (c).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IVA. El tumor es de cualquier tamaño y es posible que el cáncer se haya diseminado a los ganglios linfáticos. Se presentan una o más de las siguientes situaciones: a) hay uno o más tumores en el pulmón contrario al del tumor primario; b) se encuentra cáncer en el líquido que rodea los pulmones o el corazón, o hay ganglios cancerosos en el revestimiento de los pulmones o el pericardio (membrana que rodea el corazón);  c) el cáncer se diseminó a una parte de un órgano alejado del pulmón, como el encéfalo, el hígado, la glándula suprarrenal, el riñón, el hígado, el hueso o a un ganglio linfático alejado del pulmón.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IVA. El tumor es de cualquier tamaño y es posible que el cáncer se haya diseminado a los ganglios linfáticos. Se presentan una o más de las siguientes situaciones: a) hay uno o más tumores en el pulmón contrario al del tumor primario; b) se encuentra cáncer en el líquido que rodea los pulmones o el corazón, o hay ganglios cancerosos en el revestimiento de los pulmones o el pericardio (membrana que rodea el corazón);  c) el cáncer se diseminó a una parte de un órgano alejado del pulmón, como el encéfalo, el hígado, la glándula suprarrenal, el riñón, el hígado, el hueso o a un ganglio linfático alejado del pulmón.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045144">stage IV non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-16</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised caption and content descr. translation</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image to relfect recent diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-08-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to artist to reflect most recent diversity project changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-08-01" user="saucedol">Revised image.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and descriptions</Comment>
+       <Comment audience="Internal" date="2019-07-19" user="adlerm2">In Spanish, suggest not using letters (a, b, c) in content descriptions.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       <Comment audience="Internal" date="2019-07-05" user="adlerm2">This image poses a readability challenge in Spanish.</Comment></ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000794785">lung cancer, stage IVA</TranslationOf></Media>

@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage 0</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage 0 Squamous Cell Carcinoma of the Esophagus</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Cancer cells</LabelName><LabelName language="en">Inside the esophagus</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Thin muscle layer</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Thick muscle layer</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Lymph node</LabelName><ImageDimensions><HeightPixels>2475</HeightPixels>
+    
+    
+   <WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2019-07-18</DateCreated><SourceFilename>EsophagusSquamousStage0.2.jpg</SourceFilename><Comment audience="Internal" date="2019-07-19" user="yousufzaimg">Changed cancer to carcinoma</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">New image per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043665">stage 0 esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage 0 squamous cell carcinoma of the esophagus; drawing shows the esophagus and stomach. An inset shows cancer cells in the inner lining of the esophagus wall. Also shown are the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer of the esophagus wall. The lymph nodes are also shown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage 0 squamous cell carcinoma of the esophagus; drawing shows the esophagus and stomach. An inset shows cancer cells in the inner lining of the esophagus wall. Also shown are the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer of the esophagus wall. The lymph nodes are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage 0 squamous cell carcinoma of the esophagus. Cancer has formed in the inner lining of the esophagus wall.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage 0 squamous cell carcinoma of the esophagus. Cancer has formed in the inner lining of the esophagus wall.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062741">Esophageal Cancer Treatment</Summary><Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000352152">stage 0 esophageal carcinoma in situ</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Added EsophagusSquamousStage0.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-03-29</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792770">Sample Illustration: esophageal cancer stage 0</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

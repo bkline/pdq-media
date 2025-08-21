@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cell structure (parts of a cell)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of a Cell</LabelName><LabelName language="en">Cell membrane</LabelName><LabelName language="en">Endoplasmic reticulum</LabelName><LabelName language="en">Nucleus (contains DNA)</LabelName><LabelName language="en">Nucleolus</LabelName><LabelName language="en">Mitochondria</LabelName><LabelName language="en">Membrane receptor</LabelName><LabelName language="en">Golgi complex</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-10-02</DateCreated>
+   <SourceFilename>CellStructure5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-10-06" user="akuhlmann">Changed label to "Membrane receptor"</Comment><Comment audience="Internal" date="2014-08-12" user="myousufzai">Changed title to “Parts of a Cell”</Comment><Comment audience="Internal" date="2014-07-28" user="myousufzai">Removed the labels for Ion channel, Lysosome, Centrioles, Microtubule, Nuclear pore, and Peroxisome;
+Added the words (contains DNA) in parens under the label for Nucleus.
+</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing a cell containing organelles, including the nucleus (contains DNA), the nucleolus, Golgi complex, mitochondria, and endoplasmic reticulum. Also shown are the cell membrane and a membrane receptor.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Parts of a cell.  A cell is surrounded by a membrane, which has receptors on the surface. A cell has several small structures inside it, including the nucleus, mitochondria, endoplasmic reticulum, and Golgi complex. These all have specific functions in the cell. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046476">cell</Glossary><Glossary cdr:ref="CDR0000044586">cytoplasm</Glossary><Glossary cdr:ref="CDR0000597161">nucleus</Glossary><Glossary cdr:ref="CDR0000044060">mitochondria</Glossary><Glossary cdr:ref="CDR0000613763">organelle</Glossary><Glossary cdr:ref="CDR0000763770">endoplasmic reticulum</Glossary><Glossary cdr:ref="CDR0000763773">Golgi apparatus</Glossary><Glossary cdr:ref="CDR0000763774">Golgi body</Glossary><Glossary cdr:ref="CDR0000763772">Golgi complex</Glossary>
+ <Glossary cdr:ref="CDR0000763776">nucleolus</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Rick Manrow</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-30</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2014-10-06" user="akuhlmann">Added CellStructure5.jpg</Comment><Comment>Added CellStructure4.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-06-04</ProcessingStatusDate>
+   <EnteredBy>2014-06-05</EnteredBy>
+   <Comment>Added CellStructure.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000765051">Illustration Review Sheet: parts of a cell</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

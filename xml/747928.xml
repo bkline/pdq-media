@@ -1,0 +1,100 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage 0</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage 0 Bladder Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Lumen</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Ureter</LabelName><LabelName language="en">Fat around the bladder</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Inner lining</LabelName><LabelName language="en">Stage 0a</LabelName><LabelName language="en">Noninvasive papillary carcinoma</LabelName><LabelName language="en">Stage 0is</LabelName><LabelName language="en">Carcinoma in situ</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-11-28</DateCreated>
+   <SourceFilename>BladderCaStage0a0is8.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-11-28">Added the label “Lumen” to the main figure</Comment><Comment audience="Internal" date="2018-03-26" user="kuhlmanna">Added "Noninvasive" to the Papillary Carcinoma label</Comment><Comment audience="Internal" date="2013-07-29" user="akuhlmann">In the Stage 0a inset, changed the label from “Abnormal cells” to “Papillary carcinoma”; also made the papillary carcinoma cells look more like little mushroom-like projections to be more consistent with  the AJCC manual. In the Stage 0is inset, changed the label from “Cancer” to “Carcinoma in situ”; also made the cancer spot a little flatter.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="en">Stage 0 bladder cancer (noninvasive bladder cancer); drawing shows the bladder, lumen (the space where urine collects), ureter, prostate, and urethra. The first inset shows stage 0a (also called noninvasive papillary carcinoma) on the inner lining of the bladder. The second inset shows stage 0is (also called carcinoma in situ) on the inner lining of the bladder. Also shown are the layers of connective tissue and muscle tissue of the bladder and the layer of fat around the bladder.</ContentDescription>
+   
+  <ContentDescription audience="Health_professionals" language="en">Stage 0 bladder cancer (noninvasive bladder cancer); drawing shows the bladder, lumen (the space where urine collects), ureter, prostate, and urethra. The first inset shows stage 0a (also called noninvasive papillary carcinoma) on the inner lining of the bladder. The second inset shows stage 0is (also called carcinoma in situ) on the inner lining of the bladder. Also shown are the layers of connective tissue and muscle tissue of the bladder and the layer of fat around the bladder.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Stage 0 bladder cancer (noninvasive bladder cancer). Cancer cells are found in tissue lining the inside of the bladder but have not invaded into the bladder wall. Stage 0a (also called noninvasive papillary carcinoma) may look like long, thin growths extending into the bladder lumen (the space where urine collects). Stage 0is (also called carcinoma in situ) is a flat tumor on the tissue lining the inside of the bladder. </MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage 0 bladder cancer (noninvasive bladder cancer). Cancer cells are found in tissue lining the inside of the bladder but have not invaded into the bladder wall. Stage 0a (also called noninvasive papillary carcinoma) may look like long, thin growths extending into the bladder lumen (the space where urine collects). Stage 0is (also called carcinoma in situ) is a flat tumor on the tissue lining the inside of the bladder.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000350363">stage 0 bladder carcinoma in situ</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-28</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-11-28">Updated image to BladderCaStage0a0is8.jpg</Comment><Comment audience="Internal" date="2013-07-10" user="akuhlmann">Updated to BladderCaStage0a0is.4.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Revisions pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Tim Gilligan</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-29</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        <Comment>Updated to BladderCaStage0a0is.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-03-19</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added draft illustration: BladderCancer1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

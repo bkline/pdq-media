@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>HBOC pedigrees</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Family 1</LabelName><LabelName language="en">Family 2</LabelName><LabelName language="en">Breast, dx 60</LabelName><LabelName language="en">Family 3</LabelName><LabelName language="en">Breast, dx 50</LabelName><LabelName language="en">Breast, dx 60</LabelName><LabelName language="en">Family 4</LabelName><LabelName language="en">Breast, dx 50</LabelName><LabelName language="en">Breast, dx 50</LabelName><LabelName language="en">Breast, dx 60</LabelName><LabelName language="en">Contralateral breast,</LabelName><LabelName language="en">dx 65</LabelName><LabelName language="en">Family 5</LabelName><LabelName language="en">Breast, dx 50</LabelName><LabelName language="en">Breast, dx 50</LabelName><LabelName language="en">BRCA1</LabelName><LabelName language="en">Breast, dx 60</LabelName><LabelName language="en">Contralateral breast,</LabelName><LabelName language="en"> dx 65</LabelName><ImageDimensions>
+    <HeightPixels>902</HeightPixels>
+    <WidthPixels>1377</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>PDQ Cancer Genetics Editorial Board</Creator>
+   <DateCreated>2016-02-24</DateCreated>
+   <SourceFilename>Five HBOC pedigrees - final.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-02-25" user="kuhlmanna">Permissions not needed; pedigree diagram provided by PDQ Cancer Genetics Editorial Board</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654989">hereditary breast/ovarian cancer - BRCA1</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Five pedigrees are shown depicting probands with varying degrees of family history of breast cancer ranging from no affected first-degree relatives and no known BRCA mutation in the family (family 1) to three affected first-degree relatives, including one relative with bilateral breast cancer, and a known BRCA1 mutation in the family (family 5).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">These five pedigrees depict probands with varying degrees of family history. The following table accompanies this figure.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062855">Genetics of Breast and Gynecologic Cancers</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-02-25</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

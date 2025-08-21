@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>exam, pelvic-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Examen pélvico</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Recto</LabelName><ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource><DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000609924">exam, pelvic</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>PelvicExamProviderSkinTypeVISpanish1.jpg</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with new titled image</Comment><Comment audience="Internal" date="2013-01-18" user="lsaucedo">Added Spn titled image</Comment><Comment>Spanish filename: PelvicExamSpanish.jpg</Comment>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Examen pélvico. En la imagen se muestra una vista lateral anatómica del aparato reproductor femenino durante un examen pélvico. Se observan el útero, la trompa de Falopio izquierda, el ovario izquierdo, el cuello uterino, la vagina, la vejiga y el recto. El médico o enfermero introduce dos dedos enguantados en la vagina, mientras la otra mano presiona la parte inferior del abdomen. En la parte superior izquierda de la imagen, se muestra a una mujer cubierta por una sábana en una camilla que tiene las piernas separadas y los pies en los estribos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Examen pélvico. El médico o enfermero introduce uno o dos dedos enguantados y lubricados en la vagina, mientras la otra mano presiona la parte inferior del abdomen. De esta forma es posible palpar el tamaño, la forma y la posición del útero y de los ovarios. También se revisan la vagina, el cuello uterino, las trompas de Falopio y el recto.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256801">Tratamiento de la enfermedad trofoblástica de la gestación</Summary>
+  <Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary><Summary cdr:ref="CDR0000256785">Tratamiento del cáncer epitelial de ovario, de trompas de Falopio y primario de peritoneo</Summary><Summary cdr:ref="CDR0000256832">Tratamiento de los tumores de células germinativas del ovario</Summary><Summary cdr:ref="CDR0000452962">Tratamiento del sarcoma uterino</Summary>
+  <Summary cdr:ref="CDR0000755033">Exámenes de detección del cáncer de ovario, de trompas de Falopio y primario de peritoneo</Summary><Summary cdr:ref="CDR0000452956">Tratamiento del cáncer de vagina</Summary><Summary cdr:ref="CDR0000452963">Tratamiento del cáncer de vulva</Summary><Summary cdr:ref="CDR0000482337">Tratamiento del cáncer de uretra</Summary><Glossary cdr:ref="CDR0000322873">pelvic exam</Glossary>
+  
+ <Glossary cdr:ref="CDR0000446199">internal exam</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image, skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised updates to caption and CD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-12-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised caption and description for readability; added missing Proposed Use Summary element.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with new titled image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translations of labels, caption, and content complete.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000609924">exam, pelvic</TranslationOf></Media>

@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Lung Cancer</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Cancer has spread to multiple places in one or more organs not near the lung:</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Adrenal gland</LabelName><LabelName language="en">Kidney</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Distant lymph nodes</LabelName><LabelName language="en">Bone</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2760</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-09-12</DateCreated>
+   
+   
+   <SourceFilename>LungStage4B OlderFemaleFP II.1.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2022-09-12">Made figure an older adult, updated skin tone to FP II, and added more facial features</Comment><Comment audience="Internal" date="2019-08-06" user="kuhlmanna">Changed the label “Primary tumor” in the main figure to “Primary cancer” so that it matches the label in the inset</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Adjusted lungs</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Removed "Cancer in the" from "Cancer in the other lung" label</Comment><Comment audience="Internal" date="2016-02-08" user="yousufzaimg">Removed lines connecting the inset box to the primary tumor on the main figure; shaded in the area connecting the primary tumor in the inset box to the primary tumor on the main figure; labeled the "Lung" in which the primary tumor resides; changed the label on the other side to say “Cancer in other lung”</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Changed title to say Stage IV Lung Cancer</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Moved the inset box down so that it isn’t so close to the Stage IV title; changed label in box to say “Metastatic cancer”  and changed label on the main illustration to say “Cancer in both lungs”</Comment><Comment audience="Internal" date="2015-11-30" user="yousufzaimg">Replaced metastasis inset with a new inset from the Metastasis image</Comment><Comment audience="Internal" date="2010-09-20" user="anjamison">Removed the inset showing the fluid in the lung lining; made the adrenal glands stand out.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Older Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type II – Fair skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000792122">stage IVB non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB lung cancer; drawing shows a primary cancer in the right lung and other parts of the body where lung cancer may spread, including the brain, adrenal gland, kidney, liver, distant lymph nodes, and bone. An inset shows cancer cells spreading from the lung, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVB lung cancer; drawing shows a primary cancer in the right lung and other parts of the body where lung cancer may spread, including the brain, adrenal gland, kidney, liver, distant lymph nodes, and bone. An inset shows cancer cells spreading from the lung, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB lung cancer. The cancer has spread to multiple places in one or more organs that are not near the lung, such as the brain, adrenal gland, kidney, liver, distant lymph nodes, or bone.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IVB lung cancer. The cancer has spread to multiple places in one or more organs that are not near the lung, such as the brain, adrenal gland, kidney, liver, distant lymph nodes, or bone.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045144">stage IV non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-09-12">Updated to LungStage4B OlderFemaleFP II.1.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated to LungStage4B.2.jpg</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Updated to LungStage4B.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-22</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added Supp Info Doc for revisions to stage IV.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000682125">Sample illustration: NSCLC stage IV</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000538123">Illustration Review Sheet: NSCLC Stage IV</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000798362">Illustration Review Sheet: non-small cell lung cancer stage IVB</SupplementaryInfoLink></RelatedDocuments></Media>

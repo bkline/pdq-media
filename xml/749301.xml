@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage I Bladder Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Ureter</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Fat around the bladder</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Inner lining</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-06-28</DateCreated>
+   <SourceFilename>BladderCaStage1.5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-07-10" user="akuhlmann">Removed outer pink layer in the inset; changed Fat label to say "Fat around the bladder"; added back in the paravesical fat and put line from the label “Fat around the bladder” so that it points to that fat in addition to the fat layer in the inset; made cancer spot darker to distinguish it from the fat.</Comment><Comment audience="Internal" date="2013-06-17" user="akuhlmann">Made the cancer spot in the little box and on the inset wider so that it almost spans the entire box without going any deeper into the layers.  </Comment><Comment audience="Internal" date="2013-06-06" user="akuhlmann">Removed perivesical fat around bladder; removed Peritoneum label; removed all lines from labels to little box on the main figure;  added a line going from the top right and bottom right corners of little box on main figure to the top and bottom left corners on the inset.</Comment><Comment audience="Internal" date="2013-05-23" user="akuhlmann">Changed labels from Serosa to Fat, Lamina propria to Connective tissue, and Urothelium to Inner lining. Added color to show   the different layers in the inset.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage I bladder cancer; drawing shows the bladder, ureter, prostate, and urethra. Inset shows cancer in the inner lining of the bladder and in the layer of connective tissue next to it.  Also shown are the muscle layers of the bladder and the layer of fat around the bladder.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage I bladder cancer; drawing shows the bladder, ureter, prostate, and urethra. Inset shows cancer in the inner lining of the bladder and in the layer of connective tissue next to it.  Also shown are the muscle layers of the bladder and the layer of fat around the bladder.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I bladder cancer. Cancer has spread to the layer of connective tissue next to the inner lining of the bladder.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage I bladder cancer. Cancer has spread to the layer of connective tissue next to the inner lining of the bladder.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000045122">stage I bladder cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Tim Gilligan</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-02</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-01</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Updated to BladderCaStage1.5.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added BladderCaStage1.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

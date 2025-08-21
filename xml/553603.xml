@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hematopoietic tree, expanded lymphoid line -Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Célula madre sanguínea</LabelName><LabelName language="es">Célula madre mieloide</LabelName><LabelName language="es">Mieloblasto</LabelName><LabelName language="es">Glóbulos rojos</LabelName><LabelName language="es">Plaquetas</LabelName><LabelName language="es">Granulocitos</LabelName><LabelName language="es">Eosinófilo</LabelName><LabelName language="es">Basófilo</LabelName><LabelName language="es">Neutrófilo</LabelName><LabelName language="es">Célula madre linfoide</LabelName><LabelName language="es">Linfoblasto</LabelName><LabelName language="es">Linfocito B</LabelName><LabelName language="es">Linfocito T</LabelName><LabelName language="es">Linfocito citolítico natural</LabelName><LabelName language="es">Glóbulos blancos
+</LabelName><ImageDimensions>
+    <HeightPixels>2342</HeightPixels>
+    <WidthPixels>3138</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000526538">hematopoietic tree, expanded lymphoid line</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Spanish filename: HematopoieticExpandedSpanish3.jpg</Comment><Comment audience="Internal" date="2008-02-06" user="rharrison">2008-02-06 Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Evolución de una célula sanguínea; el dibujo muestra el proceso por el que pasa una célula madre sanguínea para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco. Una célula madre mieloide se convierte en un glóbulo rojo, una plaqueta, o un mieloblasto el cual luego se convierte en un granulocito (los tipos de granulocitos son eosinófilos, basófilos y neutrófilos). Una célula madre linfoide se convierte en un linfoblasto y luego en un linfocito B, un linfocito T o un linfocito citolítico natural.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Evolución de una célula sanguínea; el dibujo muestra el proceso por el que pasa una célula madre sanguínea para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco. Una célula madre mieloide se convierte en un glóbulo rojo, una plaqueta, o un mieloblasto el cual luego se convierte en un granulocito (los tipos de granulocitos son eosinófilos, basófilos y neutrófilos). Una célula madre linfoide se convierte en un linfoblasto y luego en un linfocito B, un linfocito T o un linfocito citolítico natural.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Evolución de una célula sanguínea. Una célula madre sanguínea pasa por varias etapas para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Evolución de una célula sanguínea. Una célula madre sanguínea pasa por varias etapas para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256789">Leucemia linfoblástica aguda en adultos: Tratamiento</Summary>
+  
+ <Summary cdr:ref="CDR0000256765">Leucemia linfoblástica aguda infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000256788">Leucemia linfocítica crónica: Tratamiento</Summary><Summary cdr:ref="CDR0000420952">Trastornos mieloproliferativos crónicos: Tratamiento</Summary><Summary cdr:ref="CDR0000256824">Leucemia de células pilosas: Tratamiento</Summary>
+  
+ <Summary cdr:ref="CDR0000433316">Micosis fungoide y síndrome de Sézary: Tratamiento</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP Caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-09-14 Artist completed and uploaded Spanish image with revised labels. 2007-06-04 Artist completed and uploaded Spanish-labeled images. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-09-12 Translation of caption/content completed and translation of two revised labels.  2007-05-18 label translations completed. </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

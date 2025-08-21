@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Reed-Sternberg cell-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Linfocito normal</LabelName><LabelName language="es">Célula de Reed-Sternberg</LabelName><ImageDimensions>
+    <HeightPixels>1152</HeightPixels>
+    <WidthPixels>1800</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000576466">Reed-Sternberg cell</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000041646">Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Célula de Reed-Sternberg; la fotografía muestra los linfocitos normales comparados con una célula de Reed-Sternberg.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Célula de Reed-Sternberg. Las células de Reed-Sternberg son linfocitos grandes y anormales que pueden contener más de un núcleo. Estas células se encuentran en el linfoma de Hodgkin.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256830">Linfoma de Hodgkin infantil: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256760">Linfoma de Hodgkin en adultos: Tratamiento</Summary><Glossary cdr:ref="CDR0000046557">Reed-Sternberg cell</Glossary>
+ <Glossary cdr:ref="CDR0000574284">classical Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000045012">Hodgkin disease</Glossary><Glossary cdr:ref="CDR0000270800">Hodgkin lymphoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-01-03</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2008-02-15" user="rharrison">2008-02-15 received Spanish-labeled image from artist. </Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-01-02</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2008-01-03 translation of labels, caption, and content information completed; rh.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

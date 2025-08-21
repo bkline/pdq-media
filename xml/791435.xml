@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage IIIB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIB Bladder Cancer</LabelName><LabelName language="en">Right common iliac artery</LabelName><LabelName language="en">Left common iliac artery</LabelName><LabelName language="en">b) Cancer in one lymph node near common iliac artery</LabelName><LabelName language="en">a) Cancer in more than one lymph node not near common iliac artery</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Right common iliac artery</LabelName><LabelName language="en">Left common iliac artery</LabelName><LabelName language="en">b) Cancer in one lymph node near common iliac artery</LabelName><LabelName language="en">a) Cancer in more than one lymph node not near common iliac artery</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Uterus</LabelName><ImageDimensions>
+    <HeightPixels>1269</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-02-06</DateCreated>
+   <SourceFilename>BladderCaStage IIIB MaleFemale FP IV 10in 3.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2023-02-06">Added the labels Prostate and Uterus</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-01-30">Highlighted the lymph nodes in the female figure on the R side so they are similar to the male version; moved the label b) to the L side of both figures so that it creates a bit more space for the labels; and moved the lymph node metastases near the common iliac artery to the L side of the figures</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-01-17">Diversity updates: Changed image to a two-panel image and added a stage IIIB female figure (as the right panel); updated skin tone for both figures to FP III or IV to represent Hispanic/Latino; centered the title above the two panels</Comment><Comment audience="Internal" date="2018-03-01" user="kuhlmanna">Removed the cancer that is outside the bladder and not in a lymph node per expert reviewer</Comment><Comment audience="Internal" date="2018-01-09" user="yousufzaimg">Added brackets on each side of the common iliac arteries, going from where they join the main artery at the top to where they branch into the external iliac arteries at the bottom (right where the ureter crosses the blood vessels).</Comment><Comment audience="Internal" date="2017-12-11" user="kuhlmanna">Removed the small a) at the bottom of figure; made the Cancer label point to the cancer spot on the bladder; removed the label “Layer of fat around the bladder"; changed label for Common iliac artery to plural; for a), took the cancer out of the lymph nodes on the red artery and just kept it in the nodes on the blue artery and near the ureter; and made all of the cancer-negative nodes less “shiny”.  </Comment><Comment audience="Internal" date="2017-11-27" user="kuhlmanna">First draft, per AJCC updates (8th edition)</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038773">stage III bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing showing stage IIIB bladder cancer in a male (left panel) and a female (right panel); both panels show cancer in the bladder and in  (a) more than one lymph node in the pelvis that is not near the common iliac artery and (b) one lymph node near the common iliac artery. Also shown are the right and left common iliac arteries, the prostate (left panel), and the uterus (the right panel).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Two-panel drawing showing stage IIIB bladder cancer in a male (left panel) and a female (right panel); both panels show cancer in the bladder and in  (a) more than one lymph node in the pelvis that is not near the common iliac artery and (b) one lymph node near the common iliac artery. Also shown are the right and left common iliac arteries, the prostate (left panel), and the uterus (the right panel).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIB bladder cancer. Cancer has spread to (a) more than one lymph node in the pelvis that is not near the common iliac arteries; or (b) at least one lymph node that is near the common iliac arteries.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIIB bladder cancer. Cancer has spread to (a) more than one lymph node in the pelvis that is not near the common iliac arteries; or (b) at least one lymph node that is near the common iliac arteries.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062908">Bladder Cancer Treatment</Summary><Glossary cdr:ref="CDR0000045124">stage III bladder cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-01-30</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2023-01-30">Updated image to BladderCaStage IIIB MaleFemale FP IV 10in 2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-01-17">Updated image to BladderCaStage IIIB MaleFemale FP IV 10in.1.jpg</Comment><Comment audience="Internal" date="2018-03-05" user="kuhlmanna">Added BladderCaStage3B.4.jpg</Comment><Comment audience="Internal" date="2018-01-09" user="yousufzaimg">Added BladderCaStage3B.3.jpg</Comment><Comment audience="Internal" date="2017-12-11" user="kuhlmanna">Added BladderCaStage3B.2.jpg</Comment><Comment>Added BladderCaStage3B.1.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792435">Illustration Review Sheet: Stage IIIB Bladder Cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

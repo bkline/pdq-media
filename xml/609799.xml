@@ -1,0 +1,103 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage 0-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Melanoma en estadio 0</LabelName><LabelName language="es">Melanocitos anormales</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>1950</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000579050">skin cancer, melanoma stage 0</MediaID></FromCdrMedia></FromObject><Comment audience="Internal" date="2008-10-03" user="rharrison">Spanish filename: MelanomaStage0Spanish3.jpg. </Comment>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000042623">stage 0 melanoma</Diagnosis>
+   </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Melanoma en estadio 0. En la imagen se observa un área anormal en la superficie de la piel y melanocitos anormales en la epidermis (capa superficial o externa de la piel). También se muestra la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Melanoma en estadio 0. En la imagen se observa un área anormal en la superficie de la piel y melanocitos anormales en la epidermis (capa superficial o externa de la piel). También se muestra la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Melanoma en estadio 0. Se encuentran melanocitos anormales en la epidermis (capa superficial o externa de la piel). Es posible que estos melanocitos anormales se vuelvan cancerosos y se diseminen al tejido normal cercano.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Melanoma en estadio 0. Se encuentran melanocitos anormales en la epidermis (capa superficial o externa de la piel). Es posible que estos melanocitos anormales se vuelvan cancerosos y se diseminen al tejido normal cercano. </MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256816">Tratamiento del melanoma</Summary>
+  <Summary cdr:ref="CDR0000256722">Tratamiento del melanoma;Treatment;Health professionals</Summary><Glossary cdr:ref="CDR0000352156">stage 0 melanoma</Glossary>
+ <Glossary cdr:ref="CDR0000522541">melanoma in situ</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised caption and content descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image and translation of captions and content description. Revision pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image. Revisions to captions and content description pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels revised, pending revision to Caption and CD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-02</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC of the labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Editorial changes to caption and content desccription</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2008-10-03 added Spanish-labeled image; rh.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2008-10-03" user="rharrison">2008-10-03 added final edits to content desc.</Comment><Comment>2008-09-09; Added cap and cont translations.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-06-24</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2008-07-01 translation of labels complete. </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000579050">skin cancer, melanoma stage 0</TranslationOf></Media>

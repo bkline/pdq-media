@@ -1,0 +1,98 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Pap test</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Pap Test</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Speculum</LabelName><LabelName language="en">Brush</LabelName><LabelName language="en">Cervix</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2652</HeightPixels><WidthPixels>2908</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2021-11-15</DateCreated>
+   
+   
+   <SourceFilename>PapTest SkinTypeIVProvider1.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2021-11-16">Darkened skin tone of provider to Fitzpatrick Skin Type IV</Comment><Comment audience="Internal" date="2013-12-30" user="akuhlmann">Changed image title from Pap Smear to Pap Test</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2009-05-29" user="dbuchhagen">A second circle with arrow added to brush handle to show rotation in both directions.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Pap test; drawing shows a side view of the female reproductive anatomy during a Pap test. A speculum is shown widening the opening of the vagina. A brush is shown inserted into the open vagina and touching the cervix at the base of the uterus. The rectum is also shown. One inset shows the brush touching the center of the cervix. A second inset shows a woman covered by a drape on an exam table with her legs apart and her feet in stirrups. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Pap test. A speculum is inserted into the vagina to widen it. Then, a brush is inserted into the vagina to collect cells from the cervix. The cells are checked under a microscope for signs of disease.  </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000304518">Cervical Cancer Screening</Summary><Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary><Summary cdr:ref="CDR0000257805">Uterine Sarcoma Treatment</Summary><Summary cdr:ref="CDR0000258349">Vaginal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000045086">Pap smear</Glossary>
+ <Glossary cdr:ref="CDR0000045978">Pap test</Glossary><Glossary cdr:ref="CDR0000631499">Papanicolaou test</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-11-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2021-11-16">Diversity project</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-11-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment>Updated to PapTest SkinTypeIVProvider1.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to Pap smear5.jpg</Comment><Comment>Updated to PapSmear4.jpg</Comment><Comment audience="Internal" date="2009-06-29" user="dbuchhagen">Updated to PapSmear3. jpg</Comment><Comment audience="Internal" date="2009-05-29" user="dbuchhagen">Updated to PapSmear2.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-18</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-02</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-08-18" user="rharrison">Sent to Dr. Muggia.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-06-29</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-06-01" user="rharrison">Entered caption/content edits sent to OCCM 5/13.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>2008-09-09; updated to PapSmear1.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-08-04</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000652802">Illustration Review Sheet: Gynecologic illustrations</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000609926">Sample Illustration: Pap smear</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

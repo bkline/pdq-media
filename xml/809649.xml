@@ -1,0 +1,61 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood Extracranial Germ Cell Tumor  - Incidence Graphs</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Extracranial, Extragonadal Germ Cell Tumors</LabelName><LabelName language="en">Rate per 1,000,000</LabelName><LabelName language="en">0</LabelName><LabelName language="en">5.0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">15</LabelName><LabelName language="en">20</LabelName><LabelName language="en">25</LabelName><LabelName language="en">Age at  Diagnosis</LabelName><LabelName language="en">&lt;1</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">3</LabelName><LabelName language="en">4</LabelName><LabelName language="en">5</LabelName><LabelName language="en">6</LabelName><LabelName language="en">7</LabelName><LabelName language="en">8</LabelName><LabelName language="en">9</LabelName><LabelName language="en">10</LabelName><LabelName language="en">11</LabelName><LabelName language="en">12</LabelName><LabelName language="en">13</LabelName><LabelName language="en">14</LabelName><LabelName language="en">15</LabelName><LabelName language="en">16</LabelName><LabelName language="en">17</LabelName><LabelName language="en">18</LabelName><LabelName language="en">19</LabelName><LabelName language="en">Gonadal  Germ Cell Tumors</LabelName><LabelName language="en">Rate per 1,000,000</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">70</LabelName><LabelName language="en">80</LabelName><LabelName language="en">Age at Diagnosis</LabelName><LabelName language="en">&lt;1</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">3</LabelName><LabelName language="en">4</LabelName><LabelName language="en">5</LabelName><LabelName language="en">6</LabelName><LabelName language="en">7</LabelName><LabelName language="en">8</LabelName><LabelName language="en">9</LabelName><LabelName language="en">10</LabelName><LabelName language="en">11</LabelName><LabelName language="en">12</LabelName><LabelName language="en">13</LabelName><LabelName language="en">14</LabelName><LabelName language="en">15</LabelName><LabelName language="en">16</LabelName><LabelName language="en">17</LabelName><LabelName language="en">18</LabelName><LabelName language="en">19</LabelName><ImageDimensions>
+    <HeightPixels>1524</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Malcolm Smith, M.D., Ph.D., National Cancer Institute
+Rockville, MD</Creator>
+   <SourcePublication>NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. National Cancer Institute. [Cited 2022 May 2]. Available from https://NCCRExplorer.ccdi.cancer.gov/ </SourcePublication><DateCreated>2022-05-05</DateCreated>
+   <SourceFilename>Gonadal GCTs Incidence Graphs English1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-06-06">Graph image re-created by Terese to make it larger and clearer  (original image was fuzzy)</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-05-16">Figure created by PDQ Pediatric    Treatment Editorial Board member - permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis><Diagnosis cdr:ref="CDR0000043497">childhood extragonadal germ cell tumor</Diagnosis><Diagnosis cdr:ref="CDR0000553623">childhood gonadal germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing of two graphs showing age-incidence profiles for extracranial, extragonadal germ cell tumors (left graph) and for gonadal germ cell tumors (right graph). The blue triangles represent males, and the green triangles represent females.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Age-incidence profiles for extracranial, extragonadal germ cell tumors (left graph) and for gonadal germ cell tumors (right graph). The blue triangles represent males, and the green triangles represent females. (See text for details.)</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062854">Childhood Extracranial Germ Cell Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-05-16</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added Ch ExtraGCTs Incidence Graphs 5-16-22 Large with Text.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

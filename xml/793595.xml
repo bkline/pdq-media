@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>layers of the stomach wall</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Layers of the Stomach Wall</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Inside of the stomach</LabelName><LabelName language="en">Mucosa (innermost layer)</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Muscle layer</LabelName><LabelName language="en">Subserosa</LabelName><LabelName language="en">Serosa (outermost layer)</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-08-22</DateCreated>
+   <SourceFilename>StomachLayers5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-08-23" user="kuhlmanna">Added serosa to the main stomach image and made refinements to the layers of the stomach wall</Comment><Comment audience="Internal" date="2018-08-06" user="kuhlmanna">Changed title to “Layers of the Stomach Wall”; changed label at the top to say “Inside of the Stomach”; moved  the Mucosa bracket so that it goes all the way to the top of the figure;  and moved the little black box so that it's in the same direction as the large inset.</Comment><Comment audience="Internal" date="2018-07-24" user="kuhlmanna">Removed the “s” on the label Muscle layers so it is singular;  made box on main figure a little bigger; changed Mucosa label to say “Mucosa (innermost layer)” and the Serosa label to say “Serosa (outermost layer)".</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Layers of the stomach wall; drawing of the stomach with an inset showing the layers of the stomach wall, including the mucosa (innermost layer), submucosa, muscle layer, subserosa, and serosa (outermost layer).</ContentDescription><ContentDescription audience="Health_professionals" language="en">Layers of the stomach wall; drawing of the stomach with an inset showing the layers of the stomach wall, including the mucosa (innermost layer), submucosa, muscle layer, subserosa, and serosa (outermost layer).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Layers of the stomach wall. The wall of the stomach is made up of the mucosa (innermost layer), submucosa, muscle layer, subserosa, and serosa (outermost layer). The stomach is an organ in the upper abdomen. </MediaCaption><MediaCaption audience="Health_professionals" language="en">Layers of the stomach wall.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000271446">Gastric Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046604">stomach</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-08-06" user="kuhlmanna">Updated image to StomachLayers4.jpg</Comment><Comment audience="Internal" date="2018-07-24" user="kuhlmanna">Updated image to StomachLayers3.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-06-11</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added StomachLayers1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

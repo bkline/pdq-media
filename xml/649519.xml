@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urinary system, female, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Right kidney</LabelName><LabelName language="en">Left kidney</LabelName><LabelName language="en">Renal tubules</LabelName><LabelName language="en">Urine</LabelName><LabelName language="en">Renal pelvis</LabelName><LabelName language="en">Ureter</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Urine</LabelName><ImageDimensions><HeightPixels>3000</HeightPixels>
+    
+    
+   <WidthPixels>2550</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>Terese Winslow</Creator>
+   
+   
+   
+   
+   
+   
+   
+  <DateCreated>2010-04-06</DateCreated><SourceFilename>FemaleGenitoUrinary6.jpg</SourceFilename><Comment audience="Internal" date="2009-10-01" user="rharrison">Resized labels to match Spanish labels and added Uterus  label.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the female urinary system; shows the right and left kidneys, the ureters, the bladder filled with urine, and the urethra. The inside of the left kidney shows the renal pelvis. An inset shows the renal tubules and urine. The uterus is also shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Anatomy of the female urinary system; shows the right and left kidneys, the ureters, the bladder filled with urine, and the urethra. The inside of the left kidney shows the renal pelvis. An inset shows the renal tubules and urine. The uterus is also shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the female urinary system showing the kidneys, ureters, bladder, and urethra. Urine is made in the renal tubules and collects in the renal pelvis of each kidney. The urine flows from the kidneys through the ureters to the bladder. The urine is stored in the bladder until it leaves the body through the urethra.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the female urinary system showing the kidneys, ureters, bladder, and urethra. Urine is made in the renal tubules and collects in the renal pelvis of each kidney. The urine flows from the kidneys through the ureters to the bladder. The urine is stored in the bladder until it leaves the body through the urethra.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000276462">Renal Cell Cancer Treatment</Summary><Summary cdr:ref="CDR0000343585">Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment</Summary><Summary cdr:ref="CDR0000435963">Urethral Cancer Treatment</Summary><Glossary cdr:ref="CDR0000044093">urinary</Glossary>
+ <Glossary cdr:ref="CDR0000046501">bladder</Glossary><Glossary cdr:ref="CDR0000046325">kidney</Glossary><Glossary cdr:ref="CDR0000046638">ureter</Glossary><Glossary cdr:ref="CDR0000046640">urethra</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-12</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-11-16</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-10-22</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-09-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-04-06" user="dbuchhagen">Updated image to FemaleGenitoUrinary6.jpg.</Comment><Comment audience="Internal" date="2010-03-08" user="dbuchhagen">Updated image to FemaleGenitoUrinary5.jpg.</Comment><Comment audience="Internal" date="2010-02-22" user="dbuchhagen">Updated image to FemaleGenitoUrinary4.jpg.</Comment><Comment audience="Internal" date="2010-02-22" user="dbuchhagen">Updated to FemaleGenitoUrinary3.jpg.</Comment><Comment audience="Internal" date="2009-12-11" user="dbuchhagen">Updated to FemaleGenitoUrinary2.jpg</Comment><Comment audience="Internal" date="2009-11-16" user="dbuchhagen">Updated to UrinaryAnatomy6.jpg.</Comment><Comment audience="Internal" date="2009-11-02" user="dbuchhagen">Updated to UrinaryAnatomy5.jpg.</Comment><Comment audience="Internal" date="2009-10-19" user="dbuchhagen">Updated to UrinaryAnatomy4.jpg.</Comment><Comment audience="Internal" date="2009-10-01" user="rharrison">Updated to UrinaryAnatomy3.jpg.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-18</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2009-10-06" user="dbuchhagen">Updated to UrinaryAnatomy3.jpg.</Comment><Comment audience="Internal" date="2009-08-18" user="rharrison">Updated to UrinaryAnatomy1B.jpg.</Comment><Comment>Updated to UrinaryAnatomy1.jpg. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-07</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ <RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000649502">Sample Illustration: female urinary anatomy</SupplementaryInfoLink>
+       </RelatedDocuments>
+</Media>

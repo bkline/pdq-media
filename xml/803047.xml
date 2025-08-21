@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Inskip Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Relative Risk</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">70</LabelName><LabelName language="en">80</LabelName><LabelName language="en">Dose (Gy)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">5</LabelName><LabelName language="en">10</LabelName><LabelName language="en">15</LabelName><LabelName language="en">20</LabelName><LabelName language="en">25</LabelName><LabelName language="en">30</LabelName><LabelName language="en">35</LabelName><LabelName language="en">40</LabelName><LabelName language="en">45</LabelName><LabelName language="en">50</LabelName><LabelName language="en">Sarcoma</LabelName><LabelName language="en">Skin (BCC)</LabelName><LabelName language="en">Meningioma</LabelName><LabelName language="en">Salivary gland</LabelName><LabelName language="en">Glioma</LabelName><LabelName language="en">Breast</LabelName><LabelName language="en">Thyroid gland</LabelName><ImageDimensions>
+    <HeightPixels>1106</HeightPixels>
+    <WidthPixels>1619</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator> International Journal of Radiation Oncology*Biology*Physics</Creator>
+   <SourcePublication>International Journal of Radiation Oncology*Biology*Physics, Volume 94, Issue 4, Inskip PD, Sigurdson AJ, Veiga L, et al., Radiation-Related New Primary Solid Cancers in the Childhood Cancer Survivor Study: Comparative Radiation Dose Response and Modification of Treatment Effects, Pages 800-807, Copyright © 2016</SourcePublication><DateCreated>2020-10-05</DateCreated>
+   <SourceFilename>Inskip Fig 1 for Late Effects 10-05-20 HR.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-10-05" user="kuhlmanna">Image approved by Board; copyright permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    <PermissionResponseDate>2020-10-05</PermissionResponseDate><PublisherPermissionText>Reprinted from International Journal of Radiation Oncology*Biology*Physics, Volume 94, Issue 4, Inskip PD, Sigurdson AJ, Veiga L, et al., Radiation-Related New Primary Solid Cancers in the Childhood Cancer Survivor Study: Comparative Radiation Dose Response and Modification of Treatment Effects, Pages 800-807, Copyright © 2016, with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000801309">Radiation-Related New Primary Solid Cancers in the Childhood Cancer Survivor Study: Comparative Radiation Dose Response and Modification of Treatment Effects.</CitationLink><Comment audience="Internal" date="2020-10-05" user="kuhlmanna">Per OCC, only labels, caption, and content description may be translated</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph showing fitted radiation dose (Gy) response by type of second cancer: sarcoma, skin cancer (BCC), meningioma, salivary gland cancer, glioma, breast cancer, and thyroid cancer.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Fitted radiation dose-response by type of second cancer, based on previously published studies of second sarcoma, skin, meningioma, salivary gland, glioma, breast, and thyroid gland. The order of second cancers from top to bottom in the graph is the same as in the key to the right of the panel. Reprinted from International Journal of Radiation Oncology*Biology*Physics, Volume 94, Issue 4, Inskip PD, Sigurdson AJ, Veiga L, et al., Radiation-Related New Primary Solid Cancers in the Childhood Cancer Survivor Study: Comparative Radiation Dose Response and Modification of Treatment Effects, Pages 800-807, Copyright © 2016, with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per OCC, only labels, caption, and content description may be translated</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-10-05</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000803056">Inskip_Figure_CopyrightPermissions_2020-10-06</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

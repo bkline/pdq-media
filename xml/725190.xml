@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Late Effects - Cumulative incidence of cardiac disorders-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Insuficiencia cardíaca congestiva</LabelName><LabelName language="es">Ausencia de radiación cardíaca</LabelName><LabelName language="es">&lt;500 cGy de radiación cardíaca</LabelName><LabelName language="es">500 a &lt;1500 cGy   de radiación cardíaca</LabelName><LabelName language="es">1500 a &lt;3500 cGy cGy   de radiación cardíaca</LabelName><LabelName language="es">≥3500 cGy de radiación cardíaca</LabelName><LabelName language="es">Incidencia cumulativa (%)</LabelName><LabelName language="es">15</LabelName><LabelName language="es">12</LabelName><LabelName language="es">9</LabelName><LabelName language="es">6</LabelName><LabelName language="es">3</LabelName><LabelName language="es">0</LabelName><LabelName language="es">Infarto del miocardio</LabelName><LabelName language="es">Enfermedad del pericardio</LabelName><LabelName language="es">Incidencia cumulativa (%)</LabelName><LabelName language="es">15</LabelName><LabelName language="es">12</LabelName><LabelName language="es">9</LabelName><LabelName language="es">6</LabelName><LabelName language="es">3</LabelName><LabelName language="es">0</LabelName><LabelName language="es">Enfermedad de las válvulas</LabelName><LabelName language="es">Tiempo transcurrido desde el diagnóstico (años)</LabelName><LabelName language="es">0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">20</LabelName><LabelName language="es">30</LabelName><LabelName language="es">Tiempo transcurrido desde el diagnóstico (años)</LabelName>
+  <LabelName language="es">0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">20</LabelName><LabelName language="es">30</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Cuatro diagramas muestran la incidencia cumulativa de los trastornos cardíacos entre los supervivientes de cáncer infantil mediante dosis de radiación cardíaca promedio. El primer diagrama muestra la incidencia cumulativa  (%) de la insuficiencia cardíaca congestiva durante el tiempo transcurrido desde el diagnóstico (años) por 5  niveles de radiación: ausencia de radiación cardíaca, menos de  500 cGy de radiación cardíaca, 500 a menos de 1500 cGy  de radiación cardíaca, 1500 a menos de 3500 cGy de radiación cardíaca y ≥3500 cGy de radiación cardíaca. El segundo, tercero y cuarto diagrama muestran la incidencia con el tiempo para el infarto al miocardio, enfermedad pericárdica y enfermedad valvular, con los mismos niveles de dosis de radiación.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Incidencia cumulativa de los tratornos cardíacos entre niños supervivientes de cáncer mediante dosis de radiación cardíaca promedio.<Emphasis>BMJ</Emphasis> 2009; 339:b4606. © 2009 by British Medical Journal Publishing Group.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000371825">Efectos tardíos del tratamiento anticanceroso en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2015-06-25" user="saucedol">Linked revised image</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels missing from Englishand from Spanish  media doc.  Missing labels added and image sent to Terese to revise as per Amy Kuhlman.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

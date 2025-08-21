@@ -1,0 +1,62 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esthesioneuroblastoma</MediaTitle><PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Areas of the Body Where Esthesioneuroblastoma Tumors May Form</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Olfactory bulb</LabelName><LabelName language="en">Olfactory nerve endings</LabelName><LabelName language="en">Nasal cavity</LabelName><LabelName language="en">Nasal sinuses</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2460</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-04-30</DateCreated>
+   <SourceFilename>Esthesioneuroblastoma3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-04-30" user="kuhlmanna">Minor change made to image title</Comment><Comment>Made the olifactory bulb and the nerve endings darker; Added a title:  Parts of the Body Where Esthesioneuroblastoma Tumors Form; Added label Olfactory nerve endings</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows areas of the body where esthesioneuroblastoma tumors may form, including the olfactory  nerve endings, olfactory bulb, nasal cavity, nasal sinuses, and brain.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Esthesioneuroblastomas form in the olfactory nerve endings in the upper part of the nasal cavity. The olfactory nerves (sense of smell) pass through the many tiny holes in the bone at the base of the brain to the olfactory bulb. Esthesioneuroblastomas may spread from the nasal cavity to the nasal sinuses or to nearby tissue. They may also spread to the brain or to other parts of the body (not shown).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000789047">Childhood Esthesioneuroblastoma Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000790108">esthesioneuroblastoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-28</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Updated image to Esthesioneuroblastoma2.jpg</Comment><Comment>Added Esthesioneuroblastoma1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,114 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IIA</LabelName><LabelName language="es">Carina</LabelName><LabelName language="es">Bronquio principal izquierdo</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Todo el pulmón o una parte de este se desinfló o presenta neumonitis</LabelName><LabelName language="es">c</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Costilla</LabelName><LabelName language="es">Membrana interna que recubre el pulmón</LabelName><LabelName language="es">El tumor primario mide más de 4 cm, pero no más de 5 cm</LabelName><LabelName language="es">5 cm</LabelName><LabelName language="es">4 cm</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000520465">lung cancer, stage IIA</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>LungStage2ARevSpanish2.jpg</SourceFilename><Comment audience="Internal" date="2010-10-14" user="lsaucedo">Replaced old illustration with new revised illustration; Added LungStage2A.RevSpanish.jpg</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; Added LungStage2AandBSpanish2.jpg with new copyright information.</Comment><Comment>Spanish file name: LungStage2AandBSpanish2.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IIA. En la imagen se observa un tumor primario en el pulmón izquierdo que mide más de 4 cm, pero no más de 5 cm. Además se observan las siguientes situaciones: a)  el cáncer se diseminó al bronquio principal izquierdo; b) el cáncer se diseminó a la membrana interna que recubre el pulmón (recuadro inferior); c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). También se observan la carina y la pleura y, en el recuadro inferior, una costilla.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIA. En la imagen se observa un tumor primario en el pulmón izquierdo que mide más de 4 cm, pero no más de 5 cm. Además se observan las siguientes situaciones: a)  el cáncer se diseminó al bronquio principal izquierdo; b) el cáncer se diseminó a la membrana interna que recubre el pulmón (recuadro inferior); c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). También se observan la carina y la pleura y, en el recuadro inferior, una costilla.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IIA. El tumor mide más de 4 cm, pero no más de 5 cm. El cáncer no se diseminó a los ganglios linfáticos y se presentan una o más de las siguientes situaciones: 1) el cáncer se diseminó al bronquio principal, pero no a la carina; 2) el cáncer se diseminó a la membrana interna que recubre el pulmón; 3) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIA. El tumor mide más de 4 cm, pero no más de 5 cm. El cáncer no se diseminó a los ganglios linfáticos y se presentan una o más de las siguientes situaciones: 1) el cáncer se diseminó al bronquio principal, pero no a la carina; 2) el cáncer se diseminó a la membrana interna que recubre el pulmón; 3) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045357">stage IIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image and labels; revised captions and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       <Comment audience="Internal" date="2019-07-05" user="adlerm2">Added translation of captions and content descriptions in proposed markup</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised Pat. caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>New labels added, revised labels, revised caption and content description and replaced old illustration with new Revised illustration.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd revised labels, caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-01-25 Spanish labels added to images; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-01-08</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-02-20 captions and content descriptions completed; mm 2007-01-18 Label translations completed; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000520465">lung cancer, stage IIA</TranslationOf></Media>

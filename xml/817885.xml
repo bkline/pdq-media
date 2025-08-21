@@ -1,0 +1,54 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ 
+ <MediaTitle>pelvis, female, anatomy</MediaTitle><PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Female Pelvic Anatomy</LabelName><LabelName language="en">Pelvis</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Hip joint</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Ovaries</LabelName><LabelName language="en">Fallopian tubes</LabelName><ImageDimensions>
+    <HeightPixels>1830</HeightPixels><WidthPixels>1920</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2025-03-24</DateCreated>
+   <SourceFilename>PelvicAnatomyFemaleFP V.1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>Black or African American</Race>
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription language="en" audience="Patients">Drawing of the anatomy of a female pelvis shows the pelvis, rectum, hip joint, bladder, vagina, cervix, uterus, ovaries, and fallopian tubes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The pelvis is the area of the body below the abdomen that contains the hip bones, bladder, and rectum. In females, it also contains the vagina, cervix, uterus, fallopian tubes, and ovaries.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>heteroduplex and homoduplex DNA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">T</LabelName><LabelName language="en">G</LabelName><LabelName language="en">C</LabelName><LabelName language="en">A</LabelName><LabelName language="en">C</LabelName><LabelName language="en">G</LabelName><LabelName language="en">T</LabelName><ImageDimensions>
+    <HeightPixels>684</HeightPixels>
+    <WidthPixels>2094</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2010-10-04</DateCreated>
+   
+   
+   <SourceFilename>heteroduplex3.jpg</SourceFilename>
+   <Comment>Made watermark smaller.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">DNA duplexes; drawing shows double-stranded homoduplex DNA with the normal binding of wild-type DNA sequences (labeled A-T and G-C). Drawing shows double-stranded heteroduplex DNA  with two unpaired regions (labeled A-C and G-T).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">DNA duplexes. Homoduplex DNA shows the normal binding of wild-type DNA sequences. Heteroduplex DNA shows unpaired regions, which are sites of possible mutations.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000671177">heteroduplex analysis</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to heteroduplex3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-08-04</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added heteroduplex2.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000686360">Illustration Review Sheet: heteroduplex DNA</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

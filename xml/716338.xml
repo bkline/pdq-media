@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>oral cavity anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Oral Cavity</LabelName><LabelName language="en">Lip</LabelName><LabelName language="en">Teeth</LabelName><LabelName language="en">Hard palate</LabelName><LabelName language="en">Soft palate</LabelName><LabelName language="en">Retromolar trigone</LabelName><LabelName language="en">Tongue (front two-thirds)</LabelName><LabelName language="en">Gingiva (gum)</LabelName><LabelName language="en">Uvula</LabelName><LabelName language="en">Tonsil</LabelName><LabelName language="en">Buccal mucosa (lip and cheek lining)</LabelName><LabelName language="en">Floor of mouth</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-02-20</DateCreated>
+   <SourceFilename>OralCavity4.jpg</SourceFilename><Comment audience="Internal" date="2012-02-22" user="cnorwood">Added "(lip and cheek lining)" after the word “mucosa” in the Buccal mucosa label.</Comment>
+  <Comment audience="Internal" date="2011-12-01" user="anjamison">Removed the labels Posterior wall of the pharynx, Sublingual gland duct, and Submandibular gland duct; shortened  the line pointing to the buccal mucosa so that it points to the darker area and not the gum; added  a bracket to show the front two-thirds of the tongue and point to the bracket from the label.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the oral cavity; drawing shows the lip, hard palate, soft palate, retromolar trigone, front two-thirds of the tongue, gingiva, buccal mucosa, and floor of mouth. Also shown are the teeth, uvula, and tonsil.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the oral cavity. The oral cavity includes the lips, hard palate (the bony front portion of the roof of the mouth), soft palate (the muscular back portion of the roof of the mouth), retromolar trigone (the area behind the wisdom teeth), front two-thirds of the tongue, gingiva (gums), buccal mucosa (the inner lining of the lips and cheeks), and floor of the mouth under the tongue.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258017">Lip and Oral Cavity Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000593427">Oral Cancer Screening;Screening;Patients</Summary><Summary cdr:ref="CDR0000593570">Oral Cancer Prevention;Prevention;Patients</Summary><Glossary cdr:ref="CDR0000389464">oral cavity</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-12-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        
+        <ProcessingStatusDate>2012-02-22</ProcessingStatusDate><EnteredBy>cnorwood</EnteredBy><Comment audience="Internal" date="2012-02-22" user="cnorwood">Updated to OralCavity4.jpg</Comment>
+        <Comment audience="Internal" date="2012-02-03" user="anjamison">Updated to OralCavity3.jpg</Comment><Comment>Updated to OralCavity2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-10-28</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added OralCavity1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000730676">Illustration review sheet: oral cavity anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

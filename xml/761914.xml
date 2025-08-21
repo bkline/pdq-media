@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>carcinoma in situ</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Carcinoma in Situ</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Outer tissue layer</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Inner tissue layer</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-10-02</DateCreated>
+   <SourceFilename>Carcinoma in situ5.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-10-06" user="akuhlmann">Changed label to "Inner tissue layer".</Comment><Comment audience="Internal" date="2014-08-12" user="myousufzai">Removed the word “spreads” from the label in the right panel.</Comment><Comment audience="Internal" date="2014-07-28" user="akuhlmann">Added "Cancer" above right panel; centered "Carcinoma in situ" above left panel; added brackets to show each tissue layer; changed carcinoma in situ cells to look like abnormal cells and not cancer cells in left panel; showed cancer spreading into the muscle and connective tissue layers in right panel; added green dots to connective tissue layer in left panel; removed the label "Basement membrane"; and removed arrow and lymph nodes from right panel.</Comment><Comment audience="Internal" date="2014-07-17" user="akuhlmann">Showed layers of tissue and abnormal cells in the tissue that haven’t broken through the basement membrane (or external layer) and haven’t spread, contrasted with a view of cancer that has broken through and spread to nearby (and/or distant) sites.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  <Category>abnormal cells or tissues</Category></Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing showing layers of tissue, including the outer tissue layer, muscle layers, connective tissue, and inner tissue layer. The left panel shows carcinoma in situ (abnormal cells) in the inner tissue layer. The right panel shows cancer cells spreading from the inner tissue layer to the connective tissue and muscle layers. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Carcinoma in situ (CIS) is a group of abnormal cells that are found only in the place where they first formed in the body (see left panel). These abnormal cells may become cancer and spread to nearby normal tissue (see right panel).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046488">carcinoma in situ</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Rick Manrow</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-30</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2014-10-06" user="akuhlmann">Updated to Carcinoma in situ5.jpg</Comment><Comment audience="Internal" date="2014-08-12" user="myousufzai">Updated to Carcinoma in situ4.jpg</Comment><Comment audience="Internal" date="2014-07-28" user="akuhlmann">Updated to Carcinoma in situ3.jpg</Comment><Comment>Added Carcinoma in situ2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-06-12</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment>Added Carcinoma in situ1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000765053">Illustration Review Sheet: carcinoma in situ</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

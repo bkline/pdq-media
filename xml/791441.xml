@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Vascular Tumors - Baselga Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Preprogression</LabelName><LabelName language="en">Postprogression</LabelName><LabelName language="en">A</LabelName><LabelName language="en">B</LabelName><LabelName language="en">C</LabelName><LabelName language="en">D</LabelName><LabelName language="en">E</LabelName><ImageDimensions>
+    <HeightPixels>1803</HeightPixels>
+    <WidthPixels>946</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>JAMA Dermatology</Creator>
+   <SourcePublication>Baselga E, Roe E, Coulie J, et al.: Risk Factors for Degree and Type of Sequelae After Involution of Untreated Hemangiomas of Infancy. JAMA Dermatology, Volume 152 (Issue 11), Pages 1239–1243, 2016.</SourcePublication><DateCreated>2017-12-20</DateCreated>
+   <SourceFilename>Baselga Fig 1 for Ch Vascular Tumors JPEG file 12-20-17</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2017-11-29</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    
+    <PermissionResponseDate>2017-12-15</PermissionResponseDate><PublisherPermissionText>Reproduced with permission from JAMA Dermatology. 2016. 152 (11): 1239–1243. Copyright © (2016) American Medical Association. All rights reserved.</PublisherPermissionText><ApprovedUse>
+     <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000791440">Risk Factors for Degree and Type of Sequelae After Involution of Untreated Hemangiomas of Infancy.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000665618">hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photographs showing different types of hemangioma sequelae, pre-progression and post-progression. </ContentDescription><ContentDescription audience="Health_professionals" language="es">Las fotografías muestran diferentes tipos de secuelas de hemangiomas, antes y después de la progresión.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Examples of different types of sequelae. A, deep hemangioma that regressed without sequelae; B, superficial hemangioma that left only telangiectasia; C, mixed hemangioma that left anetodermic skin; D, mixed hemangioma that left redundant skin; and E, mixed hemangioma that left fibrofatty tissue. Reproduced with permission from JAMA Dermatology. 2016. 152 (11): 1239–1243. Copyright © (2016) American Medical Association. All rights reserved.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Ejemplos de tipos diferentes de secuelas. A, hemangioma profundo que remitió sin secuelas; B, hemangioma superficial que solo dejó telangiectasias; C, hemangioma compuesto que dejó la piel anetodérmica; D, hemangioma compuesto que dejó piel redundante; y E, hemangioma compuesto que dejó tejido fibroadiposo. Preprogression: antes de la progresión; Postprogression: después de la progresión.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary><Summary cdr:ref="CDR0000779919">Tratamiento de los tumores vasculares infantiles</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Caption and Content. Descrp. Pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-11-29</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>Image approved by Pediatric Treatment Editorial Board</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000791692">Baselga_ChVascularTumors_CopyrightPermissions_2017-12-20</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

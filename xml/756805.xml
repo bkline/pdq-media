@@ -1,0 +1,95 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>catheter, port-a-cath</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Port-a-cath (Port)</LabelName><LabelName language="en">Port-a-cath under skin</LabelName><LabelName language="en">Port-a-cath</LabelName><LabelName language="en">Superior vena cava</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Inserting needle into Port-a-cath</LabelName><LabelName language="en">Blood is drawn from Port-a-cath</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2019-07-22</DateCreated>
+   
+   
+   <SourceFilename>PortACath10.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2019-07-22" user="kuhlmanna">Changed needle to yellow butterfly needle and made top right inset smaller</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Image REVISION: Added pressure cap and syringe to end of catheter; added a clear dressing over catheter site</Comment><Comment audience="Internal" date="2015-05-04" user="akuhlmann">Added "Superior" to vena cava label</Comment><Comment audience="Internal" date="2015-02-24" user="myousufzai">In the inset, rotated the tubing and the butterfly 180 degrees so that they are both pointing down toward the middle of the body instead of over the shoulder; added the label “Inserting needle into Port-a-cath”, and removed the double-headed arrow from between the fingers</Comment><Comment audience="Internal" date="2014-10-07" user="myousufzai">Moved the Port-a-cath inset to the left side of main figure; in main figure, shortened the catheter going from the port-a-cath so that it doesn't look like it's going to the heart; updated Blood drawn from Port-a-cath inset by showing the hands of a health professional inserting a needle into the port-a-cath and adding the part of the body where the port-a-cath sits; positioned tubing and blood draw so that it's over the right shoulder of patient</Comment><Comment audience="Internal" date="2014-07-07" user="myousufzai">Changed the upper case C in the title to lower case (Port-a-cath); in the right bottom inset, changed the shading in the the area above the port-a-cath to white so it looks like there is a mound sticking up (from someone laying on their back), and changed shading in  the area right around the port-a-cath and below it  to look like tissue.</Comment><Comment audience="Internal" date="2014-06-20" user="myousufzai">Turned the bottom inset box so that it is apparent that the patient would be lying down while blood is being drawn; Made the tube less full of blood</Comment><Comment audience="Internal" date="2014-06-09" user="myousufzai">Removed the large inset showing the enlarged version of the port a cath; on the right side of the image, made two inset boxes,  the top box showing the part of the body where the port a cath is inserted, but as a bump under the skin, and the bottom box showing the needle stuck into the port a cath, a tube connected to a syringe and a red-top tube to illustrate how blood is drawn through the port a cath.</Comment><Comment audience="Internal" date="2014-05-19" user="akuhlmann">Rough draft</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>medical device</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Port-a-cath (Port); drawing showing a port-a-cath under the skin in the right side of the chest. It is attached to a catheter that is threaded into a large vein above the right side of the heart called the superior vena cava. The left inset shows the port-a-cath under the skin. The right inset shows a needle being inserted into the port-a-cath and blood being drawn from the port-a-cath through a syringe attached to the needle.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Port-a-cath (Port). A port-a-cath is a device that is usually placed under the skin in the right side of the chest. It is attached to a catheter (a thin, flexible tube) that is threaded into a large vein above the right side of the heart called the superior vena cava. A port-a-cath is used to give intravenous fluids, blood transfusions, chemotherapy, and other drugs. It is also used for taking blood samples. A port-a-cath may stay in place for weeks or months and helps avoid the need for repeated needle sticks.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000044175">port-a-cath</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2019-07-22" user="kuhlmanna">Added PortACath10.jpg</Comment><Comment audience="Internal" date="2019-07-22" user="kuhlmanna">Added PortACath9.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Added PortACath8.jpg</Comment><Comment audience="Internal" date="2015-05-04" user="akuhlmann">Added PortACath7.jpg</Comment><Comment>Added PortACath6.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-01</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-23</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-05-15</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Added PortACath1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-01-16</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000756800">Sample Illustration: Port-a-Cath</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

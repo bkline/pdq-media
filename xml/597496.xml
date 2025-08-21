@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, sentinel lymph node, skin-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Biopsia del ganglio linfático centinela de la piel</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Sustancia radiactiva o tinte</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">Ganglios centinelas</LabelName><LabelName language="es">Sonda</LabelName>
+   <LabelName language="es">Ganglios centinelas extirpados</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>1539</HeightPixels><WidthPixels>3072</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000592566">biopsy, sentinel lymph node, skin </MediaID></FromCdrMedia></FromObject><SourceFilename>SkinSentinelNodeSpanish4.jpg</SourceFilename><Comment audience="Internal" date="2013-03-08" user="lsaucedo">Replace image with titled image</Comment><Comment audience="Internal" date="2008-10-03" user="rharrison">Updated file to SkinSentinelNodeSpanish3.jpg. </Comment>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Biopsia de ganglio linfático centinela de la piel. El primero de  tres paneles muestra una sustancia radiactiva o un tinte azul que se inyecta cerca del tumor; el panel del medio muestra que la sustancia que se inyecta se puede identificar con la vista o con una sonda 
+que detecta la radiactividad  para encontrar los ganglios centinela (los primeros ganglios en absorber la sustancia); el tercer panel muestra la extirpación del tumor y los ganglios centinela para determinar si tienen células cancerosas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Biopsia de ganglio linfático centinela de la piel. Se inyecta una sustancia radiactiva o un tinte azul cerca del tumor (primer panel). La sustancia que se inyecta se identifica con la vista o con una sonda que detecta la radiactividad (panel del medio). Se extirpan los ganglios centinela (los primeros ganglios en absorber la sustancia) para determinar si tienen células cancerosas (último panel).</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256809">Cáncer de piel: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000046712">sentinel lymph node biopsy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment audience="Internal" date="2010-06-17" user="dbuchhagen">Added translation for Sentinel nodes removed.</Comment><Comment audience="Internal" date="2010-04-20" user="dbuchhagen">Revised content description to match caption.</Comment><Comment>Revised caption </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2010-06-21" user="dbuchhagen">Updated image to SkinSentinelNodeSpanish3.jpg.</Comment><Comment audience="Internal" date="2010-05-21" user="dbuchhagen">Updated image to SkinSentinelNodeSpanish2.jpg.</Comment><Comment>2008-10-03 attached Spanish-labeled image; rh. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2010-03-12" user="dbuchhagen">Added Biopsia de ganglio línfático centinela de la piel to cap and cont desc.</Comment><Comment audience="Internal" date="2008-10-03" user="rharrison">2008-10-03 added final edits to caption and content desc. </Comment><Comment>2008-09-17 entered translated caption and content desc. </Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-20</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2008-05-29 translation of labels complete.</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+ 
+</Media>

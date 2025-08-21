@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>pancreatic cancer relative survival rates by histologic subtype</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Relative Survival Rate (%)</LabelName><LabelName language="en">Months after diagnosis</LabelName><LabelName language="en">Endocrine</LabelName><LabelName language="en">Exocrine</LabelName><ImageDimensions>
+    <HeightPixels>740</HeightPixels>
+    <WidthPixels>1004</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Key, C. Ch 7: Cancer of the pancreas. In: Ries LAG, Young JL, Keel GE, Eisner MP, Lin YD, Horner M-J (editors). SEER Survival Monograph: Cancer Survival Among Adults: U.S. SEER Program, 1988-2001, Patient and Tumor Characteristics. National Cancer Institute, SEER Program, NIH Pub. No. 07-6215, Bethesda, MD, 2007.</Creator>
+   <DateCreated>2011-11-08</DateCreated>
+   <SourceFilename>seer_survival_mono_highres-70.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041487">pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph shows relative survival rate (%) at 0−120 months after diagnosis of endocrine and exocrine cancer of the pancreas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cancer of the Pancreas: Relative Survival Rates (%) by Histologic Subtype, Ages 20+, 12 SEER Areas, 1988-2001.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062794">Pancreatic Neuroendocrine Tumors (Islet Cell Tumors) Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-11-10</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>HP summary comprehensive revision hot fix: Added seer_survival_mono_highres-70.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

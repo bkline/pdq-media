@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>fecal immunochemical test (FIT)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Fecal Immunochemical Test (FIT)</LabelName><LabelName language="en">Package Insert for Personal Use Kit</LabelName><LabelName language="en">Sample Deposit</LabelName><LabelName language="en">1.</LabelName><LabelName language="en">2.</LabelName><LabelName language="en">3.</LabelName><LabelName language="en">4.</LabelName><LabelName language="en">Sample Collection</LabelName><LabelName language="en">1.</LabelName><LabelName language="en">2.</LabelName><LabelName language="en">Answering your questions about Colorectal cancer and Colorectal cancer screening</LabelName><LabelName language="en">BUSINESS REPLY MAIL</LabelName><LabelName language="en">Collection Paper</LabelName><LabelName language="en">BIOHAZARD</LabelName><ImageDimensions>
+    <HeightPixels>2460</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-02-02</DateCreated>
+   <SourceFilename>FIT4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-02-06" user="kuhlmanna">REVISION: Added a "period" after the number "4" in image (period was missing)</Comment><Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Made collection tube translucent to show the brush inside the tube</Comment><Comment audience="Internal" date="2016-11-28" user="kuhlmanna">Changed image to show an illustration of the actual kit</Comment><Comment audience="Internal" date="2016-11-03" user="kuhlmanna">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis><Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Fecal immunochemical test (FIT); drawing shows a FIT kit, which includes the package insert, the collection paper, and a collection tube with a small brush inside of it. Also shown are the biohazard bag, the return envelope, and a paper with information about colorectal cancer and colorectal cancer screening.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Fecal immunochemical test (FIT); drawing shows a FIT kit, which includes the package insert, the collection paper, and a collection tube with a small brush inside of it. Also shown are the biohazard bag, the return envelope, and a paper with information about colorectal cancer and colorectal cancer screening.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">A fecal immunochemical test (FIT) checks for occult (hidden) blood in the stool. A small sample of stool is placed in a special collection tube or on special cards and returned to a doctor or laboratory for testing.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">A fecal immunochemical test (FIT) checks for occult (hidden) blood in the stool. A small sample of stool is placed in a special collection tube or on special cards and returned to a doctor or laboratory for testing.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258008">Colorectal Cancer Screening</Summary><Summary cdr:ref="CDR0000062954">Colon Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000759140">fecal immunochemical test</Glossary><Glossary cdr:ref="CDR0000045050">fecal occult blood test</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2017-02-01" user="yousufzaimg">Updated per Diana's instructions</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Updated image to FIT3.jpg</Comment><Comment audience="Internal" date="2016-11-28" user="kuhlmanna">Updated image to FecalImmunochemicalTest2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-10-31</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

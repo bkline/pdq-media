@@ -1,0 +1,112 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IIIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA Squamous Cell Carcinoma of the Esophagus</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Thin muscle layer</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Thick muscle layer</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Cancer in 3 to 6 lymph nodes near tumor</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Cancer in 1 to 2 lymph nodes near tumor</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-08-18</DateCreated>
+   <SourceFilename>EsophagusSquamousStage3A.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-08-19" user="kuhlmanna">Revised the alignment of the two labels on the bottom</Comment><Comment audience="Internal" date="2019-07-19" user="yousufzaimg">Changed "Cancer" to "Carcinoma" in image title</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2014-09-10" user="myousufzai">Changed brackets to curly brackets with the label line pointing to the middle of the bracket; added label for Submucosa, pointing to the white band near the top, and made the mucosa layer just include the layers from the top of the submucosa to the top of the image; and made the connective tissue layer at the very bottom a little thicker</Comment><Comment audience="Internal" date="2014-06-10" user="akuhlmann">Removed the label and bracket on the main figure that says "Lower esophagus"; moved the cut out part to the middle of the esophagus; and added the label "Esophagus" </Comment><Comment audience="Internal" date="2014-04-08" user="myousufzai">Added a (1) after the image title; showed the body in the main figure with just the labels  "Lower esophagus" and "Stomach" and the two inset panels with the cancer spots; in the first panel, took the cancer out of the muscle layer and made it extend down to the bottom of the mucosal layer; moved the label "OR" down between the two panels so that it lines up with the mucosal layer</Comment><Comment audience="Internal" date="2014-03-24" user="akuhlmann">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717461">stage IIIA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIA squamous cell carcinoma of the esophagus; drawing shows the esophagus and stomach. A two-panel inset shows the layers of the esophagus wall: the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer. The left panel shows cancer in the mucosa layer, thin muscle layer, and submucosa layer and in 3 lymph nodes near the tumor. The right panel shows cancer in the mucosa layer, thin muscle layer, submucosa layer, and thick muscle layer and in 1 lymph node near the tumor.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIA squamous cell carcinoma of the esophagus; drawing shows the esophagus and stomach. A two-panel inset shows the layers of the esophagus wall: the mucosa layer, thin muscle layer, submucosa layer, thick muscle layer, and connective tissue layer. The left panel shows cancer in the mucosa layer, thin muscle layer, and submucosa layer and in 3 lymph nodes near the tumor. The right panel shows cancer in the mucosa layer, thin muscle layer, submucosa layer, and thick muscle layer and in 1 lymph node near the tumor.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA squamous cell carcinoma of the esophagus. Cancer has spread into the mucosa layer, thin muscle layer, or submucosa layer of the esophagus wall. Cancer is found in 3 to 6 lymph nodes near the tumor; OR cancer has spread into the thick muscle layer of the esophagus wall. Cancer is found in 1 to 2 lymph nodes near the tumor.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIA squamous cell carcinoma of the esophagus. Cancer has spread into the mucosa layer, thin muscle layer, or submucosa layer of the esophagus wall. Cancer is found in 3 to 6 lymph nodes near the tumor; OR cancer has spread into the thick muscle layer of the esophagus wall. Cancer is found in 1 to 2 lymph nodes near the tumor.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062741">Esophageal Cancer Treatment</Summary><Glossary cdr:ref="CDR0000720246">stage III esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to EsophagusSquamousStage3A.2.jpg</Comment><Comment audience="Internal" date="2014-09-10" user="akuhlmann">Updated image to EsophagealCaSquamousStage3APart1.4.jpg</Comment><Comment audience="Internal" date="2014-06-10" user="akuhlmann">Added EsophagealCaSquamousStage3APart1.3.jpg</Comment><Comment>Added EsophagealCaSquamousStage3APart1.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Image and caption need modifications per J. Faris</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-09</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-07</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-03-24</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added EsophagealCaSquamousStage3A.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000759457">Sample Illustration: esophageal stage IIIA</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000763677">Illustration Review Sheet: esophageal squamous cell stage IIIA (1)</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000792773">Sample Illustration: Esophageal SCC AJCC Revisions</SupplementaryInfoLink></RelatedDocuments><Comment audience="Internal" date="2015-10-12" user="yousufzaimg">Added HP caption/content description; my</Comment></Media>

@@ -1,0 +1,122 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pancreas anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Hígado</LabelName><LabelName language="es">Vías biliares</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Bazo</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Conducto biliar</LabelName><LabelName language="es">Conducto pancreático</LabelName><LabelName language="es">Cabeza</LabelName><LabelName language="es">Cuerpo</LabelName><LabelName language="es">Cola</LabelName><ImageDimensions>
+    <HeightPixels>2760</HeightPixels><WidthPixels>3060</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000636528">pancreas anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject><SourceFilename>PancreasAnatomy Woman FP IV Spanish2.jpg</SourceFilename>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><SkinTone>Type IV – Light brown skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041487">pancreatic cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del páncreas. En el dibujo se observan el páncreas, el estómago, el bazo, el hígado, las vías biliares, la vesícula biliar, el intestino delgado y el colon. En el recuadro se muestran la cabeza, el cuerpo y la cola del páncreas. También se muestran un conducto biliar y el conducto pancreático.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del páncreas. En el dibujo se observan el páncreas, el estómago, el bazo, el hígado, las vías biliares, la vesícula biliar, el intestino delgado y el colon. En el recuadro se muestran la cabeza, el cuerpo y la cola del páncreas. También se muestran un conducto biliar y el conducto pancreático.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del páncreas. El páncreas tiene tres partes: cabeza, cuerpo y cola. Se encuentra en el abdomen cerca del estómago, los intestinos y otros órganos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía del páncreas.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256768">Tratamiento del cáncer de páncreas</Summary>
+  <Glossary cdr:ref="CDR0000046254">pancreas</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-26</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Also, new image revised: the word "páncreas" is not bold as it is in the English image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to artist to incorporate diversity changes.  Also made editorial changes to content desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed caption, content description and labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC image, labels, caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised label sent to artist for image revision</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Edition of one label (vías biliares)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-06-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Minor editing in Caption found during Summary update</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-12</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated missing HP content description and caption</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-27</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-01-22" user="dbuchhagen">T</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-27</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-01-22" user="dbuchhagen">Added "biliar" to "Vesícula biliar"</Comment><Comment audience="Internal" date="2010-01-20" user="dbuchhagen">Updated image to PancreasAnatomySpanish2.jpg.</Comment><Comment>Translated labels, caption, and content description are complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-05-19</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000636528">pancreas anatomy</TranslationOf></Media>

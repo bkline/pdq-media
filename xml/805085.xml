@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>MEN syndromes</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Body Affected by MEN Syndromes</LabelName><LabelName language="en">MEN1 Syndrome</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Parathyroid glands</LabelName><LabelName language="en">Thyroid gland (back view)</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">MEN2 Syndrome</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Adrenal gland</LabelName><LabelName language="en">Adrenal medulla</LabelName><ImageDimensions>
+    <HeightPixels>2430</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-07-30</DateCreated>
+   <SourceFilename>MENSyndromes5.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2021-08-02">Added a new box outline to the Adrenal Gland box with the correct line width</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-06-23">Changed the title to "Parts of the Body Affected by MEN Syndromes"</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-06-21">Darkened the hair</Comment><Comment audience="Internal" date="2021-06-07" user="kuhlmanna">Remove clothes from figures and change them to an approximately 4-year old child; show the brain as a reference point for the pituitary gland; include a pullout of the thyroid gland to show the parathyroid glands; and change the label "Thyroid" to "Thyroid gland"</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042848">multiple endocrine neoplasia</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Parts of the body affected by multiple endocrine neoplasia (MEN) syndromes; the drawing on the left shows parts of the body affected by MEN1 syndrome, including the pituitary gland, parathyroid glands, and pancreas. An inset shows the back view of the thyroid gland and the four pea-sized parathyroid glands. The drawing on the right shows parts of the body affected by MEN2 syndrome, including the thyroid gland, parathyroid glands, and adrenal gland. An inset shows the adrenal medulla (inner part) of the adrenal gland.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Multiple endocrine neoplasia (MEN) syndromes are rare, inherited disorders that affect the endocrine glands or organs. There are several types of MEN syndromes, and each type may cause different conditions or cancers. The two main types of MEN syndromes are MEN1 and MEN2. MEN1 syndrome usually causes tumors in the pituitary gland, parathyroid gland, or pancreas. MEN2 syndrome usually causes tumors in the thyroid gland, parathyroid gland, or adrenal gland. The tumors may be benign (not cancer) or malignant (cancer).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000799404">Childhood Multiple Endocrine Neoplasia (MEN) Syndromes Treatment</Summary>
+  <Glossary cdr:ref="CDR0000563964">MEN syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-08-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-06-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-06-21</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2021-06-21">Updated image to MENSyndromes3.jpg</Comment><Comment audience="Internal" date="2021-06-07" user="kuhlmanna">Added MENSyndromes2.jpg</Comment><Comment>Added MENSyndromes1.jpg</Comment>
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-05-17</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

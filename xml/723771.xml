@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lumpectomy, male</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lumpectomy</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Tumor</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Chest wall lining</LabelName><LabelName language="en">Tumor</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3165</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-06-14</DateCreated>
+   <SourceFilename>LumpectomyMale FP III and V.1.jpg</SourceFilename><Comment user="kuhlmanna" date="2024-06-17" audience="Internal">Changed the image title  to "Lumpectomy"</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-12-05">Minor image update - faded the ribs and skeletal outline in the second panel  (they were too prominent next to the darker skin)</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-10-25">Updated skin tone  to FP III (left figure) and FP V (right figure); removed the labels Lumpectomy and Partial Mastectomy; and added the OR between the two figures so it matches the female version of the image</Comment>
+  <Comment audience="Internal" date="2012-02-03" user="anjamison">Changed title to Breast-conserving Surgery.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2022-10-24</DateLastReviewed></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2022-10-24</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category><Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041338">male breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lumpectomy; the drawing on the left shows removal of the tumor and some of the normal tissue around it. The drawing on the right shows removal of some of the lymph nodes under the arm and removal of the tumor and part of the chest wall lining near the tumor. Also shown is fatty tissue in the breast.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Lumpectomy. The tumor and some normal tissue around it are removed, but not the breast itself. Some lymph nodes under the arm may also be removed. If the cancer is near  the chest wall, part of the chest wall lining may be removed as well. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062969">Male Breast Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2024-06-17" audience="Internal">Updated to LumpectomyMale FP III and V.1.jpg</Comment><Comment>MaleBreastConservSurgery FP III and V.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-28</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-02-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-01-23</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added MaleBreastConservSurgery1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000728290">Illustration Review Sheet: breast-conserving surgery, male</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

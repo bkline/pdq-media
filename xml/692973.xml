@@ -1,0 +1,120 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage IIIA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estadio IIIA</LabelName><LabelName language="es">Cáncer  en 1 a 3 ganglios linfáticos o en el tejido cercano</LabelName><LabelName language="es">Vaso sanguíneo</LabelName><LabelName language="es">Serosa</LabelName><LabelName language="es">Capas de músculo</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">O</LabelName><LabelName language="es">Cáncer  en 4 a 6 ganglios linfáticos</LabelName>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000688429">colon or rectal cancer stage IIIA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ColonCaStageRev.IIIA.Spn.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2011-01-25" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038379">stage III colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer colorrectal en estadio IIIA. En la imagen se muestra un corte transversal del recto o el colon y un recuadro de dos paneles. En cada panel se muestran las capas de la pared del colon o el recto: la mucosa, la submucosa, las capas de músculo y la serosa. También se observan vasos sanguíneos y ganglios linfáticos. En el primer panel se observa cáncer en la mucosa, la submucosa, las  capas de músculo y en dos ganglios linfáticos. En el segundo panel se observa cáncer en la mucosa, la submucosa y en cinco ganglios linfáticos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer colorrectal en estadio IIIA. En la imagen se muestra un corte transversal del recto o el colon y un recuadro de dos paneles. En cada panel se muestran las capas de la pared del colon o el recto: la mucosa, la submucosa, las capas de músculo y la serosa. También se observan vasos sanguíneos y ganglios linfáticos. En el primer panel se observa cáncer en la mucosa, la submucosa, las  capas de músculo y en dos ganglios linfáticos. En el segundo panel se observa cáncer en la mucosa, la submucosa y en cinco ganglios linfáticos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer colorrectal en estadio IIIA. El cáncer se diseminó a través de la mucosa de la pared del colon o el recto a la submucosa, o a la capa de músculo, y se diseminó hasta 1 a 3 ganglios linfáticos cercanos o al tejido cerca de los ganglios linfáticos; o el cáncer se diseminó a través de la mucosa de la pared del colon o el recto  a la submucosa, y hasta 4 a 6 ganglios linfáticos cercanos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer colorrectal en estadio IIIA. El cáncer se diseminó a través de la mucosa de la pared del colon o el recto a la submucosa, o a la capa de músculo, y se diseminó hasta 1 a 3 ganglios linfáticos cercanos o al tejido cerca de los ganglios linfáticos; o el cáncer se diseminó a través de la mucosa de la pared del colon o el recto  a la submucosa, y hasta 4 a 6 ganglios linfáticos cercanos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256761">Tratamiento del cáncer de colon</Summary>
+  <Glossary cdr:ref="CDR0000045892">stage IIIA colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-11-25" user="saucedol">Linked revised image</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       <Comment audience="Internal" date="2018-11-14" user="adlerm2">Es muy difícil de leer por la redacción del original; solo agregué un par de comas.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>AJCC updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>REvised HP and patient caption as per OCC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       <Comment>Translated labels, caption and content description QCd</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-27</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels QCd</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000688429">colon or rectal cancer stage IIIA</TranslationOf></Media>

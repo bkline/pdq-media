@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>genitourinary system, male, testicular, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ureter</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Prostate gland</LabelName><LabelName language="en">Vas deferens</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Testis</LabelName><LabelName language="en">Seminal vesicle</LabelName><LabelName language="en">Ejaculatory duct</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3904</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000450023">genitourinary system, male, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>2008-04-10; Testicular2.jpg. Added new copyright information and added labels.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038579">malignant testicular germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the  male reproductive and urinary systems; drawing shows front and side views of ureters, lymph nodes, rectum, bladder, prostate gland, vas deferens, urethra, penis, testicles, seminal vesicle, and ejaculatory duct.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the  male reproductive and urinary systems, showing the testicles, prostate, bladder, and other organs.</MediaCaption>
+  </Captions>
+  
+  
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Added "drawing" and "gland" to cont descr, dlb.</Comment></MediaContent>
+ 
+</Media>

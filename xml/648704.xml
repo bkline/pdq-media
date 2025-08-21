@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, Hodgkin, childhood, stage III</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage III Childhood Hodgkin Lymphoma</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Cancer in the spleen</LabelName><LabelName language="en">a</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels><WidthPixels>2970</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-09-21</DateCreated>
+   
+   
+   <SourceFilename>LymphomaHodgkinChildhoodStage III FP I.3.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" date="2023-09-21" audience="Internal">Changed the “b” label from “Cancer spread to nearby area” to “Cancer in lymph nodes” and removed the cancer mass; changed the “c” label in the spleen to a “b”; and changed “Cancer spread to the spleen” to “Cancer in the spleen”</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-04-10">Updated the label for spleen to “Cancer spread to the spleen”</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-03-27">Changed figure to a red-haired female and updated skin tone to FP I; added the label “Cancer in lymph nodes” pointing to the two “a” boxes; on the right side of the figure, changed the label “Cancer” pointing to the “b” box to “Cancer spread to nearby area”; and added the label “Lung” to the right side of the figure</Comment><Comment audience="Internal" date="2020-07-07" user="kuhlmanna">Revised label: Removed the letter "b" from the "a,b" label</Comment><Comment audience="Internal" date="2020-05-08" user="yousufzaimg">Revised image - removed the label  "Lymphoma cells" from the inset</Comment><Comment audience="Internal" date="2009-08-06" user="rharrison">Changed title from Child to Childhood.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Child</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone><DateLastReviewed>2023-04-10</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040228">childhood Hodgkin lymphoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage III childhood Hodgkin lymphoma; drawing shows (a) cancer in lymph node groups above and below the diaphragm. Also shown is (b) cancer in a lymph node group above the diagram and cancer in the spleen. The lungs are also shown. An inset shows a close-up of a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown inside the lymph node.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage III childhood Hodgkin lymphoma. Cancer is found (a) in lymph node groups above and below the diaphragm; or (b) in lymph node groups above the diaphragm and in the spleen.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000430898">stage III childhood Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" date="2023-10-02" audience="Internal">Reviewed by Melissa M. Hudson, M.D., St. Jude Children's Research Hospital</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-25</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-09-21" audience="Internal">Updated to LymphomaHodgkinChildhoodStage III FP I.3.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-04-10">Updated image to Stage3ChildHodgkinLymphoma FP I.2.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-03-27">Updated image to Stage3ChildHodgkinLymphoma FP I.1 </Comment><Comment>Added Stage3ChildHodgkinLymphoma3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2009-08-19" user="rharrison">Revised caption to remove +.</Comment><Comment>Caption and content desc adopted from adult Hodgkin lymphoma captions &amp; desc</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment audience="Internal" date="2009-08-06" user="rharrison">Updated to Stage3ChildHodgkinLymphoma2.jpg.</Comment><Comment>Developed from childhood NHL staging illustrations.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000813890">Illustration Review Sheet: Stage III Childhood Hodgkin Lymphoma</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

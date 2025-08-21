@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, medial, adult, anatomy-HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Brain Anatomy</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Hypothalamus</LabelName><LabelName language="en">Ventricles (fluid-filled spaces)</LabelName><LabelName language="en">Cerebrum</LabelName><LabelName language="en">Choroid plexus</LabelName><LabelName language="en">Pineal gland</LabelName><LabelName language="en">Supratentorium</LabelName><LabelName language="en">Infratentorium</LabelName><LabelName language="en">Cerebellum</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Brain stem</LabelName><LabelName language="en">Pons</LabelName><LabelName language="en">Medulla</LabelName><LabelName language="en">Spinal cord</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-11-20</DateCreated>
+   <SourceFilename>BrainAdultMedialforBrainTumor4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-24" user="akuhlmann">Changed image title to "Brain Anatomy"</Comment><Comment audience="Internal" date="2014-11-18" user="myousufzai">Added title "Adult Brain"</Comment> <Comment audience="Internal" date="2014-11-06" user="myousufzai">Aged the person a bit more and made the person a different ethnicity; faded the orbit; enhanced the line that divides the supratentorium from the infratentorium; changed the labels to “Supratentorium” and “Infratentorium”</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-10-08" user="akuhlmann">No copyright permission needed; image created by T Winslow</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing of the inside of the brain showing the supratentorium (the upper part of the brain) and the infratentorium (the lower back part of the brain). The supratentorium includes the cerebrum, ventricles (fluid-filled spaces), choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve. The infratentorium includes the cerebellum and brain stem (pons and medulla). The spinal cord is also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the inside of the brain. The supratentorium contains the cerebrum, ventricles (with cerebrospinal fluid shown in blue),  choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve.The infratentorium contains the cerebellum and brain stem.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062900">Adult Brain Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-24</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-03</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Updated image to BrainAdultMedialforBrainTumor3.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-10-08</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

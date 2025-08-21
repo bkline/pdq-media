@@ -1,0 +1,63 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>prostate cancer</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Prostate Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Prostate cancer</LabelName><ImageDimensions>
+    <HeightPixels>1260</HeightPixels><WidthPixels>1560</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-04-30</DateCreated>
+   <SourceFilename>ProstateCancer2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2024-04-30" audience="Internal">Updated watermark on image</Comment><Comment user="yousufzaimg" date="2024-04-29" audience="Internal">Used the main part of the Stage II Prostate Cancer illustration,	added the title “Prostate Cancer”, and changed the label “Cancer” to “Prostate cancer"</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Prostate cancer; drawing shows cancer in one side of the prostate. Also shown are the bladder, rectum, and urethra.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Prostate cancer forms in the tissues of the prostate (a gland in the male reproductive system that lies just below the bladder and in front of the rectum). It is most common in older men.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000445079">prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-04-29</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added ProstateCancer1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

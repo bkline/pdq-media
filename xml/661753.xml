@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery, Mohs - penile cancer</MediaTitle>
+ <PhysicalMedia><ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Mohs Surgery</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Visible lesion on skin</LabelName><LabelName language="en">1.</LabelName><LabelName language="en">First thin layer removed</LabelName><LabelName language="en">2.</LabelName><LabelName language="en">Another thin layer removed</LabelName><LabelName language="en">3.</LabelName><LabelName language="en">Another thin layer removed</LabelName><LabelName language="en">4.</LabelName><LabelName language="en">Final layer of cancer removed</LabelName><ImageDimensions>
+    <HeightPixels>2040</HeightPixels>
+    <WidthPixels>2859</WidthPixels>
+   </ImageDimensions>
+  </ImageData></PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2013-03-19</DateCreated>
+   
+   <SourceFilename>MOHS.Male4.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2013-03-21" user="anjamison">Changed MOHS to Mohs in title.</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2010-01-08" user="dbuchhagen">Changed label to "Visible lesion on skin"</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038214">penile cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039995">penile squamous cell carcinoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Mohs surgery; drawing shows a visible lesion on the skin. The pullout shows a block of skin with cancer in the epidermis (outer layer of the skin) and the dermis (inner layer of the skin). A visible lesion is shown on the skin’s surface. Four numbered blocks show the removal of thin layers of the skin one at a time until all the cancer is removed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Mohs surgery. A surgical procedure to remove a visible lesion on the skin in several steps. First, a thin layer of cancerous tissue is removed. Then, a second thin layer of tissue is removed and viewed under a microscope to check for cancer cells. More layers are removed one at a time until the tissue viewed under a microscope shows no remaining cancer. This type of surgery is used to remove as little normal tissue as possible. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000438960">Penile Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000256570">Mohs surgery</Glossary>
+ <Glossary cdr:ref="CDR0000442898">Mohs micrographic surgery</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-08</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-03-19</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2013-03-21" user="anjamison">Updated to MOHS.Male4.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to MOHS.Male3.jpg</Comment><Comment audience="Internal" date="2010-01-11" user="dbuchhagen">Removed "a patient with:" from content description.</Comment><Comment audience="Internal" date="2010-01-08" user="dbuchhagen">Updated image to MOHS.male2.jpg.</Comment><Comment audience="Internal" date="2009-12-11" user="dbuchhagen">Changed diagnoses to penile cancer.</Comment><Comment>Modified caption and content description to make it generic ("a visible lesion on the skin".</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

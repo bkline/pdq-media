@@ -1,0 +1,71 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>peritoneal cavity with and without ascites</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Peritoneal Cavity With Ascites</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Peritoneal cavity</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Large intestine</LabelName><LabelName language="en">Greater omentum</LabelName><LabelName language="en">Ascites</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2414</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2025-04-16</DateCreated><SourceFilename>PeritonealCavityWithAscites4.jpg</SourceFilename><Comment user="yousufzaimg" date="2025-02-11" audience="Internal">Fixed tiny white line on the peritoneum leader line</Comment><Comment user="yousufzaimg" date="2024-11-12" audience="Internal">Added labels for pancreas, uterus, bladder, ovary, rectum</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type II – Fair skin</SkinTone>
+  
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Illustration showing two cross-sections of the peritoneal cavity. On the left, a cross-section shows a normal peritoneal cavity. On the right, a cross-section shows a peritoneal cavity with ascites. Also shown in both panels are the peritoneum, liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The peritoneal cavity is the space that contains most of the organs in the abdomen, including the liver, stomach, and intestines. Ascites is as an abnormal buildup of fluid in the peritoneal cavity that may cause swelling.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-02-04</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-02-03</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-02-03</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-11-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-11-12</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment user="yousufzaimg" date="2024-11-12" audience="Internal">Updated image to PeritonealCavityWithAscites2.jpg</Comment><Comment user="yousufzaimg" date="2024-10-28" audience="Internal">Added PeritonealCavityWithAscites1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000817519">Illustration Review Sheet: peritoneal cavity with ascites</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

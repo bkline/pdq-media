@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IIIC</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIC Cervical Cancer</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Cancer in lymph nodes near aorta (IIIC2)</LabelName><LabelName language="en">Cancer in lymph nodes in the pelvis (IIIC1)</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-04-11</DateCreated>
+   <SourceFilename>CervicalCaStage3CSkinTypeVI 3.jpg</SourceFilename><Comment user="kuhlmanna" audience="Internal" date="2022-04-11">Added white lines behind the leader lines to make them more visible on the dark skin</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-29">Pulled the labels that where inside the image to the outside of the image so they are easier to see</Comment>
+  <Comment user="kuhlmanna" audience="Internal" date="2021-11-16">Darkened skin tone to Fitzpatrick Skin Type VI</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Darkened skin tone; changed label to "Cancer in lymph nodes in the pelvis (IIIC1)"; made the nodes that have cancer in them larger and more irregular looking in both areas of the body;  modified the vaginal opening; and fixed the pink peritoneum on the uterus.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIC cervical cancer; drawing shows stage IIIC1 cancer that has spread from the cervix  to lymph nodes in the pelvis and stage IIIC2 cancer that has spread from the cervix to lymph nodes in the abdomen near the aorta.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IIIC cervical cancer; drawing shows stage IIIC1 cancer that has spread from the cervix  to lymph nodes in the pelvis and stage IIIC2 cancer that has spread from the cervix to lymph nodes in the abdomen near the aorta.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIC cervical cancer. In stage IIIC1, cancer has spread to lymph nodes in the pelvis. In stage IIIC2, cancer has spread to lymph nodes in the abdomen near the aorta.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIIC cervical cancer. In stage IIIC1, cancer has spread to lymph nodes in the pelvis. In stage IIIC2, cancer has spread to lymph nodes in the abdomen near the aorta.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045888">stage III cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2022-04-11">Additional adjustments made to the leader lines for the labels to make them more visible</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-04-11</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment user="kuhlmanna" audience="Internal" date="2022-04-11">Updated image to CervicalCaStage3CSkinTypeVI 3.jpg </Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-29">Updated image to CervicalCaStage3CSkinTypeVI 2.jpg </Comment><Comment>Updated image to CervicalCaStage3CSkinTypeVI 1.jpg</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated image to CervicalCaStage3C.3.jpg</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated image to CervicalCaStage3C.2.jpg </Comment><Comment>Added CervicalCaStage3C.1.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>female hormone loop</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Brain</LabelName><LabelName language="en">Hypothalamus</LabelName><LabelName language="en">LHRH</LabelName><LabelName language="en">Pituitary</LabelName><LabelName language="en">FSH</LabelName><LabelName language="en">LH</LabelName><LabelName language="en">Ovaries</LabelName><LabelName language="en">Endometrium</LabelName><LabelName language="en">Progesterone</LabelName><LabelName language="en">Estrogen</LabelName><ImageDimensions>
+    <HeightPixels>2850</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-10-26</DateCreated>
+   <SourceFilename>FemaleHormoneLoop2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-10-26" user="kuhlmanna">Image created for  Hormone Therapy for Breast Cancer fact sheet</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows how estrogen and progesterone (female sex hormones) are made in the body. Arrows are used to show the hypothalamus in the brain releasing luteinizing hormone-releasing hormone (LHRH), the pituitary releasing luteinizing hormone (LH) and follicle-stimulating hormone (FSH), and the ovaries releasing estrogen and progesterone. Also shown is the endometrium.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Drawing shows how estrogen and progesterone (female sex hormones) are made in the body. The hypothalamus (part of the brain) releases luteinizing hormone-releasing hormone (LHRH), which causes the pituitary to make and release the hormones luteinizing hormone (LH) and follicle-stimulating hormone (FSH). In females, LH and FSH cause the ovaries to make estrogen and progesterone, which act on the endometrium (inner lining of the uterus) and on other tissues in the body. Estrogen and progesterone may cause some breast cancer cells to grow.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-10-26</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cryosurgery-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Criocirugía (Piel)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3030</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000599837">cryosurgery</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CryosurgerySpanish.jpg</SourceFilename>
+  <Comment>Added titled image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Criocirugía; el dibujo muestra un instrumento con una boquilla que se sostiene sobre un área anormal en la parte inferior del brazo de un paciente.   El recuadro muestra una pulverización de nitrógeno líquido o de dióxido de carbono líquido que sale de la boquilla y cubre la lesión anormal. La congelación destruye la lesión.    </ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Criocirugía. Se usa un instrumento con una boquilla para pulverizar nitrógeno líquido o dióxido de carbono líquido para congelar y destruir el tejido anormal.     </MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256809">Cáncer de la piel: Tratamiento</Summary><Glossary cdr:ref="CDR0000045407">cryosurgery</Glossary>
+ <Glossary cdr:ref="CDR0000518326">cryoablation</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Created new media doc, linked new titled image</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

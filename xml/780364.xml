@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>rapidly involuting congenital hemangioma (RICH)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Recién nacido</LabelName><LabelName language="en">1 mes</LabelName><LabelName language="en">1 año</LabelName><ImageDimensions>
+    <HeightPixels>1721</HeightPixels>
+    <WidthPixels>5151</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000779670">rapidly involuting congenital hemangioma (RICH)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>RICHGIMP_resize_LARGE_Spanish</SourceFilename><Comment audience="Internal" date="2016-04-14" user="saucedol">Spanish image created by William Osei-Poku</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000779864">congenital hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En la fotografía se observa un hemangioma cutáneo congénito en la cara interna del muslo derecho en un recién nacido (panel izquierdo), 1 mes después (panel central) y 1 año después (panel derecho).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Apariencia típica de un hemangioma cutáneo congénito en un recién nacido. Observar la masa pedunculada. Esta lesión (HCIR) involucionó con el tiempo, pero persistieron algunos cambios residuales en la piel. Crédito: Denise Adams, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus>
+       </ProcessingStatuses></Media>

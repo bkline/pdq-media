@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urinary system, female, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Riñón derecho</LabelName><LabelName language="es">Riñón izquierdo</LabelName><LabelName language="es">Túbulos renales</LabelName><LabelName language="es">Orina</LabelName><LabelName language="es">Pelvis renal</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Orina</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000649519">urinary system, female, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>FemaleGenitourinarySpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2010-04-06" user="dbuchhagen">Added label Útero.</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del sistema urinario femenino; se observan los riñones derecho e izquierdo, los uréteres, la vejiga llena de orina y la uretra. En el interior del riñón izquierdo se observa la pelvis renal. En el recuadro, se observan los túbulos renales y la orina. También se muestra el útero.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del sistema urinario femenino; se observan los riñones derecho e izquierdo, los uréteres, la vejiga llena de orina y la uretra. En el interior del riñón izquierdo se observa la pelvis renal. En el recuadro, se observan los túbulos renales y la orina. También se muestra el útero.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del sistema urinario femenino: se muestran los riñones, los uréteres, la vejiga y la uretra. La orina se elabora en los túbulos renales y se almacena en la pelvis renal de cada riñón. La orina fluye desde los riñones y pasa a través de los uréteres hasta la vejiga. La orina se acumula en la vejiga hasta que sale del cuerpo a través de la uretra.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía del sistema urinario femenino: se muestran los riñones, los uréteres, la vejiga y la uretra. La orina se elabora en los túbulos renales y se almacena en la pelvis renal de cada riñón. La orina fluye desde los riñones y pasa a través de los uréteres hasta la vejiga. La orina se acumula en la vejiga hasta que sale del cuerpo a través de la uretra.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256808">Cáncer de vejiga: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256795">Cáncer de células renales: Tratamiento</Summary><Summary cdr:ref="CDR0000256834">Cáncer de células de transición de pelvis renal y de uréter: Tratamiento</Summary><Summary cdr:ref="CDR0000482337">Cáncer de uretra: Tratamiento</Summary><Glossary cdr:ref="CDR0000044093">urinary</Glossary>
+ <Glossary cdr:ref="CDR0000046501">bladder</Glossary><Glossary cdr:ref="CDR0000046325">kidney</Glossary><Glossary cdr:ref="CDR0000046638">ureter</Glossary><Glossary cdr:ref="CDR0000046640">urethra</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-06</ProcessingStatusDate>
+        <EnteredBy>2010-04-06</EnteredBy>
+        <Comment>Updated image to FemaleGenitourinarySpanish2.jpg.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>VID</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-04-15" user="lsaucedo">Added translation of "The uterus is also shown" to the Content description</Comment><Comment audience="Internal" date="2010-03-26" user="dbuchhagen">Added image FemaleGenitourinarySpanish.jpg.</Comment><Comment audience="Internal" date="2010-03-23" user="lsaucedo">Translation QC</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

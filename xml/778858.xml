@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>VHL renal tumors, bilateral</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>982</HeightPixels>
+    <WidthPixels>1536</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Brian Shuch, MD, Yale University School of Medicine</Creator>
+   <DateCreated>2016-02-16</DateCreated>
+   <SourceFilename>VHL renal tumors, bilateral.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2016-02-17" user="kuhlmanna">Permissions not required; image supplied by Board member</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   
+  <Category>genetics</Category><Category>abnormal cells or tissues</Category></Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042846">von Hippel-Lindau syndrome</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038140">renal cell carcinoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Axial view of an individual’s midsection showing tumors in both kidneys. The left kidney has a tumor with a dark cystic component and the right kidney has a predominantly solid tumor.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">VHL-associated RCCs are characteristically multifocal and bilateral and present as a combined cystic and solid mass. Red arrow indicates a lesion with a solid and cystic component and white arrow indicates a predominantly solid lesion.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000574548">Genetics of Kidney Cancer (Renal Cell Cancer)</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000778919">Permission: VHL renal tumors, bilateral</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

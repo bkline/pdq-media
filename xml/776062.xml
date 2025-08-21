@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Unusual Cancers - SEER cancer incidence rates for young patients, pie chart 2</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Age-Adjusted and Age-Specific Cancer Incidence Rates for Patients Aged 15-19 Years (SEER 2009-2012)</LabelName><LabelName language="en">Epithelial</LabelName><LabelName language="en">CNS</LabelName><LabelName language="en">Lymphoma</LabelName><LabelName language="en">Leukemia</LabelName><LabelName language="en">Germ cell</LabelName><LabelName language="en">Soft tissue</LabelName><LabelName language="en">Bone</LabelName><LabelName language="en">Renal</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">neuroblastoma</LabelName><LabelName language="en">Other</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">1%</LabelName><LabelName language="en">1%</LabelName><LabelName language="en">5%</LabelName><LabelName language="en">6%</LabelName><LabelName language="en">12%</LabelName><LabelName language="en">14%</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">21%</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>PDQ Pediatric Treatment Editorial Board</Creator>
+   <SourcePublication>Howlader N, Noone AM, Krapcho M, Garshell J, Miller D, Altekruse SF, Kosary CL, Yu M, Ruhl J, Tatalovich Z,Mariotto A, Lewis DR, Chen HS, Feuer EJ, Cronin KA (eds). SEER Cancer Statistics Review, 1975-2012, National Cancer Institute. Bethesda, MD, http://seer.cancer.gov/csr/1975_2012/, based on November 2014 SEER data submission, posted to the SEER web site, April 2015.</SourcePublication><DateCreated>2015-12-17</DateCreated>
+   <SourceFilename>Unusual Cancers SEER Pie Chart 2 12-17-15.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-12-17" user="kuhlmanna">Figure used in Src Publication but permissions not required; figure created from SEER data by Board.</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2015-10-05" user="kuhlmanna">Permissions not required - figure created from SEER data and approved by PDQ Pediatric Treatment Editorial Board</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pie chart showing age-adjusted and age-specific cancer incidence rates for patients aged  15-19 years  (SEER 2009-2012).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Age-adjusted and age-specific (15-19 years) SEER cancer incidence rates from 2009 to 2012 by International Classification of Childhood Cancer group and subgroup and age at diagnosis, including MDS and group III benign brain/CNS tumors for all races, males, and females.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062872">Unusual Cancers of Childhood Treatment</Summary>
+  
+ </ProposedUse>
+ 
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Approved by PDQ Pediatric Treatment Editorial Board</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostate cancer stage IIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIA Prostate Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Grade Group: 1</LabelName><LabelName language="en">PSA level: At least 10 but less than 20</LabelName><LabelName language="en">Cancer in: 1/2 or less of one side</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Grade Group: 1</LabelName><LabelName language="en">PSA level: Less than 20</LabelName><LabelName language="en">Cancer in: More than 1/2 of one side or in both sides</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-10-29</DateCreated>
+   <SourceFilename>ProstateStage2A.3.jpg</SourceFilename><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Capitalized the first letter of each word after a colon; added shaded pull-out cones from main figures to pull-out boxes; put the Stage information first in title</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Unbolded the labels for Prostate and Cancer</Comment>
+  <Comment audience="Internal" date="2018-10-01" user="kuhlmanna">New image per AJCC 8th edition updates</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038784">stage II prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing of stage IIA prostate cancer; the top panel shows cancer in one-half or less of one side of the prostate. The PSA level is at least 10 but less than 20 and the Grade Group is 1. The bottom panel shows cancer in more than one-half of one side of the prostate. The PSA level is less than 20 and the Grade Group is 1. In both panels, the bladder, rectum, and urethra are also shown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Two-panel drawing of stage IIA prostate cancer; the top panel shows cancer in one-half or less of one side of the prostate. The PSA level is at least 10 but less than 20 and the Grade Group is 1. The bottom panel shows cancer in more than one-half of one side of the prostate. The PSA level is less than 20 and the Grade Group is 1. In both panels, the bladder, rectum, and urethra are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIA prostate cancer. Cancer is found in the prostate only. Cancer is found in one-half or less of one side of the prostate. The prostate-specific antigen (PSA) level is at least 10 but less than 20 and the Grade Group is 1; OR cancer is found in more than one-half of one side of the prostate or in both sides of the prostate. The PSA level is less than 20 and the Grade Group is 1.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIA prostate cancer. Cancer is found in the prostate only. Cancer is found in one-half or less of one side of the prostate. The prostate-specific antigen (PSA) level is at least 10 but less than 20 and the Grade Group is 1; OR cancer is found in more than one-half of one side of the prostate or in both sides of the prostate. The PSA level is less than 20 and the Grade Group is 1.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062965">Prostate Cancer Treatment</Summary><Summary cdr:ref="CDR0000062910">Prostate Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045130">stage II prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>No additional changes needed per OCC multimedia group</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to ProstateStage2A.3.jpg</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Updated image to ProstateStage2A.2.jpg</Comment><Comment>Added ProstateStage2A.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-10-01</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000796490">Illustration review sheet: stage IIA prostate cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

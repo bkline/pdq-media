@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, fine needle aspiration (FNA), lung-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Biopsia de pulmón por aspiración con aguja fina</LabelName><LabelName language="es">Aguja de biopsia</LabelName><LabelName language="es">Cáncer</LabelName><ImageDimensions>
+    <HeightPixels>1888</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000531057">biopsy, fine needle aspiration (FNA), lung</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>FineNeedleAspirationBiopsyLungSpanish3.jpg</SourceFilename><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image with titled image</Comment><Comment audience="Internal" date="2008-03-11" user="dbuchhagen">2008-03-11; uploaded LungBiopsySpanish2.jpg with new copyright. </Comment><Comment>Spanish filename: LungBiopsySpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040962">small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Biopsia de pulmón por aspiración con aguja fina; en la imagen se muestra a un paciente acostado sobre una camilla que se desliza a través de una máquina de tomografía computarizada (TC), y una radiografía de un corte transversal del pulmón en un monitor arriba del paciente. En la imagen también se muestra a un médico usando la radiografía para ayudarlo a colocar la aguja de biopsia a través de la pared torácica, hasta el área del tejido anormal del pulmón. En el recuadro se muestra una vista lateral de la cavidad torácica y los pulmones con la aguja de biopsia insertada en el área de tejido anormal.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Biopsia de pulmón por aspiración con aguja fina. El paciente está acostado en una camilla que se desliza a través de la máquina de tomografía computarizada (TC), que toma radiografías del interior del cuerpo. Las radiografías ayudan al médico a ver dónde está el tejido anormal en el pulmón. Se inserta una aguja de biopsia a través de la pared torácica hasta el área del tejido anormal del pulmón para extraer una muestra pequeña de tejido y observarlo al microscopio a fin de determinar si hay signos de cáncer.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  
+ <Summary cdr:ref="CDR0000256767">Tratamiento del cáncer de pulmón de células pequeñas</Summary><Summary cdr:ref="CDR0000433305">Tratamiento del mesotelioma maligno en adultos</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist for diveristy updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-06-04 Artist completed and uploaded Spanish-labeled images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-07-23 caption/content translations completed. 2007-05-18 Label translations completed.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000531057">biopsy, fine needle aspiration (FNA), lung</TranslationOf></Media>

@@ -1,0 +1,38 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>recombinant fowlpox-CEA-MUC-1-TRICOM vaccine-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <SoundData>
+   <SoundType>Speech</SoundType>
+   <SoundEncoding>MP3</SoundEncoding>
+   <RunSeconds>6</RunSeconds>
+  </SoundData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Vanessa Richardson, VR Voice</Creator>
+   <DateCreated>2020-03-02</DateCreated>
+   <SourceFilename>Week_135/468788_es.mp3
+</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>pronunciation</Category>
+  </Categories>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pronunciation of dictionary
+         term "vacuna recombinante para la viruela aviar CEA-MUC-1-TRICOM"</ContentDescription>
+  </ContentDescriptions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000468788">recombinant fowlpox-CEA-MUC-1-TRICOM vaccine</Glossary>
+ </ProposedUse>
+ 
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Audio media file created manually because the audio publishing took skipped over it</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

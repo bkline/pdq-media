@@ -1,0 +1,110 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, medial, child, anatomy-ependymoma-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía del encéfalo (medial)</LabelName><LabelName language="es">Ventrículo lateral</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Tercer ventrículo</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Cuarto ventrículo</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Bulbo raquídeo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2910</HeightPixels><WidthPixels>2940</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000757890">brain, medial, child, anatomy-ependymoma</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BrainMedialChildMaleEpendymoma FP V Spanish1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-01-09" user="saucedol">Linked revised image</Comment><Comment audience="Internal" date="2014-03-25" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Child</Age><Sex>Male</Sex><SkinTone>Type V – Brown skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043448">childhood ependymoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Dibujo del interior de la cabeza de un niño donde se señalan diferentes partes del encéfalo: un ventrículo lateral, el tercer ventrículo, el cuarto ventrículo y las vías entre los ventrículos que contienen líquido cefalorraquídeo en azul. También se observa el cerebro, el cerebelo, la médula espinal y dos partes del tronco encefálico: la protuberancia y el bulbo raquídeo.</ContentDescription>
+  <ContentDescription audience="Patients" language="es">Dibujo del interior de la cabeza de un niño donde se señalan diferentes partes del encéfalo: un ventrículo lateral, el tercer ventrículo, el cuarto ventrículo y las vías entre los ventrículos que contienen  líquido cefalorraquídeo en azul. También se observa el cerebro, el cerebelo, la médula espinal y dos partes del tronco encefálico: la protuberancia y el bulbo raquídeo.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Anatomía del interior del encéfalo. En este dibujo del interior de la cabeza de un niño, se señala un ventrículo lateral, el tercer ventrículo, el cuarto ventrículo y las vías entre los ventrículos que contienen líquido cefalorraquídeo en azul.  También se observa el cerebro, el cerebelo, la médula espinal y dos partes del tronco encefálico: la protuberancia y el bulbo raquídeo. </MediaCaption>
+  <MediaCaption audience="Patients" language="es">Anatomía del interior del encéfalo. En este dibujo del interior de la cabeza de un niño, se señala un ventrículo lateral, el tercer ventrículo, el cuarto ventrículo y las vías entre los ventrículos que contienen líquido cefalorraquídeo en azul.  También se observa el cerebro, el cerebelo, la médula espinal y dos partes del tronco encefálico: la protuberancia y el bulbo raquídeo.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000813719">Ependimoma infantil</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-05-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-29</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>No changes needed in Spanish caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to inlcude most recent diveristy changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised per SEO</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial change</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised label sent to Terese.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-03-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-03-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-03-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000757890">brain, medial, child, anatomy-ependymoma</TranslationOf></Media>

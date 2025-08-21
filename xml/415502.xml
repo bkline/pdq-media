@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>fecal occult blood test</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>249</HeightPixels>
+    <WidthPixels>253</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>National Cancer Institute</Creator>
+   <SourcePublication>NCI Web site Science in the News</SourcePublication>
+   <DateCreated>2005-01-07</DateCreated><SourceFilename>Fecal occult blood test.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000038736">small intestine cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Fecal Occult Blood Test (FOBT) kit; shows card, applicator, and return envelope.</ContentDescription>
+   <ContentDescription audience="Patients" language="es">Estuche de prueba para Sangre Oculta en la Materia Fecal (SOMF) muestra  aplicador y sobre para el reenvío.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Fecal Occult Blood Test (FOBT) kit to check for blood in stool.</MediaCaption>
+   <MediaCaption audience="Patients" language="es">Estuche de prueba para Sangre Oculta en la Materia Fecal (SOMF) para detectar sangre en las heces.</MediaCaption>
+  </Captions>
+ </MediaContent>
+</Media>

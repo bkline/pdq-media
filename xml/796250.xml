@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>tumor size in  millimeters</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Millimeters (mm)</LabelName><LabelName language="en">10 mm</LabelName><LabelName language="en">0</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">Centimeters (cm)</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">2 mm</LabelName><LabelName language="en">5 mm</LabelName><LabelName language="en">10 mm</LabelName><LabelName language="en">20 mm</LabelName><LabelName language="en">50 mm</LabelName><ImageDimensions>
+    <HeightPixels>2040</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-01-31</DateCreated>
+   <SourceFilename>TumorSizesMillimeters3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Removed title</Comment><Comment audience="Internal" date="2019-01-21" user="kuhlmanna">Changed title to Tumor Sizes in Millimeters; changed ruler so that it matches the ruler used in the current millimeter image (shows 10 mm and then a few centimeters); moved the pencil, crayon, and eraser up to the top and made it a little smaller; and moved the pea, peanut, and lime down to the bottom and made it a little larger so the scale looks more correct from 1 mm to 50. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows different sizes of common items in millimeters (mm): a sharp pencil point (1 mm), a new crayon point (2 mm), a pencil-top eraser (5 mm), a pea (10 mm), a peanut (20 mm), and a lime (50 mm). Also shown is a 2-centimeter (cm) ruler that shows 10 mm is equal to 1 cm.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Tumor sizes are often measured in millimeters (mm) or centimeters. Common items that can be used to show  tumor size in mm include: a sharp pencil point (1 mm), a new crayon point (2 mm), a pencil-top eraser (5 mm), a pea (10 mm), a peanut (20 mm), and a lime (50 mm).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2019-02-04" user="kuhlmanna">Updated image toTumorSizesMillimeters3.jpg</Comment><Comment>Updated image to TumorSizesMillimeters2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-12-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

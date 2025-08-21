@@ -1,0 +1,134 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage IV-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Melanoma en estadio IV</LabelName><LabelName language="es">Cáncer metastásico</LabelName><LabelName language="es">Células cancerosas en el sistema linfático</LabelName><LabelName language="es">Células cancerosas en la sangre</LabelName><LabelName language="es">Cáncer primario</LabelName><LabelName language="es">El melanoma se diseminó a otras partes del cuerpo:</LabelName><LabelName language="es">Encéfalo</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Tubo gastrointestinal</LabelName><LabelName language="es">Ganglios linfáticos lejanos</LabelName><LabelName language="es">Hueso</LabelName><LabelName language="es">Músculo</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2550</HeightPixels><WidthPixels>2700</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject><FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000579064">skin cancer, melanoma stage IV</MediaID></FromCdrMedia>
+    
+    
+   </FromObject><SourceFilename>MelanomaStage1A FP III Stage1B FP IV Spanish1.jpg </SourceFilename>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000038837">stage IV melanoma</Diagnosis>
+   
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Melanoma en estadio IV. En el dibujo se observan otras partes del cuerpo donde es posible que se disemine el melanoma, como el encéfalo, la médula espinal, el pulmón, el hígado, el tubo gastrointestinal, el hueso, el músculo y los ganglios linfáticos lejanos. En un recuadro se muestran células cancerosas que se diseminan a través de la sangre y el sistema linfático a otra parte del cuerpo donde se formó un tumor metastásico.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Melanoma en estadio IV. En el dibujo se observan otras partes del cuerpo donde es posible que se disemine el melanoma, como el encéfalo, la médula espinal, el pulmón, el hígado, el tubo gastrointestinal, el hueso, el músculo y los ganglios linfáticos lejanos. En un recuadro se muestran células cancerosas que se diseminan a través de la sangre y el sistema linfático a otra parte del cuerpo donde se formó un tumor metastásico.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Melanoma en estadio IV.  El cáncer se diseminó a otras partes del cuerpo, como el encéfalo, la médula espinal, el pulmón, el hígado, el tubo gastrointestinal, el hueso, el músculo y los ganglios linfáticos lejanos. Es posible que el cáncer se haya diseminado a lugares de la piel alejados del sitio original.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Melanoma en estadio IV.  El cáncer se diseminó a otras partes del cuerpo, como el encéfalo, la médula espinal, el pulmón, el hígado, el tubo gastrointestinal, el hueso, el músculo y los ganglios linfáticos lejanos. Es posible que el cáncer se haya diseminado a lugares de la piel alejados del sitio original.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Deletion UserName="saucedol" Time="2023-10-26 10:57:19" RevisionLevel="approved"/>
+  <Summary cdr:ref="CDR0000256722">Tratamiento del melanoma</Summary><Glossary cdr:ref="CDR0000045139">stage IV melanoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist for diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image and translation of captions and content description. QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image.  Revision to captions and CDs pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels reviewed, revised Diagnosis terms, updates to caption and CD pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, Spanish labels ready for 1st QC</Comment><Comment>See text in summary and GTC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-06-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Qc caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-06-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised captions and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 updated to MelanomaStage4Spanish3.jpg; rh.</Comment><Comment audience="Internal" date="2008-10-15" user="rharrison">2008-10-15 updated to MelanomaStage4Spanish2.jpg; rh.</Comment>
+        <Comment>2008-10-03 attached Spanish-labeled image; rh.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy><Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 revised caption/content. </Comment>
+        <Comment audience="Internal" date="2008-10-03" user="rharrison">2008-10-03 added final edits to caption and content desc. </Comment><Comment>2008-09-09; Added cap and cont translations. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-06-24</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2008-07-01 translation of labels complete. </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000579064">skin cancer, melanoma stage IV</TranslationOf></Media>

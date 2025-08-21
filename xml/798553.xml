@@ -1,0 +1,106 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIC-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IIIC</LabelName><LabelName language="es">b) El cáncer se diseminó a uno o más de estos órganos o tejidos:</LabelName><LabelName language="es">Nervio que controla la laringe</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Carina</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Esternón</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Nervio que controla el diafragma</LabelName><LabelName language="es">Vena cava</LabelName><LabelName language="es">Aorta</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Pericardio</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Membrana que recubre el pulmón</LabelName><LabelName language="es">Membrana que reviste la pared torácica</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Costilla</LabelName><LabelName language="es">Pared torácica</LabelName><LabelName language="es">Tumor primario</LabelName><LabelName language="es">Ganglios linfáticos cancerosos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2730</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000796021">lung cancer, stage IIIC</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LungStage3C FemaleFP VI Spanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000792120">stage IIIC non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IIIC. En la imagen se observan un tumor primario en el pulmón izquierdo y a) tumores separados en el mismo lóbulo del pulmón que el tumor primario. También se observa b) cáncer que se diseminó a los siguientes sitios: la pared torácica y la membrana que reviste el interior de la pared torácica,
+el nervio que controla la laringe, la tráquea, la carina, el esófago, el esternón, el diafragma, el nervio que controla el diafragma, el corazón, la aorta, la vena cava, el pericardio (membrana que rodea el corazón).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Cáncer de pulmón en estadio IIIC. En la imagen se observan un tumor primario en el pulmón izquierdo y a) tumores separados en el mismo lóbulo del pulmón que el tumor primario. También se observa b) cáncer que se diseminó a los siguientes sitios: la pared torácica y la membrana que reviste el interior de la pared torácica,
+el nervio que controla la laringe, la tráquea, la carina, el esófago, el esternón, el diafragma, el nervio que controla el diafragma, el corazón, la aorta, la vena cava, el pericardio (membrana que rodea el corazón).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IIIC. El tumor es de cualquier tamaño, y el cáncer se diseminó a los ganglios linfáticos encima de la clavícula del mismo lado del tórax que el tumor primario o a cualquiera de los ganglios linfáticos del lado contrario al tumor primario. Además, se presentan uno o más de las siguientes situaciones:
+
+a) Hay uno o más tumores separados en el mismo lóbulo del pulmón que el tumor primario o en otro lóbulo. b)
+El cáncer se diseminó a alguno de los siguientes sitios:
+la pared torácica o la membrana que reviste el interior de la pared torácica,
+el nervio que controla la laringe, la tráquea, la carina, el esófago, el esternón o la columna vertebral (no se muestra), el diafragma, el nervio que controla el diafragma, el corazón, los vasos sanguíneos principales que entran o salen del corazón (aorta o vena cava), la capa más externa del pericardio (membrana que rodea el corazón).</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIC. El tumor es de cualquier tamaño, y el cáncer se diseminó a los ganglios linfáticos encima de la clavícula del mismo lado del tórax que el tumor primario o a cualquiera de los ganglios linfáticos del lado contrario al tumor primario. Además, se presentan uno o más de las siguientes situaciones:
+
+a) Hay uno o más tumores separados en el mismo lóbulo del pulmón que el tumor primario o en otro lóbulo. b)
+El cáncer se diseminó a alguno de los siguientes sitios:
+la pared torácica o la membrana que reviste el interior de la pared torácica,
+el nervio que controla la laringe, la tráquea, la carina, el esófago, el esternón o la columna vertebral (no se muestra), el diafragma, el nervio que controla el diafragma, el corazón, los vasos sanguíneos principales que entran o salen del corazón (aorta o vena cava), la capa más externa del pericardio (membrana que rodea el corazón).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000793422">stage IIIC non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to revise and include diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed images; translated captions and descriptions</Comment>
+       <Comment audience="Internal" date="2019-07-19" user="adlerm2">In Spanish, suggest not using letters (a, b) in content descriptons.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-10</ProcessingStatusDate>
+        <EnteredBy>2019-07-10</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       <Comment audience="Internal" date="2019-07-05" user="adlerm2">For consistency, use "pericardio" as technical term on image. Leave descriptive terms in caption = pericardio (membrana que rodea el corazón).</Comment><Comment audience="Internal" date="2019-07-05" user="adlerm2">Terminology for  lung lining and chest wall lining is different from other images (membrane that...).</Comment><Comment audience="Internal" date="2019-07-05" user="adlerm2">This images poses a readability challenge in Spanish.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000796021">lung cancer, stage IIIC</TranslationOf></Media>

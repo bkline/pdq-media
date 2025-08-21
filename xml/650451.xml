@@ -1,0 +1,88 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hysterectomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Histerectomía total</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Histerectomía total con salpingooforectomía</LabelName><LabelName language="es">a</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Histerectomía radical</LabelName><LabelName language="es">Tejido cercano</LabelName><LabelName language="es">Incisión transversal baja</LabelName><LabelName language="es">Incisión vertical</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2430</HeightPixels>
+    <WidthPixels>2625</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000612116">hysterectomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Spanish filename: HysterectomySpanish2</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Histerectomía. En la imagen se observa la anatomía del aparato reproductor femenino, que incluye los ovarios, el útero, la vagina, las trompas de Falopio y el cuello uterino. La línea de puntos indica los órganos y tejidos que se extirpan en una histerectomía total, una histerectomía total con salpingooforectomía y una histerectomía radical. En un recuadro se observa la ubicación de las dos incisiones posibles en el abdomen: una incisión transversal baja encima del área púbica y una incisión vertical entre el ombligo y el área púbica.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Histerectomía. Se extirpa el útero mediante cirugía junto con otros órganos o tejidos o sin estos. En una histerectomía total, se extirpan el útero y el cuello uterino. En una histerectomía total con salpingooforectomía, hay dos opciones: a) unilateral, por la que se extirpan el útero, uno de los ovarios y una de las trompas de Falopio; b) bilateral, por la que se extirpan el útero, ambos ovarios y ambas trompas de Falopio. En una histerectomía radical, se extirpan el útero, el cuello uterino, ambos ovarios, ambas trompas de Falopio y el tejido cercano. Estos procedimientos se realizan mediante una incisión transversal baja o una incisión vertical.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000452962">Tratamiento del sarcoma uterino</Summary><Summary cdr:ref="CDR0000256785">Tratamiento del cáncer epitelial de ovario, de trompa de Falopio y primario de peritoneo</Summary><Summary cdr:ref="CDR0000256774">Tratamiento del cáncer de cuello uterino</Summary><Summary cdr:ref="CDR0000256803">Tratamiento del cáncer de endometrio</Summary><Summary cdr:ref="CDR0000256801">Tratamiento de la enfermedad trofoblástica de la gestación</Summary><Summary cdr:ref="CDR0000256832">Tratamiento de los tumores de células germinativas del ovario</Summary><Summary cdr:ref="CDR0000256839">Tratamiento de los tumores de ovario de bajo potencial maligno</Summary><Summary cdr:ref="CDR0000452956">Tratamiento del cáncer de vagina</Summary>
+  
+  
+ <Glossary cdr:ref="CDR0000045929">total hysterectomy</Glossary><Glossary cdr:ref="CDR0000046569">salpingo-oophorectomy</Glossary><Glossary cdr:ref="CDR0000322852">bilateral salpingo-oophorectomy</Glossary><Glossary cdr:ref="CDR0000322894">unilateral salpingo-oophorectomy</Glossary><Glossary cdr:ref="CDR0000322879">radical hysterectomy</Glossary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-12-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised labels, description and caption for ES readability; AJCC cervical cancer related images</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-10-09</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Spanish labels, caption, and content description are complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-10-06</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-10-09" user="dbuchhagen">2009-10-07 Terese uploaded Spanish-labeled image.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-09-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translation of labels, caption, and content description complete.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000612116">hysterectomy</TranslationOf></Media>

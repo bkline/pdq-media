@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>MEN2 syndrome-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes del cuerpo afectadas por el síndrome de NEM2</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Glándulas paratiroideas</LabelName><LabelName language="es">Glándula tiroidea (vista posterior)</LabelName><LabelName language="es">Glándula suprarrenal</LabelName><LabelName language="es">Médula suprarrenal</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000813290">MEN2 syndrome</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MEN2 SyndromeMaleSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Child</Age>
+  <Sex>Male</Sex>
+  <Race>Black or African American</Race>
+  <SkinTone>Type IV – Light brown skin</SkinTone>
+  
+ <DateLastReviewed>2023-08-10</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654716">multiple endocrine neoplasia type 2</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En el dibujo se observan las partes del cuerpo afectadas por el síndrome de NEM2, como las glándulas tiroidea, paratiroideas y suprarrenales. Además hay dos recuadros: en uno se muestra una vista  posterior de la glándula tiroidea con las cuatro glándulas paratiroideas del tamaño de una arveja, y en el otro se muestra la parte interna de la glándula suprarrenal llamada médula suprarrenal.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El síndrome de neoplasia endocrina múltiple 2 (NEM2) es un trastorno hereditario raro que afecta las glándulas u órganos endocrinos. Por lo general, el síndrome de NEM2 produce tumores en las glándulas tiroidea, paratiroideas o suprarrenales. Es posible que los tumores sean benignos (no cancerosos) o malignos (cancerosos).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000702085">MEN2 syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image looks good. Caption and cont. descr. translated. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels translated</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000813290">MEN2 syndrome</TranslationOf></Media>

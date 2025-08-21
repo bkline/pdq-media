@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cerebrospinal fluid</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Brain</LabelName><LabelName language="en">Ventricles</LabelName><LabelName language="en">Cerebrospinal fluid</LabelName><LabelName language="en">Spinal cord</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2250</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-11-17</DateCreated>
+   <SourceFilename>CerebrospinalFluid2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-17" user="akuhlmann">Added labels for Brain, Spinal cord, and Ventricles</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows cerebrospinal fluid (CSF) in the brain and spinal cord. Also shown are the ventricles in the brain, where CSF is made.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Cerebrospinal fluid (CSF, shown in blue) is made by tissue that lines the ventricles (hollow spaces) in the brain. It flows in and around the brain and spinal cord to help cushion them from injury and provide nutrients. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046483">cerebrospinal fluid</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-13</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-11-17</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment audience="Internal" date="2014-11-17" user="akuhlmann">Updated CerebrospinalFluid2.jpg</Comment><Comment>Added CerebrospinalFluid1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

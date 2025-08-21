@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood Soft Tissue Sarcoma - Ferrari Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Surgery alone group</LabelName><LabelName language="en">Synovial sarcoma</LabelName><LabelName language="en">Adult-type non-rhabdomyosarcoma soft tissue sarcomas</LabelName><LabelName language="en">IRS group I, tumour size ≤5 cm</LabelName><LabelName language="en">IRS group I, tumour size ≤5 cm, any tumour grade</LabelName><LabelName language="en">IRS group I, tumour size &gt;5 cm, tumour grade 1</LabelName><LabelName language="en">IRS group II, any size tumour, tumour grade 1</LabelName><LabelName language="en">Initial resection only, no adjuvant treatment</LabelName><LabelName language="en">Adjuvant radiotherapy group</LabelName><LabelName language="en">Adult-type non-rhabdomyosarcoma soft tissue sarcomas</LabelName><LabelName language="en">IRS group I, tumour size &gt;5 cm, tumour grade 2</LabelName><LabelName language="en">IRS group II, tumour size ≤5 cm, tumour grade 2-3</LabelName><LabelName language="en">IRS group II, tumour size &gt;5 cm, tumour grade 2</LabelName><LabelName language="en">Radiotherapy 50.4 Gy</LabelName><LabelName language="en">Radiotherapy 54.0 Gy</LabelName><LabelName language="en">Adjuvant chemotherapy group (with or without radiotherapy)</LabelName><LabelName language="en">Synovial sarcoma</LabelName><LabelName language="en">Adult-type non-rhabdomyosarcoma soft tissue sarcomas</LabelName><LabelName language="en">IRS group I, tumour size &gt;5 cm</LabelName><LabelName language="en">IRS group II, tumour size ≤5 cm</LabelName><LabelName language="en">IRS group II, tumour size &gt;5 cm</LabelName><LabelName language="en">Axial site or resected N1</LabelName><LabelName language="en">IRS group I-II, tumour size &gt;5 cm, tumour grade 3 or resected N1</LabelName><LabelName language="en">I+D, I+D, I+D, I+D</LabelName><LabelName language="en">I+D, I+D, I+D, Radiotherapy 50.4 Gy</LabelName><LabelName language="en">I+D, I+D, I+D, I, I, Radiotherapy 50.4 Gy,  I+D</LabelName><LabelName language="en">Neoadjuvant chemotherapy group (with or without radiotherapy)</LabelName><LabelName language="en">Synovial sarcoma</LabelName><LabelName language="en">Adult-type non-rhabdomyosarcoma soft tissue sarcomas</LabelName><LabelName language="en">IRS group III (unresected disease) or unresected N1</LabelName><LabelName language="en">I+D, I+D, I+D, S, I, I, Radiotherapy 50.4-59.4 Gy,  I+D ± I+D</LabelName><ImageDimensions>
+    <HeightPixels>3534</HeightPixels>
+    <WidthPixels>4168</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>The Lancet Child &amp; Adolescent Health</Creator>
+   <SourcePublication>Ferrari A, van Noesel MM, Brennan B, et al., Paediatric non-rhabdomyosarcoma soft tissue sarcomas: the prospective NRSTS 2005 study by the European Pediatric Soft Tissue Sarcoma Study Group (EpSSG),  The Lancet Child &amp; Adolescent Health, Volume 5, Issue 8, Pages 546-558, Copyright 2021, with permission from Elsevier</SourcePublication><DateCreated>2021-12-28</DateCreated>
+   <SourceFilename>Ferrari Lancet Figure 1 Image 12_27_21.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2021-12-28">Image approved by Board; copyright permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2021-12-27</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from The Lancet Child &amp; Adolescent Health, Volume 5, Issue 8, Ferrari A, van Noesel MM, Brennan B, et al., Paediatric non-rhabdomyosarcoma soft tissue sarcomas: the prospective NRSTS 2005 study by the European Pediatric Soft Tissue Sarcoma Study Group (EpSSG), Pages 546-558, Copyright 2021, with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000806342">Paediatric non-rhabdomyosarcoma soft tissue sarcomas: the prospective NRSTS 2005 study by the European Pediatric Soft Tissue Sarcoma Study Group (EpSSG).</CitationLink><Comment user="kuhlmanna" audience="Internal" date="2021-12-28">Image will not be re-created into Spanish; only the Caption and Content Description will be translated</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Figure showing a treatment plan for patients with synovial sarcoma or adult-type non-rhabdomyosarcoma soft tissue sarcomas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Treatment plan for patients with synovial sarcoma or adult-type non-rhabdomyosarcoma soft tissue sarcomas. Patients were divided into four treatment groups based on surgical stage, tumour size, nodal involvement, tumour grade (according to the Fédération Nationale des Centres de Lutte Contre le Cancer grading system for adult-type non-rhabdomyosarcoma soft tissue sarcomas), and tumour site (for synovial sarcoma). I+D=ifosfamide (3.0 g/m2 per day intravenously, for 3 days) plus doxorubicin (37.5 mg/m2 intravenously per day for 2 days). I=ifosfamide (3.0 g/m2 intravenously per day for 2 days). IRS=Intergroup Rhabdomyosarcoma Study. N1=nodal involvement. S=delayed surgery. Reprinted from The Lancet Child &amp; Adolescent Health, Volume 5, Issue 8, Ferrari A, van Noesel MM, Brennan B, et al., Paediatric non-rhabdomyosarcoma soft tissue sarcomas: the prospective NRSTS 2005 study by the European Pediatric Soft Tissue Sarcoma Study Group (EpSSG), Pages 546-558, Copyright 2021, with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image will not be re-created into Spanish; please translate Caption and Content Description, and add translated labels to Caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-12-27</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000807102">Ferrari_ChSoftTissueSarcoma_CopyrightPermissions_2021-12-27</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

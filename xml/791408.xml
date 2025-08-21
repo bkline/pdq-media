@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid and parathyroid gland, child, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de las glándulas tiroidea y paratiroideas</LabelName><LabelName language="es">Laringe</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Glándula tiroidea (vista anterior)</LabelName><LabelName language="es">Lóbulo derecho</LabelName><LabelName language="es">Istmo</LabelName><LabelName language="es">Lóbulo izquierdo</LabelName><LabelName language="es">Glándula tiroidea (vista posterior)</LabelName><LabelName language="es">Glándulas paratiroideas</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000719086">thyroid and parathyroid gland anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ThyroidParathyroidAnatomyChildSpanish4.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2017-12-29" user="lansberryic">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de las glándulas tiroidea y paratiroideas. En la imagen se muestra la glándula tiroidea (tiroides) en la base de la garganta, cerca de la tráquea. En un recuadro se muestran las vistas anterior y posterior. En la vista anterior se observan la tiroides  en forma de mariposa y los lóbulos (derecho e izquierdo) conectados por una pieza delgada de tejido llamada istmo. En la vista posterior se observan las cuatro glándulas paratiroideas del tamaño de una arveja. También se muestra la laringe.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de las glándulas tiroidea y paratiroideas. La glándula tiroidea (tiroides) está en la base de la garganta, cerca de la tráquea. Tiene forma de mariposa y dos lóbulos (derecho e izquierdo) conectados por una pieza delgada de tejido llamada istmo. Las glándulas paratiroideas (paratiroides) son cuatro órganos del tamaño de una arveja  que están en el cuello, cerca de la tiroides. Las glándulas tiroidea y paratiroideas elaboran hormonas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000256851">Tratamiento de los cánceres poco comunes en la niñez</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-25</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed; added "glándula tiroidea (tiroides)" to caption to match text on illustration; suggest adding "glándulas paratiroideas (paratiroides)" for consistency.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Pending 2nd Peer-review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2018-07-03" user="lansberryic">Pending translation QC</Comment><Comment>Revised labels, caption and cont. Descr. per terminology meeting July 2018 and AJCC updates. Group agreement to use thyroid gland:glándula tiroidea; thyroid:tiroides; parathyroid glands:glándulas paratiroideas;parathyroid:paratiroides.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-29</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Added new image sent by artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed. Although "glándula tiroides" and "glándulas paratiroides" are also used in medical literature, there is much debate since they are both nouns--in Spanish, only adjectives modify nouns. SUGGESTION: Use "tiroides" and "paratiroides" (nouns) to label glands since these are frequently and clearly used to refer to these glands; in all other cases, if thyroid modifies a noun, it should be followed by an adjective ("tirodeo" or "tiroidea") as in the case of "hormona tiroidea" (thyroid hormone). In the last sentence, "organs" was replaced with "glands" in the description of parathyroid glands.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

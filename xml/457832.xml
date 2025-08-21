@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostatectomy, radical-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Prostatectomía radical</LabelName><LabelName language="es">Incisión</LabelName><LabelName language="es">Escroto </LabelName><LabelName language="es">Ano</LabelName><LabelName language="es">Prostatectomía retropúbica</LabelName><LabelName language="es">Prostatectomía perineal</LabelName><ImageDimensions>
+    <HeightPixels>2325</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000442274">prostatectomy, radical</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   
+  <SourceFilename>RadProstatectomySpanish3.jpg</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with new titled image</Comment><Comment>2008-04-10; RadProstatectomySpanish2.jpg. Added new copyright information. </Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">El dibujo a dos paneles muestra dos formas de hacer una prostatectomía radical; en el primer panel, la línea punteada muestra el lugar donde se hace la incisión a través de la pared del abdomen para realizar una prostatectomía retropúbica; en el segundo panel, la línea punteada muestra el lugar donde se hace la incisión entre el escroto y el ano para realizar una prostatectomía perineal.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">El dibujo a dos paneles muestra dos formas de hacer una prostatectomía radical; en el primer panel, la línea punteada muestra el lugar donde se hace la incisión a través de la pared del abdomen para realizar una prostatectomía retropúbica; en el segundo panel, la línea punteada muestra el lugar donde se hace la incisión entre el escroto y el ano para realizar una prostatectomía perineal.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los dos  tipos de prostatectomía radical. En la prostatectomía retropúbica, se extirpa la próstata a través de una incisión en la pared del abdomen. En la prostatectomía perineal, se extirpa la próstata a través de una incisión entre el escroto y el ano.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Dos tipos de prostatectomía radical.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd,  titled image added</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Image replaced with titled image, added HP caption and content descriptions.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

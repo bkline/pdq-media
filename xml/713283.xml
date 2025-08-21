@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>stage IV gallbladder cancer-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>3</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2013-04-24</DateCreated>
+      <SourceFilename>413913_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "cáncer de vesícula biliar en estadio IV"</ContentDescription>
+    </ContentDescriptions><Comment audience="Internal" date="2013-04-24" user="lsaucedo">Term revised and re-recorded audio added</Comment>
+  </MediaContent>
+  
+<ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000413913">stage IV gallbladder cancer</Glossary></ProposedUse></Media>

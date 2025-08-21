@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>immune checkpoint inhibitor (PD-1)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">PD-L1 se une con PD-1 e impide que la célula T destruya la célula tumoral</LabelName><LabelName language="es">Célula tumoral</LabelName><LabelName language="es">PD-L1</LabelName><LabelName language="es">PD-1</LabelName><LabelName language="es">Antígeno</LabelName><LabelName language="es">Receptor de célula T</LabelName><LabelName language="es">Célula T</LabelName><LabelName language="es">El bloqueo de PD-L1 o PD-1 permite que la célula T destruya la célula tumoral</LabelName><LabelName language="es">Muerte de la célula tumoral</LabelName><LabelName language="es">PD-L1</LabelName><LabelName language="es">Anti-PD-L1</LabelName><LabelName language="es">Anti-PD-1</LabelName><LabelName language="es">PD-1</LabelName><LabelName language="es">Célula T</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000774646">immune checkpoint inhibitor (PD-1)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ImmuneCheckpointInhibitorPD-1Spanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-12-11" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Inhibidor de puntos de control inmunitario; en el panel de la izquierda se muestra la unión de la proteína PD-L1 (en la célula tumoral) con  la proteína PD-1 (en la célula T), lo que impide que la célula T destruya la célula tumoral del cuerpo. También se muestra un antígeno de una célula tumoral y un receptor de una célula T. En el panel de la derecha, se muestran  inhibidores de puntos de control inmunitario (anti-PD-L1 y anti-PD-1) que impiden la unión de  PD-L1 con PD-1, lo que permite que la célula T destruya la célula tumoral.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Inhibidor de puntos de control inmunitario. Ciertas proteínas,  como la PD-1  de las células tumorales y la PD-L1 de las células T, ayudan a mantener el control de las reacciones inmunitarias. La unión de PD-L1 con PD-1 impide que la célula T destruya las células tumorales del cuerpo (panel izquierdo). El bloqueo de la unión de PD-L1 a PD-1 con un inhibidor de puntos de control inmunitario (anti-PD-L1 o anti-PD-1) permite que la célula T destruya la célula tumoral (panel derecho).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000772606">immune checkpoint inhibitor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-06-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent revised label to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-12-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

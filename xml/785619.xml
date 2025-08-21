@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Liver Cancer - Meyers Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">PRETEXT I</LabelName><LabelName language="en">M-</LabelName><LabelName language="en">M+</LabelName><LabelName language="en">Any AFP</LabelName><LabelName language="en">VPEFR+</LabelName><LabelName language="en">&lt;8 years</LabelName><LabelName language="en">≥8 years</LabelName><LabelName language="en">Intermediate</LabelName><LabelName language="en">High</LabelName><LabelName language="en">VPEFR-</LabelName><LabelName language="en">Any age</LabelName><LabelName language="en">Resectable at diagnosis</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Very low</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">PRETEXT II</LabelName><LabelName language="en">M-</LabelName><LabelName language="en">M+</LabelName><LabelName language="en">&lt;8 years</LabelName><LabelName language="en">≥8 years</LabelName><LabelName language="en">AFP &gt;100 ng/mL</LabelName><LabelName language="en">AFP ≤100 ng/mL</LabelName><LabelName language="en">VPEFR+</LabelName><LabelName language="en">VPEFR-</LabelName><LabelName language="en">Resectable at diagnosis</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Very low</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">Intermediate</LabelName><LabelName language="en">High</LabelName><LabelName language="en">High</LabelName><LabelName language="en">High</LabelName><LabelName language="en">PRETEXT III</LabelName><LabelName language="en">M-</LabelName><LabelName language="en">M+</LabelName><LabelName language="en">&lt;8 years</LabelName><LabelName language="en">≥8 years</LabelName><LabelName language="en">AFP &gt;1000 ng/mL</LabelName><LabelName language="en">AFP 101-1000 ng/mL</LabelName><LabelName language="en">AFP ≤100 ng/mL</LabelName><LabelName language="en">VPEFR-</LabelName><LabelName language="en">VPEFR+</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">Intermediate</LabelName><LabelName language="en">Intermediate</LabelName><LabelName language="en">High</LabelName><LabelName language="en">High</LabelName><LabelName language="en">High</LabelName><LabelName language="en">PRETEXT IV</LabelName><LabelName language="en">M-</LabelName><LabelName language="en">M+</LabelName><LabelName language="en">&lt;3 years</LabelName><LabelName language="en">≥3 years</LabelName><LabelName language="en">AFP &gt;100 ng/mL</LabelName><LabelName language="en">AFP ≤100 ng/mL</LabelName><LabelName language="en">VPEFR+ or VPEFR-</LabelName><LabelName language="en">Intermediate</LabelName><LabelName language="en">High</LabelName><LabelName language="en">High</LabelName><LabelName language="en">High</LabelName><ImageDimensions>
+    <HeightPixels>960</HeightPixels>
+    <WidthPixels>720</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Lancet Oncology</Creator>
+   <SourcePublication>Meyers RL, Maibach R, Hiyama E, et al.: Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children's Hepatic tumors International Collaboration. Lancet Oncol, Volume 18 (Issue 1), Pages 122–131, Copyright (2017), with permission from Elsevier</SourcePublication><DateCreated>2016-12-05</DateCreated>
+   <SourceFilename>Ch Liver Cancer Meyers Figure 12-5-16 from PPT.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-05-15" user="kuhlmanna">Figure approved by Board; permissions received; per SQK, figure will not be translated.</Comment><Comment audience="Internal" date="2016-12-05" user="kuhlmanna">Permissions needed; image added as draft for summary placeholder - needs Board approval</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2017-05-12</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from The Lancet Oncology, Volume 18, Meyers RL, Maibach R, Hiyama E, Häberle B, Krailo M, Rangaswami A, Aronson DC, Malogolowkin MH, Perilongo G, von Schweinitz D, Ansari M, Lopez-Terrada D, Tanaka Y, Alaggio R, Leuschner I, Hishiki T, Schmid I, Watanabe K, Yoshimura K, Feng Y, Rinaldi E, Saraceno D, Derosa M, Czauderna P, Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children's Hepatic tumors International Collaboration, Pages 122–131, Copyright (2017), with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062836">Childhood Liver Cancer Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000785615">Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children's Hepatic tumors International Collaboration.</CitationLink><Comment audience="Internal" date="2017-05-15" user="kuhlmanna">Per SQK, figure will not be translated into Spanish.</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043714">childhood liver cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Diagram showing risk stratification trees for the Children’s Hepatic tumors International Collaboration—Hepatoblastoma Stratification (CHIC-HS).</ContentDescription><ContentDescription audience="Health_professionals" language="es">Diagrama en que se muestran los árboles de estratificación del riesgo según la Children’s Hepatic tumors International Collaboration—Hepatoblastoma Stratification (CHIC-HS). VPEFR: venoso, portal, extrahepático, multifocal y con ruptura; years: años; intermediate: intermedio; high: alto; any age: cualquier edad, resectable at diagnosis: resecable en el momento del diagnóstico; very low: muy bajo; low: bajo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Risk stratification trees for the Children’s Hepatic tumors International Collaboration—Hepatoblastoma Stratification (CHIC-HS). Very low-risk group and low-risk group are separated only by their resectability at diagnosis, which has been defined by international consensus as part of the surgical guidelines for the upcoming collaborative trial, Paediatric Hepatic International Tumour Trial (PHITT). Separate risk stratification trees are used for each of the four PRETEXT groups. AFP = alpha-fetoprotein. M = metastatic disease. PRETEXT = PRETreatment EXTent of disease. Reprinted from The Lancet Oncology, Volume 18, Meyers RL, Maibach R, Hiyama E, Häberle B, Krailo M, Rangaswami A, Aronson DC, Malogolowkin MH, Perilongo G, von Schweinitz D, Ansari M, Lopez-Terrada D, Tanaka Y, Alaggio R, Leuschner I, Hishiki T, Schmid I, Watanabe K, Yoshimura K, Feng Y, Rinaldi E, Saraceno D, Derosa M, Czauderna P, Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children's Hepatic tumors International Collaboration, Pages 122–131, Copyright (2017), with permission from Elsevier.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Árboles de estratificación del riesgo según la Children’s Hepatic tumors International Collaboration—Hepatoblastoma Stratification (CHIC-HS). Los grupos de riesgo muy bajo y riesgo bajo se separan solo por la resecabilidad en el momento del diagnóstico que se definió por consenso internacional como parte de las pautas quirúrgicas para el próximo ensayo colaborativo: Paediatric Hepatic International Tumour Trial (PHITT). Se emplean árboles de estratificación separados para cada uno de los cuatro grupos PRETEXT. AFP = alfafetoproteína. M = enfermedad metastásica. PRETEXT = PRETreatment EXTent of disease (alcance de la enfermedad antes del tratamiento).  The Lancet Oncology, Volume 18, Meyers RL, Maibach R, Hiyama E, Häberle B, Krailo M, Rangaswami A, Aronson DC, Malogolowkin MH, Perilongo G, von Schweinitz D, Ansari M, Lopez-Terrada D, Tanaka Y, Alaggio R, Leuschner I, Hishiki T, Schmid I, Watanabe K, Yoshimura K, Feng Y, Rinaldi E, Saraceno D, Derosa M, Czauderna P, Risk-stratified staging in paediatric hepatoblastoma: a unified analysis from the Children's Hepatic tumors International Collaboration, Pages 122–131, Derechos de autor (2017). Reproducción autorizada por Elsevier.  VPEFR: venoso, portal, extrahepático, multifocal y con ruptura; years: años; intermediate: intermedio; high: alto; any age: cualquier edad, resectable at diagnosis: resecable en el momento del diagnóstico; very low: muy bajo; low: bajo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062836">Childhood Liver Cancer Treatment</Summary><Summary cdr:ref="CDR0000256692">Tratamiento del cáncer de hígado infantil</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>First draft Spanish Translation of Content Descr. and Caption, also added translated labels as needed at the end of Content Descr. and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-05-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Approved by Board</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-12-05</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>Needs Board approval</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000788905">Meyers_Ch Liver_CopyrightPermissions_2017-05-12</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

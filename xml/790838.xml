@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, anaplastic, stage IVB (3)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Anaplastic Thyroid Cancer (3)</LabelName><LabelName language="en">Spine</LabelName><LabelName language="en">Tissue in front of the spine</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Right recurrent laryngeal nerve</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Left recurrent laryngeal nerve</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Common carotid artery</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Larynx</LabelName><ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-05-21</DateCreated>
+   <SourceFilename>AnaplasticThyroidCaStage4BPart3.3.jpg</SourceFilename><Comment audience="Internal" date="2018-05-21" user="kuhlmanna">Changed image title</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Changed label thyroid to thyroid gland; labeled the cancer spots</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000786480">stage IVB anaplastic thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB anaplastic thyroid cancer (3); drawing shows cancer in the thyroid gland and in  the esophagus, the trachea, the larynx, the left recurrent laryngeal nerve, and the tissue in front of the spine (inset). Cancer has also surrounded the common carotid artery and the blood vessels in the area between the lungs. Also shown is the right recurrent laryngeal nerve.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVB anaplastic thyroid cancer (3); drawing shows cancer in the thyroid gland and in  the esophagus, the trachea, the larynx, the left recurrent laryngeal nerve, and the tissue in front of the spine (inset). Cancer has also surrounded the common carotid artery and the blood vessels in the area between the lungs. Also shown is the right recurrent laryngeal nerve.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB anaplastic thyroid cancer (3). The tumor is any size and cancer has spread from the thyroid to soft tissue under the skin, the esophagus, the trachea, the larynx, the recurrent laryngeal nerve (a nerve that goes to the larynx), or tissue in front of the spine; or cancer has surrounded the carotid artery or the blood vessels in the area between the lungs. Cancer may have spread to lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVB anaplastic thyroid cancer (3). The tumor is any size and cancer has spread from the thyroid to soft tissue under the skin, the esophagus, the trachea, the larynx, the recurrent laryngeal nerve (a nerve that goes to the larynx), or tissue in front of the spine; or cancer has surrounded the carotid artery or the blood vessels in the area between the lungs. Cancer may have spread to lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary>
+  <Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per Jennifer Sipos, MD, label the cancer spots in main image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-03-19</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Updated image to AnaplasticThyroidCaStage4BPart3.2.jpg</Comment><Comment>Added AnaplasticThyroidCaStage4BPart3.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,73 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, bone-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   
+  <ImageDimensions>
+    <HeightPixels>1401</HeightPixels>
+    <WidthPixels>1800</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000466541">scan, bone</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BoneScanSpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-08-25" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Gammagrafía ósea; en la imagen se observa a un paciente acostado sobre una camilla que se desliza bajo un escáner, un técnico que maneja el escáner y una pantalla que mostrará imágenes durante la exploración.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Gammagrafía ósea. Se inyecta una cantidad pequeña de material radiactivo en el torrente sanguíneo del paciente; este material radiactivo se acumula en las células anormales de los huesos. Mientras el paciente está acostado sobre una camilla que se desliza debajo del escáner, se detecta el material radiactivo y se crean imágenes en la pantalla de una computadora o en una película.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       
+       <Summary cdr:ref="CDR0000256810">Tratamiento del cáncer de próstata</Summary><Glossary cdr:ref="CDR0000046499">bone scan</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-08-25" user="saucedol">Linked revised image</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Terminology meeting oct-nov 2017 (revised scan terms in Spanish)//Label in Spanish needs to change to "Gammagrafía ósea"/Pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>New image linked and translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spanish image pending</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000466541">scan, bone</TranslationOf></Media>

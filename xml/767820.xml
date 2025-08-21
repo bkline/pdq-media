@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Prevalence of endocrine disorders at the last follow-up visit, by gender</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">GH deficiency</LabelName><LabelName language="en">Primary hypothyroidism</LabelName><LabelName language="en">Central hypothyroidism</LabelName><LabelName language="en">Spermatogenesis damage</LabelName><LabelName language="en">Male primary hypogonadism</LabelName><LabelName language="en">Female primary hypogonadism</LabelName><LabelName language="en">Hypogonadotropic hypogonadism</LabelName><LabelName language="en">Low BMD</LabelName><LabelName language="en">Diabetes mellitus</LabelName><LabelName language="en">Diabetes insipidus</LabelName><LabelName language="en">Hyperprolactinemia</LabelName><LabelName language="en">Central hypoadrenalism</LabelName><LabelName language="en">Any endocrine problems</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">40</LabelName><LabelName language="en">50</LabelName><LabelName language="en">60</LabelName><LabelName language="en">70</LabelName><LabelName language="en">Females</LabelName><LabelName language="en">14.62 (9.03-21.88)</LabelName><LabelName language="en">20.77 (14.16-28.76)</LabelName><LabelName language="en">1.54 (0.19-5.45)</LabelName><LabelName language="en">21.54 (14.81-29.60)</LabelName><LabelName language="en">4.62 (1.71-9.78)</LabelName><LabelName language="en">17.69 (11.56-25.35)</LabelName><LabelName language="en">1.54 (0.19-5.45)</LabelName><LabelName language="en">0.77 (0.02-4.21)</LabelName><LabelName language="en">2.31 (0.48-6.60)</LabelName><LabelName language="en">0.77 (0.02-4.21)</LabelName><LabelName language="en">48.46 (39.61-57.39)</LabelName><LabelName language="en">Males</LabelName><LabelName language="en">17.22 (12.01-23.55)</LabelName><LabelName language="en">15.56 (10.59-21.69)</LabelName><LabelName language="en">2.78 (0.91-6.36)</LabelName><LabelName language="en">42.22 (34.91-49.79)</LabelName><LabelName language="en">13.33 (8.73-19.19)</LabelName><LabelName language="en">5.00 (2.31-9.28)</LabelName><LabelName language="en">13.89 (9.19-19.76)</LabelName><LabelName language="en">1.67 (0.35-4.79)</LabelName><LabelName language="en">1.11 (0.13-3.96)</LabelName><LabelName language="en">1.67 (0.35-4.79)</LabelName><LabelName language="en">1.67 (0.35-4.79)</LabelName><LabelName language="en">62.78 (55.27-69.85)</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource><Creator>European Journal of Endocrinology, with permission from BioScientifica Ltd.</Creator>
+   
+   
+   
+  <DateCreated>2015-05-18</DateCreated><SourceFilename>Late Effects Prevalence of endocrine disorders at the last follow-upENGLISH2.jpg</SourceFilename><Comment audience="Internal" date="2015-05-26" user="akuhlmann">Additional enhancement  (image enlarged) by Terese</Comment><Comment audience="Internal" date="2015-04-21" user="akuhlmann">Image enhanced by Terese</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionRequestDate>2014-12-30</PermissionRequestDate><PermissionResponse>Permission Granted</PermissionResponse>
+    
+    
+    
+    
+    <PermissionResponseDate>2015-02-11</PermissionResponseDate><PublisherPermissionText>Reprinted from European Journal of Endocrinology, 168 (3), E Brignardello, F Felicetti, A Castiglione, et al., Endocrine health conditions in adult survivors of childhood cancer: the need for specialized adult-focused follow-up clinics, Pages 465-72, Copyright 2013, with permission from BioScientifica Ltd.</PublisherPermissionText><SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000767818">Endocrine health conditions in adult survivors of childhood cancer: the need for specialized adult-focused follow-up clinics.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043724">childhood cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the prevalence of endocrine disorders at the last follow-up visit by gender.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Prevalence of endocrine disorders at the last follow-up visit, by gender. Copyright © 2013, European Society of Endocrinology.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Permissions received.</Comment>
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000769575">Brignardello_Late Effects_Copyright Permissions_2015-02-24</SupplementaryInfoLink>
+       </RelatedDocuments><Comment audience="Internal" date="2015-02-26" user="myousufzai">2015-02-26: Added supplementary info doc; my</Comment></Media>

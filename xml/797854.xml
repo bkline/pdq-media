@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Gibson Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">Cumulative incidence (%)</LabelName><LabelName language="en">35</LabelName><LabelName language="en">30</LabelName><LabelName language="en">25</LabelName><LabelName language="en">20</LabelName><LabelName language="en">15</LabelName><LabelName language="en">10</LabelName><LabelName language="en">5</LabelName><LabelName language="en">0</LabelName><LabelName language="en">1970-79</LabelName><LabelName language="en">1980-89</LabelName><LabelName language="en">1990-99</LabelName><LabelName language="en">Siblings</LabelName><LabelName language="en">Time since diagnosis (years)</LabelName><LabelName language="en">5</LabelName><LabelName language="en">10</LabelName><LabelName language="en">15</LabelName><LabelName language="en">20</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Time since diagnosis (years)</LabelName><LabelName language="en">5</LabelName><LabelName language="en">10</LabelName><LabelName language="en">15</LabelName><LabelName language="en">20</LabelName><LabelName language="en">Number at risk (number censored)</LabelName><LabelName language="en">1970-79</LabelName><LabelName language="en">6197 (0)</LabelName><LabelName language="en">4546 (0)</LabelName><LabelName language="en">4152 (1)</LabelName><LabelName language="en">3611 (211)</LabelName><LabelName language="en">6222 (0)</LabelName><LabelName language="en">5606 (0)</LabelName><LabelName language="en">5328 (4)</LabelName><LabelName language="en">4809 (273)</LabelName><LabelName language="en">1980-89</LabelName><LabelName language="en">9373 (0)</LabelName><LabelName language="en">6948 (102)</LabelName><LabelName language="en">6009 (663)</LabelName><LabelName language="en">4698 (1642)</LabelName><LabelName language="en">9420 (0)</LabelName><LabelName language="en">8421 (120)</LabelName><LabelName language="en">7462 (802)</LabelName><LabelName language="en">6036 (1979)</LabelName><LabelName language="en">1990-99</LabelName><LabelName language="en">7929 (0)</LabelName><LabelName language="en">5942 (103)</LabelName><LabelName language="en">3471 (2287)</LabelName><LabelName language="en">702 (4922)</LabelName><LabelName language="en">7956 (0)</LabelName><LabelName language="en">7167 (140)</LabelName><LabelName language="en">4251 (2859)</LabelName><LabelName language="en">872 (6119)</LabelName><LabelName language="en">Siblings</LabelName><LabelName language="en">4905 (0)</LabelName><LabelName language="en">4772 (62)</LabelName><LabelName language="en">4355 (420)</LabelName><LabelName language="en">3492 (1207)</LabelName><LabelName language="en">5046 (0)</LabelName><LabelName language="en">4966 (65)</LabelName><LabelName language="en">4582 (437)</LabelName><LabelName language="en">3734 (1263)</LabelName><ImageDimensions>
+    <HeightPixels>2092</HeightPixels>
+    <WidthPixels>5016</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>The Lancet Oncology</Creator>
+   <SourcePublication>Gibson TM, Mostoufi-Moab S, Stratton KL, et al.: Temporal patterns in the risk of chronic health conditions in survivors of childhood cancer diagnosed 1970-99: a report from the Childhood Cancer Survivor Study cohort. The Lancet Oncology, Volume 19 (Issue 12), Pages 1590-1601, Copyright 2018, with permission from Elsevier.</SourcePublication><DateCreated>2019-04-30</DateCreated>
+   <SourceFilename>Late Effects - Gibson Figure.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-04-30" user="kuhlmanna">Image approved by Board; copyright permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2019-04-30</PermissionResponseDate>
+    
+    <PublisherPermissionText>Gibson TM, Mostoufi-Moab S, Stratton KL, et al.: Temporal patterns in the risk of chronic health conditions in survivors of childhood cancer diagnosed 1970-99: a report from the Childhood Cancer Survivor Study cohort. The Lancet Oncology, Volume 19 (Issue 12), Pages 1590-1601, Copyright 2018, with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse><CitationLink cdr:ref="CDR0000796556">Temporal patterns in the risk of chronic health conditions in survivors of childhood cancer diagnosed 1970-99: a report from the Childhood Cancer Survivor Study cohort.</CitationLink><Comment audience="Internal" date="2019-04-30" user="kuhlmanna">Per CS, image will not be re-created into Spanish; please add translated labels to Spanish caption</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graphs showing the cumulative incidence of grade 3–5 chronic health conditions in 5-year survivors of childhood cancer by diagnosis decade and siblings.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cumulative incidence of grade 3–5 chronic health conditions in 5-year survivors of childhood cancer by diagnosis decade and siblings. (A) Cumulative incidence of a first grade 3–5 condition. (B) Cumulative incidence of two or more grade 3–5 conditions. The shaded area represents the 95% confidence interval (CI). The number of participants at risk (number censored) at each 5-year interval post-diagnosis is listed below the x-axis. The number censored does not include those who experienced a competing risk event (death from a cause other than a grade 5 chronic condition). Reprinted from <ExternalRef cdr:xref="https://www.sciencedirect.com/journal/the-lancet-oncology">The Lancet Oncology</ExternalRef>, Volume 19, Issue 12, Todd M Gibson, Sogol Mostoufi-Moab, Kayla L Stratton, Wendy M Leisenring, Dana Barnea, Eric J Chow, Sarah S Donaldson, Rebecca M Howell, Melissa M Hudson,  Anita Mahajan, Paul C Nathan, Kirsten K Ness, Charles A Sklar,  Emily S Tonorezos, Christopher B Weldon, Elizabeth M Wells,  Yutaka Yasui,  Gregory T Armstrong, Leslie L Robinson, Kevin C Oeffinger, Temporal patterns in the risk of chronic health conditions in survivors of childhood cancer diagnosed 1970-99: a report from the Childhood Cancer Survivor Study cohort. Pages 1590-1601, Copyright (2018), with permission from Elsevier. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image will not be re-created into Spanish; please add translate Content Description and Caption, and add translated labels to Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-04-30</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000797867">Gibson_Late Effects_Copyrightpermissions_2019-04-30</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

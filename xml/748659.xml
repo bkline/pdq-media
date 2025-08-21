@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, medial, child, anatomy-HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Brain (Medial)</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Hypothalamus</LabelName><LabelName language="en">Lateral ventricle</LabelName><LabelName language="en">Third ventricle</LabelName><LabelName language="en">Cerebrum</LabelName><LabelName language="en">Choroid plexus</LabelName><LabelName language="en">Pineal gland</LabelName><LabelName language="en">Tentorium</LabelName><LabelName language="en">Supratentorial area</LabelName><LabelName language="en">Cerebellum</LabelName><LabelName language="en">Tectum</LabelName><LabelName language="en">Fourth ventricle</LabelName><LabelName language="en">Posterior fossa/infratentorial area</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Brain stem</LabelName><LabelName language="en">Pons</LabelName><LabelName language="en">Medulla</LabelName><LabelName language="en">Spinal cord</LabelName><ImageDimensions>
+    <HeightPixels>2910</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-11-10</DateCreated>
+   <SourceFilename>BrainMedialChildVentricles2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-11-10" user="kuhlmanna">Added new labels: Supratentorial area, Tectum, and Posterior fossa/infratentorial area</Comment><Comment audience="Internal" date="2013-07-29" user="akuhlmann">Added new labels: Lateral ventricle, Third ventricle, and Fourth ventricle</Comment><Comment audience="Internal" date="2013-05-06" user="anjamison">Addded title.</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-15" user="akuhlmann">No copyright permission needed; image created by Terese Winslow</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041539">childhood brain tumor;Index term;Protocol selection criteria;Neoplasm diagnosis</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing of the inside of the brain showing  the supratentorial area (the upper part of the brain) and the posterior fossa/infratentorial area (the lower back part of the brain). The supratentorial area contains the cerebrum, lateral ventricle, third ventricle, choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve. The posterior fossa/infratentorial area contains the cerebellum, tectum, fourth ventricle, and   brain stem (pons and medulla). The tentorium and spinal cord are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the inside of the brain. The supratentorial area (the upper part of the brain) contains the cerebrum, lateral ventricle and third ventricle (with cerebrospinal fluid shown in blue), choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve.  The posterior fossa/infratentorial area (the lower back part of the brain) contains the cerebellum, tectum, fourth ventricle, and   brain stem (pons and medulla).  The tentorium separates the supratentorium from the  infratentorium.</MediaCaption>
+  </Captions>
+ <Comment audience="Internal" date="2015-11-10" user="kuhlmanna">Revised Content Description and Caption based on changes made to image; ak</Comment></MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000548358">Childhood Central Nervous System Embryonal Tumors Treatment</Summary><Summary cdr:ref="CDR0000614165">Childhood Astrocytomas Treatment;Treatment;Health professionals</Summary><Summary cdr:ref="CDR0000062761">Childhood Brain Stem Glioma Treatment;Treatment;Health professionals</Summary><Summary cdr:ref="CDR0000587224">Childhood Central Nervous System Atypical Teratoid/Rhabdoid Tumor Treatment;Treatment;Health professionals</Summary><Summary cdr:ref="CDR0000589150">Childhood Craniopharyngioma Treatment;Treatment;Health professionals</Summary><Summary cdr:ref="CDR0000062843">Childhood Ependymoma Treatment;Treatment;Health professionals</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2015-11-10" user="kuhlmanna">Updated to BrainMedialChildVentricles2.jpg</Comment><Comment>Updated to BrainMedialChildVentricles.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy><Comment audience="Internal" date="2013-05-10" user="anjamison">Deleted ProposedUse summary to enable doc to validate (Childhood Central Nervous System Embryonal Tumors Treatment **TEMP**)</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2013-05-06" user="anjamison">Updated to BrainMedialChildHealthProf2.jpg</Comment><Comment>Added new image: BrainMedialChildHealthProf1.jpg.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

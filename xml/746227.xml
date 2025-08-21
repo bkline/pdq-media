@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>classic BRCA1 pedigree</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Classic BRCA1 Pedigree</LabelName><LabelName language="en">Breast, dx 42</LabelName><LabelName language="en">Breast, dx 38</LabelName><LabelName language="en">Ovarian, dx 49</LabelName><LabelName language="en">Ovarian, dx 53</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Robin Juthe</Creator>
+   <DateCreated>2013-02-08</DateCreated>
+   <SourceFilename>BRCA1 Pedigree.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654989">hereditary breast/ovarian cancer - BRCA1</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pedigree showing some of the classic features of a family with a deleterious BRCA1 mutation across three generations, including transmission occurring through maternal and paternal lineages. The unaffected female proband is shown as having an affected mother (breast cancer diagnosed at age 42 y), female cousin (breast cancer diagnosed at age 38 y), maternal aunt (ovarian cancer diagnosed at age 53 y), and maternal grandmother (ovarian cancer diagnosed at age 49 y).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en"><GeneName>BRCA1</GeneName> pedigree. This pedigree shows some of the classic features of a family with a deleterious <GeneName>BRCA1</GeneName> mutation across three generations, including affected family members with breast cancer or ovarian cancer and a young age at onset. <GeneName>BRCA1</GeneName> families may exhibit some or all  of these features. As an autosomal dominant syndrome, a deleterious <GeneName>BRCA1</GeneName> mutation can be transmitted through maternal or paternal lineages, as depicted in the figure.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062855">Genetics of Breast and Gynecologic Cancers</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-24</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        <Comment>Added BRCA1 Pedigree Larger Font.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-02-11</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added BRCA1 Pedigree.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

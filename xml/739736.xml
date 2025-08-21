@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system where GISTs form, with greater omentum, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Colon</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Epiplón mayor</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000703376">gastrointestinal system where GISTs form, with greater omentum, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>GISTSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-09-04" user="lsaucedo">Added HP image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038161">gastrointestinal stromal tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Health_professionals" language="es">
+Dibujo del tracto gastrointestinal que muestra el esófago, el estómago, el colon, el intestino delgado y el recto. Un recuadro muestra el epiplón mayor (parte del tejido que rodea el estómago y otros órganos en el abdomen).</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Health_professionals" language="es">Los tumores del estroma gastrointestinal (TEGI) se pueden encontrar en cualquier lugar del tracto gastrointestinal o cerca de este.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000697331">Tumores de estroma gastrointestinal: Tratamiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP image, changed caption and content description to HP</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-31</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

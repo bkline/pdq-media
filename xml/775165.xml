@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - AML Figure 2</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">Prevalence (%)</LabelName><LabelName language="en">60%</LabelName><LabelName language="en">50%</LabelName><LabelName language="en">40%</LabelName><LabelName language="en">30%</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">10%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">NK</LabelName><LabelName language="en">8%</LabelName><LabelName language="en">9%</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">25%</LabelName><LabelName language="en">33%</LabelName><LabelName language="en">37%</LabelName><LabelName language="en">40%</LabelName><LabelName language="en">CBF</LabelName><LabelName language="en">4%</LabelName><LabelName language="en">11%</LabelName><LabelName language="en">24%</LabelName><LabelName language="en">31%</LabelName><LabelName language="en">29%</LabelName><LabelName language="en">29%</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">11q23</LabelName><LabelName language="en">55%</LabelName><LabelName language="en">38%</LabelName><LabelName language="en">28%</LabelName><LabelName language="en">13%</LabelName><LabelName language="en">12%</LabelName><LabelName language="en">10%</LabelName><LabelName language="en">8%</LabelName><LabelName language="en">Age Group</LabelName><LabelName language="en">0-1 year</LabelName><LabelName language="en">1-2 years</LabelName><LabelName language="en">2-5 years</LabelName><LabelName language="en">5-10 years</LabelName><LabelName language="en">10-15 years</LabelName><LabelName language="en">&gt;15 years</LabelName><LabelName language="en">Adults &lt;56 years</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Prevalence (%)</LabelName><LabelName language="en">12.0%</LabelName><LabelName language="en">10.0%</LabelName><LabelName language="en">8.0%</LabelName><LabelName language="en">6.0%</LabelName><LabelName language="en">4.0%</LabelName><LabelName language="en">2.0%</LabelName><LabelName language="en">0.0%</LabelName><LabelName language="en">CBFA2T3/GLIS2</LabelName><LabelName language="en">10.6%</LabelName><LabelName language="en">8.6%</LabelName><LabelName language="en">2.1%</LabelName><LabelName language="en">1.5%</LabelName><LabelName language="en">1.8%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">NUP98/KMD5A</LabelName><LabelName language="en">1%</LabelName><LabelName language="en">4%</LabelName><LabelName language="en">6%</LabelName><LabelName language="en">4%</LabelName><LabelName language="en">0.4%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">0%</LabelName><LabelName language="en">NUP98/NSD1</LabelName><LabelName language="en">1%</LabelName><LabelName language="en">2%</LabelName><LabelName language="en">3%</LabelName><LabelName language="en">6%</LabelName><LabelName language="en">8%</LabelName><LabelName language="en">2.5%</LabelName><LabelName language="en">1.5%</LabelName><LabelName language="en">0 to &lt;1</LabelName><LabelName language="en">1 to &lt;2</LabelName><LabelName language="en">2 to &lt;5</LabelName><LabelName language="en">5 to &lt;10</LabelName><LabelName language="en">10 to &lt;15</LabelName><LabelName language="en">15 to &lt;21</LabelName><LabelName language="en">&gt;21</LabelName><ImageDimensions>
+    <HeightPixels>805</HeightPixels>
+    <WidthPixels>521</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Pediatric Clinics of North America</Creator>
+   <SourcePublication>Tarlock K, Meshinchi S, Pediatric acute myeloid leukemia: biology and therapeutic implications of genomic variants. Pediatric Clinics of North America, Volume 62 (Issue 1),  Pages 75–93, Copyright 2015.</SourcePublication><DateCreated>2016-08-08</DateCreated>
+   <SourceFilename>AML 2  Tarlock.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-08-08" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment  Editorial Board and permissions received - 08/08/16</Comment><Comment audience="Internal" date="2015-09-01" user="kuhlmanna">Permissions needed; image added as draft for summary placeholder - need Board approval</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2016-08-05</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from Pediatric Clinics of North America, Volume 62 (Issue 1), Katherine Tarlock, Soheil Meshinchi, Pediatric Acute Myeloid Leukemia: Biology and Therapeutic Implications of Genomic Variants, Pages 75–93, Copyright (2015), with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000774921">Childhood Cancer Genomics</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000775152">Pediatric acute myeloid leukemia: biology and therapeutic implications of genomic variants.</CitationLink><Comment audience="Internal" date="2016-08-08" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment  Editorial Board and permissions received - 08/08/16</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038208">childhood acute myeloid leukemia/other myeloid malignancies</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Charts showing age-based prevalence of specific karyotypic (A) or cryptic (B) translocations in AML.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Age-based prevalence of specific karyotypic (A) or cryptic (B) translocations in AML. Reprinted from Pediatric Clinics of North America, Volume 62, Katherine Tarlock, Soheil Meshinchi, Pediatric Acute Myeloid Leukemia: Biology and Therapeutic Implications of Genomic Variants, Pages 75–93, Copyright (2015), with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062896">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary>
+       <Summary cdr:ref="CDR0000774921">Childhood Cancer Genomics;Treatment;Health professionals</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-08</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-05</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-22</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000782666">Tarlock_Figure_CopyrightPermissions_2016-08-05</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - ALL Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">ETV6-RUNX1</LabelName><LabelName language="en">22%</LabelName><LabelName language="en">Hyperdiploid</LabelName><LabelName language="en">20%</LabelName><LabelName language="en">MLL rearrangements</LabelName><LabelName language="en">6%</LabelName><LabelName language="en">TCF3-PBX1</LabelName><LabelName language="en">4%</LabelName><LabelName language="en">BCR-ABL1</LabelName><LabelName language="en">2%</LabelName><LabelName language="en">Dicentric</LabelName><LabelName language="en">3%</LabelName><LabelName language="en">Hypodiploid</LabelName><LabelName language="en">1%</LabelName><LabelName language="en">iAMP21</LabelName><LabelName language="en">1%</LabelName><LabelName language="en">CRLF2</LabelName><LabelName language="en">4%</LabelName><LabelName language="en">(CRLF2)</LabelName><LabelName language="en">3.5%</LabelName><LabelName language="en">BCR-ABL1-like</LabelName><LabelName language="en">9%</LabelName><LabelName language="en">(Other)</LabelName><LabelName language="en">5.5%</LabelName><LabelName language="en">ERG</LabelName><LabelName language="en">3%</LabelName><LabelName language="en">Others (B-ALL)</LabelName><LabelName language="en">10%</LabelName><LabelName language="en">TAL1</LabelName><LabelName language="en">7%</LabelName><LabelName language="en">TLX3</LabelName><LabelName language="en">2.3%</LabelName><LabelName language="en">ETP</LabelName><LabelName language="en">2%</LabelName><LabelName language="en">LYL1</LabelName><LabelName language="en">1.4%</LabelName><LabelName language="en">TLX1</LabelName><LabelName language="en">0.3%</LabelName><LabelName language="en">Others (T-ALL)</LabelName><LabelName language="en">2%</LabelName><ImageDimensions>
+    <HeightPixels>362</HeightPixels>
+    <WidthPixels>565</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Seminars in Hematology</Creator>
+   <SourcePublication>Mullighan CG, Genomic characterization of childhood acute lymphoblastic leukemia. Seminars in Hematology, Volume 50 (Issue 4),  Pages 314–324, Copyright 2013.</SourcePublication><DateCreated>2016-08-08</DateCreated>
+   <SourceFilename>Mullighan image Ch Cancer Genomics 8-8-16  x2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-08-08" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment  Editorial Board and permissions received - 08/08/16</Comment><Comment audience="Internal" date="2015-09-01" user="kuhlmanna">Permissions needed; image added as draft for summary placeholder - need Board approval</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2016-08-04</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from Seminars in Hematology, Volume 50 (Issue 4), Charles G. Mullighan, Genomic Characterization of Childhood Acute Lymphoblastic Leukemia, Pages 314–324, Copyright (2013), with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000774921">Childhood Cancer Genomics</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000775150">Genomic characterization of childhood acute lymphoblastic leukemia.</CitationLink><Comment audience="Internal" date="2016-08-08" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment  Editorial Board and permissions received - 08/08/16</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039919">childhood acute lymphoblastic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pie chart showing subclassification of childhood ALL.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Subclassification of childhood ALL. Blue wedges refer to B-progenitor ALL, yellow to recently identified subtypes of B-ALL, and red wedges to T-lineage ALL. Reprinted from Seminars in Hematology, Volume 50, Charles G. Mullighan, Genomic Characterization of Childhood Acute Lymphoblastic Leukemia, Pages 314–324, Copyright (2013), with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062923">Childhood Acute Lymphoblastic Leukemia Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-22</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000782665">Mullighan_Figure_CopyrightPermissions_2016-08-05</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

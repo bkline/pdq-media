@@ -1,0 +1,63 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood ALL - Genomic Subtypes and Frequencies of NCI High-Risk B-ALL</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">iAMP21, 6.9%</LabelName><LabelName language="en">B-other, 9.6%</LabelName><LabelName language="en">BCL2/MYC, 0.1%</LabelName><LabelName language="en">DUX4, 5.8%</LabelName><LabelName language="en">ETV6::RUNX1, 9.5%</LabelName><LabelName language="en">ETV6::RUNX1-like, 1.3%</LabelName><LabelName language="en">HLF, 0.6%</LabelName><LabelName language="en">Hyperdiploid, 14.2%</LabelName><LabelName language="en">IKZF1 N159Y, 0.3%</LabelName><LabelName language="en">KMT2A, 4.3%</LabelName><LabelName language="en">KMT2A-like, 0.1%</LabelName><LabelName language="en">Low hypodiploid, 2.6%</LabelName><LabelName language="en">MEF2D, 3.0%</LabelName><LabelName language="en">NUTM1, 0.5%</LabelName><LabelName language="en">Near haploid, 1.8%</LabelName><LabelName language="en">PAX5 P80R, 1.8%</LabelName><LabelName language="en">PAX5alt, 10.7%</LabelName><LabelName language="en">Ph, 5.4%</LabelName><LabelName language="en">Ph-like_CRLF2, 4.7%</LabelName><LabelName language="en">Ph-like_other, 8.4%</LabelName><LabelName language="en">TCF3::PBX1, 5.4%</LabelName><LabelName language="en">ZEB2/CEBP, 0.4%</LabelName><LabelName language="en">ZNF384, 2.7%</LabelName><LabelName language="en">ZNF384-like, 0.1%</LabelName><ImageDimensions>
+    <HeightPixels>1668</HeightPixels>
+    <WidthPixels>2145</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Adapted from Nature Genetics</Creator><SourcePublication>Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54: 1376-1389, 2022</SourcePublication>
+   
+   
+   <DateCreated>2023-01-24</DateCreated>
+   <SourceFilename>High Risk B-ALL from Brady et al 2022 Pie Chart 2 from MSmith 1_24_23.2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2023-01-25">Overall size and resolution of pie chart enhanced by Terese; updated 3 gene fusion labels to new format</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-01-25">Pie chart created by Pediatric Cancer Treatment Board Member M. Smith - copyright permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039919">childhood acute lymphoblastic leukemia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pie chart showing genomic subtypes and frequencies of NCI high-risk B-ALL.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Genomic subtypes and frequencies of NCI high-risk B-ALL. The figure represents data from 1,084 children diagnosed with NCI high-risk B-ALL (aged 1–18 years and WBC &gt; 50,000/µL) and enrolled in St. Jude Children’s Research Hospital or Children’s Oncology Group clinical trials. Adapted from Supplemental Table 2 of Brady SW, Roberts KG, Gu Z, et al.: The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics 54: 1376-1389, 2022.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062923">Childhood Acute Lymphoblastic Leukemia Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-01-24</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

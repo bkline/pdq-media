@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood AML -  JMML Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Noonan syndrome</LabelName><LabelName language="en">Neurofibromatosis type 1 JMML</LabelName><LabelName language="en">Yp</LabelName><LabelName language="en">Shp-2</LabelName><LabelName language="en">Grb2</LabelName><LabelName language="en">SOS</LabelName><LabelName language="en">Ras</LabelName><LabelName language="en">GDP</LabelName><LabelName language="en">NF1</LabelName><LabelName language="en">Ras</LabelName><LabelName language="en">GTP</LabelName><LabelName language="en">Noonan syndrome LEOPARD syndrome MGCL syndrome JMML</LabelName><LabelName language="en">CFC syndrome Noonan syndrome</LabelName><LabelName language="en">Raf</LabelName><LabelName language="en">Costello syndrome Noonan syndrome CFC syndrome JMML</LabelName><LabelName language="en">CFC syndrome</LabelName><LabelName language="en">MEK</LabelName><LabelName language="en">Cbl germline syndrome JMML</LabelName><LabelName language="en">Cbl</LabelName><LabelName language="en">ERK</LabelName><ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  
+ <OriginalSource>
+   <Creator>Leukemia Research, with permission from Elsevier</Creator>
+   
+   <DateCreated>2011-09-26</DateCreated>
+   
+   
+   <SourceFilename>Figure 1 for Ch AML summary JMML Sept 2011.jpg</SourceFilename>
+   
+  </OriginalSource></MediaSource><PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2012-01-06</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from Leukemia Research, 33 (3), Rebecca J. Chan, Todd Cooper, Christian P. Kratz, Brian Weiss, Mignon L. Loh, Juvenile myelomonocytic leukemia: A report from the 2nd International JMML Symposium, Pages 355-62, Copyright 2009, with permission from Elsevier
+</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062896">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-02-12" user="akuhlmann">Cannot translate image per permissions agreement</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Schematic diagram showing ligand-stimulated Ras activation, the Ras-Erk pathway, and gene mutations contributing to the neuro-cardio-facio-cutaneous congenital disorders and JMML.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 1. Schematic diagram showing ligand-stimulated Ras activation, the Ras-Erk pathway, and the gene mutations found to date contributing to the neuro-cardio-facio-cutaneous congenital disorders and JMML. NL/MGCL: Noonan-like/multiple giant cell lesion; CFC: cardia-facio-cutaneous; JMML: juvenile myelomonocytic leukemia. Reprinted from Leukemia Research, 33 (3), Rebecca J. Chan, Todd Cooper, Christian P. Kratz, Brian Weiss, Mignon L. Loh, Juvenile myelomonocytic leukemia: A report from the 2nd International JMML Symposium, Pages 355-62, Copyright 2009, with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062896">Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-01-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Received permission from publisher.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-09-26</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy>
+   <Comment>Pending Peds. Board approval</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000722084">Chan_Figure_Copyright&amp;Permissions_2012-01-06</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

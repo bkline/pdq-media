@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>soft tissue sarcoma-CTHP image</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Lymph vessels</LabelName><LabelName language="en">Blood vessels</LabelName><LabelName language="en">Fat</LabelName><LabelName language="en">Muscle, Tendons, Ligaments, and Cartilage </LabelName><LabelName language="en">Nerves</LabelName><ImageDimensions>
+    <HeightPixels>2452</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2015-03-12</DateCreated>
+   
+   
+   <SourceFilename>SoftTissueSarcomaNoTitle3.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2015-03-12" user="akuhlmann">Changed the label “Fat and deep skin tissue” to just “Fat”; removed the “pullout” of the fat and skin in the circle and added an area of fat on the thigh inside the circle; and removed the whitish, halo-looking areas behind the lymph vessels, blood vessels, and the fat area.
+</Comment><Comment audience="Internal" date="2015-03-12" user="akuhlmann">Changed label Lymphatic vessels to Lymph vessels; removed the Bone and cartilage circle and label and moved the cartilage label over to the circle that has muscle, tendons, and ligaments; and added a circle on the thigh above where the Bone and cartilage circle was, and labeled it Fat and deep skin tissue.</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000640035">soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Soft tissue sarcoma; drawing shows different types of tissue in the body where soft tissue sarcomas form, including the lymph vessels, blood vessels, fat, muscles, tendons, ligaments, cartilage, and nerves.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Soft tissue sarcoma forms in soft tissues of the body, including muscle, tendons, fat, blood vessels, lymph vessels, nerves, and tissue around joints. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       <Comment audience="Internal" date="2015-03-12" user="akuhlmann">Updated to SoftTissueSarcomaNoTitle3.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-10</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Added SoftTissueSarcoma1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-02-27</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000769731">Sample Illustration: soft tissue sarcoma</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

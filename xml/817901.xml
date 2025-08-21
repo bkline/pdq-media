@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>ascites-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ascitis</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Intestino grueso</LabelName><LabelName language="es">Epiplón mayor</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Ascitis</LabelName><LabelName language="es">Cavidad peritoneal</LabelName><LabelName language="es">Peritoneo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3360</HeightPixels><WidthPixels>3000</WidthPixels>
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000815772">ascites</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AscitesSpanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  
+  
+ <SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2024-09-30</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En el dibujo se observa un corte transversal de la cavidad peritoneal con ascitis. Se señalan el peritoneo, el hígado, el estómago, el páncreas, el intestino grueso, el epiplón mayor, el intestino delgado, un ovario, el útero, la vejiga y el recto.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La ascitis es la acumulación anormal de líquido en el abdomen que en ocasiones causa distensión (hinchazón). Se presenta cuando se acumula el líquido entre dos capas de tejido que se llaman peritoneo. El peritoneo recubre la pared abdominal y cubre la mayoría de los órganos del abdomen.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045601">ascites</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Peer QC complete; only labels.</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-04-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New media file, translation of labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000815772">ascites</TranslationOf></Media>

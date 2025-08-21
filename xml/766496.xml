@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Lynch syndrome pedigree</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lynch Syndrome Pedigree</LabelName><LabelName language="en">Colon, dx 59</LabelName><LabelName language="en">Endometrial, dx 53</LabelName><LabelName language="en">Colon, dx 42</LabelName><LabelName language="en">Colon, dx 37</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Robin Juthe</Creator>
+   <DateCreated>2014-11-14</DateCreated>
+   <SourceFilename>Lynch pedigree FINAL</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>to be specified</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042841">hereditary non-polyposis colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pedigree showing some of the classic features of a family with Lynch syndrome across three generations, including transmission occurring through maternal and paternal lineages and the presence of both colon and endometrial cancers. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Lynch syndrome pedigree. This pedigree shows some of the classic features of a family with Lynch syndrome, including affected family members with colon cancer or endometrial cancer and a younger age at onset in some individuals. Lynch syndrome families may exhibit some or all of these features. Lynch syndrome families may also include individuals with other gastrointestinal, gynecologic, and genitourinary cancers, or other extracolonic cancers. As an autosomal dominant syndrome, Lynch syndrome can be transmitted through maternal or paternal lineages, as depicted in the figure.
+</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062855">Genetics of Breast and Gynecologic Cancers</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-14</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        
+       <Comment>Caption approved by M. Daly 2014-11-14</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-11-14</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added Lynch pedigree FINAL.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

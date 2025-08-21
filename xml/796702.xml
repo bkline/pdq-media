@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostate cancer stage I-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de próstata en estadio I</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Detección por biopsia con aguja</LabelName><LabelName language="es">Grupo de grado 1</LabelName><LabelName language="es">PSA menor de 10</LabelName><LabelName language="es">O</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Detección por examen digital del recto</LabelName><LabelName language="es">Grupo de grado 1</LabelName><LabelName language="es">PSA menor de 10</LabelName><LabelName language="es">Cáncer en la mitad o menos de un lado de la próstata</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2430</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000795013">prostate cancer stage I</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ProstateStage1Spanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038783">stage I prostate cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de próstata en estadio I. Se observa una imagen con dos paneles.  En el panel superior, se observa cáncer en menos de la mitad del lado derecho de la próstata que se detecta por una biopsia con aguja. En el panel inferior, se observa cáncer en menos de la mitad del lado izquierdo de la próstata  que se detecta por un examen digital del recto. En ambos paneles, la concentración del PSA es menor de 10 y el grupo de grado es 1. También se muestran la vejiga, el recto y la uretra.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de próstata en estadio I. Se observa una imagen con dos paneles. En el panel superior, se observa cáncer en menos de la mitad del lado derecho de la próstata  que se detecta por una biopsia con aguja. En el panel inferior, se observa cáncer en menos de la mitad del lado izquierdo de la próstata  que se detecta por un examen digital del recto. En ambos paneles, la concentración del PSA es menor de 10 y el grupo de grado es 1. También se muestran la vejiga, el recto y la uretra.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de próstata en estadio I. El cáncer se encuentra solo en la próstata. Se presenta una de las siguientes situaciones: 1) El cáncer no se palpa durante un examen digital del recto y se detecta por una biopsia con aguja que se hace debido a una concentración alta del antígeno prostático específico (PSA), o se detecta al analizar una muestra de tejido que se extrae durante una cirugía por otro motivo; la concentración del PSA es menor de 10 y el grupo de grado es 1. 2) El cáncer se palpa durante un examen digital del recto y se encuentra en la mitad o menos de un lado de la próstata; la concentración del PSA es menor de 10 y el grupo de grado es 1.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de próstata en estadio I. El cáncer se encuentra solo en la próstata. Se presenta una de las siguientes situaciones: 1) El cáncer no se palpa durante un examen digital del recto y se detecta por una biopsia con aguja que se hace debido a una concentración alta del antígeno prostático específico (PSA), o se detecta al analizar una muestra de tejido que se extrae durante una cirugía por otro motivo; la concentración del PSA es menor de 10 y el grupo de grado pronóstico es 1. 2) El cáncer se palpa durante un examen digital del recto y se encuentra en la mitad o menos de un lado de la próstata; la concentración del PSA es menor de 10 y el grupo de grado es 1.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256716">Tratamiento del cáncer de próstata</Summary>
+  <Summary cdr:ref="CDR0000256810">Tratamiento del cáncer de próstata</Summary><Glossary cdr:ref="CDR0000045129">stage I prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed new image, captions and descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image. Pending caption and CD review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment audience="Internal" date="2019-05-07" user="adlerm2">Sp QC2</Comment><Comment audience="Internal" date="2019-05-06" user="lansberryic">Translation QC</Comment><Comment date="2019-05-03" user="adlerm2">Revised labels and translated captions and content descriptions; readability adjustments approved by client in March 2019.</Comment><Comment audience="Internal" date="2019-05-03" user="adlerm2">In the inset box with staging text, colons have been removed; suggest not using bold and adding bullets for each phrase. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New Spa Media file and translation of labels only</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000795013">prostate cancer stage I</TranslationOf></Media>

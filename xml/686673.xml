@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Liver PRETEXT and POSTTEXT III for pt</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Liver PRETEXT and POSTTEXT III</LabelName><LabelName language="en">Cancer is found in three sections of the liver and one section does not have cancer in it.</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Cancer is found in two sections of the liver and two sections that are not next to each other do not have cancer in them.</LabelName><ImageDimensions>
+    <HeightPixels>3030</HeightPixels>
+    <WidthPixels>3240</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-01-31</DateCreated>
+   
+   
+   <SourceFilename>PretextPosttext3Patient4.jpg</SourceFilename>
+   <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Changed title from Liver PRETEXT to Liver PRETEXT and POSTTEXT</Comment><Comment audience="Internal" date="2015-05-20" user="myousufzai">Deleted “Stage” from title and changed the Arabic number in the title to a Roman numeral</Comment><Comment>Added periods at the end of the long labels.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038968">liver and intrahepatic biliary tract cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Liver PRETEXT and POSTTEXT III; drawing shows seven livers. Dotted lines divide each liver into four vertical sections that are about the same size. In the first liver, cancer is shown in three sections on the left.  In the second liver, cancer is shown in the two sections on the left and the section on the far right. In the third liver, cancer is shown in the section on the far left and the two sections on the right.  In the fourth liver, cancer is shown in three sections on the right.  In the fifth liver, cancer is shown in the two middle sections.  In the sixth liver, cancer is shown in the section on the far left and in the second section from the right.  In the seventh liver, cancer is shown in the section on the far right and in the second section from the left.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Liver PRETEXT and POSTTEXT III. Cancer is found in three sections of the liver and one section does not have cancer in it, or cancer is found in two sections of the liver and two sections that are not next to each other do not have cancer in them.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258119">Childhood Liver Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to PretextPosttext3Patient4.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to Pretext3Patient2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added Pretext3Patient1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>x-ray, chest-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Radiografía del tórax</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>2178</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000428438">x-ray, chest</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ChestXRaySpanish.jog</SourceFilename>
+  <Comment audience="Internal" date="2013-03-07" user="lsaucedo">Replaced image with titled image</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Radiografía del tórax; el dibujo muestra a la paciente de pie con la espalda hacia la máquina de rayos-X. Las radiografías se utilizan para tomar imágenes de los órganos y huesos del pecho.  Los rayos X  pasan a través del paciente y se plasman en una película.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Radiografía del tórax.  Las radiografías se utilizan para tomar imágenes de los órganos y huesos del pecho.  Los rayos X pasan a través del cuerpo y se plasman en una película.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Cáncer de pulmón de células no pequeñas: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000433305">Mesotelioma maligno: Tratamiento</Summary><Summary cdr:ref="CDR0000256767">Cáncer de pulmón de células pequeñas: Tratamiento</Summary><Glossary cdr:ref="CDR0000304687">chest x-ray</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd, title image added</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-03-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added titled version: ChestXRaySpanish.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gastrointestinal system, upper, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Esophagus</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Large intestine</LabelName><ImageDimensions>
+    <HeightPixels>3075</HeightPixels>
+    <WidthPixels>2253</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+   
+   
+   <DateCreated>2008-04-08</DateCreated><SourceFilename>NormalUpperGI5.jpg</SourceFilename>
+   
+  <Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000039821">gastric cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Gastrointestinal (digestive) system anatomy; drawing shows the esophagus, liver, stomach, small intestine, and large intestine.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">The esophagus and stomach are part of the upper gastrointestinal (digestive) system.</MediaCaption></Captions>
+  
+  
+ <Comment audience="Internal" date="2014-12-15" user="akuhlmann">2014-12-15: Added HP content description and caption; ak</Comment></MediaContent>
+ 
+</Media>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Selected Conditioning Regimens of Different Dose Intensities</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Classification of Pediatric Conditioning Regimens</LabelName><LabelName language="en">Decreasing Reliance on GVT</LabelName><LabelName language="en">TBI 1200-1400 cGy +/- CY, FLU, Thio, Etop</LabelName><LabelName language="en">BU + CY + Melphalan</LabelName><LabelName language="en">BU + CY 200mg/kg</LabelName><LabelName language="en">BU + CY 120 mg/kg</LabelName><LabelName language="en">FLU + BU (full-dose)*</LabelName><LabelName language="en">FLU + Treosulfan*</LabelName><LabelName language="en">FLU + Melphalan</LabelName><LabelName language="en">FLU + BU (low-dose)</LabelName><LabelName language="en">FLU/CY/ATG</LabelName><LabelName language="en">TBI 200 cGY + FLU</LabelName><LabelName language="en">TBI 200 cGy</LabelName><LabelName language="en">Increasing Toxicity</LabelName><LabelName language="en">Non-myeloablative</LabelName><LabelName language="en">Reduced Intensity</LabelName><LabelName language="en">Myeloablative</LabelName><LabelName language="en">Increasing Intensity</LabelName><LabelName language="en">ATG = Antithymoctye globulin</LabelName><LabelName language="en">BU = Busulfan</LabelName><LabelName language="en">cGy = Centigray</LabelName><LabelName language="en">CY = Cyclophosphamide</LabelName><LabelName language="en">Etop = Etoposide</LabelName><LabelName language="en">FLU = Fludarabine</LabelName><LabelName language="en">GVT = Graft-versus-tumor effect</LabelName><LabelName language="en">TBI = Total-body irradiation</LabelName><LabelName language="en">Thio = Thiotepa</LabelName><LabelName language="en">* These two regimens have been associated with lower rates of transplant-related mortality compared with standard myeloablative approaches and are often referred to as reduced toxicity myeloablative regimens.</LabelName><ImageDimensions>
+    <HeightPixels>900</HeightPixels>
+    <WidthPixels>900</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource><Creator>Board member, adapted image</Creator>
+   
+   
+   <DateCreated>2015-09-30</DateCreated>
+   
+   
+   <SourceFilename>Classification of Pediatric Conditioning Regimens6.jpg</SourceFilename>
+   <Comment audience="Internal" date="2015-09-30" user="kuhlmanna">Changed color of second box from lavender back to original peach color, per SQK</Comment><Comment audience="Internal" date="2015-08-21" user="kuhlmanna">Changed color of second box from the top to lavender so that it matches Spanish version, per SQK</Comment><Comment audience="Internal" date="2012-03-05" user="anjamison">Color difference increased between the two middle boxes .</Comment><Comment audience="Internal" date="2012-02-13" user="anjamison">Replaced journal graphic with board-member created jpeg.</Comment>
+  </OriginalSource>
+ </MediaSource><PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-15" user="akuhlmann">Copyright permission not needed; image adapted by Board member</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing selected preparative regimens frequently used in pediatric HCT categorized by current definitions as non-myeloablative, reduced-intensity, or myeloablative. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Selected preparative regimens frequently used in pediatric HCT categorized by current definitions as non-myeloablative, reduced-intensity, or myeloablative. Although FLU plus treosulfan and FLU plus busulfan (full-dose) are considered myeloablative approaches, some refer to them as <Emphasis>reduced toxicity</Emphasis> regimens.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-09-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Updated to Classification of Pediatric Conditioning Regimens6.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-31</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to Classification of Pediatric Conditioning Regimens_Corrected_073113.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-03-05</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2012-03-05" user="anjamison">Updated to Classification of Pediatric Conditioning Regimens3.jpg</Comment><Comment audience="Internal" date="2012-02-13" user="anjamison">Updated to Classification of Pediatric Conditioning Regimens4.jpg</Comment><Comment>New media doc. Pending approval and content description</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

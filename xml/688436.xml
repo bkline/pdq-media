@@ -1,0 +1,91 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage IIIC</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Visceral peritoneum</LabelName><LabelName language="en">Stage IIIC</LabelName><LabelName language="en">Visceral peritoneum</LabelName><LabelName language="en">Blood vessel</LabelName><LabelName language="en">Serosa</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Cancer in 4 to 6 lymph nodes</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Cancer in 7 or more lymph nodes</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Cancer in 1 or more lymph nodes or nearby tissue and cancer spreads to nearby organs</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>3750</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2018-05-21</DateCreated>
+   
+   
+   <SourceFilename>ColonCaStageRev3C.11.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2018-08-09" user="kuhlmanna">Reverted image back to version 11 so that the label in the  third panel  says "nearby tissue" and NOT "visceral peritoneum".</Comment><Comment audience="Internal" date="2018-05-21" user="yousufzaimg">In the third panel, changed  “nearby tissue” to “visceral peritoneum”.</Comment><Comment audience="Internal" date="2018-05-14" user="yousufzaimg">Added the label "Visceral peritoneum" to the layer of tissue in the main figure and to the left panel.</Comment><Comment audience="Internal" date="2018-04-16" user="kuhlmanna">In the first and second insets, removed tiny picture of the inside of the colon with cancer growing in it and added purple shading.</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2011-10-12" user="anjamison">Removed shadows on lymph nodes without cancer; extended the boxes at the bottom to show more of the lumen of the bowel with a larger tumor growing into it; in panels 1 and 3, moved up the middle lymph node so the tumor doesn’t touch it.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038379">stage III colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIC colorectal cancer; drawing shows a cross-section of the colon/rectum and a three-panel inset. Each panel shows the layers of the colon/rectum wall: the mucosa, submucosa, muscle layers, and serosa. Also shown are a blood vessel and lymph nodes. The first panel shows cancer in all layers, in 4 lymph nodes, and in the visceral peritoneum. The second panel shows cancer in all layers and in 7 lymph nodes. The third panel shows cancer in all layers, in 2 lymph nodes, and spreading to nearby organs.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIC colorectal cancer; drawing shows a cross-section of the colon/rectum and a three-panel inset. Each panel shows the layers of the colon/rectum wall: the mucosa, submucosa, muscle layers, and serosa. Also shown are a blood vessel and lymph nodes. The first panel shows cancer in all layers, in 4 lymph nodes, and in the visceral peritoneum. The second panel shows cancer in all layers and in 7 lymph nodes. The third panel shows cancer in all layers, in 2 lymph nodes, and spreading to nearby organs.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIC colorectal cancer. Cancer has spread through the serosa of the colon/rectum wall to the visceral peritoneum (tissue that lines the organs in the abdomen). Cancer has spread to four to six nearby lymph nodes; OR cancer has spread through the muscle layer of the colon/rectum wall to the serosa or has spread through the serosa to the visceral peritoneum. Cancer has spread to seven or more nearby lymph nodes; OR cancer has spread through the serosa of the colon/rectal wall to nearby organs. Cancer has spread to one or more nearby lymph nodes or to tissue near the lymph nodes.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIC colorectal cancer. Cancer has spread through the serosa of the colon/rectum wall to the visceral peritoneum (tissue that lines the organs in the abdomen). Cancer has spread to four to six nearby lymph nodes; OR cancer has spread through the muscle layer of the colon/rectum wall to the serosa or has spread through the serosa to the visceral peritoneum. Cancer has spread to seven or more nearby lymph nodes; OR cancer has spread through the serosa of the colon/rectal wall to nearby organs. Cancer has spread to one or more nearby lymph nodes or to tissue near the lymph nodes.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062954">Colon Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045892">stage III colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-05-14" user="yousufzaimg">Updated to ColonCaStageRev3C.12.jpg</Comment><Comment audience="Internal" date="2018-04-16" user="kuhlmanna">Updated to ColonCaStageRev3C.11.jpg</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Updated to ColonCaStageRev3C.10.jpg</Comment><Comment audience="Internal" date="2011-10-12" user="anjamison">Updated to ColonCaStageRev3C.7.jpg</Comment><Comment audience="Internal" date="2011-08-04" user="anjamison">Updated to ColonCaStageRev3C.6.jpg</Comment><Comment>Updated to ColonCaStageRev3C.4.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-29</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added ColonCaStageRev3C.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000714224">Illustration Review Sheet: Colorectal Cancer Stage IIIC</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

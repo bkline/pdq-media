@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>catheter, central venous</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Central Venous Catheter</LabelName><LabelName language="en">Central venous catheter</LabelName><LabelName language="en">Superior vena cava</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Central venous catheter</LabelName><LabelName language="en">Superior vena cava</LabelName><ImageDimensions>
+    <HeightPixels>1638</HeightPixels>
+    <WidthPixels>2048</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2015-06-29</DateCreated>
+   
+   
+   <SourceFilename>CentralVenousCatheter4.jpg</SourceFilename>
+   <Comment audience="Internal" date="2015-06-29" user="kuhlmanna">Removed label inside clamp (in main image and inset) that has a number 5 on it.</Comment><Comment audience="Internal" date="2015-05-04" user="akuhlmann">Added nipple to right side of the body to match the one on the left; made color of catheter in inset match the darker color in the main figure; made the line pointing to the catheter in the inset point to a place where there isn't a vein; moved dressing in inset so that it doesn't cover the clamps and made white border of dressing narrower.</Comment><Comment audience="Internal" date="2015-02-24" user="myousufzai">Changed title to Central Venous Catheter; removed labels “Cuff keeps..place”, “Catheter…chest”, Vein, Right atrium; added label for “Central venous catheter” to both the main figure and the inset; added label for Superior vena cava; made the catheter that is threaded in the vein in the main figure a little darker; in the inset, opened up the clamp on the left line that shows blood in the tubing </Comment><Comment>Rough draft</Comment>
+  </OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>medical device</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Central venous catheter; drawing of a central venous catheter that goes from a vein below the right collarbone to a large vein above the right side of the heart called the superior vena cava. An inset shows a central venous catheter in the right side of the chest with a clear plastic dressing over it.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Central venous catheter. A central venous catheter is a thin, flexible tube that is inserted into a vein, usually below the right collarbone, and guided (threaded) into a large vein above the right side of the heart called the superior vena cava. It is used to give intravenous fluids, blood transfusions, chemotherapy, and other drugs. The catheter is also used for taking blood samples. It may stay in place for weeks or months and helps avoid the need for repeated needle sticks.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045962">central venous access catheter</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-01</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-30</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2015-06-29" user="kuhlmanna">Added CentralVenousCatheter4.jpg</Comment><Comment audience="Internal" date="2015-05-04" user="akuhlmann">Added CentralVenousCatheter3.jpg</Comment><Comment>Added CentralVenousCatheter2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Added ExternalVenousAccessCatheter1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-01-16</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000756802">Sample Illustration: external venous access catheter</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

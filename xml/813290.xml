@@ -1,0 +1,69 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>MEN2 syndrome</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Parts of the Body Affected by MEN2 Syndrome</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Parathyroid glands</LabelName><LabelName language="en">Thyroid gland (back view)</LabelName><LabelName language="en">Adrenal gland</LabelName><LabelName language="en">Adrenal medulla</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-08-09</DateCreated>
+   <SourceFilename>MEN2 SyndromeMale2.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2023-08-10" audience="Internal">Removed the second title MEN2 Syndrome</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Child</Age>
+  <Sex>Male</Sex>
+  <Race>Black or African American</Race>
+  <SkinTone>Type IV – Light brown skin</SkinTone>
+  
+ <DateLastReviewed>2023-08-10</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654716">multiple endocrine neoplasia type 2</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows parts of the body affected by MEN2 syndrome, including the thyroid gland, parathyroid glands, and adrenal gland. There are also two insets: one showing the back view of the thyroid gland with the four pea-sized parathyroid glands, and the other showing the inner part of the adrenal gland called the adrenal medulla.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Multiple endocrine neoplasia 2 (MEN2) syndrome is a rare, inherited disorder that affects the endocrine glands or organs. MEN2 syndrome usually causes thyroid gland, parathyroid gland, or adrenal gland tumors. The tumors may be benign (not cancer) or malignant (cancer).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000702085">MEN2 syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

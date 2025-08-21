@@ -1,0 +1,114 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage III-part 1-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio III (Parte 1)</LabelName><LabelName language="es">a</LabelName><LabelName language="es">El tumor mide más de 4 cm</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Nervios</LabelName><LabelName language="es">c</LabelName><LabelName language="es">d</LabelName><LabelName language="es">Hueso</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3180</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000599856">skin cancer, nonmelanoma stage III (1)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>NonmelanomaStageIIIpart1Spanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio III (Parte 1). En la imagen se observan varias situaciones: a) en un recuadro, se muestra un tumor que mide más de 4 cm, que es casi el tamaño de una nuez. Además, se observa  que el cáncer se disemina a través de la epidermis por: b) el tejido que reviste los nervios debajo de la dermis, c) debajo del tejido subcutáneo, y d) el hueso.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio III (Parte 1). En la imagen se observan varias situaciones: a) en un recuadro, se muestra un tumor que mide más de 4 cm, que es casi el tamaño de una nuez. Además, se observa  que el cáncer se disemina a través de la epidermis por: b) el tejido que reviste los nervios debajo de la dermis, c) debajo del tejido subcutáneo, y d) el hueso.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio III (Parte 1). Se encuentra una de las siguientes situaciones: a) el tumor mide más de 4 cm, b) el cáncer se diseminó al tejido que reviste los nervios debajo de la dermis, c) el cáncer se diseminó debajo del tejido subcutáneo, d) el cáncer se diseminó al hueso y este tiene poco daño. Además, es posible que el cáncer se haya diseminado a un ganglio linfático del mismo lado del cuerpo que el tumor, el ganglio mide 3 cm o menos, y el cáncer no se ha diseminado a través del recubrimiento externo del ganglio linfático (no se muestra).</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de piel no melanoma de cabeza y cuello en estadio III (Parte 1). Se encuentra una de las siguientes situaciones: a) el tumor mide más de 4 cm, b) el cáncer se diseminó al tejido que reviste los nervios debajo de la dermis, c) el cáncer se diseminó debajo del tejido subcutáneo, d) el cáncer se diseminó al hueso y este tiene poco daño. Además, es posible que el cáncer se haya diseminado a un ganglio linfático del mismo lado del cuerpo que el tumor, el ganglio mide 3 cm o menos, y el cáncer no se ha diseminado a través del recubrimiento externo del ganglio linfático (no se muestra).</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256809">Tratamiento del cáncer de piel</Summary><Summary cdr:ref="CDR0000256715">Tratamiento del cáncer de piel</Summary><Glossary cdr:ref="CDR0000368448">stage III nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised caption ready for peer-review</Comment><Comment>Editorial change to match text "y este tiene poco daño" in other documents</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised caption, content description and added HP summary under proposed use</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2020-05-07" user="lansberryic">Caption and content description ready for peer-review</Comment><Comment>Revised image, translation of caption and content description in progress/Use labels text in caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, updates to caption and content description pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels reviewed. Updates to captions and CDs pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, Spanish labels ready for 1st QC</Comment><Comment>Keep style in Spanish as other AJCC media (Parte 1) (Parte 2), as in "cáncer de pulmón", "cáncer de páncreas" and "cáncer de esófago".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-31</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000599856">skin cancer, nonmelanoma stage III (1)</TranslationOf></Media>

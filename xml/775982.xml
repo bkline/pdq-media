@@ -1,0 +1,91 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>magnetic resonance imaging, abdominal, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Imagen por resonancia magnética</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000775532">scan, magnetic resonance imaging, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MRIChild FP IV Spanish3.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent><Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Imagen por resonancia magnética (IRM). Se observa un niño acostado sobre una camilla que se desliza a través de la máquina de IRM, con la que se toma una serie de imágenes detalladas de áreas del interior del cuerpo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Imagen por resonancia magnética (IRM).  El niño se acuesta sobre una camilla que se desliza a través de la máquina de IRM, con la que se toma una serie de imágenes del interior del cuerpo.  La posición del niño en la camilla depende de la parte del cuerpo que se quiere explorar.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000256849">Tratamiento de los tumores extracraneales de células germinativas en la niñez</Summary><Summary cdr:ref="CDR0000579418">Tratamiento del rabdomiosarcoma infantil</Summary><Summary cdr:ref="CDR0000561391">Tratamiento del sarcoma de tejido blando infantil</Summary><Summary cdr:ref="CDR0000583660">Tratamiento del sarcoma de Ewing</Summary><Summary cdr:ref="CDR0000682078">Tratamiento de la histiocitosis de células de Langerhans</Summary><Summary cdr:ref="CDR0000391227">Tratamiento del neuroblastoma</Summary><Summary cdr:ref="CDR0000256851">Tratamiento de los cánceres raros en la niñez</Summary><Summary cdr:ref="CDR0000483772">Tratamiento del tumor de Wilms y otros tumores renales infantiles</Summary>
+       <Summary cdr:ref="CDR0000809686">Hepatoblastoma</Summary><Summary cdr:ref="CDR0000809684">Carcinoma hepatocelular en niños</Summary><Summary cdr:ref="CDR0000809685">Sarcoma embrionario indiferenciado de hígado en niños</Summary><Summary cdr:ref="CDR0000809687">Coriocarcinoma de hígado en lactantes</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent revised label to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment user="lansberryic" audience="Internal" date="2023-02-07">Qc of caption of content description</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to Terese for revision</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2017-09-15" user="saucedol">Editorial change to caption and content description.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-07</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000775532">scan, magnetic resonance imaging, child</TranslationOf></Media>

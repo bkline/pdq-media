@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph system, child, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Tonsils</LabelName><LabelName language="en">Thymus</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Spleen</LabelName><LabelName language="en">Bone marrow</LabelName><ImageDimensions><HeightPixels>3225</HeightPixels>
+    
+    
+   <WidthPixels>3178</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-03-13</DateCreated>
+   
+   
+   <SourceFilename>ChildLymphoidSystemEastAsianGirl2.jpg</SourceFilename><Comment user="yousufzaimg" audience="Internal" date="2023-03-13">Angled the mouth a bit so that the tonsils can be seen more clearly</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-02-28">Changed figure to an Asian female and updated skin tone to FP III; added East Asian facial features</Comment>
+   <Comment>No obvious change from last version.</Comment><Comment>Modified original lymph system illustration to show child's body.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lymph system; drawing shows the tonsils, thymus, spleen, bone marrow, lymph vessels, and lymph nodes.  One inset shows the inside structure of a lymph node and the attached lymph vessels with arrows showing how the lymph (clear, watery fluid) moves into and out of the lymph node. Another inset shows a close up of bone marrow with blood cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The lymph system is part of the body's immune system and is made up of tissues and organs that help protect the body from infection and disease. These include the tonsils, thymus, spleen, bone marrow, lymph vessels, and lymph nodes. Lymph (clear, watery fluid) and lymphocytes (white blood cells) travel through the lymph vessels and into the lymph nodes where the lymphocytes destroy harmful substances. The lymph enters the bloodstream through a large vein near the heart.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-03-27</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" audience="Internal" date="2023-03-13">Updated image to ChildLymphoidSystemEastAsianGirl2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-02-28">Updated to ChildLymphoidSystemEastAsianGirl1.jpg</Comment><Comment audience="Internal" date="2009-09-30" user="rharrison">Updated to ChildLymphoidSystem2.jpg.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-09-23</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-09-04</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-09-04" user="rharrison">Sending to Dr. Gross.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-09-04</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-09-04" user="rharrison">Caption and content taken from adult lymph system image.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-08-28</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

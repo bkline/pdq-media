@@ -1,0 +1,69 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, transrectal - prostate-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Biopsia transrectal</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Aguja</LabelName><LabelName language="es">Sonda de ecografía</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000446226">biopsy, transrectal - prostate</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>TransrectalBiopsySpanish6.jpg</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with new titled image</Comment><Comment>2008-04-10; TransrectalBiopsySpanish2.jpg. Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Biopsia transrectal. En la imagen se observa una vista lateral de la próstata, la vejiga y el recto. También se observa una sonda de ecografía con una aguja que se introduce en el recto para extraer una muestra de tejido de la próstata.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Biopsia transrectal. En la imagen se observa una vista lateral de la próstata, la vejiga y el recto. También se observa una sonda de ecografía con una aguja que se introduce en el recto para extraer una muestra de tejido de la próstata.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Biopsia transrectal. Se introduce una sonda de ecografía en el recto para mostrar dónde se encuentra el tumor.  Después, se introduce una aguja por el recto hasta la próstata para extraer tejido de la próstata.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Biopsia transrectal.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, reviewed caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-05-14" user="lansberryic">Translation QC</Comment><Comment>Revised label, caption and description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels added, image replaced with new title image, HP caption and content description added</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000446226">biopsy, transrectal - prostate</TranslationOf></Media>

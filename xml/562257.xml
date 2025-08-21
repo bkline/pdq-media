@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>eye anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Párpado</LabelName><LabelName language="es">Pupila</LabelName><LabelName language="es">Esclerótica</LabelName><LabelName language="es">Iris</LabelName><LabelName language="es">Retina</LabelName><LabelName language="es">Coroides</LabelName><LabelName language="es">Humor vítreo</LabelName><LabelName language="es">Nervio óptico</LabelName><LabelName language="es">Córnea</LabelName><LabelName language="es">Cristalino</LabelName><LabelName language="es">Cuerpo ciliar</LabelName><ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject><FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000543553">eye anatomy</MediaID></FromCdrMedia>
+    
+    
+   </FromObject>
+   <SourceFilename>EyeAnatomySpanish4.jpg</SourceFilename><Comment audience="Internal" date="2017-01-09" user="saucedol">Linked revised image</Comment><Comment>2008-04-10 EyeSpanish3.jpg Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038817">intraocular melanoma</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000037764">intraocular retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000043733">retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000039197">eye neoplasm</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del ojo; el dibujo de dos paneles muestra la parte interior y exterior del ojo.  El panel de arriba muestra el exterior del ojo con  el párpado, la pupila, la esclerótica y el iris; el panel de abajo muestra el interior del ojo con la córnea, el cristalino, el cuerpo ciliar, la retina, la coroides, el nervio óptico y el humor vítreo.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del ojo; el dibujo de dos paneles muestra la parte interior y exterior del ojo. El panel de arriba muestra el exterior del ojo con el párpado, la pupila, la esclerótica y el iris; el panel de abajo muestra el interior del ojo con la córnea, el cristalino, el cuerpo ciliar, la retina, la coroides, el nervio óptico y el humor vítreo.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del ojo; se muestra el exterior e interior del ojo con el párpado, la pupila, la esclerótica, el iris, la córnea, el cristalino, el cuerpo ciliar, la coroides, la retina, el humor vítreo y el nervio óptico.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía del ojo. </MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000537037">Melanoma ocular uveal: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000448617">Retinoblastoma: Tratamiento</Summary><Glossary cdr:ref="CDR0000350232">intraocular</Glossary>
+ <Glossary cdr:ref="CDR0000269460">intraocular melanoma</Glossary><Glossary cdr:ref="CDR0000444991">eye cancer</Glossary>
+ <Glossary cdr:ref="CDR0000546600">pupil</Glossary><Glossary cdr:ref="CDR0000546599">sclera</Glossary><Glossary cdr:ref="CDR0000534221">iris</Glossary><Glossary cdr:ref="CDR0000440115">retina</Glossary><Glossary cdr:ref="CDR0000534223">choroid</Glossary><Glossary cdr:ref="CDR0000046248">optic nerve</Glossary><Glossary cdr:ref="CDR0000044199">cornea</Glossary><Glossary cdr:ref="CDR0000534222">ciliary body</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-30</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-24</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>HP caption and content description pending translation</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-07</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>2007-09-10 Artist uploaded Spanish-labeled image.</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-08-07 label translation completed. 2007-09-17 caption/content translation completed.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

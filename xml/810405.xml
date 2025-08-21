@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>cervix anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cervix Anatomy</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Internal OS</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">External OS</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Endocervical canal</LabelName><LabelName language="en">Endocervix</LabelName><LabelName language="en">Ectocervix</LabelName><LabelName language="en">Squamo-columnar junction</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3225</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-08-09</DateCreated>
+   <SourceFilename>CervixAnatomySquamoColumnarJunction6b.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-08-10" audience="Internal">Moved the label in the inset  for the squamo-columnar junction up a bit to make a clear connection from the label to the arrows</Comment><Comment user="kuhlmanna" date="2023-07-31" audience="Internal">Adjusted the inset so that both sides of the squamocolumnar junction are shown; this is to mirror the current L side from the anatomical perspective to show the opening for better orientation</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-04-17">Added the label Vagina to the image</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-04-10">Added a pull out shaded area from the cellular box to the original space in the larger anatomy,	flipped the sides of the labels Internal OS and Endocervical Canal, highlighted the purple and red layers of the endocervix and ectocervix layers, pulled the title down a bit so that it’s just above the uterus, faded the fallopian tubes a bit more, and moved  the label of the uterus to the center of the uterus</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-03-13">Focused the image more on the cervical region, with less detail on the rest of the anatomy;  moved the endocervix and ectocervix labels outside of the pullout with lines pointing to the cells in the pullout and to the anatomy areas in the main figure</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-10-11">Included labels for the endocervix, ectocervix, and squamocolumnar junction; and added more detail around the cellular level to show the horizontal differentiation between the layers creating the junction</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing of  the anatomy of the cervix showing the internal OS, endocervical canal, endocervix, ectocervix, and external OS. The uterus and vagina are also shown. There is also a pullout that shows a close up of the squamocolumnar junction (the area where the endocervix and ectocervix meet) and the cells that line the endocervix and ectocervix. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the cervix. The cervix is the lower, narrow end of the uterus that connects the uterus to the vagina. It is made up of the internal OS (the opening between the cervix and the upper part of the uterus), the endocervix (the inner part of the cervix that forms the endocervical canal), the ectocervix (the outer part of the cervix that opens into the vagina) and the external OS (the opening between the cervix and vagina). The area where the endocervix and ectocervix meet is called the squamocolumnar junction, which contains both glandular cells (column-shaped cells that make mucus) from the endocervix and squamous cells (thin, flat cells) from the ectocervix. The squamocolumnar junction is sometimes  referred to as the transformation zone.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000810146">What Is Cervical Cancer?</Summary>
+       <Glossary cdr:ref="CDR0000046133">cervix</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment user="kuhlmanna" date="2023-08-10" audience="Internal">Updated image to CervixAnatomySquamoColumnarJunction6b.jpg </Comment><Comment user="kuhlmanna" date="2023-07-31" audience="Internal">Updated image to CervixAnatomySquamoColumnarJunction FPVI 5.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-03-13">Updated image to CervixAnatomySquamoColumnarJunction FPVI 3.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-10-11">Updated image to FemaleReproAnatomySquamoColumnarJunction FPVI 2</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Reviewed by Larissa Meyer, MD, MPH</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-08-29</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000812184">Illustration Review Sheet: cervix anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

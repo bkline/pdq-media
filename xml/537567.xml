@@ -1,0 +1,124 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIA (1)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IIIA (Parte 1)</LabelName><LabelName language="es">Ganglios linfáticos cancerosos alrededor de la tráquea</LabelName><LabelName language="es">Carina</LabelName><LabelName language="es">Bronquio principal izquierdo</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">El tumor primario mide 5 cm o menos</LabelName><LabelName language="es">5 cm</LabelName><LabelName language="es">Membrana que recubre el pulmón</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Costilla</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Todo el pulmón o una parte de este se desinfló o presenta neumonitis</LabelName><LabelName language="es">c</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000521911">lung cancer, stage IIIA (1)</MediaID></FromCdrMedia></FromObject>
+   <SourceFilename>LungStage3A.Part1Spanish3.jpg</SourceFilename><Comment audience="Internal" date="2010-10-14" user="lsaucedo">Added revised illustration LungStage3A.RevSpanish.jpg</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded LungStage3A.Spanish2.jpg with new copyright information. </Comment><Comment>Spanish file name: LungStage3ASpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IIIA (Parte 1). En la imagen se observan un tumor primario que mide 5 cm o menos (recuadro superior) en el pulmón izquierdo y ganglios linfáticos cancerosos alrededor de la tráquea. También se observa lo siguiente: a) el cáncer se diseminó al bronquio principal izquierdo; b) el cáncer se diseminó a la membrana que recubre el pulmón (recuadro inferior); c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). Además se muestran la carina, la pleura y en el recuadro inferior, una costilla.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIA (Parte 1). En la imagen se observan un tumor primario que mide 5 cm o menos (recuadro superior) en el pulmón izquierdo y ganglios linfáticos cancerosos alrededor de la tráquea. También se observa lo siguiente: a) el cáncer se diseminó al bronquio principal izquierdo; b) el cáncer se diseminó a la membrana que recubre el pulmón (recuadro inferior); c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). Además  se muestran la carina, la pleura y en el recuadro inferior, una costilla.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IIIA (Parte 1). El tumor mide 5 cm o menos y el cáncer se diseminó a los ganglios linfáticos del mismo lado del tórax que el tumor primario. Los ganglios linfáticos cancerosos están alrededor de la tráquea o la aorta (no se muestra), o donde la tráquea se divide para formar los bronquios. Además, se presentan uno o más de los siguientes casos: a) el cáncer se diseminó al bronquio principal, pero no a la carina; b) el cáncer se diseminó a la capa más interna de la membrana que recubre el pulmón; c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIA (Parte 1). El tumor mide 5 cm o menos y el cáncer se diseminó a los ganglios linfáticos del mismo lado del tórax que el tumor primario. Los ganglios linfáticos cancerosos están alrededor de la tráquea o la aorta (no se muestra), o donde la tráquea se divide para formar los bronquios. Además, se presentan uno o más de los siguientes casos: a) el cáncer se diseminó al bronquio principal, pero no a la carina; b) el cáncer se diseminó a la capa más interna de la membrana que recubre el pulmón; c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045367">stage IIIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to Terese to incorporate diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-08-01" user="saucedol">Replaced image.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and descriptions</Comment>
+       <Comment audience="Internal" date="2019-07-19" user="adlerm2">Check image for line running into text on label "Bronquio principal izquierdo." Suggest shifting text to the left or moving down "principal" to the next line. Please don't shorten line because it is hard to see.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd revised Pat caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised illustration added, labels, caption and contente description revised.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd revised labels, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revisions to labels, caption and content description </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-01-25 Spanish labels added to images; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-01-08</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-02-20 captions and content descriptions completed; mm 2007-01-18 Label translations completed; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000521911">lung cancer, stage IIIA (1)</TranslationOf></Media>

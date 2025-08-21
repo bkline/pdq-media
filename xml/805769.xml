@@ -1,0 +1,79 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>MEN syndromes-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes del cuerpo afectadas por los síndromes de NEM</LabelName><LabelName language="es">Síndrome de NEM1</LabelName><LabelName language="es">Hipófisis</LabelName><LabelName language="es">Glándulas paratiroideas</LabelName><LabelName language="es">Glándula tiroidea (vista posterior)</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Síndrome de NEM2</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Glándula suprarrenal</LabelName><LabelName language="es">Médula suprarrenal</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2430</HeightPixels>
+    <WidthPixels>3030</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource><DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000805085">MEN syndromes</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MENSyndromesSpanish.jpeg</SourceFilename>
+  </DerivedFrom>
+  
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042848">multiple endocrine neoplasia</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Partes del cuerpo afectadas por los síndromes de neoplasia endocrina múltiple (NEM);  la imagen de la izquierda  muestra las partes del cuerpo afectadas por el síndrome de NEM1, incluso la hipófisis, las glándulas paratiroideas y el páncreas.  En un recuadro se muestra la vista posterior de la glándula tiroidea y las cuatro glándulas paratiroideas del tamaño de una arveja.  La imagen de la derecha muestra las partes del cuerpo afectadas por el síndrome de NEM2, incluso la glándula tiroidea, las glándulas paratiroideas y la glándula suprarrenal.  En otro recuadro se muestra la médula suprarrenal (parte interna) de la glándula suprarrenal.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los síndromes de neoplasia endocrina múltiple (NEM) son trastornos hereditarios raros que afectan las glándulas endocrinas  y los órganos.  Hay varios tipos de síndromes de NEM y cada tipo causa distintas afecciones o cánceres.  Los dos tipos principales de síndromes de NEM son NEM1 y NEM2.   Por lo general, el síndrome de NEM1 causa tumores en la hipófisis, las glándulas paratiroideas o el páncreas.  El síndrome de NEM2 por lo general causa tumores en la glándula tiroidea, las glándulas paratiroideas o la glándula suprarrenal.  Los tumores a veces son benignos (no cancerosos) o malignos (cancerosos).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800622">Tratamiento de los síndromes de neoplasia endocrina múltiple infantiles</Summary>
+  <Glossary cdr:ref="CDR0000563964">MEN syndrome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-08-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-08-03</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>QC Spanish caption and content. En el Manual se acordó usar imagen para Drawing, illustration, picture</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-08-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image, translated caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-26</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000805085">MEN syndromes</TranslationOf></Media>

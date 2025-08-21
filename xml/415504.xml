@@ -1,0 +1,53 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colonoscopy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Colonoscopy</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Colonoscope</LabelName><LabelName language="en">Anus</LabelName><ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>2583</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-01-31</DateCreated><SourceFilename>ColonoscopyFP III.1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Darkened skin tone</Comment><Comment audience="Internal" date="2012-08-03" user="anjamison">Made figure look more like a man.</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Added nipples to indicate the front of the person; moved title from the inset to the top of the image.</Comment><Comment>Added new copyright information and label names. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Colonoscopy; drawing shows a colonoscope inserted through the anus and rectum and into the colon.  An inset shows a patient lying on a  table having a colonoscopy.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Colonoscopy.  A thin, lighted tube is inserted through the anus and rectum and into the colon to look for abnormal areas.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Updated image to ColonoscopyFP III.1.jpg</Comment><Comment audience="Internal" date="2012-08-03" user="anjamison">Updated to Colonoscopy7.jpg</Comment><Comment>Updated to Colonoscopy6.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

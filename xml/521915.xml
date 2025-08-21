@@ -1,0 +1,128 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIB (1)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIB Lung Cancer (1)</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Carina</LabelName><LabelName language="en">Left main bronchus</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Part or all of the lung has collapsed or has pneumonitis</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Primary tumor is 5 cm or smaller</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">Membrane covering the lung</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Lung</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-07-10</DateCreated>
+   
+   
+   <SourceFilename>LungStage3BPart1 FemaleHispanicLatinoFP III 2.jpg</SourceFilename><Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Made the figure's face more defined and faded the L scapula</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-06-27">Diversity updates: Updated skin tone to Fitzpatrick Type III and added facial features of an Hispanic/Latino female</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Revised name credit</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Removed the letters “a” and “b” from their current locations and changed the letter “c” to an “a”, “d” to a “b”, and “e” to a “c”.</Comment><Comment audience="Internal" date="2018-12-06" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment>
+   
+  <Comment audience="Internal" date="2010-09-17" user="anjamison">Replaced "(part 1)" with "(1)".</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038939">stage IIIB non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIB lung cancer (1); drawing shows a primary tumor (5 cm or smaller) in the left lung and cancer in lymph nodes above the collarbone on the same side of the chest as the primary tumor and in lymph nodes on the opposite side of the chest as the primary tumor. Also shown is cancer that has spread to (a) the left main bronchus and (b) the membrane covering the lung. Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina, pleura, and a rib (inset) are also shown.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIB lung cancer (1); drawing shows a primary tumor (5 cm or smaller) in the left lung and cancer in lymph nodes above the collarbone on the same side of the chest as the primary tumor and in lymph nodes on the opposite side of the chest as the primary tumor. Also shown is cancer that has spread to (a) the left main bronchus and (b) the membrane covering the lung. Also shown is (c) part or all of the lung has collapsed or has pneumonitis (inflammation). The carina, pleura, and a rib (inset) are also shown.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIB lung cancer (1). The primary tumor is 5 centimeters or smaller and cancer has spread to lymph nodes above the collarbone on the same side of the chest as the primary tumor or to any lymph nodes on the opposite side of the chest as the primary tumor. Also, one or more of the following may be found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIB lung cancer (1). The primary tumor is 5 centimeters or smaller and cancer has spread to lymph nodes above the collarbone on the same side of the chest as the primary tumor or to any lymph nodes on the opposite side of the chest as the primary tumor. Also, one or more of the following may be found: (a) cancer has spread to the main bronchus, but has not spread to the carina; and/or (b) cancer has spread to the inner membrane that covers the lung; and/or (c) part of the lung or the whole lung has collapsed or has pneumonitis (inflammation of the lung).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000682421">stage IIIB non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Updated to LungStage3BPart1 FemaleHispanicLatinoFP III.2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-06-27">Updated to LungStage3BPart1 FemaleHispanicLatinoFP III 1.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage3BPart1Rev5.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage3BPart1Rev3.jpg</Comment><Comment>Updated to LungStage3BaRev2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Changes to caption only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added Supp Info Doc for revisions to stage IIIB part 1.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-02-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Reviewer comments: I would suggest that changing spread to invaded as to describe tumor involvement of the heart (consider lining of heart/pericardium) and other intrathoracic structures.  Need to describe malignant pleural effusion which also is classifier for 3B</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-12-19</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy><Comment audience="Internal" date="2010-03-18" user="dbuchhagen">Added HP caption.</Comment><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP cont desc for pilot project.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-12-06</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>draft sent to OCCM 2006-12-13; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-10-27</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-03-12 final image; mm 2006-11-30 third draft; mm 2006-10-27 second draft</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-10-20</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000798322">Illustration Review Sheet: non-small cell lung cancer stage IIIB (1)</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000682122">Sample illustration: NSCLC stage IIIB part 1</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000538092">Illustration Review Sheet: NSCLC Stage IIIB</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments></Media>

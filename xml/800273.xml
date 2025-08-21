@@ -1,0 +1,60 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mucosal neuroma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>279</HeightPixels>
+    <WidthPixels>420</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Edward Cowen, MD, MHSc</Creator>
+   <DateCreated>2019-12-20</DateCreated>
+   <SourceFilename>mucosal neuroma.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-01-02" user="kuhlmanna">Permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000654716">multiple endocrine neoplasia type 2</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph showing the tongue of an individual with multiple endocrine neoplasia type 2B. The tongue is covered with white irregularly shaped lesions.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Mucosal neuromas are benign tumors of nerve tissue that are a characteristic feature of multiple endocrine neoplasia type 2B (also known as MEN3), a hereditary syndrome associated with the development of medullary thyroid cancer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062890">Genetics of Endocrine and Neuroendocrine Neoplasias</Summary>
+  <Glossary cdr:ref="CDR0000800264">mucosal neuroma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the Content Description and Caption (image has no labels)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-12-20</ProcessingStatusDate>
+   <EnteredBy>2020-01-02</EnteredBy>
+   <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

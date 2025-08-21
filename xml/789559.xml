@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>CRC testing strategy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>PDQ Cancer Genetics Editorial Board</Creator>
+   <SourcePublication>Image adapted from Geiersbach KB, Samowitz WS. Microsatellite instability and cancer. Arch Pathol Lab Med 135(10):1269-77, 2011</SourcePublication><DateCreated>2017-06-21</DateCreated>
+   <SourceFilename>Tumor Testing Algorithm.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <PermissionResponse>Permission Granted</PermissionResponse><PermissionResponseDate>2017-07-19</PermissionResponseDate><PublisherPermissionText>Adapted from Geiersbach KB, Samowitz WS. Microsatellite instability and cancer. Arch Pathol Lab Med 135(10):1269-77, 2011</PublisherPermissionText><SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    </PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039585">colorectal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Flowchart showing a multi-step process for evaluating an individual with colorectal cancer for Lynch syndrome.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">A proposed strategy to evaluate individuals with colorectal cancer for Lynch syndrome based on immunohistochemical tumor testing results. Adapted from Geiersbach KB, Samowitz WS. Microsatellite instability and cancer. Arch Pathol Lab Med 135(10):1269-77, 2011.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062863">Genetics of Colorectal Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-07-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-07-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-06-21</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000789987">Permission: CRC testing strategy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

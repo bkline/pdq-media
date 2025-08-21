@@ -1,0 +1,146 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>liver PRETEXT and POSTTEXT  III for HP-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de hígado en el grupo III de PRETEXT y POSTTEXT</LabelName><LabelName language="es">Cáncer en tres secciones del hígado y una sección sin cáncer</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Sección posterior derecha</LabelName><LabelName language="es">Sección anterior derecha</LabelName><LabelName language="es">Sección medial izquierda</LabelName><LabelName language="es">Vena porta</LabelName><LabelName language="es">Sección lateral izquierda</LabelName><LabelName language="es">Venas hepáticas</LabelName><LabelName language="es">Vena cava</LabelName><LabelName language="es">O</LabelName><LabelName language="es">Cáncer en dos secciones del hígado y dos secciones no adyacentes sin cáncer</LabelName><ImageDimensions>
+    <HeightPixels>3030</HeightPixels>
+    <WidthPixels>3240</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000671196">Liver PRETEXT and POSTTEXT III for HP</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>PretextPosttext3HPSpanish5.jpg</SourceFilename><Comment user="saucedol" audience="Internal" date="2023-02-03">Revised label. Changed Sección media izquierda TO sección medial izquierda</Comment><Comment audience="Internal" date="2015-06-12" user="saucedol">Replaced image as per changes to English version</Comment><Comment audience="Internal" date="2012-08-20" user="lsaucedo">Replace "segmento" for "sector"</Comment><Comment audience="Internal" date="2010-09-03" user="lsaucedo">2010-09-03 Added PRETEXT3Spanish.jpeg.</Comment></DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038968">liver and intrahepatic biliary tract cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Cáncer de hígado en el grupo III de PRETEXT y POSTTEXT. En la imagen se observan 7 hígados. Las líneas punteadas dividen cada hígado en 4  secciones verticales de casi el mismo tamaño. En el primer hígado, el cáncer se encuentra en 3 secciones de la izquierda. En el segundo hígado, el cáncer se encuentra en las 2 secciones de la izquierda y en la sección extrema derecha. En el tercer hígado, el cáncer se encuentra en la sección extrema izquierda y en las 2 secciones de la derecha. En el cuarto hígado, el cáncer se encuentra en 3 secciones de la derecha. En el quinto hígado, el cáncer se encuentra en las 2 secciones del medio. En el sexto hígado, el cáncer se encuentra en la sección extrema izquierda y en la segunda sección desde la derecha. En el séptimo hígado, el cáncer se encuentra en la sección extrema derecha y en la segunda sección desde la izquierda.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Cáncer de hígado en el grupo III de PRETEXT y POSTTEXT. Se presenta una de las siguientes situaciones: el cáncer se encuentra en 3 secciones del hígado y hay 1 sección sin cáncer; el cáncer se encuentra en  2 secciones del hígado y hay 2 secciones no adyacentes sin cáncer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256692">Tratamiento del cáncer de hígado infantil</Summary>
+  
+ <Glossary cdr:ref="CDR0000044242">liver cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Update label from "sección media izquierda" to "sección medial izquierda" because is the name used in anatomical publications in Spanish. In DTM "medial [ingl. medial]
+
+1  adj. Situado cerca de la línea media o del plano sagital medio. Generalmente por contraposición a → lateral". En este caso esta sección es medial y la otra es lateral.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-15</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised new image, updated translation of content and caption description, pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-03-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised with Isabel and decided that "Cáncer de hígado" was more appropriate.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised ES labels per updates in English</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-26</ProcessingStatusDate>
+        <EnteredBy>vimasduch</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>
+Replaced "segmento" for "sector" as per OCCM</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-03</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-08-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Caption and content description translations pending</Comment>
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000671196">Liver PRETEXT and POSTTEXT III for HP</TranslationOf></Media>

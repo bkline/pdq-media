@@ -1,0 +1,28 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+  <MediaTitle>severe acute respiratory syndrome coronavirus 2-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>5</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2020-08-14</DateCreated>
+      <SourceFilename>Week_136/801479_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "coronavirus del síndrome respiratorio agudo grave de tipo 2"</ContentDescription>
+    </ContentDescriptions>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000801479">severe acute respiratory syndrome coronavirus 2;coronavirus del síndrome respiratorio agudo grave de tipo 2 coronavirus 2 del síndrome respiratorio agudo grave nuevo coronavirus de 2019 virus de la covid-19 [es]</Glossary>
+  </ProposedUse>
+</Media>

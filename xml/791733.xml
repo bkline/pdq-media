@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Vascular Tumors - Ma Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">B</LabelName><LabelName language="en">C</LabelName><LabelName language="en">D</LabelName><ImageDimensions>
+    <HeightPixels>796</HeightPixels>
+    <WidthPixels>1064</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Pediatric Dermatology</Creator>
+   <SourcePublication>Ma, E.H., Robertson, S.J., Chow, C.W., Bekhor, P.S., Infantile Hemangioma with Minimal or Arrested Growth: Further Observations on Clinical and Histopathologic Findings of this Unique but Underrecognized Entity. Pediatric Dermatology, Volume 34 (Issue 1), Pages 64–71, 2017. </SourcePublication><DateCreated>2017-12-28</DateCreated>
+   <SourceFilename>Ma Figure 2 JPEG for Ch Vascular Tumors 12-28-17.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-01-25" user="kuhlmanna">Image approved by Board and copyright  permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2018-01-25</PermissionResponseDate>
+    
+    <PublisherPermissionText>Ma, E. H., Robertson, S. J., Chow, C. W., and Bekhor, P. S. (2017), Infantile Hemangioma with Minimal or Arrested Growth: Further Observations on Clinical and Histopathologic Findings of this Unique but Underrecognized Entity. Pediatr Dermatol, 34: 64–71. doi:10.1111/pde.13022. Used with permission.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000791732">Infantile Hemangioma with Minimal or Arrested Growth: Further Observations on Clinical and Histopathologic Findings of this Unique but Underrecognized Entity.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000665617">infantile hemangioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photographs showing (A) presentation and (B) resolution of an infantile hemangioma in  patient 4 (upper left and  right photos), and (C) presentation and (D) resolution of an infantile hemangioma in  patient 5 (bottom left and right photos). </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Patient 4 at (A) presentation and (B) resolution. Patient 5 at (C) presentation and (D) resolution. Ma, E. H., Robertson, S. J., Chow, C. W., and Bekhor, P. S. (2017), Infantile Hemangioma with Minimal or Arrested Growth: Further Observations on Clinical and Histopathologic Findings of this Unique but Underrecognized Entity. Pediatr Dermatol, 34: 64–71. doi:10.1111/pde.13022. Used with permission.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-25</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-12-28</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792050">Ma_Ch Vascular Tumors_CopyrightPermissions_2018-01-25;Copyright permission</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

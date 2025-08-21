@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>kidney cancer stage IV</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV Kidney Cancer</LabelName><LabelName language="en">Right adrenal gland</LabelName><LabelName language="en">Right kidney</LabelName><LabelName language="en">Left adrenal gland</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Left kidney</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">b Spread to other parts of the body</LabelName><LabelName language="en">Brain</LabelName><LabelName language="en">Distant lymph nodes</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Adrenal gland</LabelName><LabelName language="en">Kidney</LabelName><LabelName language="en">Bone</LabelName><ImageDimensions><HeightPixels>2400</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2023-07-31</DateCreated><SourceFilename>KidneyCancerStage IV FP IV.2.jpg</SourceFilename><Comment user="kuhlmanna" date="2023-07-31" audience="Internal">Added lines from the distant lymph nodes label pointing to the lymph nodes in the neck</Comment><Comment user="kuhlmanna" date="2023-06-29" audience="Internal">Updated skin tone to FP IV; changed the figure in the inset to an older American Indian/Alaskan Native male</Comment><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Removed the label for Ureter</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Labeled the Left and Right adrenal glands; In inset, showed lymph nodes in the neck area, and labeled them “Distant lymph nodes”</Comment><Comment audience="Internal" date="2018-01-10" user="kuhlmanna">AJCC 8th edition updates added</Comment><Comment audience="Internal" date="2017-08-15" user="kuhlmanna">Made lymph nodes smaller, "normal size", in main figure</Comment><Comment audience="Internal" date="2017-08-07" user="kuhlmanna">Added the labels "Left kidney" to main figure and "Adrenal gland" to inset</Comment><Comment audience="Internal" date="2017-07-24" user="yousufzaimg">Removed cancer from the lymph nodes </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>American Indian or Alaskan Native</Race><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2023-07-31</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043693">stage IV renal cell cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV kidney cancer; drawing shows cancer that has spread beyond the layer of fatty tissue around the left kidney to a) the adrenal gland above the left kidney. Also shown are the lymph nodes, right adrenal gland, and right kidney. An inset shows b) other parts of the body where kidney cancer may spread, including the brain, lung, liver, adrenal gland, bone, and distant lymph nodes. </ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IV kidney cancer; drawing shows cancer that has spread beyond the layer of fatty tissue around the left kidney to a) the adrenal gland above the left kidney. Also shown are the lymph nodes, right adrenal gland, and right kidney. An inset shows b) other parts of the body where kidney cancer may spread, including the brain, lung, liver, adrenal gland, bone, and distant lymph nodes. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV kidney cancer. Cancer has spread a) beyond the layer of fatty tissue around the kidney and may have spread into the adrenal gland above the kidney with cancer or to nearby lymph nodes, or b) to other parts of the body, such as the brain, lung, liver, adrenal gland, bone, or distant lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IV kidney cancer. Cancer has spread a) beyond the layer of fatty tissue around the kidney and may have spread into the adrenal gland above the kidney with cancer or to nearby lymph nodes, or b) to other parts of the body, such as the brain, lung, liver, adrenal gland, bone, or distant lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000276462">Renal Cell Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046170">stage IV kidney cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2023-07-31" audience="Internal">Updated image to KidneyCancerStage IV FP IV.2.jpg</Comment><Comment user="kuhlmanna" date="2023-06-29" audience="Internal">Updated image to KidneyCancerStage IV FP IV.1.jpg</Comment><Comment audience="Internal" date="2018-02-09" user="yousufzaimg">Added KidneyCancerStage4.7.jpg</Comment><Comment audience="Internal" date="2018-02-05" user="yousufzaimg">Added KidneyCancerStage4.6.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-05-24</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000789095">Sample Illustration: kidney cancer staging</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000791819">Illustration Review Sheet: Stage IV Kidney Cancer</SupplementaryInfoLink></RelatedDocuments></Media>

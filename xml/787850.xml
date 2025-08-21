@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin, basal cell and squamous cell, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de la piel</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName><LabelName language="es">Folículo piloso</LabelName><LabelName language="es">Glándula sudorípara</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Nervio</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Glándula sebácea</LabelName><LabelName language="es">Capa de células basales</LabelName><LabelName language="es">Capa de células escamosas</LabelName><LabelName language="es">Tallo del pelo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2523</HeightPixels>
+    <WidthPixels>3180</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource><DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000787343">skin, basal cell and squamous cell, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  </DerivedFrom>
+  
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="es">Anatomía de la piel; el dibujo muestra la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis y el tejido subcutáneo. También se muestran los tallos del pelo, los folículos pilosos, las glándulas sebáceas, los vasos linfáticos, los nervios, el tejido graso, las venas, las arterias y las glándulas sudoríparas.</ContentDescription>
+   <ContentDescription audience="Health_professionals" language="es">Anatomía de la piel; el dibujo muestra la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis y el tejido subcutáneo. También se muestran los tallos del pelo, los folículos pilosos, las glándulas sebáceas, los vasos linfáticos, los nervios, el tejido graso, las venas, las arterias y las glándulas sudoríparas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions><MediaCaption audience="Patients" language="es">Anatomía de la piel, se muestra la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis, el tejido subcutáneo y otras partes de la piel.</MediaCaption>
+   <MediaCaption audience="Health_professionals" language="es">Anatomía de la piel, se muestra la epidermis (incluso la capa de células escamosas y la capa de células basales), la dermis, el tejido subcutáneo y otras partes de la piel.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256715">Tratamiento del cáncer de piel</Summary>
+  
+ <Glossary cdr:ref="CDR0000046516">basal cell</Glossary><Glossary cdr:ref="CDR0000046515">basal cell carcinoma</Glossary><Glossary cdr:ref="CDR0000445084">skin cancer</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Caption and Content description QCd and added glossary terms under Proposed use.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2017-03-24" user="lansberryic">Spa Cont. Descri. and Caption/ pending QC</Comment><Comment>Added Spa media file/ pending Spa Cont. Descr, and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated labels QCd</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-22</ProcessingStatusDate>
+        
+        <EnteredBy>lansberryic</EnteredBy><Comment>First draft. Labels translated, pending QC</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

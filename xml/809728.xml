@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+  
+ <MediaTitle>Childhood Extracranial Germ Cell Tumor  - Incidence Graphs-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tumores extracraneales y extragonadales de células germinativas</LabelName><LabelName language="es">Tasa por 1 000 000</LabelName><LabelName language="es">0</LabelName><LabelName language="es">5,0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">15</LabelName><LabelName language="es">20</LabelName><LabelName language="es">25</LabelName><LabelName language="es">Edad de diagnóstico</LabelName><LabelName language="es">&lt;1</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">3</LabelName><LabelName language="es">4</LabelName><LabelName language="es">5</LabelName><LabelName language="es">6</LabelName><LabelName language="es">7</LabelName><LabelName language="es">8</LabelName><LabelName language="es">9</LabelName><LabelName language="es">10</LabelName><LabelName language="es">11</LabelName><LabelName language="es">12</LabelName><LabelName language="es">13</LabelName><LabelName language="es">14</LabelName><LabelName language="es">15</LabelName><LabelName language="es">16</LabelName><LabelName language="es">17</LabelName><LabelName language="es">18</LabelName><LabelName language="es">19</LabelName><LabelName language="es">Tumores gonadales de células germinativas</LabelName><LabelName language="es">Tasa por 1 000 000</LabelName><LabelName language="es">0</LabelName><LabelName language="es">10</LabelName><LabelName language="es">20</LabelName><LabelName language="es">30</LabelName><LabelName language="es">40</LabelName><LabelName language="es">50</LabelName><LabelName language="es">60</LabelName><LabelName language="es">70</LabelName><LabelName language="es">80</LabelName><LabelName language="es">Edad de diagnóstico</LabelName><LabelName language="es">&lt;1</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">3</LabelName><LabelName language="es">4</LabelName><LabelName language="es">5</LabelName><LabelName language="es">6</LabelName><LabelName language="es">7</LabelName><LabelName language="es">8</LabelName><LabelName language="es">9</LabelName><LabelName language="es">10</LabelName><LabelName language="es">11</LabelName><LabelName language="es">12</LabelName><LabelName language="es">13</LabelName><LabelName language="es">14</LabelName><LabelName language="es">15</LabelName><LabelName language="es">16</LabelName><LabelName language="es">17</LabelName><LabelName language="es">18</LabelName><LabelName language="es">19</LabelName><ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000809649">Childhood Extracranial Germ Cell Tumor  - Incidence Graphs</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Gonadal GTC Incidence GraphsSpanish4.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis><Diagnosis cdr:ref="CDR0000043497">childhood extragonadal germ cell tumor</Diagnosis><Diagnosis cdr:ref="CDR0000553623">childhood gonadal germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En la imagen se observan   dos gráficos con los perfiles de incidencia por edad de los tumores extracraneales y extragonadales de células germinativas (gráfico de la izquierda) y de los tumores gonadales de células germinativas (gráfico de la derecha). Los hombres se representan con triángulos azules y las mujeres con triángulos verdes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Perfiles de incidencia por edad de los tumores extracraneales y extragonadales de células germinativas (gráfico de la izquierda) y de los tumores gonadales de células germinativas (gráfico de la derecha). Los hombres se representan con triángulos azules y las mujeres con triángulos verdes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256755">Tratamiento de los tumores extracraneales de células germinativas en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC of caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content. descrp. In the image consider revision of the location of tumor names labels to make them even if possible.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-06-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-23</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Only labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of labels, pending QC</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000809649">Childhood Extracranial Germ Cell Tumor  - Incidence Graphs</TranslationOf></Media>

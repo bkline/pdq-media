@@ -1,0 +1,57 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph system, female, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lymphatic System</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Tonsils</LabelName><LabelName language="en">Thymus</LabelName><LabelName language="en">Spleen</LabelName><LabelName language="en">Small intestine (one site of mucosal-associated lymphoid tissue)</LabelName><LabelName language="en">Bone marrow</LabelName><ImageDimensions>
+    <HeightPixels>3120</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-03-08</DateCreated>
+   <SourceFilename>Lymphatic System Female3.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-03-11" audience="Internal">Added the hyphen to the label Small intestine (one site of mucosal-associated lymphoid tissue)</Comment><Comment user="yousufzaimg" date="2024-03-05" audience="Internal">Kept the intestine/appendix where it is but moved the label to the right side of the figure and changed the label to say “Small intestine (one site of mucosal associated lymphoid tissue)”                                                                                                                         </Comment><Comment user="yousufzaimg" date="2024-02-05" audience="Internal">Added the lower half of the body to the figure and added the lymphatic system in the legs</Comment><Comment audience="Internal" date="2010-01-22" user="dbuchhagen">Mouth lightened slightly.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2024-02-06</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000041429">lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Lymphatic system; drawing shows the lymph vessels and lymph organs, including the lymph nodes, tonsils, thymus, spleen, and bone marrow.  Also shown is the small intestine (one site of mucosal-associated lymphoid tissue). There are also two pullouts: one showing a close up of the inside structure of a lymph node and the attached artery, vein, and lymph vessels with arrows showing how the lymph (clear, watery fluid) moves into and out of the lymph node, and another showing a close up of bone marrow with blood cells.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Lymphatic system; drawing shows the lymph vessels and lymph organs, including the lymph nodes, tonsils, thymus, spleen, and bone marrow.  Also shown is the small intestine (one site of mucosal-associated lymphoid tissue). There are also two pullouts: one showing a close up of the inside structure of a lymph node and the attached artery, vein, and lymph vessels with arrows showing how the lymph (clear, watery fluid) moves into and out of the lymph node, and another showing a close up of bone marrow with blood cells.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The lymph system is part of the body's immune system and is made up of tissues and organs that help protect the body from infection and disease. These include the tonsils, thymus, spleen, bone marrow, lymph vessels, and lymph nodes. There is also lymph tissue in many other parts of the body, including the small intestine. Lymph (clear, watery fluid) and lymphocytes (white blood cells) travel through the lymph vessels and into the lymph nodes where the lymphocytes destroy harmful substances. The lymph enters the bloodstream through a large vein near the heart.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">The lymph system is part of the body's immune system and is made up of tissues and organs that help protect the body from infection and disease. These include the tonsils, thymus, spleen, bone marrow, lymph vessels, and lymph nodes. There is also lymph tissue in many other parts of the body, including the small intestine. Lymph (clear, watery fluid) and lymphocytes (white blood cells) travel through the lymph vessels and into the lymph nodes where the lymphocytes destroy harmful substances. The lymph enters the bloodstream through a large vein near the heart.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+ <Glossary cdr:ref="CDR0000793442">lymph system</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-03-05</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" date="2024-03-05" audience="Internal">Updated image to Lymphatic System Female2.jpg</Comment><Comment user="yousufzaimg" date="2024-02-05" audience="Internal">Updated image to LymphaticSystemFemale1.jpg</Comment><Comment audience="Internal" date="2010-01-29" user="dbuchhagen">Updated to FemaleLymphoidSys4.jpg</Comment><Comment>Updated to FemaleLymphoidSystem2.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

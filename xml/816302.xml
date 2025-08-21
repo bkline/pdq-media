@@ -1,0 +1,73 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Childhood Thyroid Cancer - Lebbink ETA Figure 1</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Suspected thyroid nodule</LabelName><LabelName language="en">Neck ultrasound</LabelName><LabelName language="en">Performed by an experienced professional</LabelName><LabelName language="en">Calcitonin</LabelName><LabelName language="en">Calcitonin elevated</LabelName><LabelName language="en">Severely elevated</LabelName><LabelName language="en">Total thyroidectomy</LabelName><LabelName language="en">Mildly elevated</LabelName><LabelName language="en">FNB</LabelName><LabelName language="en">Confirmed nodule</LabelName><LabelName language="en">Malignancy risk</LabelName><LabelName language="en">Suspicious nodule</LabelName><LabelName language="en">No suspicion</LabelName><LabelName language="en">US control after 6-12 months</LabelName><LabelName language="en">TSH</LabelName><LabelName language="en">TSH Suppressed</LabelName><LabelName language="en">Scintigraphy</LabelName><LabelName language="en">Autonomous nodule</LabelName><LabelName language="en">Hemi-thyroidectomy</LabelName><LabelName language="en">Non-diagnostic</LabelName><LabelName language="en">Bethesda 1</LabelName><LabelName language="en">Repeat neck ultrasound and FNB after minimal 3 months</LabelName><LabelName language="en">Benign</LabelName><LabelName language="en">Bethesda 2</LabelName><LabelName language="en">US control after 6-12 months for at least 5 years</LabelName><LabelName language="en">Indifferent</LabelName><LabelName language="en">Bethesda 3 &amp; 4</LabelName><LabelName language="en">Repeat FNB after 6 months</LabelName><LabelName language="en">Suspicious</LabelName><LabelName language="en">Bethesda 5</LabelName><LabelName language="en">Hemi-thyroidectomy</LabelName><LabelName language="en">Malignant</LabelName><LabelName language="en">Bethesda 6</LabelName><LabelName language="en">Total thyroidectomy</LabelName><ImageDimensions>
+    <HeightPixels>1623</HeightPixels><WidthPixels>1776</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>European Thyroid Journal</Creator>
+   <SourcePublication>Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A., &amp; van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146.</SourcePublication><DateCreated>2024-08-05</DateCreated>
+   <SourceFilename>Lebbink ETA Figure 1 8-2-24</SourceFilename>
+  <Comment user="kuhlmanna" date="2024-08-05" audience="Internal">Image licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Open access - copyright permissions not required </Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038801">thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Flowchart showing the initial evaluation, treatment, and follow-up of pediatric thyroid nodules.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Diagrama de flujo que muestra la evaluación inicial, el tratamiento y el seguimiento de los nódulos tiroideos pediátricos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Flowchart showing the initial evaluation, treatment, and follow-up of pediatric thyroid nodules. #The expert panel suggests considering the measurement of serum calcitonin in children suspect of medullary thyroid carcinoma (MTC) based on individual conditions and the preference of the physician (Recommendation 5A). The expert panel suggests that, in selected cases (conditions that suggest MEN2, a positive family history of MEN2, or in the case of bulky thyroid disease), the measurement of calcitonin may be of additional value for early diagnosis of MTC (Recommendation 5B). *Malignancy risk (suspicious vs no suspicion) is based on neck ultrasound characteristics (described in section B2. Risk of malignancy in a thyroid nodule during childhood), history of radiation, and signs of a pre-disposition syndrome. If there is a significant increase in nodule size or the ultrasound characteristics change over time, repeated fine needle biopsy (FNB) should be performed. **Analysis of the presence of other oncogenic drivers and gene fusions (e.g., <GeneName>RET</GeneName>/<GeneName>PTC</GeneName> and <GeneName>NTRK</GeneName> fusions) may be considered in Bethesda 3, 4, or 5 due to increasing awareness that these are also associated with the presence of papillary thyroid carcinoma. In case a <GeneName>BRAF</GeneName> V600E mutation is found, the risk of the thyroid nodule being malignant is high but needs to be confirmed, for example, by frozen section during thyroid surgery. ^Total thyroidectomy after proven presence of MTC. ^^Alternatively, FNB can be performed; in case of differentiated thyroid carcinoma, a total thyroidectomy should be performed. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Credit: Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A., &amp; van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146. Retrieved Aug 2, 2024, from <ExternalRef cdr:xref="https://etj.bioscientifica.com/view/journals/etj/11/6/ETJ-22-0146.xml">https://doi.org/10.1530/ETJ-22-0146</ExternalRef>.</MediaCaption>
+  <MediaCaption language="es" audience="Health_professionals">Diagrama de flujo que muestra la evaluación inicial, el tratamiento y el seguimiento de los nódulos tiroideos pediátricos. #El panel de expertos indica que se considere la medición de calcitonina sérica en niños en los que se sospecha carcinoma medular de tiroides (CMT) en función de las afecciones individuales y la preferencia del médico (recomendación 5A). El panel de expertos indica que, en casos seleccionados (afecciones que indican NEM2, antecedentes familiares positivos para NEM2 o en caso de enfermedad tiroidea voluminosa), la medición de la calcitonina quizás sea de utilidad para el diagnóstico temprano del CMT (recomendación 5B). *El riesgo de neoplasia maligna (sospecha vs. ausencia de sospecha) se basa en las características de la ecografía del cuello (descritas en la sección B2; riesgo de neoplasia maligna de un nódulo tiroideo durante la infancia), antecedentes de radiación y signos de síndrome de predisposición. Si hay un aumento significativo del tamaño del nódulo o las características ecográficas cambian con el tiempo, deben realizarse reiteradas biopsias con aguja fina (FNB). **Es posible considerar el análisis de la presencia de otros iniciadores oncogénicos y fusiones génicas (por ejemplo, fusiones en <GeneName>RET</GeneName>/<GeneName>PTC</GeneName> y  <GeneName>NTRK</GeneName>) en el caso de puntajes Bethesda 3, 4 o  5, debido a la creciente concientización de que también se relacionan con la presencia de carcinoma papilar de tiroides. En el supuesto de que se encuentre una mutación <GeneName>BRAF</GeneName> V600E, el riesgo de que el nódulo tiroideo sea maligno es alto, pero debe confirmarse, por ejemplo, mediante criocorte durante la cirugía tiroidea. ^Tiroidectomía total tras la presencia demostrada de CMT. ^^De forma alternativa, se realiza una FNB; en caso de carcinoma diferenciado de tiroides, es necesaria una tiroidectomía total. Esta obra se distribuye con una licencia Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. Crédito: Lebbink, C. A., Links, T. P., Czarniecka, A., Dias, R. P., Elisei, R., Izatt, L., Krude, H., Lorenz, K., Luster, M., Newbold, K., Piccardo, A., Sobrinho-Simões, M., Takano, T., Paul van Trotsenburg, A. S., Verburg, F. A. y van Santen, H. M. (2022). 2022 European Thyroid Association Guidelines for the management of pediatric thyroid nodules and differentiated thyroid carcinoma. European Thyroid Journal, 11(6), e220146. Información obtenida el 2 de agosto de 2024 de <ExternalRef cdr:xref="https://etj.bioscientifica.com/view/journals/etj/11/6/ETJ-22-0146.xml">https://doi.org/10.1530/ETJ-22-0146</ExternalRef>. Suspected thyroid nodule: sospecha de nódulo tiroideo; neck ultrasound, performed by an experienced professional: ecografía de cuello realizada por un profesional experimentado; calcitonin<Superscript>#</Superscript>: concentración de calcitonina; confirmed nodule: nódulo confirmado; TSH: hormona estimulante de la tiroides; calcitonin elevated: concentración de calcitonina elevada; TSH Supressed: supresión de TSH; malignancy risk*: riesgo de neoplasia maligna*; scintigraphy: centellografía (gammagrafía); severely elevated: muy elevada; midly elevated: medianamente elevada; suspicious nodule: nódulo sospechoso; no suspicion: no sospechoso; autonomous nodule: nódulo autónomo; FNB: biopsia con aguja fina (FNB); US control after 6-12 months: control ecográfico tras 6-12 meses; total thyroidectomy^: tiroidectomía total^; hemi-thyroidectomy^^: hemitiroidectomía^^; non-diagnostic Bethesda 1: no diagnóstico, Bethesda 1; benign Bethesda 2: benigno, Bethesda 2; Indifferent Bethesda 3 &amp; 4**: indiferente, Bethesda 3 y 4**; suspicious Bethesda 5**: sospecha, Bethesda 5**; malignant Bethesda 6: maligno, Bethesda 6; repeat neck ultrasound and FNB after minimal 3 months: repetición de ecografía de cuello y FNB después de un mínimo de 3 meses; US control after 6-12 months for at least 5 years; control ecográfico después de 6-12 meses durante al menos 5 años; repeat FNB after 6 months: repetición de FNB después de 6 meses; hemi-thyroidectomy: hemitiroidectomía; total thyroidectomy: tiroidectomía total.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000790382">Childhood Thyroid Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-23</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>translated only caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the caption and content description; a separate Spanish image will not be created</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-08-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-08-05</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

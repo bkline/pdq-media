@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>infantile hemangioma premonitory mark</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">At birth</LabelName><LabelName language="en">4 months</LabelName><ImageDimensions>
+    <HeightPixels>575</HeightPixels>
+    <WidthPixels>800</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Israel Fernandez-Pineda, M.D., St Jude Children's Research Hospital</Creator>
+   <DateCreated>2017-03-06</DateCreated>
+   <SourceFilename>Premonitory mark.jpg</SourceFilename>
+  <Comment audience="Internal" date="2017-08-31" user="kuhlmanna">Image approved by Board; permissions received.</Comment><Comment audience="Internal" date="2017-03-06" user="kuhlmanna">Image added as draft for summary placeholder - need Board approval and permissions</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2017-03-03</PermissionRequestDate>
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2017-03-10</PermissionResponseDate>
+    
+    
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2017-03-13" user="kuhlmanna">2017-03-10: NCI Works Release form signed</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000779861">childhood vascular neoplasm</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photos showing an infantile hemangioma premonitory mark; the photos on the left show a precursor lesion (faint color with halo). The photos on the right show a hemangioma after proliferation (slightly raised with a brighter central color).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The photos on the left depict the precursor lesion (faint color with halo). The photos on the right depict the hemangioma after proliferation (slightly raised with a brighter central color). Credit: Israel Fernandez-Pineda, M.D.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000774170">Childhood Vascular Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-03-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>NCI Works Release form signed</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-03-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added Premonitory mark.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000787598">Permission: infantile hemangioma premonitory mark</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Cumulative incidence of chronic health conditions</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cumulative Incidence</LabelName><LabelName language="en">Years After Original Cancer Diagnosis</LabelName><LabelName language="en">Grade 1-5</LabelName><LabelName language="en">Grade 3-5</LabelName><LabelName language="en">Total Survivors</LabelName><LabelName language="en">Leukemia</LabelName><LabelName language="en">CNS Tumor</LabelName><LabelName language="en">Hodgkin’s Disease</LabelName><LabelName language="en">Non-Hodgkin’s Lymphoma</LabelName><LabelName language="en">Wilms’ Tumor</LabelName><LabelName language="en">Neuroblastoma</LabelName><LabelName language="en">Soft-Tissue Sarcoma</LabelName><LabelName language="en">Bone Tumor</LabelName><ImageDimensions>
+    <HeightPixels>2226</HeightPixels>
+    <WidthPixels>1688</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>http://www.nejm.org/doi/full/10.1056/NEJMsa060185</Creator>
+   <DateCreated>2012-03-14</DateCreated>
+   <SourceFilename>Journal Figure 10.12.06_Oeffinger.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041381">cancer-related problem/condition</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Late Effects – Cumulative incidence of chronic health conditions; drawing shows graphs of cumulative incidence and severity of chronic disease among survivors of childhood cancer at 1 to 30 years after original cancer diagnosis, for leukemia, CNS tumor, Hodgkin’s disease, non-Hodgkin’s lymphoma, Wilms’ tumor, neuroblastoma, soft-tissue sarcoma, bone tumor, and the total surviving.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 1. Investigators from the Childhood Cancer Survivor Study (CCSS), a retrospective multi-institutional cohort investigation that has been monitoring health outcomes of more than 20,000 long-term childhood cancer survivors for more than 15 years, estimated a cumulative incidence of 73.4% for at least one chronic health problem (Grade 1–5) by 40 years of age among the 10,397 adult participants (mean age, 26.6 years); more than 40% will experience a chronic condition that is severe, life-threatening or fatal (Grade 3–5).  The risk of specific late effects in an individual is dependent upon the type and location of the cancer and therapeutic interventions undertaken to control the cancer. Oeffinger KC, Mertens AC, Sklar CA, et al.: Chronic health conditions in adult survivors of childhood cancer. N Engl J Med 355 (15): 1572-82, 2006. Copyright © 2006 Massachusetts Medical Society.</MediaCaption>
+  </Captions>
+ <Comment audience="Internal" date="2013-02-22" user="anjamison">Deleted double-dashed empty Spanish HP tags to avoid an Alt Tag Violation.</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-02-28</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  <Comment audience="Internal" date="2012-03-14" user="anjamison">Updated to official, high-resolution jpg: Journal Figure 10.12.06_Oeffinger.jpg</Comment><Comment>2012-02-28: Added new image: Oeffinger Figure 1 - Late Effects, Cumulative incidence of chronic health conditions.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

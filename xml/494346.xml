@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mediastinoscopy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Mediastinoscopia</LabelName><LabelName language="es">Mediastinoscopio</LabelName><LabelName language="es">Incisión</LabelName><LabelName language="es">Pulmón derecho</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Pulmón izquierdo</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Mediastinotomía anterior</LabelName><LabelName language="es">Procedimiento de Chamberlain</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2100</HeightPixels><WidthPixels>3060</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000466554">mediastinoscopy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>MediastinoscopySpanish5.jpg</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with new titled image</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded Mediastinoscopy8Spanish.jpg with new copyright information. </Comment><Comment>2006-08-16 Spanish filename Mediastinoscopy7Spanish.jpg; mm  2006-08-16 Spanish filename Mediastinoscopy6Spanish.jpg; mm 2006-07-26 Waiting for English image and Spanish image; mm</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Mediastinoscopia. En la imagen se observa un mediastinoscopio con una lente y una luz. El mediastinoscopio se introduce en el tórax a través de una incisión por encima del esternón. Se observan el pulmón derecho e izquierdo, la tráquea y los ganglios linfáticos. En el recuadro se muestra una mediastinotomía (procedimiento de Chamberlain).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Mediastinoscopia. Se realiza una incisión (corte) por encima del esternón y se introduce un mediastinoscopio en el tórax para determinar si hay áreas anormales entre los pulmones. Un mediastinoscopio es un instrumento delgado en forma de tubo, con una luz y una lente para observar. A veces tiene una herramienta para cortar. Se toman muestras de tejido de los ganglios linfáticos del lado derecho del tórax para observarlas al microscopio y verificar si hay signos de cáncer. En una mediastinotomía anterior (procedimiento de Chamberlain), se hace una incisión junto al esternón para extraer muestras de tejido de los ganglios linfáticos del lado izquierdo del tórax.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Glossary cdr:ref="CDR0000046287">mediastinoscopy</Glossary><Glossary cdr:ref="CDR0000046533">anterior mediastinotomy</Glossary><Glossary cdr:ref="CDR0000044370">Chamberlain procedure</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised label sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC for Spanish changes.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-03-28</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>ALSO revised image label (mediastinoscopia; no accent on "-oscopia").</Comment>
+       <Comment audience="Internal" date="2019-03-28" user="adlerm2">Revised for consistency with tórax and translations of related terminology (mediastinoscopio).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QC pending, image replaced</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-11</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>2006-08-16 artist corrected label typos; mm Spanish-labeled image received 2006-08-15</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-07-03</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2006-08-03 caption and content desc translation completed; mm 2006-07-10 label translation complete </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000466554">mediastinoscopy</TranslationOf></Media>

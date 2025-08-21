@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Cumulative incidence of cardiac disorders</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Congestive heart failure</LabelName><LabelName language="en">No cardiac radiation</LabelName><LabelName language="en">&lt;500 cGy  cardiac radiation</LabelName><LabelName language="en">500 to &lt;1500 cGy  cardiac radiation</LabelName><LabelName language="en">1500 to &lt;3500 cGy  cardiac radiation</LabelName><LabelName language="en">≥3500 cGy  cardiac radiation</LabelName><LabelName language="en">Cumulative incidence (%)</LabelName><LabelName language="en">15</LabelName><LabelName language="en">12</LabelName><LabelName language="en">9</LabelName><LabelName language="en">6</LabelName><LabelName language="en">3</LabelName><LabelName language="en">0</LabelName><LabelName language="en">Myocardial infarction</LabelName><LabelName language="en">Pericardial disease</LabelName><LabelName language="en">Cumulative incidence (%)</LabelName><LabelName language="en">15</LabelName><LabelName language="en">12</LabelName><LabelName language="en">9</LabelName><LabelName language="en">6</LabelName><LabelName language="en">3</LabelName><LabelName language="en">0</LabelName><LabelName language="en">Valvular disease</LabelName><LabelName language="en">Time since diagnosis (years)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><LabelName language="en">Time since diagnosis (years)</LabelName><LabelName language="en">0</LabelName><LabelName language="en">10</LabelName><LabelName language="en">20</LabelName><LabelName language="en">30</LabelName><ImageDimensions>
+    <HeightPixels>2100</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource><Creator>BMJ, open access</Creator>
+   
+   
+   <DateCreated>2011-08-22</DateCreated><SourceFilename>Late Effects Cumulative Incidence Cardiac DisordersENGLISH.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-06-18" user="kuhlmanna">2015-06-18: Added enhanced image from Terese; ak</Comment></OriginalSource>
+ </MediaSource><PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    <PublisherPermissionText>BMJ 2009; 339:b4606. © 2009 by British Medical Journal Publishing Group.
+</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-02-18" user="akuhlmann">2012-02-17: Open access--no permission needed</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Four charts showing cumulative incidence of cardiac disorders among childhood cancer survivors by average cardiac radiation dose. First chart shows cumulative incidence (%) of congestive heart failure over time since diagnosis (years) for five levels of radiation:  no cardiac radiation, less than 500 cGy  cardiac radiation, 500 to less than 1500 cGy  cardiac radiation, 1500 to less than 3500 cGy  cardiac radiation, and  ≥3500 cGy  cardiac radiation. The second, third, and fourth charts show incidence over time for myocardial infarction, pericardial disease, and valvular disease, with the same radiation dosage levels.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cumulative incidence of cardiac disorders among childhood cancer survivors by average cardiac radiation dose. <Emphasis>BMJ</Emphasis> 2009; 339:b4606. © 2009 by British Medical Journal Publishing Group.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Added enhanced image from Terese</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-08-22</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Source: Figure 4 from the Mulrooney paper (PubMed ID: 19996459)</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000726663">Mulrooney_Late Effects_CopyrightPermissions_2012-02-17</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

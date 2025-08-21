@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, Clark levels</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Clark Levels</LabelName><LabelName language="en">Level I</LabelName><LabelName language="en">Level II</LabelName><LabelName language="en">Level III</LabelName><LabelName language="en">Level IV</LabelName><LabelName language="en">Level V</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Papillary dermis</LabelName><LabelName language="en">Papillary-reticular dermal interface</LabelName><LabelName language="en">Reticular dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>1708</HeightPixels>
+    <WidthPixels>3048</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese WInslow</Creator>
+   
+   <DateCreated>2009-04-16</DateCreated>
+   
+   
+   <SourceFilename>ClarkLevelsMelanoma4.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2009-01-12" user="rharrison">Made a gradient of color from the papillary dermis down to where the reticular dermis starts, and then added a dotted line there.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Clark levels of skin cancer; drawing shows skin with five thin lesions of different depths. In the first lesion (Clark Level I), the cancer is in the epidermis only. In the second lesion (Clark Level II), the cancer has begun to spread into the papillary dermis (upper layer of the dermis). In the third lesion (Clark Level III), the cancer has spread through the papillary dermis into the papillary-reticular dermal interface but not into the reticular dermis (lower layer of the dermis). In the fourth lesion (Clark Level IV), the cancer has spread into the reticular dermis. In the fifth lesion (Clark Level V), the cancer has spread into the subcutaneous tissue.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Clark levels of skin cancer. In Clark Level I, the cancer is in the epidermis only. In Clark Level II, the cancer has begun to spread into the papillary dermis (upper layer of the dermis). In Clark Level III, the cancer has spread through the papillary dermis into the papillary-reticular dermal interface but not into the reticular dermis (lower layer of the dermis). In Clark Level IV, the cancer has spread into the reticular dermis. In Clark Level V, the cancer has spread into the subcutaneous tissue.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000630445">Clark levels</Glossary><Glossary cdr:ref="CDR0000630766">Clark level I skin cancer</Glossary><Glossary cdr:ref="CDR0000630768">Clark level II skin cancer</Glossary><Glossary cdr:ref="CDR0000630770">Clark level III skin cancer</Glossary><Glossary cdr:ref="CDR0000630772">Clark level IV skin cancer</Glossary><Glossary cdr:ref="CDR0000630774">Clark level V skin cancer</Glossary></ProposedUse>
+ <DatedAction><ActionDescription>Add to Clark level glossary terms when they are approved and published.</ActionDescription><ActionDate>2009-01-29</ActionDate><Comment audience="Internal" date="2009-01-29" user="rharrison">2009-01-29 action completed; rh.</Comment></DatedAction><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-22</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>2010-11-22: Revised content description and caption per OCCM; aj.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-20</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-03-13</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-03-13" user="rharrison">Reviewer comment: This illustration shows the papillary dermis as very thin and the papillary-reticular interface being rather thick.  The interface is more of a conceptual zone between the two than a defined large space as depicted. Normally it is illustrated as a line or dotted line.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-03-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2009-04-20" user="rharrison">Sending revised version back to Russ Berman.</Comment><Comment>Sent to Russ Berman.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-04-20" user="rharrison">Updated to ClarkLevelsMelanoma4.jpg.</Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to ClarkLevelsMelanoma3.jpg, ready for review.</Comment><Comment audience="Internal" date="2009-01-12" user="rharrison">Updated to ClarkLevelsMelanoma2.jpg.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-12-12</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000638223">Illustration Review Sheet: Clark levels melanoma</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

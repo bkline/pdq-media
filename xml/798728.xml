@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IVA (3)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Carcinoma de células escamosas de esófago en estadio IVA (Parte 3)</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Cáncer en 7 o más ganglios linfáticos cercanos</LabelName><ImageDimensions>
+    <HeightPixels>2670</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000796027">esophageal squamous cell carcinoma stage IVA (3)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EsophagusSquamousStageIVAPart3Spanish2.jpeg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000792021">stage IVA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IVA (Parte 3). En la imagen se observa cáncer en el esófago y en 9 ganglios linfáticos cercanos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IVA (Parte 3). En la imagen se observa cáncer en el esófago y en 9 ganglios linfáticos cercanos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IVA (Parte 3). El cáncer se diseminó a 7 o más ganglios linfáticos cercanos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IVA (Parte 3). El cáncer se diseminó a 7 o más ganglios linfáticos cercanos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary><Glossary cdr:ref="CDR0000720248">stage IV esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment><Comment audience="Internal" date="2019-07-17" user="lansberryic">In Spanish is better to match translation of media title "esophageal squamous cell carcinoma": "carcinoma de células escamosas de esófago" and label "Squamous Cell Cancer of the Esophagus": "carcinoma de células escamosas de esófago". This will work better with both HP and Pat summaries, and also with GTN/GTC.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-15" user="adlerm2">Translated labels; AJCC 8th ed.; added captions and descriptions in proposed markup</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000796027">esophageal squamous cell carcinoma stage IVA (3)</TranslationOf></Media>

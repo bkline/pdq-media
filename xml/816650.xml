@@ -1,0 +1,58 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Ewing Sarcoma: Incidence Graph</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ewing Tumor and Related Sarcomas of Bone </LabelName><LabelName language="en">Incidence Rates by Age at Diagnosis, 2016-2020</LabelName><LabelName language="en">By Sex, All Races</LabelName><LabelName language="en">NCCR Registries, Representing up to 70% of all U.S. Children, Adolescents, and Young Adults</LabelName><LabelName language="en">Legend (Sex)</LabelName><LabelName language="en">Both Sexes</LabelName><LabelName language="en">Rate per 1,000,000</LabelName><LabelName language="en">8.0</LabelName><LabelName language="en">7.0</LabelName><LabelName language="en">6.0</LabelName><LabelName language="en">5.0</LabelName><LabelName language="en">4.0</LabelName><LabelName language="en">3.0</LabelName><LabelName language="en">2.0</LabelName><LabelName language="en">1.0</LabelName><LabelName language="en">0</LabelName><LabelName language="en">Age at Diagnosis</LabelName><LabelName language="en">&lt;1</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">3</LabelName><LabelName language="en">4</LabelName><LabelName language="en">5</LabelName><LabelName language="en">6</LabelName><LabelName language="en">7</LabelName><LabelName language="en">8</LabelName><LabelName language="en">9</LabelName><LabelName language="en">10</LabelName><LabelName language="en">11</LabelName><LabelName language="en">12</LabelName><LabelName language="en">13</LabelName><LabelName language="en">14</LabelName><LabelName language="en">15</LabelName><LabelName language="en">16</LabelName><LabelName language="en">17</LabelName><LabelName language="en">18</LabelName><LabelName language="en">19</LabelName><ImageDimensions>
+    <HeightPixels>1680</HeightPixels><WidthPixels>2160</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow/National Cancer Institute</Creator>
+   <SourcePublication>NCCR*Explorer: An interactive website for NCCR cancer statistics</SourcePublication><DateCreated>2024-09-16</DateCreated>
+   <SourceFilename>EwingSarcomaGraph1.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2024-09-05" audience="Internal">Graph taken from the NCCR/SEER website; permission for use is not needed</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000546979">Ewing sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph showing the incidence rates of Ewing tumor and related sarcomas of bone by age at diagnosis in the NCCR registry from 2016 to 2020.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Incidence Rates of Ewing Tumor and Related Sarcomas of Bone by Age at Diagnosis in the NCCR Registry From 2016 to 2020. Credit: NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. National Cancer Institute; 2023 Sep 7. [updated: 2023 Sep 8; cited 2024 Sep 4]. Available from: <ExternalRef cdr:xref="https://nccrexplorer.ccdi.cancer.gov/">https://nccrexplorer.ccdi.cancer.gov</ExternalRef>.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062841">Ewing Sarcoma and Undifferentiated Small Round Cell Sarcomas of Bone and Soft Tissue Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-09-16</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-09-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-09-16</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment>Updated image to EwingSarcomaGraph1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

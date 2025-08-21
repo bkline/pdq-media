@@ -1,0 +1,60 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>triple-negative breast cancer</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Triple-Negative Breast Cancer</LabelName><LabelName language="en">Breast Cancer Cell</LabelName><LabelName language="en">Estrogen receptor</LabelName><LabelName language="en">Progesterone receptor</LabelName><LabelName language="en">HER2</LabelName><ImageDimensions>
+    <HeightPixels>1800</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-07-17</DateCreated>
+   <SourceFilename>Triple-Negative Breast Cancer1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-07-18" audience="Internal">Changed title to “Triple-Negative Breast Cancer”, labeled the receptors</Comment><Comment user="kuhlmanna" date="2024-05-29" audience="Internal">Added title to image</Comment><Comment>Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing a triple-negative breast cancer cell with the estrogen receptor, progesterone receptor, and HER2 proteins crossed out with a black "X" mark. This means that the breast cancer cell does not have these proteins.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Triple-negative breast cancer is a type of breast cancer in which the cancer cells do not have estrogen receptors, progesterone receptors, or large amounts of HER2/neu protein on their surface.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-22</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy><Comment user="yousufzaimg" date="2024-07-18" audience="Internal">Updated image to Triple-Negative Breast Cancer1.jpg</Comment>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-04-29</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Molecule Markers1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

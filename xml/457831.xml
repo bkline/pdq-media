@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>genitourinary system, male, testicular, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3904</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000450023">genitourinary system, male, anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>2008-04-17; TesticularSpanish3.jpg. Made testicle label bold. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038579">malignant testicular germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del sistema reproductor y el sistema urinario masculino; el dibujo muestra vistas frontales y laterales de los uréteres, los ganglios linfáticos, la vejiga, el recto, la glándula prostática,  el conducto deferente, la uretra,  el pene y los testículos, la vesícula seminal, y el conducto eyaculatorio.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del sistema reproductor y el sistema urinario masculino, muestra  los testículos, la próstata,  la vejiga y otros órganos.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+</Media>

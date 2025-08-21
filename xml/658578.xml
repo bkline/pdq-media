@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Merkel - Relative ten year survival rates for MCC</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Relative ten year survival rates for Merkel cell carcinoma by stage (SEER 1973-2006)</LabelName><LabelName language="en">Percent Survival</LabelName><LabelName language="en">Survival Months</LabelName><ImageDimensions>
+    <HeightPixels>900</HeightPixels>
+    <WidthPixels>1583</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <DateCreated>2010-02-17</DateCreated>
+   <SourceFilename>Tenyearsurvival2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2010-02-17" user="dbuchhagen">Image was extracted and enhanced.</Comment><Comment audience="Internal" date="2009-10-30" user="dbuchhagen">From: J of Cutaneous Pathology on-line July 23, 2009</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Relative ten-year survival rates for Merkel Cell Carcinoma by stage (SEER 1973–2006): Graph shows evidence of the differences in 10-year survival when MCC tumors were stratified by SEER stage. Includes percent survival (0%–100%) and survival months (0 months–120 months).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Figure 3. Relative ten-year survival rates for Merkel Cell Carcinoma by stage (SEER 1973–2006). Albores-Saavedra J et al: Merkel cell carcinoma demographics, morphology, and survival based on 3,870 cases: A population-based study. J Cutan Pathol.  Reprinted with permission © 2009. Published by  Wiley-Blackwell. All rights reserved.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062884">Merkel Cell Carcinoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-10-30</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  <Comment audience="Internal" date="2010-02-17" user="dbuchhagen">Updated image to Tenyearsurvival2.jpg.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>CAR T-cell therapy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Terapia de células T con CAR</LabelName><LabelName language="es">Se extrae sangre del paciente para obtener células T</LabelName><LabelName language="es">Célula T</LabelName><LabelName language="es">Se elaboran las células T con CAR en el laboratorio</LabelName><LabelName language="es">Se añade el gen del CAR</LabelName><LabelName language="es">Célula T</LabelName><LabelName language="es">Receptor quimérico para el antígeno (CAR)</LabelName><LabelName language="es">Célula T con CAR</LabelName><LabelName language="es">Se reproducen millones de células T con CAR</LabelName><LabelName language="es">El paciente recibe mediante infusión las células T con CAR</LabelName><LabelName language="es">Las células T con CAR se unen a las células cancerosas y las destruyen</LabelName><LabelName language="es">Célula cancerosa</LabelName><LabelName language="es">Antígenos</LabelName><LabelName language="es">Célula T con CAR</LabelName><LabelName language="es">Célula cancerosa</LabelName><ImageDimensions>
+    <HeightPixels>2460</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000774647">CAR T-cell therapy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CAR TcellTherapySpanish3.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><SkinTone>Type III – Darker white skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Terapia de células T con CAR. En el dibujo se muestra que se extrae sangre de una vena del brazo de un paciente para obtener células T. También se muestra que se elabora en el laboratorio un receptor especial, que se llama receptor quimérico para el antígeno (CAR); se añade a las células T el gen que produce el CAR y luego se reproducen millones de células T con CAR. Además, se muestra que el paciente recibe las células T con CAR mediante infusión, y  que luego estas células se unen a los antígenos de las células cancerosas y las destruyen.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Terapia de células T con CAR. Tipo de tratamiento  en el que se modifican las células T (un tipo de célula inmunitaria) de un paciente en el laboratorio a fin de que se unan a las células cancerosas y las destruyan. La sangre de una vena del brazo del paciente pasa por un tubo hasta una máquina de  aféresis (no se muestra) que extrae los glóbulos blancos, incluso las células T, y devuelve el resto de la sangre al paciente. Luego,   en el laboratorio, el gen que produce un receptor especial, que se llama receptor quimérico para el antígeno (CAR), se añade a las células T, y se reproducen millones de células T con CAR que el paciente recibe mediante infusión. Las células T   con CAR se unen a un antígeno de las células cancerosas y las destruyen.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000771302">CAR T-cell therapy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-26</ProcessingStatusDate>
+        <EnteredBy>2024-07-26</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-12</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>SWRB request</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy><Comment audience="Internal" date="2017-11-03" user="saucedol">Label revised.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-02</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of caption and content description completed.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-02</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Caption and Content Desr. Translation, peding QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-30</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC of labels completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of labels, pending QC</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000774647">CAR T-cell therapy</TranslationOf></Media>

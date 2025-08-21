@@ -1,0 +1,99 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Informal Caregivers in Cancer - Coping and Caregiver Outcomes-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Evaluación</LabelName><LabelName language="es">Afrontamiento</LabelName><LabelName language="es">Resultados</LabelName><LabelName language="es">Primaria</LabelName><LabelName language="es">Amenaza para la salud</LabelName><LabelName language="es">Enfermedad que pone en peligro los objetivos y valores personales</LabelName><LabelName language="es">Antecedentes</LabelName><LabelName language="es">Edad</LabelName><LabelName language="es">Sexo</LabelName><LabelName language="es">Estado de salud</LabelName><LabelName language="es">Ocupación</LabelName><LabelName language="es">Secundaria</LabelName><LabelName language="es">Exigencias</LabelName><LabelName language="es">Actividades cotidianas</LabelName><LabelName language="es">Información</LabelName><LabelName language="es">Transporte</LabelName><LabelName language="es">Toma de decisiones</LabelName><LabelName language="es">Recursos</LabelName><LabelName language="es">Apoyo social</LabelName><LabelName language="es">Equipo de atención de la salud</LabelName><LabelName language="es">Intervenciones</LabelName><LabelName language="es">Interconsultas de cuidados paliativos</LabelName><LabelName language="es">Recursos &gt; Exigencias</LabelName><LabelName language="es">Carga aceptable</LabelName><LabelName language="es">Recursos &lt; Exigencias</LabelName><LabelName language="es">Afrontamiento</LabelName><LabelName language="es">Centrado en el problema</LabelName><LabelName language="es">Centrado en las emociones</LabelName><LabelName language="es">Centrado en el significado</LabelName><LabelName language="es">Consecuencias psicológicas negativas</LabelName><LabelName language="es">Consecuencias psicológicas positivas</LabelName>
+  <ImageDimensions>
+    <HeightPixels>720</HeightPixels>
+    <WidthPixels>960</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000799645">Informal Caregivers in Cancer - Coping and Caregiver Outcomes</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>Coping and Caregiver Outcomes_ES.jpeg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Health_professionals" language="es">En el gráfico se observa el Transactional Model of Stress and Coping, que incluye la evaluación primaria de la amenaza para la salud (enfermedad que pone en peligro los objetivos y valores personales)  y los antecedentes (edad, sexo, estado de salud y ocupación); la evaluación secundaria de las exigencias sobre el cuidador (actividades cotidianas, información, transporte y toma de decisiones) y los recursos (apoyo social, equipo de atención de la salud, intervenciones e interconsultas de cuidados paliativos); el afrontamiento (cuando los recursos son mayores que las exigencias y cuando las exigencias son mayores que los recursos) y las estrategias del afrontamiento (centrado en  el problema, centrado en las emociones o centrado en el significado); y los resultados sobre el cuidador (carga aceptable y consecuencias psicológicas negativas y positivas de la carga percibida).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">El Transactional Model of Stress and Coping explica porqué algunos cuidadores experimentan  carga y consecuencias psicológicas negativas. Es posible que los médicos intervengan para reducir las exigencias, aumentar los recursos o promover las estrategias de afrontamiento. Los antecedentes, las exigencias y los recursos son ejemplos obtenidos del texto de este sumario.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Fixed image and replaced it.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-24</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content translated</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>"Ocupación" tiene una connotación más amplia y me parece mejor en este caso. Quité uno de los artículos  para acortar la etiqueta. En textos científicos siempre es mejor usar sexo, que se refiere al sexo biológico. Género es otro concepto que supera lo del sexo biológico.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>In the summary for "female gender" we used "género femenino". "Equipo médico" does not include other staff different than physicians. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC2</Comment>
+       <Comment audience="Internal" date="2019-10-29" user="adlerm2">See comments above.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Pending QC of labels by MA</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000799645">Informal Caregivers in Cancer - Coping and Caregiver Outcomes</TranslationOf></Media>

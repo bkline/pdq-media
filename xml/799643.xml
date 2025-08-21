@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Unusual Cancers - DICER1 Figure - Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Sistema, aparato u órgano</LabelName><LabelName language="es">Signos y síntomas</LabelName><LabelName language="es">Afecciones</LabelName><LabelName language="es">Exámenes de detección clínicos y radiográficos</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Taquipnea</LabelName><LabelName language="es">Tos</LabelName><LabelName language="es">Fiebre</LabelName><LabelName language="es">Dolor</LabelName><LabelName language="es">Neumotórax</LabelName><LabelName language="es">BPP</LabelName><LabelName language="es">Quistes pulmonares</LabelName><LabelName language="es">Blastoma pulmonar</LabelName><LabelName language="es">RXT al nacer y cada 4-6 meses hasta los 8 años de edad, cada 12 meses entre los 8-12 años de edad; considerar una TC de tórax entre los  3-6 meses de edad.</LabelName><LabelName language="es">Niños de corta edad: si la TC inicial es normal, repetir entre los  2,5 y  los 3 años de edad.</LabelName><LabelName language="es">Si la  mutación se detecta después de los 12 años de edad, considerar una RXT  o una TC de tórax iniciales.</LabelName><LabelName language="es">Tiroides</LabelName><LabelName language="es">Uno o más nódulos tiroideos visibles o palpables</LabelName><LabelName language="es">Linfadenopatía cervical persistente</LabelName><LabelName language="es">Ronquera</LabelName><LabelName language="es">Disfagia</LabelName><LabelName language="es">Dolor de cuello</LabelName><LabelName language="es">Tos</LabelName><LabelName language="es">Bocio multinodular</LabelName><LabelName language="es">Cáncer de tiroides diferenciado</LabelName><LabelName language="es">Ecografía de tiroides inicial antes de los 8 años de edad, luego cada 3 años o cuando haya síntomas o hallazgos durante un examen físico.</LabelName><LabelName language="es">Cuando se anticipa el uso de quimioterapia o radioterapia: ecografía inicial y luego una vez al año durante 5 años; se disminuye la frecuencia a  cada 2-3 años si no se detectan nódulos.</LabelName><LabelName language="es">Aparato reproductor femenino</LabelName><LabelName language="es">Hirsutismo</LabelName><LabelName language="es">Virilización</LabelName><LabelName language="es">Distensión, dolor o masa abdominal</LabelName><LabelName language="es">TCSL</LabelName><LabelName language="es">Ginandroblastoma</LabelName><LabelName language="es">RMSE de cuello uterino</LabelName><LabelName language="es">En mujeres, comenzar a los 8-10 años de edad con ecografía pélvica y abdominal cada 6-12 meses hasta los 40 años como mínimo.</LabelName><LabelName language="es">No se especifica un fin de intervalo, pero el paciente  de mayor edad con TCSL relacionado con DICER1 tenía 61 años.</LabelName><LabelName language="es">Se recomienda educar al paciente sobre los síntomas.</LabelName><LabelName language="es">Aparato renal</LabelName><LabelName language="es">Masa o dolor en el abdomen o la fosa renal</LabelName><LabelName language="es">Hematuria</LabelName><LabelName language="es">Tumor de Wilms</LabelName><LabelName language="es">Sarcoma renal</LabelName><LabelName language="es">Nefroma quístico</LabelName><LabelName language="es">Ecografía abdominal cada 6 meses hasta los 8 años de edad, luego cada 12 meses hasta los 12 años de edad.</LabelName><LabelName language="es">Si la  mutación se detecta después de los 12 años de edad, considerar una ecografía abdominal inicial.</LabelName><LabelName language="es">Aparato gastrointestinal</LabelName><LabelName language="es">Signos de obstrucción intestinal</LabelName><LabelName language="es">Pólipos en el intestino delgado</LabelName><LabelName language="es">Se recomienda educar al paciente sobre los síntomas.</LabelName><LabelName language="es">Sistema nervioso central, cabeza y cuello (excluye la tiroides)</LabelName><LabelName language="es">Pineoblastoma: cefalea, vómitos, diplopía, disminución de la capacidad de mirar hacia arriba, alteraciones en la marcha</LabelName><LabelName language="es">Pubertad precoz</LabelName><LabelName language="es">Blastoma de hipófisis: síndrome de Cushing</LabelName><LabelName language="es">MECC: disminución de la agudeza visual y leucocoria</LabelName><LabelName language="es">HCMN: obstrucción nasal</LabelName><LabelName language="es">Macrocefalia</LabelName><LabelName language="es">Pineoblastoma</LabelName><LabelName language="es">Blastoma de hipófisis</LabelName><LabelName language="es">MECC</LabelName><LabelName language="es">HCMN</LabelName><LabelName language="es">Examen físico</LabelName><LabelName language="es">Examen oftalmológico de rutina anual  con dilatación ocular (en general, sin sedación) con evaluación de la agudeza visual desde los 3  hasta los 10 años de edad como mínimo.</LabelName><LabelName language="es">Pruebas adicionales según la indicación clínica.</LabelName><LabelName language="es">Recomendar IRM de urgencia ante cualquier síntoma patológico de origen intracraneal.</LabelName><LabelName language="es">Sigla: IRM, imágenes por resonancia magnética.</LabelName><LabelName language="es">Cuando se realiza una TC, se deben emplear técnicas que reduzcan al mínimo la exposición a la radiación. A medida que se descubran técnicas de resonancia magnética nuevas que detecten lesiones quísticas pequeñas, se deberá considerar la transición al uso de técnicas de obtención de  imágenes transversales que no emitan radiación.</LabelName>
+  <ImageDimensions>
+    <HeightPixels>969</HeightPixels>
+    <WidthPixels>725</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000799365">Childhood Unusual Cancers - DICER1 Figure</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>DICER1.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el cuadro se describen las sugerencias para la vigilancia de signos y síntomas y mediante pruebas de diagnóstico por imágenes según el sistema, órgano o aparato en personas con variantes patógenas de DICER1.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Sugerencias para la vigilancia de signos y síntomas y mediante pruebas de diagnóstico por imágenes según el sistema, órgano o aparato en personas con variantes patógenas de DICER1. Adaptación de Clinical Cancer Research, Derechos de autor 2018, Volumen 20/Número 10, Páginas 2251–2261, Kris Ann P. Schultz, Gretchen M. Williams, Junne Kamihara, et al.: DICER1 and Associated Conditions: Identification of At-risk Individuals and Recommended Surveillance Strategies, autorizado por AACR.  BPP, blastoma pleuropulmonar; RXT, radiografía del tórax; TC, tomografía computarizada; TCSL, tumor de células de Sertoli-Leydig; RMSE, rabdomiosarcoma embrionario; MECC, meduloepitelioma de cuerpo ciliar; HCMN, hamartoma condromesenquimatoso nasal.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256757">Tratamiento de los cánceres poco comunes en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of caption and cont. descr.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-29</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Markedup edits in proposed; suggest adding "años" if related to age to avoid confusion in labels where age and time are mentioned; agree with minimizing the number of acronyms listed at the bottom if possible; added some comments under labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-07</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+        <Comment audience="Internal" date="2019-10-07" user="lansberryic">We should include the explanation of the acronyms  PPB, SLCT, CBME, NCMH, CXR in the Spanish version or not use acronyms//We need to include superscripts "a" in two labels</Comment></ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000799365">Childhood Unusual Cancers - DICER1 Figure</TranslationOf></Media>

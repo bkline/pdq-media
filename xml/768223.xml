@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, medial, child, anatomy-CNS germ cell tumor-HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Brain Anatomy</LabelName><LabelName language="en">Cerebrum</LabelName><LabelName language="en">Ventricles (fluid-filled spaces)</LabelName><LabelName language="en">Hypothalamus</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Brain stem</LabelName><LabelName language="en">Pons</LabelName><LabelName language="en">Medulla</LabelName><LabelName language="en">Spinal cord</LabelName><LabelName language="en">Cerebellum</LabelName><LabelName language="en">Infratentorium</LabelName><LabelName language="en">Supratentorium</LabelName><LabelName language="en">Pineal gland</LabelName><LabelName language="en">Choroid plexus</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2015-01-26</DateCreated>
+   <SourceFilename>BrainMedialViewOlderChild2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-01-27" user="myousufzai">Changed labels to say “Supratentorium” and “Infratentorium”</Comment><Comment audience="Internal" date="2015-01-14" user="myousufzai">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041539">childhood brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing of the inside of the brain showing the supratentorium (the upper part of the brain) and the infratentorium (the lower back part of the brain). The supratentorium includes the cerebrum, ventricles (fluid-filled spaces), choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve. The infratentorium includes the cerebellum and brain stem (pons and medulla). The spinal cord is also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the inside of the brain. The supratentorium contains the cerebrum, ventricles (with cerebrospinal fluid shown in blue), choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve. The infratentorium contains the cerebellum and brain stem.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000712041">Childhood Central Nervous System Germ Cell Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-27</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-26</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-01-26</ProcessingStatusDate>
+   <EnteredBy>myousufzai</EnteredBy>
+   <Comment audience="Internal" date="2015-01-27" user="myousufzai">Updated image to BrainMedialViewOlderChild2.jpg</Comment><Comment>Added BrainMedialViewOlderChild1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

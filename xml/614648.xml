@@ -1,0 +1,102 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, adult, stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage II Adult Lymphoma</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Below the diaphragm</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Above the diaphragm</LabelName><ImageDimensions>
+    <HeightPixels>3144</HeightPixels>
+    <WidthPixels>2970</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2019-06-03</DateCreated>
+   
+   <SourceFilename>Stage2AdultLymphoma5.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2019-05-15" user="kuhlmanna">Moved the diaphragm up so that more of the liver is exposed, per expert reviewer  </Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Removed the purple liver; on the right side of the figure, created a space where the two brackets meet and added the word OR next to the figure between the brackets.</Comment><Comment audience="Internal" date="2019-03-18" user="yousufzaimg">Added another line from the upper “Cancer in lymph nodes” label that points to the box above the collar bone</Comment><Comment audience="Internal" date="2019-03-04" user="yousufzaimg">Changed the title to "Stage II Adult Lymphoma; changed label next to lymph node pull out to say “Cancer” instead of “Lymphoma cells (Cancer)”; and unbolded the labels that say “Cancer in the lymph nodes”</Comment><Comment audience="Internal" date="2009-05-06" user="rharrison">Revised images per AJCC 8th edition</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000040480">stage II adult non-Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000736131">stage II AIDS-related lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000041815">stage II adult Hodgkin lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II adult lymphoma; drawing shows cancer in two lymph node groups above the diaphragm and below the diaphragm. An inset shows a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown in the lymph node.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage II adult lymphoma; drawing shows cancer in two lymph node groups above the diaphragm and below the diaphragm. An inset shows a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown in the lymph node.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II adult lymphoma. Cancer is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage II adult lymphoma. Cancer is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm. </MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062958">Adult Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257991">Adult Hodgkin Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045907">stage II adult non-Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000416103">stage II AIDS-related lymphoma</Glossary><Glossary cdr:ref="CDR0000045896">stage II adult Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Updated to Stage2AdultLymphoma4.jpg</Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Updated to Stage2AdultLymphoma3.jpg</Comment><Comment audience="Internal" date="2019-03-18" user="yousufzaimg">Updated to Stage2AdultLymphoma2.jpg</Comment><Comment audience="Internal" date="2019-03-04" user="yousufzaimg">Updated to Stage2AdultLymphoma1.jpg</Comment><Comment audience="Internal" date="2019-02-05" user="yousufzaimg">Updated to Stage2AdultNHLymphoma4.jpg</Comment><Comment audience="Internal" date="2009-05-06" user="rharrison">Updated to Stage2AdultNHLymphoma2.jpg</Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Updated to Stage2AdultNHLymphoma.jpg. </Comment><Comment audience="Internal" date="2009-04-06" user="dbuchhagen">Updated to Stage2AdultLymphoma.jpg.</Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to NHLstage2.6.jpg, ready for review.</Comment><Comment audience="Internal" date="2009-01-12" user="rharrison">Updated to NHLstage2.5.jpg. </Comment><Comment>2008-12-15; updated image to NHLstage2.4.jpg. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent to Mark Levin.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-09</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-04-20" user="rharrison">Caption/content revisions approved. </Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Revised caption and content desc. to reflect changes.</Comment><Comment audience="Internal" date="2009-01-12" user="rharrison">Minor edits to caption and last sentence (now 2 sentences) of content description. </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-12-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-09-10</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000642595">Illustration Review Sheet: Adult NHL Hodgkin Lymphoma stage II</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000796970">Sample Illustration: adult lymphoma AJCC 8th edition changes</SupplementaryInfoLink></RelatedDocuments></Media>

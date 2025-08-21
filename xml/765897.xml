@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bile duct, intrahepatic, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Intrahepatic Bile Duct Anatomy</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Intrahepatic bile ducts</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Right hepatic duct</LabelName><LabelName language="en">Bile ductules</LabelName><LabelName language="en">Bile duct</LabelName><LabelName language="en">Left hepatic duct</LabelName><LabelName language="en">Common hepatic duct</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Cystic duct</LabelName><LabelName language="en">Common bile duct</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Ampulla of Vater</LabelName><LabelName language="en">Small intestine</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels><WidthPixels>3180</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2023-07-31</DateCreated><SourceFilename>Intrahepatic BileDuctAnatomy FP V.5.jpg</SourceFilename><Comment user="yousufzaimg" date="2023-07-31" audience="Internal">Added a label for the ampulla of Vater</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-05-17">Moved the Bile ductules inset to the left of the image; moved the Liver label to the right side of the image; straightened the leader line to the Common hepatic duct label; and adjusted the Intrahepatic bile duct brackets to make it clearer as to which  ducts are part of the intrahepatic anatomy</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Added a few more labels to the Intrahepatic Bile Duct image: Cystic Duct, Common hepatic duct, and Common bile duct  
+</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Diversity project: darkened skin tone in image</Comment><Comment audience="Internal" date="2015-06-30" user="yousufzaimg">Moved the box from the pullout so that more of the duct is shown and made the duct a darker green color, rather than fading it; for the inset, made a version with solid black lines and removed the shading.</Comment><Comment audience="Internal" date="2015-06-16" user="yousufzaimg">On the inset, moved the label “Bile ductules” over to the right and made lines pointing to the one feeding in from the top and the one feeding in from the right side</Comment><Comment audience="Internal" date="2015-06-01" user="yousufzaimg">Made the part of the bile duct in the liver which is being pulled out into the inset curve down in the little box so that it matches the vertical orientation of the bile duct in the inset; made more of the smaller ductules feed into the large bile duct</Comment><Comment audience="Internal" date="2015-05-26" user="akuhlmann">Removed the arteries and veins from the inset</Comment><Comment audience="Internal" date="2015-02-25" user="akuhlmann">Made the inset a two-dimensional cross section showing the network of bile ductules and ducts.  Faded the veins and arteries so that the green bile ducts show up better; and removed the label Bile canaliculus</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2021-12-20</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="en">Anatomy of the intrahepatic bile ducts; drawing shows the liver and the intrahepatic bile ducts, which include the right and left hepatic ducts. Also shown is the common hepatic duct, gallbladder, cystic duct, common bile duct, pancreas, ampulla of Vater, and small intestine. An inset shows a cross section of a liver lobule with a network of bile ductules leading into a bile duct.</ContentDescription>
+   <ContentDescription audience="Health_professionals" language="en">Anatomy of the intrahepatic bile ducts; drawing shows the liver and the intrahepatic bile ducts, which include the right and left hepatic ducts. Also shown is the common hepatic duct, gallbladder, cystic duct, common bile duct, pancreas, ampulla of Vater, and small intestine. An inset shows a cross section of a liver lobule with a network of bile ductules leading into a bile duct.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Anatomy of the intrahepatic bile ducts. Intrahepatic bile ducts are a network of small tubes that carry bile inside the liver. The smallest ducts, called ductules, come together to form the right and left hepatic ducts, which lead out of the liver. The two ducts join outside the liver and form the common hepatic duct. The cystic duct from the gallbladder joins the common hepatic duct to form the common bile duct. The common bile duct passes through the pancreas and ends in the small intestine. Bile is made by the liver and stored in the gallbladder. When food is being digested, bile is released from the gallbladder and passes through the common bile duct, pancreas, and ampulla of Vater into the small intestine.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Anatomy of the intrahepatic bile ducts.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000809666">What Is Bile Duct Cancer (Cholangiocarcinoma)?</Summary><Glossary cdr:ref="CDR0000046738">bile duct</Glossary>
+  
+  <Glossary cdr:ref="CDR0000527370">bile duct cancer</Glossary><Glossary cdr:ref="CDR0000044871">intrahepatic bile duct</Glossary><Glossary cdr:ref="CDR0000770184">intrahepatic bile duct cancer</Glossary><Glossary cdr:ref="CDR0000769763">liver and bile duct cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-07-31" audience="Internal">Updated to Intrahepatic BileDuctAnatomy FP V.5.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2022-05-17">Updated to Intrahepatic BileDuctAnatomy FP V.4.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-04-26">Updated to Intrahepatic BileDuctAnatomy FP V.3.jpg</Comment><Comment>Updated to Intrahepatic BileDuctAnatomy FP V.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-05-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Diversity project</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-10-27</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000774880">Illustration Review Sheet: bile duct anatomy, extrahepatic and intrahepatic</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000765898">Sample Illustration: intrahepatic bile duct anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

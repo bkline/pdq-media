@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>HLA complex </MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">HLA Complex</LabelName><LabelName language="en">Chromosome 6</LabelName><LabelName language="en">Long arm</LabelName><LabelName language="en">Short arm</LabelName><LabelName language="en">HLA region</LabelName><LabelName language="en">Class II</LabelName><LabelName language="en">Class I</LabelName><LabelName language="en">DP</LabelName><LabelName language="en">DQ</LabelName><LabelName language="en">DR</LabelName><LabelName language="en">B</LabelName><LabelName language="en">C</LabelName><LabelName language="en">A</LabelName><ImageDimensions>
+    <HeightPixels>1524</HeightPixels>
+    <WidthPixels>2977</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-03-08</DateCreated>
+   <SourceFilename>HLA.Complex5.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-15" user="akuhlmann">No copyright permission needed; image created by T Winslow</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043329">cancer genetics</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Human lymphocyte antigen (HLA) complex; drawing shows the long and short arms of human chromosome 6 with amplification of the HLA region, including the class I A, B, and C alleles, and the class II DP, DQ, and DR alleles.  </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">HLA Complex. Human chromosome 6 with amplification of the human lymphocyte antigen (HLA) region. The locations of specific HLA loci for the class I B, C and A alleles and the class II DP, DQ, and DR alleles are shown.  </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000700000">Childhood Hematopoietic Cell Transplantation</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-08</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       <Comment audience="Internal" date="2012-03-08" user="anjamison">Updated to HLA.Complex5.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Caption approved by Michael Pulsipher; description pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-02-17</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added HLA.Complex1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

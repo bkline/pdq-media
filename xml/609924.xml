@@ -1,0 +1,98 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>exam, pelvic</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Pelvic Exam</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Fallopian tube</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Rectum</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2460</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2021-11-15</DateCreated>
+   
+   
+   <SourceFilename>PelvicExamProviderSkinTypeV 1.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" audience="Internal" date="2021-11-16">Darkened skin tone of provider to Fitzpatrick Skin Type V</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2012-11-09" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2009-06-01" user="rharrison">Removed image of pelvis and label in inset. Filename removed. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Pelvic exam; drawing shows a side view of the female reproductive anatomy during a pelvic exam. The uterus, left fallopian tube, left ovary, cervix, vagina, bladder, and rectum are shown. Two gloved fingers of one hand of the doctor or nurse are shown inserted into the vagina, while the other hand is shown pressing on the lower abdomen. The inset shows a woman covered by a drape on an exam table with her legs apart and her feet in stirrups. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Pelvic exam. A doctor or nurse inserts one or two lubricated, gloved fingers of one hand into the vagina and presses on the lower abdomen with the other hand. This is done to feel the size, shape, and position of the uterus and ovaries. The vagina, cervix,  fallopian tubes, and rectum are also checked.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000062699">Gestational Trophoblastic Disease Treatment</Summary>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary><Summary cdr:ref="CDR0000062963">Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment</Summary><Summary cdr:ref="CDR0000062967">Ovarian Germ Cell Tumors Treatment</Summary><Summary cdr:ref="CDR0000257805">Uterine Sarcoma Treatment</Summary><Summary cdr:ref="CDR0000258027">Ovarian, Fallopian Tube, and Primary Peritoneal Cancer Screening</Summary>
+  <Summary cdr:ref="CDR0000258349">Vaginal Cancer Treatment</Summary><Summary cdr:ref="CDR0000419665">Vulvar Cancer Treatment</Summary><Summary cdr:ref="CDR0000435963">Urethral Cancer Treatment</Summary><Glossary cdr:ref="CDR0000322873">pelvic exam</Glossary>
+ <Glossary cdr:ref="CDR0000446199">internal exam</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-11-22</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       <Comment user="kuhlmanna" audience="Internal" date="2021-11-16">Diversity project</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-11-22</ProcessingStatusDate>
+        <EnteredBy>2021-12-06</EnteredBy>
+        <Comment user="kuhlmanna" audience="Internal" date="2021-12-06">Updated to PelvicExamProviderSkinTypeV 1.jpg</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to PelvicExam10.jpg</Comment><Comment audience="Internal" date="2009-05-29" user="dbuchhagen">Updated to PelvicExam8.jpg.</Comment><Comment audience="Internal" date="2009-05-11" user="rharrison">Updated to PelvicExam7.jpg. </Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Updated to PelvicExam6.jpg.</Comment><Comment audience="Internal" date="2009-02-24" user="rharrison">Updated to PelvicExam5.jpg. </Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to PelvicExam4.jpg.</Comment><Comment audience="Internal" date="2009-01-09" user="rharrison">Updated to PelvicExam3.jpg. </Comment><Comment>2008-12-15; updated to PelvicExam2.jpg. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-18</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>the figure is fine for the bimanual in the vagina; they suggested another illustration for the recto-vaginal exam. The narrative for this second figure could be the same and add: the rectum and low pelvic organs are further checked by  the recto-vaginal exam.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-02</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-08-18" user="rharrison">Sent to Dr. Muggia.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-06-29</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-03-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-06-01" user="rharrison">Entered minor edits to caption/content.</Comment><Comment audience="Internal" date="2009-04-01" user="rharrison">Minor edits to caption/content (changed examination to exam).</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-11-14</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-08-04</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ <RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000652802">Illustration Review Sheet: Gynecologic illustrations</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000609922">Sample Illustration: pelvic exam</SupplementaryInfoLink>
+       </RelatedDocuments>
+</Media>

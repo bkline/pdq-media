@@ -1,0 +1,96 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esthesioneuroblastoma-Spanish</MediaTitle><PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Áreas del cuerpo donde es posible que se forme el estesioneuroblastoma</LabelName><LabelName language="es">Encéfalo</LabelName><LabelName language="es">Bulbo olfatorio</LabelName><LabelName language="es">Terminaciones nerviosas olfatorias</LabelName><LabelName language="es">Cavidad nasal</LabelName><LabelName language="es">Senos paranasales</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2460</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000801515">esthesioneuroblastoma</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   
+  <SourceFilename>EsthesioneuroblastomaSpanish1.jpg</SourceFilename></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se observan las áreas del cuerpo donde es posible que se formen tumores del estesioneuroblastoma, incluso  las terminaciones nerviosas olfatorias, el bulbo olfatorio, la cavidad nasal, los senos paranasales y el encéfalo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los estesioneuroblastomas se forman en las terminaciones nerviosas olfatorias que están en la parte superior de la cavidad nasal. Los nervios olfatorios (sentido del olfato) pasan a través de los múltiples pequeños agujeros en el hueso de la base del cráneo y llegan al bulbo olfatorio. Los estesioneuroblastomas a veces se diseminan de la cavidad nasal a los senos nasales o el tejido cercano. En ocasiones, también se extienden al encéfalo o a otras partes del cuerpo (no se ve en la imagen).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000791876">Tratamiento del estesioneuroblastoma infantil</Summary>
+  
+ <Glossary cdr:ref="CDR0000790108">esthesioneuroblastoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-30</ProcessingStatusDate>
+        <EnteredBy>2020-07-30</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of caption and content description. Editorial changes just to match Spanish style. I think is good that in the desc "tumores del estesioneuroblastoma", even as we decide to let the title "forme el estesioneuroblastoma". "Olfativo" is correct but the main term is "olfatorio" so just for consistency. When it refers the bone in Spanish is more clear to say "cráneo" instead of "encéfalo" and is easier to understand, it does not change the meaning.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image. Pending translation for caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation peer review complete of labels</Comment><Comment audience="Internal" date="2020-05-11" user="lansberryic">"olfativo" and "olfatorio" both correct. Label should match the main GTN "bulbo olfatorio".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-05</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Only labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-28</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Updated image to Esthesioneuroblastoma2.jpg</Comment><Comment>Added Esthesioneuroblastoma1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000801515">esthesioneuroblastoma</TranslationOf></Media>

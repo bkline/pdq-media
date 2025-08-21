@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - Ependymoma Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">A</LabelName><LabelName language="en">Group A</LabelName><LabelName language="en">Group B</LabelName><LabelName language="en">Gender</LabelName><LabelName language="en">Age</LabelName><LabelName language="en">Cyto Risk Gr 1</LabelName><LabelName language="en">Cyto Risk Gr 2</LabelName><LabelName language="en">Cyto Risk Gr 3</LabelName><LabelName language="en">1p Loss</LabelName><LabelName language="en">1q Gain</LabelName><LabelName language="en">1q Loss</LabelName><LabelName language="en">2p Loss</LabelName><LabelName language="en">2q Loss</LabelName><LabelName language="en">3p Loss</LabelName><LabelName language="en">3q Loss</LabelName><LabelName language="en">4p Gain</LabelName><LabelName language="en">4q Gain</LabelName><LabelName language="en">5q Gain</LabelName><LabelName language="en">6p Loss</LabelName><LabelName language="en">6q Loss</LabelName><LabelName language="en">7p Gain</LabelName><LabelName language="en">7q Gain</LabelName><LabelName language="en">8p Loss</LabelName><LabelName language="en">8q Loss</LabelName><LabelName language="en">9p Gain</LabelName><LabelName language="en">9q Gain</LabelName><LabelName language="en">10p Loss</LabelName><LabelName language="en">10q Loss</LabelName><LabelName language="en">11p Gain</LabelName><LabelName language="en">11q Gain</LabelName><LabelName language="en">12p Gain</LabelName><LabelName language="en">12q Gain</LabelName><LabelName language="en">14q Loss</LabelName><LabelName language="en">15q Gain</LabelName><LabelName language="en">17q Loss</LabelName><LabelName language="en">18p Gain</LabelName><LabelName language="en">18q Gain</LabelName><LabelName language="en">20p Gain</LabelName><LabelName language="en">20q Gain</LabelName><LabelName language="en">21q Gain</LabelName><LabelName language="en">22q Loss</LabelName><LabelName language="en">B</LabelName><LabelName language="en">Gender</LabelName><LabelName language="en">Female</LabelName><LabelName language="en">Male</LabelName><LabelName language="en">Age</LabelName><LabelName language="en">&lt; 4 years</LabelName><LabelName language="en">4 - 18 years</LabelName><LabelName language="en">&gt; 18 years</LabelName><LabelName language="en">Group</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">Aberration</LabelName><LabelName language="en">No Aberration</LabelName><LabelName language="en">Aberration</LabelName><LabelName language="en">NA</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0423</LabelName><LabelName language="en">p = 0.0083</LabelName><LabelName language="en">p = 0.0437</LabelName><LabelName language="en">p = 0.0225</LabelName><LabelName language="en">p = 0.0225</LabelName><LabelName language="en">p = 0.0029</LabelName><LabelName language="en">p = 0.0003</LabelName><LabelName language="en">p = 0.0003</LabelName><LabelName language="en">p = 0.0005</LabelName><LabelName language="en">p = 0.0023</LabelName><LabelName language="en">p = 0.0083</LabelName><LabelName language="en">p = 0.0093</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0030</LabelName><LabelName language="en">p = 0.0023</LabelName><LabelName language="en">p = 0.0083</LabelName><LabelName language="en">p = 0.0083</LabelName><LabelName language="en">p = 0.0001</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0018</LabelName><LabelName language="en">p = 0.0005</LabelName><LabelName language="en">p = 0.0007</LabelName><LabelName language="en">p = 0.0003</LabelName><LabelName language="en">p = 0.0002</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0029</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0008</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0003</LabelName><LabelName language="en">p &lt; 0.0001</LabelName><LabelName language="en">p = 0.0029</LabelName><LabelName language="en">p = 0.0065</LabelName><ImageDimensions>
+    <HeightPixels>735</HeightPixels>
+    <WidthPixels>554</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Cancer Cell</Creator>
+   <SourcePublication>Witt H, Mack SC, Ryzhova M, et al.: Delineation of two clinically and molecularly distinct subgroups of posterior fossa ependymoma. Cancer Cell 20 (2): 143-57, 2011.</SourcePublication><DateCreated>2015-09-01</DateCreated>
+   <SourceFilename>Ependymoma Witt.jpg</SourceFilename><Comment audience="Internal" date="2016-05-23" user="kuhlmanna">Okay to publish per Sharon</Comment><Comment audience="Internal" date="2016-04-13" user="kuhlmanna">Copyright permissions received; Board approval pending</Comment><Comment audience="Internal" date="2015-09-01" user="kuhlmanna">Permissions needed; image added as draft for summary placeholder - need Board approval</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2016-04-01</PermissionResponseDate>
+    
+    <PublisherPermissionText>Witt H, Mack SC, Ryzhova M, et al.: Delineation of two clinically and molecularly distinct subgroups of posterior fossa ependymoma. Cancer Cell 20 (2): 143-57, 2011. </PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062843">Childhood Ependymoma Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000745799">Delineation of two clinically and molecularly distinct subgroups of posterior fossa ependymoma.</CitationLink><Comment audience="Internal" date="2016-04-13" user="kuhlmanna">Copyright permissions received</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043448">childhood ependymoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the identification of subgroup-specific copy number alterations in the posterior fossa ependymoma genome.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Identification of Subgroup-Specific Copy Number Alterations in the Posterior Fossa Ependymoma Genome. (A) Copy number profiling of 75 PF ependymomas using 10K array-CGH identifies disparate genetic landscapes between Group A and Group B tumors. Toronto and Heidelberg copy number datasets have been combined and summarized in a heatmap. The heatmap also displays the association of tumors to cytogenetic risk groups 1, 2, and 3 (Korshunov et al., 2010). Statistically significant chromosomal aberrations (black boxes) are also displayed between both subgroups, calculated by Fisher's exact test. Witt H, Mack SC, Ryzhova M, et al.: Delineation of two clinically and molecularly distinct subgroups of posterior fossa ependymoma. Cancer Cell 20 (2): 143-57, 2011, <ExternalRef cdr:xref="http://www.sciencedirect.com/science/article/pii/S1535610811002625">doi:10.1016/j.ccr.2011.07.007</ExternalRef>. <ExternalRef cdr:xref="https://www.elsevier.com/about/company-information/policies/open-access-licenses/elsevier-user-license">Copyright © 2011 Elsevier Inc</ExternalRef>. All rights reserved.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062843">Childhood Ependymoma Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000780151">Witt_GenomicsofEpendymoma_CopyrightPermissions_2016-04-09</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

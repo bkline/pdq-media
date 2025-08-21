@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Modeled IQ scores after conformal radiation therapy for low-grade glioma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Modeled IQ Scores</LabelName><LabelName language="en">Time Since CRT (months)</LabelName><ImageDimensions>
+    <HeightPixels>763</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <Creator>http://jco.ascopubs.org/content/27/22/3691.long</Creator><DateCreated>2009-07-06</DateCreated>
+   <SourceFilename>Merchant figure, Late Effects - Modeled IQ scores after conformal radiation therapy for low-grade glioma.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041394">long-term effects secondary to cancer therapy in children</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph shows modeled IQ scores after conformal radiation therapy, by age measured in years, and time measured in months, after the start of CRT for pediatric low-grade glioma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Modeled intelligence quotient (IQ) scores after conformal radiation therapy (CRT) by age for pediatric low-grade glioma. Age is measured in years, and time is measured in months after the start of CRT. Thomas E. Merchant, Heather M. Conklin, Shengjie Wu, Robert H. Lustig, and Xiaoping Xiong, Late Effects of Conformal Radiation Therapy for Pediatric Patients With Low-Grade Glioma: Prospective Evaluation of Cognitive, Endocrine, and Hearing Deficits, Journal of Clinical Oncology, volume 27, issue 22, pages 3691-3697. Reprinted with permission. © (2009) American Society of Clinical Oncology. All rights reserved.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       <Comment audience="Internal" date="2012-04-10" user="anjamison">Received permission to use image.</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-03-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added new image: Merchant figure, Late Effects - Modeled IQ scores after conformal radiation therapy for low-grade glioma.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

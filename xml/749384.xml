@@ -1,0 +1,76 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>head and neck cancer regions-Spanish</MediaTitle>
+ <PhysicalMedia>
+  
+ <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Regiones en el cáncer de cabeza y de cuello</LabelName><LabelName language="es">Senos paranasales</LabelName><LabelName language="es">Cavidad nasal</LabelName><LabelName language="es">Faringe</LabelName><LabelName language="es">Nasofaringe</LabelName><LabelName language="es">Orofaringe</LabelName><LabelName language="es">Hipofaringe</LabelName><LabelName language="es">Lengua</LabelName><LabelName language="es">Cavidad oral</LabelName><LabelName language="es">Labios</LabelName><LabelName language="es">Glándula salivales</LabelName><LabelName language="es">Laringe</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData></PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000814842">head and neck cancer regions</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>HeadNeckCancerRegionsSpanish2.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Race>White</Race>
+  <SkinTone>Type I – Pale white skin</SkinTone>
+  
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Regiones en el cáncer de cabeza y cuello. Dibujo del perfil de la cabeza y el cuello de una persona en el que se señalan las áreas donde se puede formar un cáncer. Estas áreas son los senos paranasales, la cavidad nasal, la cavidad oral, los labios, la lengua, las glándulas salivales, la laringe y las tres partes de la faringe:  la nasofaringe, la orofaringe y la hipofaringe.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los cánceres de cabeza y cuello se pueden formar en los tejidos de los senos paranasales, la cavidad nasal, la cavidad oral, los labios, la lengua, las glándulas salivales, la laringe y las tres partes de la faringe: la nasofaringe, la orofaringe y la hipofaringe.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000257519">head and neck cancer</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-02</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Added new label "labios"</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-05-08</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy><Comment audience="Internal" date="2013-05-08" user="lsaucedo">Susan Church sent caption used in fact sheet which was translated by José. CIAT added first sentence to match the English definition sent by Susan as well.</Comment>
+   <Comment>Added HeadNeckCancerRegionsSpanish.jpg.  Image requested by OCE to be used in the Head and Neck Cancer factsheet</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000814842">head and neck cancer regions</TranslationOf></Media>

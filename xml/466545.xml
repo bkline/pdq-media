@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>scan, positron emission tomography (PET)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2012-11-09</DateCreated>
+   
+   
+   <SourceFilename>PetScan5.jpg</SourceFilename>
+   <Comment audience="Internal" date="2012-11-09" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">PET (positron emission tomography) scan; drawing shows patient lying on table that slides through the PET machine.
+</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">PET (positron emission tomography) scan. The patient lies on a table that slides through the PET machine.  The head rest and white strap help the patient lie still.  A small amount of radioactive glucose (sugar) is injected into the patient's vein, and a scanner makes a picture of where the glucose is being used in the body.  Cancer cells show up brighter in the picture because they take up more glucose than normal cells do.
+</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment </Summary><Summary cdr:ref="CDR0000062947">Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000256766">Cáncer de pulmón de células no pequeñas: Tratamiento</Summary><Summary cdr:ref="CDR0000256767">Cáncer de pulmón de células pequeñas: Tratamiento</Summary><Glossary cdr:ref="CDR0000046140">PET scan</Glossary><Glossary cdr:ref="CDR0000046218">positron emission tomography scan</Glossary></ProposedUse><ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-21</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-01</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-01</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>2006-08-03 caption / content desc translation completed; mm</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-01</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Being reviewed by group; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2006-07-18 second rough; mm</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-03-17</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses></Media>

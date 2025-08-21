@@ -1,0 +1,111 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>craniotomy, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Craneotomía</LabelName><LabelName language="es">Duramadre</LabelName><LabelName language="es">Cráneo</LabelName><LabelName language="es">Pieza del cráneo</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Músculo</LabelName><LabelName language="es">Cuero cabelludo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2820</HeightPixels><WidthPixels>2625</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000691155">craniotomy, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CraniotomyChild FP III Spanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Child</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type III – Darker white skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000041539">childhood brain tumor</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En el dibujo se muestra la cabeza de una niña en la que se hizo una craneotomía. Se levantó una sección del cuero cabelludo para extraer una pieza del cráneo y se abrió la duramadre que cubre el encéfalo para exponer la superficie del cerebro.   También se observa la capa de músculo debajo del cuero cabelludo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Craneotomía. Se hace un orificio en el cráneo y se extrae una pieza del mismo para exponer una parte del encéfalo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000813729">Gliomas infantiles (incluso astrocitomas)</Summary>
+  
+  <Summary cdr:ref="CDR0000815004">Glioma pontino intrínseco difuso</Summary><Summary cdr:ref="CDR0000813719">Ependimoma infantil</Summary><Summary cdr:ref="CDR0000632970">Tratamiento del craneofaringioma infantil</Summary><Summary cdr:ref="CDR0000632891">Tratamiento del tumor teratoide rabdoide atípico del sistema nervioso central infantil</Summary><Summary cdr:ref="CDR0000730016">Tratamiento de los tumores de células germinativas del sistema nervioso central infantil</Summary>
+ <Summary cdr:ref="CDR0000611985">Tratamiento del meduloblastoma y otros tumores embrionarios del sistema nervioso central infantil</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-28</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content description QCed.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-28</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image with diversity updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist to incorporate diversity updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-22</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>SEO childhood glioma SVPC light </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-12</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-11</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised text for consitency</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new image, translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000691155">craniotomy, child</TranslationOf></Media>

@@ -1,0 +1,105 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage II Nonmelanoma Skin Cancer of the Head and Neck</LabelName><LabelName language="en">Tumor is larger than 2 cm but  not larger than 4 cm</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+   
+   <DateCreated>2020-01-24</DateCreated><SourceFilename>NonMelanomaStage2rev7.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Added "of the Head and Neck" to the title</Comment><Comment audience="Internal" date="2019-12-16" user="kuhlmanna">Moved the "Cancer" label over a bit</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Changed text in inset box to "Tumor is larger than 2 cm but  not larger than 4 cm"</Comment><Comment audience="Internal" date="2018-08-06" user="yousufzaimg">Made the lines from the shaded box go into the top part of the yellow tumor; removed the second “is” in the inset box</Comment><Comment audience="Internal" date="2018-07-25" user="yousufzaimg">Added Skin Cancer to the title</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Moved the label for Cancer outside the box, and made the cancer spot a little larger; changed the wording in the inset to “Tumor is at least 2 cm but is smaller than 4 cm”, and added the shaded cone connecting to the main figure</Comment><Comment audience="Internal" date="2018-03-06" user="yousufzaimg">Image revisions made per AJCC 8th edition updates</Comment><Comment audience="Internal" date="2012-08-21" user="anjamison">Changed title from Stage II nonmelanoma skin cancer to: Stage II Nonmelanoma Skin Cancer</Comment><Comment>Added copyright information.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II nonmelanoma skin cancer of the head and neck; drawing shows cancer in the epidermis and the dermis. An inset shows that the tumor is larger than 2 centimeters but not larger than 4 centimeters and that 2 centimeters is about the size of a peanut and 4 centimeters is about the size of a walnut. Also shown is the subcutaneous tissue below the dermis.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage II nonmelanoma skin cancer of the head and neck; drawing shows cancer in the epidermis and the dermis. An inset shows that the tumor is larger than 2 centimeters but not larger than 4 centimeters and that 2 centimeters is about the size of a peanut and 4 centimeters is about the size of a walnut. Also shown is the subcutaneous tissue below the dermis.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II nonmelanoma skin cancer of the head and neck. The tumor is larger than 2 centimeters but not larger than 4 centimeters.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage II nonmelanoma skin cancer of the head and neck. The tumor is larger than 2 centimeters but not larger than 4 centimeters.</MediaCaption>
+  </Captions>
+  </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Glossary cdr:ref="CDR0000368447">stage II nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-25</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changes to image recommended per J. Jeter, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Updated image to NonMelanomaStage2rev7jpg</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Updated image to NonMelanomaStage2rev5.jpg</Comment><Comment audience="Internal" date="2018-08-06" user="yousufzaimg">Updated image to NonMelanomaStage2rev4.jpg</Comment><Comment audience="Internal" date="2018-07-25" user="yousufzaimg">Updated image to NonMelanomaStage2rev3.jpg</Comment><Comment audience="Internal" date="2018-03-19" user="yousufzaimg">Updated image to NonMelanomaStage2rev2.jpg</Comment><Comment audience="Internal" date="2018-03-06" user="yousufzaimg">Added NonMelanomaStage2rev1.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommend changing label from "fatty tissue" to "subcutanous layer".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; revised cap and cont desc. </Comment><Comment>2008-07-30 caption and content desc approved w/ edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-06-30</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000800446">Illustration Review Sheet: stage II nonmelanoma skin cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - Osteosarcoma Figure 1</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>446</HeightPixels>
+    <WidthPixels>1063</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Daniela S. Gerhard, Ph.D</Creator>
+   <DateCreated>2016-03-02</DateCreated>
+   <SourceFilename>OS Circos 1st 10.v1.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-03-02" user="kuhlmanna">Image converted to JPEG; removed dark black lines - approved by SQK</Comment><Comment audience="Internal" date="2016-02-09" user="kuhlmanna">Image created by Daniela S. Gerhard, Ph.D, Director, Office of Cancer Genomics, NCI</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2015-10-05" user="kuhlmanna">Permissions not required - image created using NCI data</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043327">osteosarcoma/malignant fibrous histiocytoma of bone</Diagnosis>
+  </Diagnoses><ContentDescriptions><ContentDescription audience="Health_professionals" language="en">Diagrams of osteosarcoma cases from the NCI TARGET project.</ContentDescription></ContentDescriptions>
+  
+ <Captions><MediaCaption audience="Health_professionals" language="en">Circos plots of osteosarcoma cases from the NCI TARGET project. The red lines in the interior circle connect chromosome regions involved in either intra- or inter-chromosomal translocations. Osteosarcoma is distinctive from other childhood cancers in having such large numbers of translocations. Credit: National Cancer Institute.</MediaCaption>
+   
+  </Captions></MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062698">Osteosarcoma and Malignant Fibrous Histiocytoma of Bone Treatment</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per Sharon, image will not be translated, but okay to translate caption</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image approved by SQK</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779260">Gerhard_GenomicsofOsteosarcoma_CopyrightPermissions_2016-03-02</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

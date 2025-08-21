@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>extracranial germ cell tumor-CTHP image-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Mujer</LabelName><LabelName language="es">Hombre</LabelName><LabelName language="es">Sacro</LabelName><LabelName language="es">Cóccix</LabelName><LabelName language="es">Ovarios</LabelName><LabelName language="es">Testículos</LabelName><LabelName language="es">Mediastino (azul)</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Peritoneo</LabelName><LabelName language="es">Retroperitoneo (rojo)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2520</HeightPixels>
+    <WidthPixels>3120</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000769889">extracranial germ cell tumor-CTHP image</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ExtracranialGermCellTumorSpanishNoTitle.jpg</SourceFilename>
+  <Comment audience="Internal" date="2015-03-20" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Tumor extracraneal de células germinativas; la imagen muestra partes del cuerpo donde los tumores de células germinativas se pueden formar, incluso el mediastino (el área entre los pulmones, incluso el corazón), el retroperitoneo (el área detrás del peritoneo), el sacro, el cóccix, los testículos (en hombre), y los ovarios (en las mujeres).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Los tumores extracraneales de células germinativas se forman en partes del cuerpo que no sea el cerebro. Esto incluye los testículos, los ovarios, el pecho, el abdomen, la parte inferior de la espina vertebral y la rabadilla.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

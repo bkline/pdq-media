@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes"> 
+ <MediaTitle>Ewing Sarcoma: Incidence Graph-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tumor de Ewing y sarcomas de hueso relacionados con este tumor</LabelName><LabelName language="es">Tasas de incidencia por edad en el momento del diagnóstico, 2016-2020</LabelName><LabelName language="es">Por sexo, en todas las razas</LabelName><LabelName language="es">Registros del NCCR, que representan hasta un 70 % de todos los niños, adolescentes y adultos jóvenes de los EE.UU</LabelName><LabelName language="es">Leyenda (sexo)</LabelName><LabelName language="es">Ambos sexos</LabelName><LabelName language="es">Tasa por 1 000 000</LabelName><LabelName language="es">8,0</LabelName><LabelName language="es">7,0</LabelName><LabelName language="es">6,0</LabelName><LabelName language="es">5,0</LabelName><LabelName language="es">4,0</LabelName><LabelName language="es">3,0</LabelName><LabelName language="es">2,0</LabelName><LabelName language="es">1,0</LabelName><LabelName language="es">0</LabelName><LabelName language="es">Edad en el momento del diagnóstico</LabelName><LabelName language="es">&lt;1</LabelName><LabelName language="es">1</LabelName><LabelName language="es">2</LabelName><LabelName language="es">3</LabelName><LabelName language="es">4</LabelName><LabelName language="es">5</LabelName><LabelName language="es">6</LabelName><LabelName language="es">7</LabelName><LabelName language="es">8</LabelName><LabelName language="es">9</LabelName><LabelName language="es">10</LabelName><LabelName language="es">11</LabelName><LabelName language="es">12</LabelName><LabelName language="es">13</LabelName><LabelName language="es">14</LabelName><LabelName language="es">15</LabelName><LabelName language="es">16</LabelName><LabelName language="es">17</LabelName><LabelName language="es">18</LabelName><LabelName language="es">19</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1680</HeightPixels><WidthPixels>2160</WidthPixels>
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000816650">Ewing Sarcoma: Incidence Graph</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EwingSarcomaGraphSpanish1</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000546979">Ewing sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el gráfico se muestran las tasas de incidencia  de tumor de Ewing y sarcomas de hueso relacionados con este tumor por edad en el momento del diagnóstico según los registros del National Childhood Cancer Registry (NCCR) de 2016 a 2020.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Tasas de incidencia  de tumor de Ewing y sarcomas de hueso relacionados con este tumor por edad en el momento del diagnóstico según los registros del National Childhood Cancer Registry (NCCR) de 2016 a 2020. Fuente: NCCR*Explorer: An interactive website for NCCR cancer statistics [Internet]. National Cancer Institute; 27 de septiembre de 2023. [actualizado: 8 de septiembre de 2023; citado el 4 de septiembre de 2024]. Disponible en inglés en: <ExternalRef cdr:xref="https://nccrexplorer.ccdi.cancer.gov/">https://nccrexplorer.ccdi.cancer.gov</ExternalRef></MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256753">Tratamiento del sarcoma de Ewing y los sarcomas indiferenciados de células redondas pequeñas de hueso y tejido blando</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation of caption and content description complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-09-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-09-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels only</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-09-18</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation of labels only.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000816650">Ewing Sarcoma: Incidence Graph</TranslationOf></Media>

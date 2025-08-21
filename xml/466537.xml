@@ -1,0 +1,96 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>respiratory system anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Bronquios</LabelName><LabelName language="es">Pulmón derecho</LabelName><LabelName language="es">Pulmón izquierdo</LabelName><LabelName language="es">Lóbulo superior</LabelName><LabelName language="es">Lóbulo medio</LabelName><LabelName language="es">Lóbulo inferior</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Bronquiolo</LabelName><LabelName language="es">Alvéolos</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>3090</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000466533">respiratory system anatomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>RespiratorySystemAnatomy HispanicMale FP IV 2022 Spanish2.jpg</SourceFilename><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded LungAnatomySpanish2.jpg with new copyright information. </Comment><Comment>Spanish file name LungAnatomySpanish.jpg; mm waiting for  publishable version of English image; mm</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone><Ethnicity>Hispanic/Latino</Ethnicity><DateLastReviewed>2022-09-26</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato respiratorio. En la imagen se muestra el pulmón derecho con los lóbulos superior, medio e inferior; el pulmón izquierdo con los lóbulos superior e inferior; así como la tráquea, los bronquios, los ganglios linfáticos y el diafragma.  En el recuadro se muestran los bronquiolos, los alvéolos, una arteria y una vena.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del aparato respiratorio. En la imagen se muestra el pulmón derecho con los lóbulos superior, medio e inferior; el pulmón izquierdo con los lóbulos superior e inferior; así como la tráquea, los bronquios, los ganglios linfáticos y el diafragma.  En el recuadro se muestran los bronquiolos, los alvéolos, una arteria y una vena.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del aparato respiratorio. Se observa la tráquea,  los pulmones derecho  e izquierdo con sus lóbulos, y los bronquios.  También se muestran los ganglios linfáticos y el diafragma.  El oxígeno se inhala a los pulmones, pasa a través de los alvéolos (bolsas diminutas llenas de aire al final de los bronquiolos) al torrente sanguíneo (ver recuadro), y llega a los tejidos de todo el cuerpo.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía del aparato respiratorio.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Summary cdr:ref="CDR0000256767">Tratamiento del cáncer de pulmón de células pequeñas</Summary>
+       <Summary cdr:ref="CDR0000433305">Tratamiento del mesotelioma maligno en adultos</Summary><Glossary cdr:ref="CDR0000270740">lung</Glossary><Glossary cdr:ref="CDR0000046566">respiratory system</Glossary><Glossary cdr:ref="CDR0000044490">respiratory tract</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Small change to hair and shading around mouth</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>"Alvéolos", with the  accent, is the term we have in the dictionary. And this image is linked to it.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent to Terese for revision to include diveristy changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd editorial changes to captions and CDs</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised captions and description; Sp only.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-11</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Spanish-labeled image from artist 2006-08-15; mm</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-02</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2006-08-03 caption and content desc translation completed; mm 2006-07-10 label translation completed; mm labels being translated</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000466533">respiratory system anatomy</TranslationOf></Media>

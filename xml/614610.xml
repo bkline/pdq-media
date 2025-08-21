@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, non-Hodgkin, childhood,  stage I</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage I Childhood Non-Hodgkin Lymphoma</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymphoma cells (Cancer)</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Lymph vessel</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2009-07-01</DateCreated>
+   
+   
+   
+   
+  <SourceFilename>ChildNHLstage1.9.jpg</SourceFilename><Comment audience="Internal" date="2009-08-06" user="rharrison">Removed Diaphragm, Liver, Cancer, a, and b labels.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000038957">non-Hodgkin lymphoma</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043670">childhood non-Hodgkin lymphoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage I childhood non-Hodgkin lymphoma; drawing shows cancer in one group of lymph nodes. An inset shows a lymph node with a lymph vessel, an artery, and a vein. Lymphoma cells containing cancer are shown in the lymph node.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I childhood non-Hodgkin lymphoma. Cancer is found in one group of lymph nodes or one area outside the lymph nodes, but no cancer is found in the abdomen or mediastinum (area between the lungs).</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258002">Childhood Non-Hodgkin Lymphoma Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000330108">stage I childhood non-Hodgkin lymphoma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-13</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Added "Stage I childhood non-Hodgkin lymphoma." to Caption.</Comment><Comment>Reviewer comment: "Only problem with NHL is stage I – by definition no disease in abdomen can be stage I – so illustration is incorrect – my recommendation is to just say outside of the lymph nodes, except for disease in the abdomen and chest (not shown)."</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sending to Dr. Gross.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-06-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2009-08-06" user="rharrison">Revised to reflect reviewer's comment and revised illustration.</Comment><Comment>Entered captions from OCCM. Updated content desc accordingly.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-26</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-08-06" user="rharrison">Updated to ChildNHLstage1.9.jpg.</Comment><Comment>Updated to ChildNHLstage1.8.jpg.</Comment><Comment>Updated to ChildNHLstage1.7.jpg.</Comment><Comment audience="Internal" date="2009-06-30" user="rharrison">Updated to ChildNHLstage1.6.jpg.</Comment><Comment audience="Internal" date="2009-03-06" user="rharrison">Updated to ChildNHLstage1.5.jpg.</Comment><Comment audience="Internal" date="2009-02-24" user="rharrison">Updated to ChildNHLstage1.4.jpg. </Comment><Comment audience="Internal" date="2009-02-06" user="rharrison">Updated to ChildNHLstage1.3.jpg.</Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to ChildNHLstage1.2.jpg. (file originally misnamed ChildNHLstage4.2.jpg).</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-09-09</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery - resection of the prostate, transurethral-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Resección transuretral de la próstata (RTUP)</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Se extrae tejido de la próstata</LabelName><LabelName language="es">Resectoscopio</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2515</HeightPixels><WidthPixels>3150</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000442342">surgery - resection of the prostate, transurethral</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>TURP FP V Spanish1.jpg </SourceFilename><Comment audience="Internal" date="2013-03-08" user="lsaucedo">Replace image with titled image</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Resección transuretral de la próstata. En la imagen se observa la extracción de tejido de la próstata mediante un resectoscopio (tubo delgado con una luz y  un instrumento cortante en su extremo) que se introduce a través de la uretra.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Resección transuretral de la próstata. En la imagen se observa la extracción de tejido de la próstata mediante un resectoscopio (tubo delgado con una luz y  un instrumento cortante en su extremo) que se introduce a través de la uretra.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Resección transuretral de la próstata (RTUP).  Se extrae tejido de la próstata mediante un resectoscopio (tubo delgado con una luz y un instrumento cortante en su extremo) que se introduce a través de la uretra. El tejido de la próstata que obstruye la uretra se corta y se extrae con el resectoscopio.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Resección transuretral de la próstata (RTUP).</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Image looks good. No changes to the caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-05-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image with diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>image sent to artist to make diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, reviewed caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised image, labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment audience="Internal" date="2019-05-15" user="lansberryic">Translation QC</Comment><Comment>Revised label, caption and description</Comment>
+       <Comment audience="Internal" date="2019-05-14" user="adlerm2">Se menciona que se inserta por la uretra, pero esta no  se identifica en la imagen.</Comment></ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added labels, QCd translations and replaced image with titled image</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000442342">surgery - resection of the prostate, transurethral</TranslationOf></Media>

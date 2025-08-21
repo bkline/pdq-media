@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colectomy, transverse, with anastomosis</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Resection of the Colon with Anastomosis</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Cancer and nearby tissue removed</LabelName><LabelName language="en">Cut ends of colon joined</LabelName><ImageDimensions>
+    <HeightPixels>1221</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-03-05</DateCreated><SourceFilename>ResectionColonWithAnastomosis8.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-03-05" user="anjamison">Added title.</Comment><Comment>Added new copyright information and label names. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+   <Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Three-panel drawing showing colon cancer surgery with anastomosis; first panel shows the  area of the colon with cancer, middle panel shows the cancer and nearby tissue removed, last panel shows the cut ends of the colon joined.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Resection of the colon with anastomosis. Part of the colon containing the cancer and nearby healthy tissue is removed, and then the cut ends of the colon are joined.</MediaCaption>
+  </Captions><Comment audience="Internal" date="2013-02-11" user="anjamison">Revised caption per SQK.</Comment>
+ <Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Inserted hyphen in three panel and added 5 "the"s in cont descr; dlb. </Comment></MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-06</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to ResectionColonWithAnastomosis8.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

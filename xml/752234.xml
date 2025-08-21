@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical changes</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cervical Changes</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Normal</LabelName><LabelName language="en">LSIL</LabelName><LabelName language="en">HSIL</LabelName><LabelName language="en">Cervical cancer</LabelName><ImageDimensions><HeightPixels>1575</HeightPixels>
+    
+    
+   <WidthPixels>3060</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2014-08-11</DateCreated><SourceFilename>CervicalChanges9.jpg</SourceFilename><Comment audience="Internal" date="2014-08-11" user="akuhlmann">Added 3D boxes to the insets</Comment><Comment audience="Internal" date="2014-04-03" user="akuhlmann">Removed the 4 circular views of the outside of the cervix; added the labels "Uterus" and "Vagina"; showed more of the vagina in the anatomy figure; made the little black box on the anatomy figure larger; removed blue lines in the cell boxes and in the anatomy figure; smoothed out the layer of cells under the blue line in the cell box labeled LSIL; relabeled the last cell box “Cervical cancer"; and removed the label “Outside layer of the cervix”. </Comment><Comment audience="Internal" date="2013-12-31" user="myousufzai">Moved the label “Outer layer of the cervix” down so that the arrow points to the very bottom layer on the inset; removed bottom pink layer from  the insets.</Comment><Comment audience="Internal" date="2013-11-19" user="akuhlmann">Moved little box on main figure down so blue line is more towards the top; made shading that connects the little box on the main figure with the first panel darker; moved label "Outside layer of the cervix" down so it points to the bottom of the superficial zone layer (2nd layer from bottom of panel); added more cancer cells at the bottom of the last panel labeled "Cancer"</Comment><Comment audience="Internal" date="2013-11-07" user="myousufzai">Removed labels for dermis, basement membrane, basal layer, transformation zone, and superficial zone; added label "Outside layer of the cervix"; changed label next to the bottom set of figures to say "View of the outside of the cervix"</Comment><Comment audience="Internal" date="2013-10-23" user="akuhlmann">Added a drawing of the cervix with a cross-section showing the layers and  cell progression; also added arrows between each cross-section drawing.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000613640">cervical intraepithelial neoplasia</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Cervical changes; drawing shows a cross-section of the uterus, cervix, and vagina. Also shown are four panels showing cell changes inside the cervix. The first panel shows normal cells. The second and third panels show abnormal cells called LSIL and HSIL. The fourth panel shows cervical cancer cells. Arrows are used between the panels to show that normal cells may become LSIL or HSIL, which may or may not become cancer.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Cervical changes. The cervix is the lower, narrow end of the uterus that forms a canal between the uterus and vagina.  Before cancer cells form in tissues of the cervix, the cells of the cervix go through abnormal changes called dysplasia. There are different types of dysplasia. Mild dysplasia, called low-grade intraepithelial lesion   (LSIL) is one type. Moderate or severe dysplasia, called high-grade intraepithelial lesion   (HSIL) is another type of dysplasia. LSIL and HSIL may or may not become cancer. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-03</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2014-08-11" user="akuhlmann">Updated image to CervicalChanges9.jpg</Comment><Comment audience="Internal" date="2014-04-03" user="akuhlmann">Updated image to CervicalChanges8.jpg</Comment><Comment>Updated image to CervicalChanges7.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-12</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Added image CervicalDysplasia1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-09-04</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000752232">Sample Illustration: cervical dysplasia</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

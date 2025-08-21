@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urethra, distal and proximal, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Uretra proximal y distal</LabelName><LabelName language="es">Mujer</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Uretra proximal</LabelName><LabelName language="es">Uretra distal</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Orina</LabelName><LabelName language="es">Hombre</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Pene</LabelName><LabelName language="es">Testículo</LabelName><LabelName language="es">Uretra proximal</LabelName><LabelName language="es">Uretra distal</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1939</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000747935">urethra, distal and promixal, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Urethra.DistalProximalSpanish1</SourceFilename>
+  <Comment audience="Internal" date="2013-05-23" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039051">urethral cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Uretra distal y proximal. El dibujo de la izquierda muestra la uretra proximal y distal en la mujer; también se muestran la vejiga llena de orina, los uréteres y el útero. La sección transversal del dibujo a la derecha muestra la uretra proximal y distal en el hombre. También se muestran el recto, la próstata, el pene y los testículos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la uretra distal y proximal. La orina sale de la vejiga al exterior del cuerpo a través de la uretra. La sección de la uretra que está cerca de la vejiga se llama uretra proximal. La parte que está más cerca a la salida del cuerpo se llama uretra distal. La uretra mide alrededor de  8 pulgadas de largo en los hombres y alrededor de 1½ pulgadas de largo en las mujeres. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000482337">Cáncer de uretra: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000046640">urethra</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Caption and content description revised as per Amy Kulhman´s email</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

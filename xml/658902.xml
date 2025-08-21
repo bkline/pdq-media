@@ -1,0 +1,95 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stages IA1 and IA2 Cervical Cancer</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Cancer cells (only seen under a microscope)</LabelName><LabelName language="en">5 mm</LabelName><LabelName language="en">3 mm</LabelName><LabelName language="en">IA2</LabelName><LabelName language="en">IA1</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2020-04-13</DateCreated><SourceFilename>CervicalCaStage1A1and1A2.8.jpg</SourceFilename><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Removed the 7 mm scale and label, and added the label "Cancer cells (only seen under a microscope)"</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Revisions made to image per FIGO staging updates</Comment><Comment audience="Internal" date="2011-09-16" user="anjamison">In the inset, moved the vertical scale to the right.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038005">stage I cervical cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   <Topic cdr:ref="CDR0000037892">cervical cancer</Topic>
+  </Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IA1 and IA2 cervical cancer; drawing shows a cross-section of the cervix and vagina. An inset shows cancer cells in the cervix that can only be seen  under a microscope. The cancer in stage IA1 is not more than 3 mm deep. The cancer in stage IA2 is more than 3 but not more than 5 mm deep.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IA1 and IA2 cervical cancer; drawing shows a cross-section of the cervix and vagina. An inset shows cancer cells in the cervix that can only be seen  under a microscope. The cancer in stage IA1 is not more than 3 mm deep. The cancer in stage IA2 is more than 3 but not more than 5 mm deep.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IA1 and IA2 cervical cancer. A very small amount of cancer that can only be seen under a microscope is found in the tissues of the cervix. In stage IA1, the cancer is not more than 3 millimeters deep. In stage IA2, the cancer is more than 3 but not more than 5 millimeters deep.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IA1 and IA2 cervical cancer. A very small amount of cancer that can only be seen under a microscope is found in the tissues of the cervix. In stage IA1, the cancer is not more than 3 millimeters deep. In stage IA2, the cancer is more than 3 but not more than 5 millimeters deep.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045886">stage I cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated image to CervicalCaStage1A1and1A2.8.jpg</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Updated image to CervicalCaStage1A1and1A2.7.jpg</Comment>
+        <Comment audience="Internal" date="2011-10-17" user="anjamison">Updated to CervicalCaStage1A1and1A2.5.jpg</Comment><Comment audience="Internal" date="2011-10-04" user="anjamison">Updated to CervicalCaStage1A1and1A2.4.jpg</Comment><Comment audience="Internal" date="2011-09-16" user="anjamison">Updated to CervicalCaStage1A1and1A2.3.jpg   </Comment><Comment audience="Internal" date="2011-09-02" user="anjamison">Updated to CervicalCaStage1A1and1A2.2.jpg</Comment><Comment>Added image CervicalCaStage1A1andA2.1.jpg.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-09</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-11-28</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-04</ProcessingStatusDate>
+   <EnteredBy>2009-11-04</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000658892">Sample illustration: cervical cancer stage I</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000728796">Illustration Review Sheet: cervical cancer stage IA</SupplementaryInfoLink></RelatedDocuments></Media>

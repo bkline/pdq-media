@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>paclitaxel-loaded polymeric micelle-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>3</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2012-01-11</DateCreated>
+      <SourceFilename>Week_052_Rev1/649003_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "micela polimérico cargado con paclitaxel"</ContentDescription>
+    </ContentDescriptions>
+  <Comment audience="Internal" date="2012-02-20" user="lsaucedo">Corrected term name</Comment></MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000649003">paclitaxel-loaded polymeric micelle</Glossary>
+  </ProposedUse>
+</Media>

@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IVA (2)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Adenocarcinoma de esófago en estadio IVA (Parte 2)</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Vía respiratoria</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Columna vertebral</LabelName><LabelName language="es">Aorta</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2670</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000794334">esophageal adenocarcinoma stage IVA (2)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AdenocarcinomaEsophagusStage4APart2Spanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2019-08-14" user="lansberryic">New image linked</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043692">stage IV esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Adenocarcinoma de esófago en estadio IVA (Parte 2). En la imagen se observa cáncer en el esófago, la vía respiratoria, la aorta y la columna vertebral.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IVA (Parte 2). En la imagen se observa cáncer en el esófago, la vía respiratoria, la aorta y la columna vertebral.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Adenocarcinoma de esófago en estadio IVA (Parte 2). El cáncer se diseminó a estructuras cercanas, como la vía respiratoria, la aorta o la columna vertebral. Es posible que se encuentre cáncer en 0 a 6 ganglios linfáticos cercanos.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IVA (Parte 2). El cáncer se diseminó a estructuras cercanas, como la vía respiratoria, la aorta o la columna vertebral. Es posible que se encuentre cáncer en 0 a 6 ganglios linfáticos cercanos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary><Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary>
+  <Glossary cdr:ref="CDR0000720258">stage IV esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of Caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-16</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed with SCC images</Comment>
+       <Comment audience="Internal" date="2019-07-16" user="adlerm2">Revised per latest changes in Eng; please review all text (I used approved markup to avoid confusion).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-06</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC for Caption and Content Desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-31</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated captions and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Qc for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only; changed language attribute of labels to ES.</Comment>
+       <Comment audience="Internal" date="2018-11-26" user="adlerm2">Please note arrow pointing at trachea reads "airway" in this image but "trachea" in Stage IIIB (2).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000794334">esophageal adenocarcinoma stage IVA (2)</TranslationOf></Media>

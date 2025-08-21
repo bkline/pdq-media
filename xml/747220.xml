@@ -1,0 +1,118 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, punch-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Biopsia con sacabocados</LabelName><LabelName language="en">0 mm</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">2 mm</LabelName><LabelName language="en">3 mm</LabelName><LabelName language="en">4 mm</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2790</HeightPixels><WidthPixels>2400</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000578083">biopsy, punch</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BiopsyPunch FP IV Spanish1.jpg</SourceFilename>
+  <Comment user="saucedol" date="2024-02-14" audience="Internal">Linked revised image</Comment><Comment audience="Internal" date="2013-03-08" user="lsaucedo">Added new titled image </Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2024-02-20</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="es">Biopsia con sacabocados. En el dibujo se observa un instrumento con forma de lápiz que en un extremo tiene un bisturí cilíndrico hueco  que se coloca sobre una lesión de la piel del antebrazo del paciente y se hace girar en el sentido de las agujas del reloj y en el sentido contrario para cortar la piel y extraer una muestra pequeña de tejido con forma de cilindro. En una ampliación se observa el bisturí cilíndrico y se señala el lugar donde corta la piel y la profundidad hasta donde llega, de alrededor de 4 milímetros (mm) en la capa del tejido graso debajo de la piel.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Biopsia con sacabocados. Se usa un bisturí cilíndrico hueco para cortar y sacar un cilindro de tejido que contiene una  lesión de la piel. El bisturí se hace girar en el sentido de las agujas del reloj y en el sentido contrario para cortar alrededor de 4 milímetros (mm) de profundidad hasta llegar a la capa de tejido graso debajo de la piel y se extrae una muestra de tejido. El grosor de la piel cambia según la parte del cuerpo.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000256809">Tratamiento del cáncer de piel</Summary><Glossary cdr:ref="CDR0000410643">punch biopsy</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of caption and content descr. and media.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-20</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Demographic information updated. Also the label was updated to match the image and the glossary term.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist for revision</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-12-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised content description only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Editorial changes to caption and CD reviewed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-27</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised caption and cont. description during AJCC skin cancer updates; Sp style consistency.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd, title image added</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Created new media doc, linked new title image</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000578083">biopsy, punch</TranslationOf></Media>

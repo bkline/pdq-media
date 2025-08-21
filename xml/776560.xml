@@ -1,0 +1,98 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>immune checkpoint inhibitor (CTLA-4)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">CTLA-4/B7 binding  inhibits T cell activation</LabelName><LabelName language="en">Antigen-presenting cell</LabelName><LabelName language="en">B7-1/B7-2</LabelName><LabelName language="en">CTLA-4</LabelName><LabelName language="en">CD28</LabelName><LabelName language="en">MHC</LabelName><LabelName language="en">Antigen</LabelName><LabelName language="en">TCR</LabelName><LabelName language="en">Inactive T cell</LabelName><LabelName language="en">Tumor cell</LabelName><LabelName language="en">Blocking CTLA-4 allows T cell killing of tumor cell</LabelName><LabelName language="en">Anti-CTLA-4 antibody</LabelName><LabelName language="en">CTLA-4</LabelName><LabelName language="en">Active T cell</LabelName><LabelName language="en">Tumor cell death</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3120</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-04-08</DateCreated>
+   <SourceFilename>ImmuneCheckpointCTLA-4.8.jpg</SourceFilename><Comment audience="Internal" date="2019-04-08" user="kuhlmanna">Removed the green color from behind the MHC/antigen-TCR molecules on the left panel and from behind the CTLA-4 molecules on the right panel; darkened the colors of the receptors and binding molecules in the right panel so that they are the same shade of color as in the left panel;  and added a hyphen after the word “Antigen” on the left panel </Comment>
+  <Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Removed the extra CTLA-4 molecule and anti-CTLA4 antibody from the right hand figure; removed the antibody floating up under the title; removed the two smaller T cells next to the arrow on the right side;   and lined up the title on the left side of the figure with the title on the right </Comment><Comment audience="Internal" date="2019-03-18" user="kuhlmanna">Extensive revisions made to image</Comment><Comment audience="Internal" date="2016-06-08" user="kuhlmanna">Changed label in left panel to "B7-1/B7-2 binds to CTLA-4 and inhibits…cell" per OCC</Comment><Comment audience="Internal" date="2015-11-11" user="kuhlmanna">Changed the wording at the top of the left panel to say “B7-1/B7-2 binding to CTLA-4 inhibits…cell"; added hyphens after "Anti-" for Anti-B7-1/B7-2 and Anti-CTLA-4</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Immune checkpoint inhibitor; the panel on the left shows the binding of the T-cell receptor (TCR) to antigen and MHC proteins on the antigen-presenting cell (APC) and the  binding of CD28 on the T cell to B7-1/B7-2 on the APC. It also shows the binding of B7-1/B7-2 to CTLA-4 on the T cell, which keeps the T cells in the inactive state. The panel on the right shows immune checkpoint inhibitor (anti-CTLA antibody) blocking the binding of B7-1/B7-2 to CTLA-4, which allows the T cells to be active and to kill tumor cells. </ContentDescription>
+  </ContentDescriptions>
+  <Captions> 
+   <MediaCaption audience="Patients" language="en">Immune checkpoint inhibitor. Checkpoint proteins, such as B7-1/B7-2 on antigen-presenting cells (APC) and CTLA-4 on T cells, help keep the body’s immune responses in check. When the T-cell receptor (TCR) binds to antigen and major histocompatibility complex (MHC) proteins on the APC and CD28 binds to B7-1/B7-2 on the APC, the T cell can be activated. However, the binding of B7-1/B7-2 to CTLA-4 keeps the T cells in the inactive state so they are not able to kill tumor cells in the body (left panel). Blocking the binding of B7-1/B7-2 to CTLA-4 with an immune checkpoint inhibitor (anti-CTLA-4 antibody) allows the T cells to be active and to kill tumor cells (right panel).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000772606">immune checkpoint inhibitor</Glossary><Glossary cdr:ref="CDR0000777030">CTLA-4</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2019-04-08" user="kuhlmanna">Updated image to ImmuneCheckpointCTLA-4.8.jpg</Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Updated image to ImmuneCheckpointCTLA-4.7.jpg</Comment><Comment>Updated image to ImmuneCheckpointCTLA-4.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-06-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-06-09" user="kuhlmanna">Image revision approved by OCC</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-06-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Caption revised per OCC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2015-11-11" user="kuhlmanna">Updated to ImmuneCheckpointCTLA-4.3.jpg</Comment><Comment>Updated to ImmuneCheckpointCTLA-4.2.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-10-23</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  <Comment audience="Internal" date="2015-10-23" user="kuhlmanna">Added ImmuneCheckpointCTLA-4.1.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

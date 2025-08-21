@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gallbladder anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Hígado</LabelName><LabelName language="es">Conductos biliares</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Conducto cístico</LabelName><LabelName language="es">Conducto hepático común</LabelName><LabelName language="es">Conducto colédoco</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Intestino delgado</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000658899">gallbladder anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>GallbladderAnatomySpanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-04-01" user="saucedol">Revise image linked</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038747">gallbladder cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la vesícula biliar; se observa el hígado, el conducto hepático común, el conducto cístico, el conducto colédoco, el páncreas y el intestino delgado. En el recuadro se observa el hígado, los conductos biliares, la vesícula biliar, el páncreas y el intestino delgado.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la vesícula biliar. La vesícula biliar está justo debajo del hígado. La bilis se almacena en la vesícula biliar y  fluye a través del conducto cístico y el conducto colédoco hacia el intestino delgado cuando se están digiriendo los alimentos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256804">Cáncer de vesícula biliar: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000046395">gallbladder</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>VID</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-26" user="dbuchhagen">Added image GallbladderAnatomySpanish.jpg.</Comment><Comment audience="Internal" date="2010-03-23" user="lsaucedo">Translation QC</Comment></ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

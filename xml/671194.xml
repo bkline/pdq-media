@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Liver PRETEXT and POSTTEXT I for HP</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Liver PRETEXT and POSTTEXT I</LabelName><LabelName language="en">Vena cava</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Right posterior section</LabelName><LabelName language="en">Right anterior section</LabelName><LabelName language="en">Left medial section</LabelName><LabelName language="en">Portal vein</LabelName><LabelName language="en">Left lateral section</LabelName><LabelName language="en">Hepatic veins</LabelName><LabelName language="en">Cancer in one section of the liver and three adjoining sections are cancer-free</LabelName><ImageDimensions>
+    <HeightPixels>1500</HeightPixels>
+    <WidthPixels>3180</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-01-31</DateCreated>
+   <SourceFilename>PretextPosttext1.9.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2022-01-31">Changed title from Liver PRETEXT to Liver PRETEXT and POSTTEXT</Comment><Comment audience="Internal" date="2015-05-20" user="akuhlmann">Deleted “Stage” from the title and changed the Arabic number in the title to a Roman numeral; changed "sector(s)" to "section(s)" in the labels </Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Replaced “segment” with “sector” </Comment><Comment audience="Internal" date="2010-05-03" user="dbuchhagen">Took out white dotted lines and Roman numerals in left liver.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038968">liver and intrahepatic biliary tract cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Liver PRETEXT and POSTTEXT I; drawing shows two livers. Dotted lines divide each liver into four vertical sections of about the same size.  In the first liver, cancer is shown in the section on the far left.  In the second liver, cancer is shown in the section on the far right.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Liver PRETEXT and POSTTEXT I. Cancer is found in one section of the liver and three adjoining sections are cancer-free.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062836">Childhood Liver Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated to PretextPosttext1.9.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-11-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-08</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-13</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-05-18" user="dbuchhagen">Draft content description.</Comment><Comment>Draft caption only.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-03</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-07-08" user="dbuchhagen">Updated image to LiverPretextStaging1.6.jpg.</Comment><Comment audience="Internal" date="2010-06-17" user="dbuchhagen">Updated image to LiverPretextStaging1.5.jpg.</Comment><Comment audience="Internal" date="2010-06-01" user="dbuchhagen">Updated image to LiverPretextStaging1.4.jpg.</Comment><Comment audience="Internal" date="2010-05-13" user="dbuchhagen">Updated image to LiverPretextStaging1.3.jpg.</Comment><Comment>Updated image to LiverPretextStaging1.2.jpg.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-04-19</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   <Comment>Added image LiverpPretextStagingA.1.jpg.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,64 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>invasive lobular carcinoma of the breast</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Invasive Lobular Carcinoma</LabelName><LabelName language="en">Normal lobule</LabelName><LabelName language="en">Lobe</LabelName><LabelName language="en">Ducts</LabelName><LabelName language="en">Invasive lobular carcinoma</LabelName><LabelName language="en">Cancer cells</LabelName><LabelName language="en">Lobules</LabelName><LabelName language="en">Fatty tissue</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-02-06</DateCreated>
+   <SourceFilename>InvasiveLobularCarcinomaBrownFP V.1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-02-06" audience="Internal">Changed label to say “Cancer cells” instead of “Tumor cells”; took the abbreviation ILC out of  the title and lobule pullout and added label “Invasive lobular carcinoma” above the pullout</Comment><Comment>Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  
+  <SkinTone>Type V – Brown skin</SkinTone>
+  
+ <DateLastReviewed>2024-02-05</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039850">invasive lobular breast carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Invasive lobular carcinoma  of the breast; drawing shows a lobe, ducts, lobules, and fatty tissue in a cross section of the breast. There are also three separate pullouts showing a normal lobe, a normal lobule, and a lobule with invasive lobular carcinoma  and cancer cells spreading outside it.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Invasive lobular carcinoma begins in the lobules (milk glands) of the breast and spreads outside the lobules to other tissues in the breast. It can also spread through the blood and lymph systems to other parts of the body. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000062955">Breast Cancer Treatment</Summary>
+  
+  <Glossary cdr:ref="CDR0000750211">invasive lobular carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-02-20</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" date="2024-02-06" audience="Internal">Updated image to InvasiveLobularCarcinomaBrownFP V.1.jpg</Comment><Comment>Invasive Lobular Carcinoma.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

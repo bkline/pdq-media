@@ -1,0 +1,67 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>X-linked recessive inheritance</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">X-Linked Recessive Inheritance</LabelName><LabelName language="en">Affected father</LabelName><LabelName language="en">Unaffected mother</LabelName><LabelName language="en">Chromosome pair</LabelName><LabelName language="en">Mutated gene</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Y</LabelName><LabelName language="en">Two normal genes</LabelName><LabelName language="en">X</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Unaffected daughter (Carrier)</LabelName><LabelName language="en">X</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Unaffected son</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Y</LabelName><LabelName language="en">Unaffected father</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Y</LabelName><LabelName language="en">Unaffected mother (Carrier)</LabelName><LabelName language="en">X</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Unaffected daughter</LabelName><LabelName language="en">X</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Unaffected son</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Y</LabelName><LabelName language="en">Unaffected daughter (Carrier)</LabelName><LabelName language="en">X</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Affected son</LabelName><LabelName language="en">X</LabelName><LabelName language="en">Y</LabelName><ImageDimensions>
+    <HeightPixels>1650</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-09-14</DateCreated>
+   <SourceFilename>X-LinkedRecessiveInheritance4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-09-15" user="yousufzaimg">Added an outline around the Affected individuals and around the mutated gene on the chromosomes</Comment><Comment>Added a line to both copies of the normal gene and changed the label to “Two normal genes” under the Unaffected mother figure</Comment><Comment audience="Internal" date="2020-08-31" user="yousufzaimg">Changed lines connecting the parents to the children to black and white straight lines; removed duplicate child figures in the first panel</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing an X-linked recessive inheritance pattern between a father,  mother, and their children. The panel on the left shows an affected father (who only has one X chromosome) with a mutated (changed) gene on the X chromosome; an unaffected mother (who has two X chromosomes) with a normal gene on both X chromosomes; an unaffected daughter (carrier), who has two X chromosomes, with a mutated gene on one X chromosome and a normal gene on the other X chromosome; and an unaffected son (who only has one X chromosome) with a normal gene on the X chromosome. The panel on the right shows an unaffected father with a normal gene on the X chromosome; an affected mother (carrier) with a normal gene on one X chromosome and a mutated gene on the other X chromosome;  an unaffected daughter with a normal gene on both X chromosomes; an unaffected son with a normal gene on the X chromosome; an unaffected daughter (carrier) with a mutated gene on one X chromosome and a normal gene on the other X chromosome; and an affected son with a mutated gene on the X chromosome.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Drawing showing an X-linked recessive inheritance pattern between a father,  mother, and their children. The panel on the left shows an affected father (who only has one X chromosome) with a mutated (changed) gene on the X chromosome; an unaffected mother (who has two X chromosomes) with a normal gene on both X chromosomes; an unaffected daughter (carrier), who has two X chromosomes, with a mutated gene on one X chromosome and a normal gene on the other X chromosome; and an unaffected son (who only has one X chromosome) with a normal gene on the X chromosome. The panel on the right shows an unaffected father with a normal gene on the X chromosome; an affected mother (carrier) with a normal gene on one X chromosome and a mutated gene on the other X chromosome;  an unaffected daughter with a normal gene on both X chromosomes; an unaffected son with a normal gene on the X chromosome; an unaffected daughter (carrier) with a mutated gene on one X chromosome and a normal gene on the other X chromosome; and an affected son with a mutated gene on the X chromosome.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">X-linked recessive inheritance is a way a genetic trait or condition can be passed down from parent to child through mutations (changes) in a gene on the X chromosome. In males (who only have one X chromosome), a mutation in the copy of the gene on the single X chromosome causes the condition. Females (who have two X chromosomes) must have a mutation on both X chromosomes in order to be affected with the condition. If only the father   or the mother has the mutated X-linked gene, the daughters are usually not affected and are called carriers because one of their X chromosomes has the mutation but the other one is normal. Sons will be affected if they inherit the mutated X-linked gene from their mother. Fathers cannot pass X-linked recessive conditions to their sons.</MediaCaption><MediaCaption audience="Health_professionals" language="en">X-linked recessive inheritance is a way a genetic trait or condition can be passed down from parent to child through mutations (changes) in a gene on the X chromosome. In males (who only have one X chromosome), a mutation in the copy of the gene on the single X chromosome causes the condition. Females (who have two X chromosomes) must have a mutation on both X chromosomes in order to be affected with the condition. If only the father   or the mother has the mutated X-linked gene, the daughters are usually not affected and are called carriers because one of their X chromosomes has the mutation but the other one is normal. Sons will be affected if they inherit the mutated X-linked gene from their mother. Fathers cannot pass X-linked recessive conditions to their sons.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000339348">X-linked recessive inheritance</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2020-09-15" user="yousufzaimg">Updated image to X-LinkedRecessiveInheritance4.jpg</Comment><Comment audience="Internal" date="2020-09-14" user="yousufzaimg">Updated image to X-LinkedRecessiveInheritance3.jpg</Comment><Comment audience="Internal" date="2020-08-31" user="kuhlmanna">Updated image to X-LinkedRecessiveInheritance2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

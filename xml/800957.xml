@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IB2 and IB3</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IB2 Cervical Cancer</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Stage IB3 Cervical Cancer</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-04-13</DateCreated>
+   <SourceFilename>CervicalCaStage1B2and1B3.2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Added a label for Cancer on the IB3 panel; and smoothed the edges of the cancer so that it looks like it is bulging out a bit but not extending out of the cervix</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IB2 and IB3 cervical cancer; drawing shows two cross-sections of the cervix and vagina. The drawing on the left shows stage IB2 cancer in the cervix  that is larger than 2 cm but not larger than 4 cm. The drawing on the right shows stage IB3 cancer in the cervix that is larger than 4 cm.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IB2 and IB3 cervical cancer; drawing shows two cross-sections of the cervix and vagina. The drawing on the left shows stage IB2 cancer in the cervix that is larger than 2 cm but not larger than 4 cm. The drawing on the right shows stage IB3 cancer in the cervix that is larger than 4 cm.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IB2 and IB3 cervical cancer. In stage IB2, the cancer is larger than 2 centimeters but not larger than 4 centimeters. In stage IB3, the cancer is larger than 4 centimeters. </MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IB2 and IB3 cervical cancer. In stage IB2, the cancer is larger than 2 centimeters but not larger than 4 centimeters. In stage IB3, the cancer is larger than 4 centimeters. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045886">stage I cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-13</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated to CervicalCaStage1B2and1B3.2.jpg</Comment><Comment>Added CervicalCaStage1B2and1B3.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

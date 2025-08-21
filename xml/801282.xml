@@ -1,0 +1,38 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>PEB regimen-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <SoundData>
+   <SoundType>Speech</SoundType>
+   <SoundEncoding>MP3</SoundEncoding>
+   <RunSeconds>2</RunSeconds>
+  </SoundData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Vanessa Richardson, VR Voice</Creator>
+   <DateCreated>2020-03-02</DateCreated>
+   <SourceFilename>Week_135/782179_es.mp3
+</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>pronunciation</Category>
+  </Categories>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pronunciation of dictionary
+         term "régimen PEB"</ContentDescription>
+  </ContentDescriptions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000782179">PEB regimen</Glossary>
+ </ProposedUse>
+ 
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Audio media file created manually because the audio publishing took skipped over it</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

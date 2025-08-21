@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>mammography-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Mamografía</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000711008">mammography</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MammographySpanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2013-05-10" user="lsaucedo">New image added</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039644">breast cancer in situ</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="es">Mamografía; se presiona la mama izquierda entre dos placas. Se usa una máquina de rayos-X para tomar imágenes de la mama. Un recuadro muestra la imagen de rayos-X con una flecha que apunta al tejido anormal.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="es">Mamografía. La mama se presiona entre dos placas. Se usan rayos-X para tomar imágenes del tejido de la mama.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000744471">Exámenes de detección del cáncer de seno (mama)</Summary>
+  <Summary cdr:ref="CDR0000256762">Cáncer de seno (mama): Tratamiento</Summary><Glossary cdr:ref="CDR0000045775">mammogram</Glossary>
+ <Glossary cdr:ref="CDR0000045996">mammography</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>New image added</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-05-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,94 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>vulva anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Anatomía de la vulva</LabelName><LabelName language="es">Monte del pubis</LabelName><LabelName language="es">Clítoris</LabelName><LabelName language="es">Abertura de la uretra</LabelName><LabelName language="es">Labios internos y externos de la vagina</LabelName><LabelName language="es">Abertura de la vagina</LabelName><LabelName language="en">Perineo</LabelName><LabelName language="es">Ano</LabelName><LabelName language="es">Vulva</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2640</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000742480">vulva anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>VulvaAnatomySpanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2013-11-05" user="lsaucedo">New image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037961">vulvar cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía de la vulva. En la imagen se observan el monte del pubis, el clítoris, la abertura de la uretra, los labios internos y externos de la vagina y la abertura de la vagina. También se muestran el perineo y el ano.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Anatomía de la vulva. En la imagen se observan el monte del pubis, el clítoris, la abertura de la uretra, los labios internos y externos de la vagina y la abertura de la vagina. También se muestran el perineo y el ano.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía de la vulva. Las partes de la vulva son el monte del pubis (monte de Venus), el clítoris, la abertura de la uretra, los labios internos y externos de la vagina,  la abertura de la vagina y el perineo.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Anatomía de la vulva. Las partes de la vulva son el monte del pubis (monte de Venus), el clítoris, la abertura de la uretra, los labios internos y externos de la vagina,  la abertura de la vagina y el perineo.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000452963">Tratamiento del cáncer de vulva</Summary><Summary cdr:ref="CDR0000256698">Tratamiento del cáncer de vulva</Summary>
+  <Glossary cdr:ref="CDR0000044974">vulva</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-01-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image, minor change as per changes to English version</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-06-05</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-29</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Added HP cont. Descr. and Caption. Revised translation, pending peer review.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-11-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-10-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-10-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-10-22</ProcessingStatusDate>
+        <EnteredBy>2013-10-22</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000742480">vulva anatomy</TranslationOf></Media>

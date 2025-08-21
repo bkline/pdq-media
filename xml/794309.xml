@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>layers of the stomach wall-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Capas de la pared del estómago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Parte interior del estómago</LabelName><LabelName language="es">Mucosa (capa más interna)</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa de músculo</LabelName><LabelName language="es">Subserosa</LabelName><LabelName language="es">Serosa (capa más externa)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000793595">layers of the stomach wall</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>StomachLayersSpanish1.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2018-08-22" user="saucedol">Linked new image.</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Capas de la pared del estómago. En la imagen del estómago y en el recuadro se observan las capas de la pared del estómago, incluso la mucosa (capa más interna), la submucosa, la capa de músculo, la subserosa y la serosa (capa más externa).</ContentDescription><ContentDescription audience="Health_professionals" language="es">Capas de la pared del estómago. En la imagen del estómago y en el recuadro se observan las capas de la pared del estómago, incluso la mucosa (capa más interna), la submucosa, la capa de músculo, la subserosa y la serosa (capa más externa).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Capas de la pared del estómago. La pared del estómago se compone de la mucosa (capa más interna), la submucosa, la capa de músculo, la subserosa y la serosa (capa más externa). El estómago es un órgano de la parte superior del abdomen.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Capas de la pared del estómago.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256764">Tratamiento del cáncer de estómago</Summary>
+  <Glossary cdr:ref="CDR0000046604">stomach</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-28</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       <Comment>De acuerdo con la excepción en este caso para "innermost"; es una buena solución. Hubiese sido distinto si la imagen estuviera al revés con la capa superficial arriba y la profunda abajo.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Caption and Content Descr./Pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Only labels. "Más profunda" es una opción de traducción correcta para "innermost", pero en este caso es confuso en español porque al mirar la imagen se refiere a la mucosa, que es de hecho la capa superficial del interior de la pared del estómago, sugiero usar capa "más interna"; ver "íntimo: innermost" en el DTM. Además, queda mejor en contraposición con la capa más externa "outermost".</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000793595">layers of the stomach wall</TranslationOf></Media>

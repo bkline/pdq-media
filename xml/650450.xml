@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, transvaginal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Vejiga</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Recto</LabelName><ImageDimensions>
+    <HeightPixels>2712</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000618018">ultrasound, transvaginal</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>TransvaginalUltrasoundSpanish2.jpg</SourceFilename><Comment audience="Internal" date="2013-01-18" user="lsaucedo">Added Spanish titled image</Comment><Comment>Spanish filename: TransvaginalUltrasoundSpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038960">female reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Ecografía transvaginal; la imagen muestra una vista de costado de la anatomía del aparato reproductor femenino durante un procedimiento de ecografía transvaginal. Se observa una sonda ecográfica (instrumento que produce ondas de sonido que rebotan en los tejidos del interior del cuerpo para crear ecos) introducida en la vagina. También se puede observar la vejiga, el útero, la trompa de Falopio derecha y el ovario derecho. El recuadro muestra al ecografista de diagnóstico (persona capacitada para realizar procedimientos de ecografía) que examina a una mujer sobre una camilla y una pantalla de computadora que muestra una imagen de los tejidos internos de la paciente.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Ecografía transvaginal. Se introduce en la vagina una sonda ecográfica conectada a una computadora y se mueve suavemente para mostrar los distintos órganos. La sonda hace rebotar ondas de sonido en los órganos y tejidos internos para crear ecos que componen un ecograma (imagen computarizada).</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000452962">Sarcoma uterino: Tratamiento</Summary>
+ <Summary cdr:ref="CDR0000256774">Cáncer de cuello uterino: Tratamiento</Summary><Summary cdr:ref="CDR0000256785">Cáncer epitelial de ovarios: Tratamiento</Summary><Glossary cdr:ref="CDR0000046633">transvaginal ultrasound</Glossary><Glossary cdr:ref="CDR0000403148">transvaginal sonography</Glossary><Glossary cdr:ref="CDR0000044470">TVS</Glossary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-04-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-08-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Translation of labels, caption, and content complete.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-22</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

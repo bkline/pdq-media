@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>urinary system, male and female, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Right kidney</LabelName><LabelName language="en">Left kidney</LabelName><LabelName language="en">Renal tubules</LabelName><LabelName language="en">Urine</LabelName><LabelName language="en">Renal pelvis</LabelName><LabelName language="en">Ureter</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Urine</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Uterus</LabelName><ImageDimensions>
+    <HeightPixels>1883</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-09-22</DateCreated>
+   <SourceFilename>MaleAndFemaleUrinaryAnatomy10inch.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the male urinary system (left panel) and female urinary system (right panel); two-panel drawing showing the right and left kidneys, the ureters, the bladder filled with urine, and the urethra. The inside of the left kidney shows the renal pelvis. An inset shows the renal tubules and urine.  Also shown are the prostate and penis (left panel) and the uterus (right panel).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Anatomy of the male urinary system (left panel) and female urinary system (right panel); two-panel drawing showing the right and left kidneys, the ureters, the bladder filled with urine, and the urethra. The inside of the left kidney shows the renal pelvis. An inset shows the renal tubules and urine.  Also shown are the prostate and penis (left panel) and the uterus (right panel).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the male urinary system (left panel) and female urinary  system (right panel) showing the kidneys, ureters, bladder, and urethra. Urine is made in the renal tubules and collects in the renal pelvis of each kidney. The urine flows from the kidneys through the ureters to the bladder. The urine is stored in the bladder until it leaves the body through the urethra.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the male urinary system (left panel) and female urinary  system (right panel) showing the kidneys, ureters, bladder, and urethra. Urine is made in the renal tubules and collects in the renal pelvis of each kidney. The urine flows from the kidneys through the ureters to the bladder. The urine is stored in the bladder until it leaves the body through the urethra.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000304478">Bladder and Other Urothelial Cancers Screening</Summary><Summary cdr:ref="CDR0000062908">Bladder Cancer Treatment</Summary><Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary><Summary cdr:ref="CDR0000276462">Renal Cell Cancer Treatment</Summary><Summary cdr:ref="CDR0000343585">Transitional Cell Cancer of the Renal Pelvis and Ureter Treatment</Summary><Summary cdr:ref="CDR0000062925">Urethral Cancer Treatment</Summary><Summary cdr:ref="CDR0000435963">Urethral Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-01</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added MaleAndFemaleUrinaryAnatomy10inch.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

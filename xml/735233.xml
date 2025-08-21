@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endometrial cancer stage IA and IB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IA Endometrial Cancer</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Fallopian tube</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Endometrium</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Myometrium</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Stage IB Endometrial Cancer</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>2985</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-10-01</DateCreated>
+   <SourceFilename>EndometrialCaStage1A.1B.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-10-05" user="anjamison">Added labels for Ovary, Fallopian tube, and Vagina.</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Unbolded “Cancer”; removed labels and brackets for Uterus, Cervix, Endometrium, and Myometrium in the right hand panel; removed boxes around the two panels.</Comment><Comment audience="Internal" date="2012-07-10" user="anjamison">Combined image for stage IA and image for IB into a single image; deleted labels for Vagina, Ovary and Fallopian tubes. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038737">endometrial cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IA and stage IB endometrial cancer shown in two cross-section drawings of the uterus and cervix. Drawing on the left shows stage IA, with cancer in the endometrium and myometrium of the uterus. Drawing on the right shows stage IB, with cancer more than halfway through the myometrium. Also shown are the fallopian tubes, ovaries, and vagina.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IA and stage IB endometrial cancer. In stage IA, cancer is in the endometrium only or less than halfway through the myometrium (the muscle layer of the uterus). In stage IB, cancer has spread halfway or more into the myometrium.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062964">Endometrial Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045116">stage I endometrial cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Add labels for Ovary, Fallopian tube, and Vagina.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-21</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-07-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-01</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2012-10-05" user="anjamison">Updated to EndometrialCaStage1A.1B.4.jpg</Comment><Comment audience="Internal" date="2012-07-20" user="anjamison">Updated to EndometrialCaStage1A.1B.3.jpg</Comment><Comment audience="Internal" date="2012-07-10" user="anjamison">Updated to EndometrialCaStage1A.1B.Option2.jpg</Comment><Comment>Updated to EndometrialCaStage1A.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-06-08</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2012-06-08" user="anjamison">First draft</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000740427">Illustration Review Sheet: endometrial cancer stage IA and IB</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

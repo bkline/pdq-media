@@ -1,0 +1,77 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Adenocarcinoma of the Esophagus</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Esophageal cancer has spread to other parts of the body such as:</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-06-26</DateCreated>
+   <SourceFilename>AdenocarcinomaEsophagusStage4B.11.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-06-26" user="kuhlmanna">Changed wording in the upper right to “Esophageal cancer has spread to other parts of the body such as:”; added the lung and a label</Comment><Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Removed internal features on the face (spine and blood vessels) so that it just shows a regular face; and faded all of the organs except the liver</Comment><Comment audience="Internal" date="2018-08-21" user="kuhlmanna">Initial draft per AJCC 8th edition staging</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043692">stage IV esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB adenocarcinoma of the esophagus; drawing showing other parts of the body where esophagus cancer may spread, including the lung and liver. An inset shows cancer cells spreading from the esophagus, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVB adenocarcinoma of the esophagus; drawing showing other parts of the body where esophagus cancer may spread, including the lung and liver. An inset shows cancer cells spreading from the esophagus, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB adenocarcinoma of the esophagus. Cancer has spread to other parts of the body, such as the liver or lung.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVB adenocarcinoma of the esophagus. Cancer has spread to other parts of the body, such as the  liver or lung.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000720258">stage IV esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-17</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-09-06" user="yousufzaimg">Added AdenocarcinomaEsophagusStage4B.8.jpg</Comment><Comment>Added Adenocarcinoma Esophagus Stage 4B.7.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-08-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000795465">Illustration Review Sheet: Adenocarcinoma of the Esophagus Stage IVB</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

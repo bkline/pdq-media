@@ -1,0 +1,35 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>TSEB radiation therapy-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>2</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2013-04-24</DateCreated>
+      <SourceFilename>439431_es_rr.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "radioterapia <Deletion UserName="saucedol" Time="Wednesday, July 15, 2020 10:43:24 AM" RevisionLevel="proposed">TPHE</Deletion><Insertion UserName="saucedol" Time="Wednesday, July 15, 2020 10:43:33 AM" RevisionLevel="proposed">TSEB</Insertion>"</ContentDescription>
+    </ContentDescriptions><Comment audience="Internal" date="2013-04-24" user="lsaucedo">Revised term and added re-recorded audio</Comment>
+  </MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000439431">TSEB radiation therapy</Glossary>
+  </ProposedUse>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Audio re-recording pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-07-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised term</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

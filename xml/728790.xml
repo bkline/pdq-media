@@ -1,0 +1,113 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lumpectomy, male-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Lumpectomía</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tumor</LabelName><LabelName language="es">O</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><LabelName language="es">Tejido graso</LabelName><LabelName language="es">Revestimiento de la pared torácica</LabelName><LabelName language="es">Tumor</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3165</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000723771">lumpectomy, male</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LumpectomyMale FP III and V Spanish1</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type III – Darker white skin</SkinTone></DemographicInformation><DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type V – Brown skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category><Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041338">male breast cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   
+  <Topic cdr:ref="CDR0000041338">male breast cancer</Topic></Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Lumpectomía. En la imagen de la izquierda, se observa un área en la que se extirpará el tumor y  un poco del tejido normal que lo rodea. En la imagen de la derecha, se observa un área en la que se extirparán algunos ganglios linfáticos de la axila, y otra área en la que se extirpará el tumor y parte del revestimiento de la pared torácica cercana al tumor. También se muestra el tejido graso de la mama.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Lumpectomía. Se extirpa el tumor y un poco del tejido normal que lo rodea, pero no la mama. Es posible que se extirpen algunos ganglios linfáticos de la axila, así como  también parte del revestimiento de la pared torácica, si el cáncer se encuentra cerca de esta.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256841">Tratamiento del cáncer de seno (mama) masculino</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-07-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-06-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels, caption and content description pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-12-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist to make recent changes to shading</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-09</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Caption and content revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist to revise with skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2012-03-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked image, reviewed caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-13</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-03-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000723771">lumpectomy, male</TranslationOf></Media>

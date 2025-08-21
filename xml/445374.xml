@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophagectomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Esofagectomía</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Extirpación del cáncer y tejido circundante</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Esófago unido al estómago</LabelName><ImageDimensions>
+    <HeightPixels>2160</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000433428">esophagectomy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>EsophagectomySpanish4.jpg</SourceFilename><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image with titled image</Comment><Comment> 2008-04-10; EsophagectomySpanish3.jpg Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">El dibujo a tres paneles muestra una cirugía del cáncer de esófago; el primer panel muestra el área del esófago con cáncer, el panel del medio muestra la extirpación del cáncer y el tejido circundante, y el último panel muestra como se estira el estómago y se une al resto del esófago.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Esofagectomía. Se extirpa una parte del esófago, se estira el estómago y se une al resto del esófago.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new label and replaced image</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>FAP polyps - endoscopic</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>1125</HeightPixels>
+    <WidthPixels>1374</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Miguel Rodriguez-Bigas, MD, University of Texas, MD Anderson Cancer Center</Creator>
+   <DateCreated>2015-05-21</DateCreated>
+   <SourceFilename>FAP polyps - endoscopic.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-06-29" user="kuhlmanna">2016-06-29: Updated Creator field and added institution name; ak</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042839">familial adenomatous polyposis</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Many polyps protrude from the inner lining of the colon.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Familial adenomatous polyposis is characterized by multiple (&gt;100) adenomatous polyps in the colon and rectum developing after the first decade of life, as shown here during an endoscopy procedure.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062863">Genetics of Colorectal Cancer</Summary>
+  <Glossary cdr:ref="CDR0000045100">familial adenomatous polyposis</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-05-21</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

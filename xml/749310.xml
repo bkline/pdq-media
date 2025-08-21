@@ -1,0 +1,102 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage IIIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA Bladder Cancer</LabelName><LabelName language="en">Right common iliac artery</LabelName><LabelName language="en">Left common iliac artery</LabelName><LabelName language="en">b) Cancer in one lymph node in the pelvis</LabelName><LabelName language="en">a) Layer of fat around bladder</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Right common iliac artery</LabelName><LabelName language="en">Left common iliac artery</LabelName><LabelName language="en">b) Cancer in one lymph node in the pelvis</LabelName><LabelName language="en">a) Layer of fat around bladder</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Uterus</LabelName><ImageDimensions>
+    <HeightPixels>1269</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-01-30</DateCreated>
+   <SourceFilename>BladderCaStage IIIA MaleFemale FP V 10in 3.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2023-01-30">Added a label for the uterus in the female figure, added a bit of shading behind the prostate label, and made the lymph nodes a bit more prominent in the female figure on the R side so they are similar to the lymph nodes in the male version</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-01-17">Diversity updates: Changed image to a two-panel image and added a female figure (as the right panel); updated skin tone for both figures to FP V; centered the title above the two panels</Comment><Comment audience="Internal" date="2018-03-01" user="kuhlmanna">Made cancer spot darker per expert reviewer</Comment><Comment audience="Internal" date="2018-01-09" user="yousufzaimg">Added a label for Prostate; Moved the a) up next to the “Layer of fat around the bladder” label; Put a bracket on each side of the common iliac arteries, going from where they join the main artery at the top to where they branch into the external iliac arteries at the bottom (right where the ureter crosses the blood vessels)</Comment><Comment audience="Internal" date="2017-12-11" user="kuhlmanna">Added label for Common iliac arteries; made the node with cancer the one nearest the ureter and took cancer out of all of the other nodes; made all of the cancer-negative nodes less “shiny”; and added a  ) around the small a.  </Comment><Comment audience="Internal" date="2017-11-27" user="kuhlmanna">Image revisions made per AJCC updates (8th edition) </Comment><Comment audience="Internal" date="2013-07-15" user="akuhlmann">Made the cancer spot in the main figure “match” the cancer in the inset (more orangy, bumpy).</Comment><Comment audience="Internal" date="2013-07-10" user="akuhlmann">Removed outer pink layer in the inset; changed Fat label to say "Fat around the bladder" and put line from the label  so that it points to the paravesical fat in addition to the fat layer in the inset; made cancer spot darker to distinguish it from the fat.</Comment><Comment audience="Internal" date="2013-06-17" user="akuhlmann">Removed cancer spots on the main image except for the one inside the little box; made the cancer spot only go up into the Fat layer in the inset and on the main figure in the little box; removed the thin yellow line in the area where the perivesical fat is, and made the fat go up around the edges of the bladder at the top where the peritoneal layer is; removed the little rings that look like cherios on the right and left side of the bladder in the main figure; and added a line from the label Fat to the perivesical fat in the main figure.</Comment><Comment audience="Internal" date="2013-06-06" user="akuhlmann">Removed Peritoneum label; removed all lines from labels to little box on the main figure;  added a line going from the top right and bottom right corners of little box on main figure to the top and bottom left corners on the inset; made cancer in little box match the cancer in the inset; removed the cancer spots "floating" in the white space in the inset.</Comment><Comment audience="Internal" date="2013-05-23" user="akuhlmann">Changed labels from Serosa to Fat, Lamina propria to Connective tissue, and Urothelium to Inner lining. Added color to show   all the different layers in the inset. Made cancer spot in inset wider so overall spot looks bigger and not tall/skinny. Removed cancer-looking spot next to the ureter on the bladder image.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing showing stage IIIA bladder cancer in a male (left panel) and a female (right panel); both panels show cancer in the bladder and in  (a) the layer of fat around the bladder and (b) one lymph node in the pelvis. Also shown are the  right and left common iliac arteries, the prostate (left panel), and the uterus (right panel).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Two-panel drawing showing stage IIIA bladder cancer in a male (left panel) and a female (right panel); both panels show cancer in the bladder and in  (a) the layer of fat around the bladder and (b) one lymph node in the pelvis. Also shown are the  right and left common iliac arteries, the prostate (left panel), and the uterus (right panel).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA bladder cancer. Cancer (a) has grown all the way through the bladder muscles and bladder wall into the layer of fat around the bladder and may have spread to the prostate and/or seminal vesicles in men or the uterus and/or vagina in women but has not spread to lymph nodes; or (b) has spread to one lymph node in the pelvis that is not near the common iliac arteries.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIA bladder cancer. Cancer (a) has grown all the way through the bladder muscles and bladder wall into the layer of fat around the bladder and may have spread to the prostate and/or seminal vesicles in men or the uterus and/or vagina in women but has not spread to lymph nodes; or (b) has spread to one lymph node in the pelvis that is not near the common iliac arteries.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045124">stage III bladder cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-30</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2023-01-30">Updated image to BladderCaStage IIIA MaleFemale FP V 10in 3.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2023-01-17">Updated image to BladderCaStage IIIA MaleFemale FP V 10in 1.jpg</Comment><Comment audience="Internal" date="2018-03-05" user="kuhlmanna">Updated image to BladderCaStage3A.4.jpg</Comment><Comment audience="Internal" date="2018-01-09" user="yousufzaimg">Updated image to BladderCaStage3A.3.jpg</Comment><Comment audience="Internal" date="2017-12-11" user="kuhlmanna">Updated image to BladderCaStage3A.2.jpg</Comment><Comment>Updated image to BladderCaStage3A.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Tim Gilligan</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-05-06</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added BladderCaStage3.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792437">Illustration Review Sheet: Stage IIIA Bladder Cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

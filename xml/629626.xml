@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, adult, stage IV</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV Adult Lymphoma</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Cerebrospinal fluid</LabelName><LabelName language="en">Bone marrow</LabelName><LabelName language="en">Primary cancer in lymph nodes</LabelName><ImageDimensions>
+    <HeightPixels>3060</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2019-06-03</DateCreated>
+   
+   
+   <SourceFilename>Stage4AdultLymphoma5.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2019-06-03" user="kuhlmanna">In panel a, deleted box with cancer in it from the lung and moved it to the liver; and in panels b and c, moved the diaphragm up so that more of the liver is exposed, per expert reviewer. </Comment><Comment audience="Internal" date="2019-04-09" user="kuhlmanna">In boxes b and c, added a label “Lymph nodes” that points to the box with cancerous lymph nodes in it; and in box d, changed label to say “Primary cancer in lymph nodes”.</Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Removed purple liver; made the purple background color in all of the little boxes the same shade; in box b, moved the Diaphragm label down; in box c, added purple background to the little box around the lymph nodes; in box d, added a box around the cancer in the right lung and around the cancer in the liver; for the liver, removed some of the cancer spot so that it doesn’t look so diffuse; removed cancer label and line, and added a label that says Primary cancer that points to the lymph nodes with cancer in them.; removed the black line around those lymph nodes since it is the primary cancer location; and reduced the size of the Marrow box and moved box up and to the right. </Comment><Comment audience="Internal" date="2019-03-18" user="yousufzaimg">Removed the Cancer labels from all 4 boxes; Removed Brain label from a, b, and c;
+In box a, extended cancer down further into the lung and made it look more diffuse; In box b, moved the cancer spot in the lung down a bit so it is more visible;	In box c, moved the cancer spot in the lung down a bit so it is more visible; Removed the label for Liver;
+In box d, added a spot of cancer in the right lung and removed the labels for Brain ventricles and Spinal cord.
+</Comment><Comment audience="Internal" date="2019-03-04" user="yousufzaimg">Revised image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2009-05-06" user="rharrison">Added a box around the letter "b" and the cancer in the lung. Added shading and little box coming from the pelvis and going to the bone marrow inset.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000040482">stage IV adult non-Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000042945">stage IV adult Hodgkin lymphoma</Diagnosis><Diagnosis cdr:ref="CDR0000736138">stage IV AIDS-related lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV adult lymphoma; drawing shows four panels: (a) the top left panel shows cancer in the liver; (b) the top right panel shows cancer in the left lung and in two groups of lymph nodes below the diaphragm; (c) the bottom left panel shows cancer in the left lung and in a group of lymph nodes above the diaphragm and below the diaphragm; and (d) the bottom right panel shows cancer in both lungs, the liver, and the bone marrow (pullout).  Also shown is primary cancer in the lymph nodes and a pullout of the brain with cerebrospinal fluid (in blue).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IV adult lymphoma; drawing shows four panels: (a) the top left panel shows cancer in the liver; (b) the top right panel shows cancer in the left lung and in two groups of lymph nodes below the diaphragm; (c) the bottom left panel shows cancer in the left lung and in a group of lymph nodes above the diaphragm and below the diaphragm; and (d) the bottom right panel shows cancer in both lungs, the liver, and the bone marrow (pullout).  Also shown is primary cancer in the lymph nodes and a pullout of the brain with cerebrospinal fluid (in blue).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV adult lymphoma. Cancer (a) has spread throughout one or more organs outside the lymph system; or (b) is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm and in one organ that is outside the lymph system and not near the affected lymph nodes; or (c) is found in groups of lymph nodes above the diaphragm and below the diaphragm and in any organ that is outside the lymph system; or (d) is found in the liver, bone marrow, more than one place in the lung, or cerebrospinal fluid (CSF). The cancer has not spread directly into the liver, bone marrow, lung, or CSF from nearby lymph nodes.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IV adult lymphoma. Cancer (a) has spread throughout one or more organs outside the lymph system; or (b) is found in two or more groups of lymph nodes that are either above the diaphragm or below the diaphragm and in one organ that is outside the lymph system and not near the affected lymph nodes; or (c) is found in groups of lymph nodes above the diaphragm and below the diaphragm and in any organ that is outside the lymph system; or (d) is found in the liver, bone marrow, more than one place in the lung, or cerebrospinal fluid (CSF). The cancer has not spread directly into the liver, bone marrow, lung, or CSF from nearby lymph nodes.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062958">Adult Non-Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257991">Adult Hodgkin Lymphoma Treatment</Summary><Summary cdr:ref="CDR0000257993">AIDS-Related Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045909">stage IV adult non-Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000045898">stage IV adult Hodgkin lymphoma</Glossary><Glossary cdr:ref="CDR0000416109">stage IV AIDS-related lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2019-04-09" user="kuhlmanna">Updated to Stage4AdultLymphoma4.jpg</Comment><Comment audience="Internal" date="2019-04-01" user="kuhlmanna">Updated to Stage4AdultLymphoma3.jpg</Comment><Comment audience="Internal" date="2019-03-18" user="yousufzaimg">Updated to Stage4AdultLymphoma2.jpg</Comment><Comment audience="Internal" date="2019-03-04" user="yousufzaimg">Updated to Stage4AdultLymphoma1.jpg</Comment><Comment audience="Internal" date="2009-05-06" user="rharrison">Updated to Stage4AdultNHLymphoma2.jpg.</Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Updated to Stage4AdultNHLymphoma.jpg. </Comment><Comment audience="Internal" date="2009-04-06" user="dbuchhagen">Updated to Stage4AdultLymphoma.jpg</Comment><Comment audience="Internal" date="2009-01-26" user="dbuchhagen">Updated to NHLstage4.6.jpg.</Comment><Comment audience="Internal" date="2009-01-12" user="rharrison">Updated to NHLstage4.5.jpg. </Comment><Comment>2008-12-15; updated image to NHLstage4.4.jpg. </Comment><Comment>Updated image to NHLstage4.3.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-21</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-05-24" user="dbuchhagen">Minor edit.</Comment><Comment>Revised caption per OCCM.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-05-06</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sent to Mark Levin.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-01-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2009-04-20" user="rharrison">Minor edit, revisions approved.</Comment><Comment audience="Internal" date="2009-04-20" user="rharrison">Revised caption and content desc. to reflect changes. </Comment><Comment audience="Internal" date="2009-01-13" user="rharrison">Minor edit to content description. </Comment>
+        
+       <Comment audience="Internal" date="2009-01-12" user="rharrison">Minor edits to caption - moved letters (a, b) to follow text they refer to. Revised sentences re: B- and T-cells in content description.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-12-12</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-09-10</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000642601">Illustration Review Sheet: Adult NHL Hodgkin Lymphoma stage IV</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000796970">Sample Illustration: adult lymphoma AJCC 8th edition changes</SupplementaryInfoLink></RelatedDocuments></Media>

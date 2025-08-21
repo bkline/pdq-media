@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>barium enema-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Bario líquido</LabelName><ImageDimensions>
+    <HeightPixels>2509</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000415505">barium enema</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>BariunEnemaSpanish5.jpg</SourceFilename><Comment>Added Spanish titled image: BariumEnemaSpanish4.jpg</Comment><Comment>2008-03-27; Spanish filename: BariumEnemaSpanish3.jpg. Added new copyright information.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000043157">rectal cancer</Diagnosis>
+   <Diagnosis cdr:ref="CDR0000038736">small intestine cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Procedimiento con enema de bario; muestra la inserción del bario líquido en el recto que fluye hasta el colon. El recuadro interior muestra la imagen de un paciente en camilla al que se le administra una enema de bario.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Procedimiento con enema de bario. El paciente se acuesta en una camilla de rayos X, se le inserta el bario líquido por el recto el cual fluye hasta el colon. Se toman radiografías en busca de anomalías.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-01-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added Spn titled image</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

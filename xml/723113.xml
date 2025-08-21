@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>kit ligand-Spanish</MediaTitle>
+  <PhysicalMedia>
+    <SoundData>
+      <SoundType>Speech</SoundType>
+      <SoundEncoding>MP3</SoundEncoding>
+      <RunSeconds>2</RunSeconds>
+    </SoundData>
+  </PhysicalMedia>
+  <MediaSource>
+    <OriginalSource>
+      <Creator>Vanessa Richardson, VR Voice</Creator>
+      <DateCreated>2011-12-20</DateCreated>
+      <SourceFilename>Week_049_Rev1/632169_es.mp3</SourceFilename>
+    </OriginalSource>
+  </MediaSource>
+  <MediaContent>
+    <Categories>
+      <Category>pronunciation</Category>
+    </Categories>
+    <ContentDescriptions>
+      <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "ligando kit"</ContentDescription>
+    </ContentDescriptions>
+  <Comment audience="Internal" date="2012-01-18" user="lsaucedo">Spn term in GTN revised and corrected under Content descrip.</Comment></MediaContent>
+  <ProposedUse>
+    <Glossary cdr:ref="CDR0000632169">kit ligand</Glossary>
+  </ProposedUse>
+</Media>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ovarian cancer stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIA</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Fallopian tubes</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">Stage IIB</LabelName><LabelName language="en">Colon</LabelName><LabelName language="en">Stage II </LabelName><LabelName language="en">Cancer in pelvic peritoneum</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Primary Peritoneal Cancer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1350</HeightPixels>
+    <WidthPixels>3300</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2015-10-23</DateCreated>
+   
+   
+   <SourceFilename>OFPStage2ABC.3.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2015-10-23" user="kuhlmanna">In third panel, changed label from “…in peritoneum” to “Cancer in pelvic peritoneum”. </Comment><Comment audience="Internal" date="2015-06-30" user="yousufzaimg">For the right panel, centered Stage II as done for the left and middle panel; moved the label Primary Peritoneal Cancer to the bottom of the right panel.</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">REVISED IMAGE per FIGO update: Removed "ovarian cancer" from title; In the first panel, moved Ovary label to right side of image and moved label for Cancer down under ovary on left side of image and made lines point to the three cancer spots; in the middle panel, deleted the cancer spot shown at the junction of the fallopian tube and the uterus on the left side of the image; deleted the former last panel and replaced it with a panel titled Stage II Primary Peritoneal Cancer and expanded the little inset from the former panel to fill it.  Changed the label to say “Cancer in peritoneum and labeled the Peritoneum.</Comment><Comment audience="Internal" date="2009-10-01" user="rharrison">Added Colon label to stage  IIC.</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043701">ovarian epithelial cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040968">fallopian tube cancer</Diagnosis><Diagnosis cdr:ref="CDR0000040969">primary peritoneal cavity cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Three-panel drawing of stage IIA, IIB, and stage II primary peritoneal cancer; the first panel (stage IIA) shows cancer inside both ovaries that has spread to the uterus and fallopian tube. The second panel (stage IIB) shows cancer inside both ovaries  that has spread to the colon. The third panel (stage II primary peritoneal cancer) shows cancer in the pelvic peritoneum. Also shown are the cervix and vagina.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Three-panel drawing of stage IIA, IIB, and stage II primary peritoneal cancer; the first panel (stage IIA) shows cancer inside both ovaries that has spread to the uterus and fallopian tube. The second panel (stage IIB) shows cancer inside both ovaries  that has spread to the colon. The third panel (stage II primary peritoneal cancer) shows cancer in the pelvic peritoneum. Also shown are the cervix and vagina.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">In stage IIA, cancer is found in one or both ovaries or fallopian tubes and has spread to the uterus and/or the fallopian tubes and/or the ovaries. In stage IIB, cancer is found in one or both ovaries or fallopian tubes and has spread to the colon. In primary peritoneal cancer, cancer is found in the pelvic peritoneum and has not spread there from another part of the body. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">In stage IIA, cancer is found in one or both ovaries or fallopian tubes and has spread to the uterus and/or the fallopian tubes and/or the ovaries. In stage IIB, cancer is found in one or both ovaries or fallopian tubes and has spread to the colon. In primary peritoneal cancer, cancer is found in the pelvic peritoneum and has not spread there from another part of the body. </MediaCaption></Captions>
+  
+ <Comment audience="Internal" date="2016-01-26" user="kuhlmanna">2016-01-26: Revised content &amp; caption approved by OCC; added HP content &amp; caption.</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062963">Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045900">stage II ovarian epithelial, fallopian tube, and primary peritoneal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-01-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-10-23</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changed label in third panel per expert reviewer</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-08-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-06-30</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2015-10-23" user="kuhlmanna">REVISED IMAGE:OFPStage2ABC.3.jpg</Comment><Comment audience="Internal" date="2015-06-30" user="yousufzaimg">REVISED IMAGE: Updated to OFPStage2ABC.2.jpg</Comment><Comment audience="Internal" date="2015-06-15" user="yousufzaimg">REVISED IMAGE: Updated to OFPStage2ABC.1.jpg</Comment><Comment audience="Internal" date="2011-08-19" user="anjamison">Updated to OvarianCaStage2ABC.10.jpg</Comment><Comment>Updated to OvarianCaStage2ABC.9.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-08</ProcessingStatusDate>
+        <EnteredBy>2010-01-08</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-11-16</ProcessingStatusDate>
+        <EnteredBy>2009-11-16</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-11-23</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-11-23" user="dbuchhagen">Revisions to caption and content description.</Comment><Comment audience="Internal" date="2009-10-19" user="dbuchhagen">Caption reviewed and edited by group.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-09-16</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-01-08" user="dbuchhagen">Updated to OvarianCaStage2ABC.8.jpg.</Comment><Comment audience="Internal" date="2009-11-16" user="dbuchhagen">Updated to OvarianCaStage2ABC.7.jpg.</Comment><Comment audience="Internal" date="2009-10-19" user="dbuchhagen">Updated to OvarianCaStage2ABC.6.jpg.</Comment><Comment audience="Internal" date="2009-10-06" user="dbuchhagen">Updated to OvarianCaStage2ABC.5.jpg.</Comment><Comment audience="Internal" date="2009-10-01" user="rharrison">Updated to OvarianCaStage2ABC.4.jpg.</Comment><Comment audience="Internal" date="2009-09-16" user="rharrison">Updated to OvarianCaStage2ABC.3.jpg. </Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-24</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Updated to OvarianCaStage2ABC.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-10-20</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000618026">sample illustration: ovarian cancer stage II</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

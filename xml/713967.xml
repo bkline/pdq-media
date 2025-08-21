@@ -1,0 +1,71 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IVA</MediaTitle><PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA Cervical Cancer</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Rectal wall</LabelName><ImageDimensions>
+    <HeightPixels>2340</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-12-06</DateCreated>
+   <SourceFilename>CervicalCaStage4A SkinTypeV 1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Darkened skin tone to Fitzpatrick Skin Type V</Comment><Comment audience="Internal" date="2020-04-16" user="kuhlmanna">Changed the font size to match the other cervical staging images</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Darkened skin tone; modified the vaginal opening; and fixed pink peritoneum on the uterus</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">No changes made. Same version as previous version.</Comment><Comment audience="Internal" date="2011-10-17" user="anjamison">Faded lymph nodes in the pelvis.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA cervical cancer; drawing and inset show cancer that has spread from the cervix to the bladder and rectal wall.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVA cervical cancer; drawing and inset show cancer that has spread from the cervix to the bladder and rectal wall.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA cervical cancer.  Cancer has spread to nearby organs, such as the bladder or rectum.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IVA cervical cancer.  Cancer has spread to nearby organs, such as the bladder or rectum.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045889">stage IV cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Updated to CervicalCaStage4A SkinTypeV 1.jpg </Comment><Comment audience="Internal" date="2020-04-15" user="yousufzaimg">Updated to CervicalCaStage4A.8.jpg</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated to CervicalCaStage4A.7.jpg</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated to CervicalCaStage4A.6.jpg</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Updated to CervicalCaStage4A.5.jpg</Comment><Comment audience="Internal" date="2011-11-10" user="cnorwood">Updated to CervicalCaStage4A 4.jpg</Comment><Comment audience="Internal" date="2011-11-08" user="anjamison">Updated to CervicalCaStage4A.3.jpg</Comment><Comment audience="Internal" date="2011-10-17" user="anjamison">Updated to CervicalCaStage4A.2.jpg</Comment><Comment>Added CervicalCaStage4A.1.jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000728809">Illustration Review Sheet: cervical cancer stage IVA</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>DNA structure-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estructura del ADN</LabelName><LabelName language="es">Célula</LabelName><LabelName language="es">Núcleo</LabelName><LabelName language="es">Cromosoma</LabelName><LabelName language="es">ADN</LabelName><LabelName language="es">Nucleosoma</LabelName><LabelName language="es">Histona</LabelName><LabelName language="es">Gen</LabelName><LabelName language="es">Nucleótido</LabelName><LabelName language="es">Pares de bases nucleotídicas:</LabelName><LabelName language="es">Guanina</LabelName><LabelName language="es">Citosina</LabelName><LabelName language="es">Adenina</LabelName><LabelName language="es">Timina</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2580</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000761781">DNA structure</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>DNAStructureSpanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-02-09" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Estructura del ADN; la imagen muestra un cromosoma, nucleosoma, histona, gen y pares de bases nucleotídicas: guanina, citosina, adenina y timina. También muestra una célula con su núcleo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La mayor parte del ADN se encuentra en el interior del núcleo de una célula, donde forma los cromosomas. Los cromosomas contienen proteínas llamadas histonas que se unen al ADN. El ADN tiene dos hebras que se enroscan y forman una escalera de caracol que se llama hélice. El ADN se compone de cuatro componentes básicos que se llaman nucleótidos: adenina (A), timina (T), guanina (G) y citosina (C). Los nucleótidos se unen entre sí (A con T y G con C) para formar enlaces químicos llamados pares de bases, que conectan las dos cadenas de ADN. Los genes son pequeñas piezas de ADN que transportan información genética específica. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045671">DNA</Glossary><Glossary cdr:ref="CDR0000045693">gene</Glossary>
+ <Glossary cdr:ref="CDR0000046470">chromosome</Glossary><Glossary cdr:ref="CDR0000318814">histone</Glossary><Glossary cdr:ref="CDR0000460201">nucleotide</Glossary><Glossary cdr:ref="CDR0000650576">adenine</Glossary><Glossary cdr:ref="CDR0000650582">thymine</Glossary><Glossary cdr:ref="CDR0000650580">guanine</Glossary><Glossary cdr:ref="CDR0000650578">cytosine</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-02-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-28</ProcessingStatusDate>
+        <EnteredBy>2015-01-28</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,106 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>biopsy, punch</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Punch Biopsy</LabelName><LabelName language="en">0 mm</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">2 mm</LabelName><LabelName language="en">3 mm</LabelName><LabelName language="en">4 mm</LabelName><ImageDimensions>
+    <HeightPixels>2790</HeightPixels><WidthPixels>2400</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-02-01</DateCreated>
+   
+   
+   
+   
+  <SourceFilename>BiopsyPunch FP IV.2 2024.jpg</SourceFilename><Comment user="kuhlmanna" date="2024-02-01" audience="Internal">Updated skin tone in skin block to match the arm</Comment><Comment>Changed skin tone of arm to FP Type IV</Comment><Comment audience="Internal" date="2013-03-05" user="anjamison">Added title.</Comment><Comment audience="Internal" date="2008-04-14" user="rharrison">Final. Removed filename. </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2024-02-05</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Punch biopsy; drawing shows a sharp, hollow, circular instrument being inserted into a lesion on the skin of a patient’s forearm. The instrument is turned clockwise and counterclockwise to cut into the skin and remove a small, round piece of tissue. A pullout shows that the instrument cuts about 4 millimeters (mm) down to the layer of fatty tissue below the skin. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Punch biopsy. A sharp, hollow, circular instrument is used to remove a small, round piece of tissue from a lesion on the skin. The instrument is turned clockwise and counterclockwise to cut about 4 millimeters (mm) down to the layer of fatty tissue below the skin and remove the sample of tissue. Skin thickness is different on different parts of the body. </MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Summary cdr:ref="CDR0000256809">Tratamiento del cáncer de piel</Summary><Glossary cdr:ref="CDR0000410643">punch biopsy</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-05</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-05</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-05</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy><Comment user="kuhlmanna" date="2024-02-01" audience="Internal">Updated to BiopsyPunch FP IV.2 2024.jpg</Comment><Comment user="yousufzaimg" date="2024-01-29" audience="Internal">Updated to BiopsyPunch FP IV.1 2024.jpg</Comment><Comment audience="Internal" date="2013-03-05" user="anjamison">Updated to PunchBiopsy10.jpg</Comment><Comment audience="Internal" date="2008-09-22" user="dbuchhagen">2008-09-22; updated to PunchBiopsy8.jpg; dlb. </Comment><Comment audience="Internal" date="2008-07-15" user="dbuchhagen">2008-07-15 updated to PunchBiopsy7.jpg; dlb.</Comment><Comment audience="Internal" date="2008-05-20" user="rharrison">2008-05-20 updated to PunchBiopsy6.jpg; rh.</Comment><Comment audience="Internal" date="2008-05-09" user="rharrison">2008-05-09 updated to PunchBiopsy5.jpg; rh.</Comment>
+        
+       <Comment audience="Internal" date="2008-04-14" user="rharrison">2008-04-14 updated to PunchBiopsy4.jpg; rh.</Comment><Comment audience="Internal" date="2008-03-24" user="dbuchhagen">2008-03-24 updated to PunchBiopsy3.jpg; dlb.</Comment><Comment>2008-03-11 updated to PunchBiopsy2.jpg; rh.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommends revising caption to read "A hollow, circular scalpel..."</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-06-15</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 added sentence to caption re: skin thickness.</Comment><Comment audience="Internal" date="2008-09-17" user="rharrison">2008-09-17; Revised translations of caption and content. </Comment><Comment>2008-06-15 entered Spanish translations.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-22</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-05-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy><Comment audience="Internal" date="2008-10-15" user="rharrison">2008-10-15 added sentence to caption re: skin thickness.</Comment><Comment audience="Internal" date="2008-09-19" user="rharrison">2008-09-19 changed cap/content to read "hollow, circular scalpel"</Comment>
+        
+       <Comment audience="Internal" date="2008-07-31" user="rharrison">2008-07-31 added "about 4 millimeters (mm)" to both caption and content.</Comment><Comment>2008-07-30 removed "suspicious" from both caption and content; rh.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000578084">Sample Illustration: Punch Biopsy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

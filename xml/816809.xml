@@ -1,0 +1,62 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>peritoneal cavity</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Peritoneal Cavity</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Large intestine</LabelName><LabelName language="en">Greater omentum</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Ovary</LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Peritoneal cavity</LabelName><ImageDimensions>
+    <HeightPixels>3360</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2025-04-16</DateCreated>
+   <SourceFilename>PeritonealCavity4.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-10-28" audience="Internal">Refined the lower border of the bladder, vagina, and rectum</Comment><Comment user="yousufzaimg" date="2024-10-15" audience="Internal">Labeled the pancreas, dropped down the liver and the stomach, labeled the greater omentum</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Female</Sex>
+  <Race>White</Race>
+  <SkinTone>Type II – Fair skin</SkinTone>
+  
+ </DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows a cross section of the peritoneal cavity and the peritoneum. Also shown are the liver, stomach, pancreas, large intestine, greater omentum, small intestine, ovary, uterus, bladder, and rectum.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The peritoneal cavity is the space that contains most of the organs in the abdomen, including the liver, stomach, and intestines.  The peritoneum is the tissue that lines the abdominal wall and covers most of the organs in the abdomen.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046125">peritoneal cavity</Glossary>
+ <Glossary cdr:ref="CDR0000045829">peritoneum</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2025-03-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-10-31</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-10-28</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" date="2024-10-28" audience="Internal">Updated image to PeritonealCavity3.jpg</Comment><Comment user="yousufzaimg" date="2024-10-15" audience="Internal">Updated image to PeritonealCavity2.jpg</Comment><Comment>Added PeritonealCavity1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

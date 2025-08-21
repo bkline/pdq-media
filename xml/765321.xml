@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cell structure (parts of a cell)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes de una célula</LabelName><LabelName language="es">Membrana celular</LabelName><LabelName language="es">Retículo endoplasmático</LabelName><LabelName language="es">Núcleo (contiene ADN)</LabelName><LabelName language="es">Nucleólo</LabelName><LabelName language="es">Mitocondrias</LabelName><LabelName language="es">Receptor de membrana</LabelName><LabelName language="es">Aparato de Golgi</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000761780">cell structure (parts of a cell)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CellStructureSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-10-20" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la ilustración, se muestra una célula con sus organelos, como el núcleo (contiene ADN), el nucléolo, el aparato de Golgi, las mitocondrias y el retículo endoplasmático. También se muestran la membrana celular y un receptor de membrana.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Partes de una célula. La célula está rodeada por una membrana, con receptores en la superficie; además,  tiene varias estructuras pequeñas en su interior, como el núcleo, las mitocondrias, el retículo endoplasmático y el  aparato de Golgi. Estas desempeñan funciones específicas en la célula.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046476">cell</Glossary><Glossary cdr:ref="CDR0000044060">mitochondria</Glossary><Glossary cdr:ref="CDR0000597161">nucleus</Glossary><Glossary cdr:ref="CDR0000044586">cytoplasm</Glossary><Glossary cdr:ref="CDR0000613763">organelle</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

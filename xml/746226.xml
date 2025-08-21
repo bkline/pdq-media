@@ -1,0 +1,55 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>genetic architecture of cancer risk</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Genetic Architecture of Cancer Risk</LabelName><LabelName language="en">Allele Frequency</LabelName><LabelName language="en">Common variants (low penetrance)</LabelName><LabelName language="en">Rare variants (moderate penetrance)</LabelName><LabelName language="en">Rare variants (high penetrance)</LabelName><LabelName language="en">Relative Risk</LabelName><LabelName language="en">1</LabelName><LabelName language="en">2</LabelName><LabelName language="en">5</LabelName><LabelName language="en">≥10</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-09-23</DateCreated>
+   <SourceFilename>GeneticArchitectureOfCancerRisk2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2021-09-29">Fixed line formatting of labels in parentheses for "(moderate penetrance)" and "(high penetrance)"</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-09-22">Clearer image recreated by Terese - original image provided by Genetics Board Member. Permissions not required.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000043329">cancer genetics</Diagnosis>
+   
+  <Diagnosis cdr:ref="CDR0000042840">hereditary breast/ovarian cancer (BRCA1, BRCA2)</Diagnosis><Diagnosis cdr:ref="CDR0000042841">hereditary non-polyposis colon cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph shows relative risk on the x-axis and allele frequency on the y-axis. A line depicts the general finding of a low relative risk associated with common, low-penetrance genetic variants and a higher relative risk associated with rare, high-penetrance genetic variants.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Genetic architecture of cancer risk. This graph depicts the general finding of a low relative risk associated with common, low-penetrance genetic variants, such as single-nucleotide polymorphisms identified in genome-wide association studies, and a higher relative risk associated with rare, high-penetrance genetic variants, such as mutations in the <GeneName>BRCA1</GeneName>/ <GeneName>BRCA2</GeneName> genes associated with hereditary breast and ovarian cancer and the mismatch repair genes associated with Lynch syndrome.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062855">Genetics of Breast and Gynecologic Cancers</Summary>
+  
+ <Summary cdr:ref="CDR0000517309">Cancer Genetics Overview</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-02-11</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added Allele Freq and RR of Cancer.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

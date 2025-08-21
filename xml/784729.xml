@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Predicted Outcomes per 100 Breast Biopsies, Overall and by Diagnostic Category</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Overall Agreement for 100 breast biopsies</LabelName><LabelName language="en">Specific Category Agreement for 100 biopsies based on the diagnostic interpretation of the biopsy</LabelName><LabelName language="en">Benign without atypia</LabelName><LabelName language="en">Atypia</LabelName><LabelName language="en">DCIS</LabelName><LabelName language="en">Invasive breast cancer</LabelName><LabelName language="en">Verified by reference consensus panel</LabelName><LabelName language="en">Pathologist diagnosis is overinterpreted*</LabelName><LabelName language="en">Pathologist diagnosis is underinterpreted</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   
+   
+  <Creator>Joann G. Elmore M.D., M.P.H, University of Washington School of Medicine</Creator><SourcePublication>Elmore JG, Nelson HD, Pepe MS, et al.: Variability in Pathologists' Interpretations of Individual Breast Biopsy Slides: A Population Perspective. Ann Intern Med 164(10): 649-55, 2016.</SourcePublication><DateCreated>2016-10-28</DateCreated><SourceFilename>B-Path Annals of Internal Med Figure3 ENGLISH1.jpg</SourceFilename><Comment audience="Internal" date="2016-11-28" user="kuhlmanna">Image approved by Board; copyright permissions received; ak</Comment><Comment audience="Internal" date="2016-11-02" user="kuhlmanna">Image pending approval by PDQ Screening and Prevention Editorial Board</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    <PermissionRequestDate>2016-10-31</PermissionRequestDate>
+    
+    
+    
+    
+    <PermissionResponse>Permission Granted</PermissionResponse><PermissionResponseDate>2016-11-17</PermissionResponseDate><PublisherPermissionText>From Annals of Internal Medicine, Elmore JG, Nelson HD, Pepe MS, Longton GM, Tosteson AN, Geller B, Onega T, Carney PA, Jackson SL, Allison KH, Weaver, DL, Variability in Pathologists' Interpretations of Individual Breast Biopsy Slides: A Population Perspective, Volume 164, Issue 10, Pages 649-55, Copyright ©2016 American College of Physicians. All Rights Reserved. Reprinted with the permission of American College of Physicians, Inc.</PublisherPermissionText><ApprovedUse>
+     <Summary cdr:ref="CDR0000062751">Breast Cancer Screening</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse><CitationLink cdr:ref="CDR0000784719">Variability in Pathologists' Interpretations of Individual Breast Biopsy Slides: A Population Perspective.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038832">breast cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Charts showing the predicted outcomes for 100 breast biopsies, overall and by diagnostic category.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Predicted outcomes for 100 breast biopsies, overall and by diagnostic category. From Annals of Internal Medicine, Elmore JG, Nelson HD, Pepe MS, Longton GM, Tosteson AN, Geller B, Onega T, Carney PA, Jackson SL, Allison KH, Weaver, DL, Variability in Pathologists' Interpretations of Individual Breast Biopsy Slides: A Population Perspective, Volume 164, Issue 10, Pages 649-55, Copyright ©2016 American College of Physicians. All Rights Reserved. Reprinted with the permission of American College of Physicians, Inc.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062751">Breast Cancer Screening</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-10-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-10-31</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000785319">Permission: Predicted Outcomes per 100 Breast Biopsies - License Details</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000785318">Permission: Predicted Outcomes per 100 Breast Biopsies - Terms and Conditions</SupplementaryInfoLink></RelatedDocuments></Media>

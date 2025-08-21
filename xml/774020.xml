@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>catheter, peripherally inserted central (PICC)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Catéter central introducido periféricamente (CCIP)</LabelName><LabelName language="es">Vena cava superior</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">CCIP</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">CCIP</LabelName><LabelName language="es">Vía intravenosa</LabelName><ImageDimensions>
+    <HeightPixels>2790</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000756807">catheter, peripherally inserted central (PICC)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PICCSpanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-07-14" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>medical device</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Catéter central introducido periféricamente (CCIP); dibujo de una vía de un CCIP que va desde una vena de la parte superior del brazo derecho a una vena grande sobre el lado derecho del corazón que  se llama vena cava superior.   En un recuadro se puede observar una vía de un CCIP con un vendaje plástico claro sobre este. También se muestra un catéter intraveno unido al CCIP.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Catéter central introducido periféricamente (CCIP). Un CCIP es un tubo delgado y flexible que se introduce en una vena en el brazo y se guía  (inserta) hacia una vena grande sobre el lado derecho del corazón que se llama vena cava superior.   Se usa para administrar líquidos intravenosos, transfusiones de sangre y quimioterapia y otros medicamentos. También se usa para tomar muestras de sangre.   Una vía de CCIP puede permanecer en su lugar durante semanas o meses, y ayuda a evitar la necesidad de pinchazos repetidos de aguja.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000689084">peripherally inserted central catheter</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

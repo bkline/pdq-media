@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>liver anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Lóbulo derecho del hígado</LabelName><LabelName language="es">Lóbulo izquierdo del hígado</LabelName><LabelName language="es">Conductos biliares</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Bazo</LabelName><LabelName language="es">Páncreas</LabelName><LabelName language="es">Vesícula biliar</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Colon</LabelName><ImageDimensions>
+    <HeightPixels>2798</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000658698">liver anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LiverAnatomy FM IV Spanish1.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038968">liver and intrahepatic biliary tract cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del hígado; en la figura se muestran los  lóbulos derecho e izquierdo del hígado. También se observan los conductos biliares, la vesícula biliar, el estómago, el bazo, el páncreas, el intestino delgado y el colon.  </ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Anatomía del hígado; en la figura se muestran los  lóbulos derecho e izquierdo del hígado. También se observan los conductos biliares, la vesícula biliar, el estómago, el bazo, el páncreas,  el intestino delgado y el colon.  </ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del hígado.  El hígado está en la parte superior del abdomen, cerca del estómago, los intestinos, la vesícula biliar y el páncreas.  El hígado tiene un lóbulo derecho y un lóbulo izquierdo. Cada lóbulo se divide en dos secciones (que no se muestran).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Anatomía del hígado.  El hígado está en la parte superior del abdomen, cerca del estómago, los intestinos, la vesícula biliar y el páncreas.  El hígado tiene un lóbulo derecho y un lóbulo izquierdo. Cada lóbulo se divide en dos secciones (que no se muestran).</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256806">Tratamiento del cáncer primario de hígado en adultos</Summary>
+  <Summary cdr:ref="CDR0000256712">Tratamiento del cáncer primario de hígado en adultos</Summary><Glossary cdr:ref="CDR0000046312">liver</Glossary><Glossary cdr:ref="CDR0000046313">liver-spleen scan</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-02-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image, skin tone changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-04</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-27</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-01-26</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-15</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-01-22" user="dbuchhagen">Translation complete.</Comment><Comment audience="Internal" date="2010-01-20" user="dbuchhagen">Updated image to LiverCancerSpanish2.jpg.</Comment><Comment audience="Internal" date="2010-01-15" user="dbuchhagen">Spanish image received from artist.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000658698">liver anatomy</TranslationOf></Media>

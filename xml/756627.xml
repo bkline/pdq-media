@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>neuroblastoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Spine</LabelName><LabelName language="en">Paraspinal nerve tissue</LabelName><LabelName language="en">Adrenal glands</LabelName><LabelName language="en">Right kidney</LabelName><LabelName language="en">Left kidney</LabelName><ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2014-08-11</DateCreated><SourceFilename>Neuroblastoma5.jpg</SourceFilename><Comment audience="Internal" date="2014-08-11" user="akuhlmann">Darkened shading along spine</Comment><Comment audience="Internal" date="2014-07-28" user="myousufzai">Added more nerves along the spine, from the neck to the pelvis</Comment><Comment audience="Internal" date="2014-07-07" user="myousufzai">Removed image title</Comment><Comment audience="Internal" date="2014-06-20" user="myousufzai">Rough Draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042067">neuroblastoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows parts of the body where neuroblastoma may be found, including the paraspinal nerve tissue and the adrenal glands. Also shown are the spine and right and left kidney.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Drawing shows parts of the body where neuroblastoma may be found, including the paraspinal nerve tissue and the adrenal glands. Also shown are the spine and right and left kidney.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Neuroblastoma may be found in the adrenal glands and paraspinal nerve tissue from the neck to the pelvis.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Neuroblastoma may be found in the adrenal glands and paraspinal nerve tissue from the neck to the pelvis.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062786">Neuroblastoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000258023">Neuroblastoma Treatment</Summary><Glossary cdr:ref="CDR0000045418">neuroblastoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-16</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-13</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by C. Frantz</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-02</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment audience="Internal" date="2014-08-11" user="akuhlmann">Added Neuroblastoma5.jpg</Comment><Comment>Added Neuroblastoma4.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-16</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Added Neuroblastoma1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-01-10</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000756626">Sample Illustration: neuroblastoma</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000762916">Illustration Review Sheet: neuroblastoma</SupplementaryInfoLink></RelatedDocuments></Media>

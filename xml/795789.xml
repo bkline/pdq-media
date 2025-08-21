@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal adenocarcinoma stage IIIB (2)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Adenocarcinoma de esófago en estadio IIIB (Parte 2)</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Vía respiratoria</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Aorta</LabelName><LabelName language="es">Pared torácica</LabelName><LabelName language="es">Vena ácigos</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Aorta</LabelName><LabelName language="es">Pared torácica</LabelName><LabelName language="es">Costilla</LabelName><LabelName language="es">c</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">d</LabelName><LabelName language="es">Pericardio</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2790</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000794333">esophageal adenocarcinoma stage IIIB (2)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>AdenocarcinomaEsophagusStage3BPart2Spanish.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2019-08-14" user="lansberryic">New image linked</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717462">stage IIIB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Adenocarcinoma de esófago en estadio IIIB (Parte 2). En la imagen se observa cáncer en el esófago y en los siguientes sitios: a) el diafragma, b) la vena ácigos, c) la pleura y d) el pericardio (membrana que rodea el corazón). También se muestran la vía respiratoria, el pulmón, la aorta, la pared torácica, el corazón y una costilla.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IIIB (Parte 2). En la imagen se observa cáncer en el esófago y en los siguientes sitios: a) el diafragma, b) la vena ácigos, c) la pleura y d) el pericardio. También se muestran la vía respiratoria, el pulmón, la aorta, la pared torácica, el corazón y una costilla.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Adenocarcinoma de esófago en estadio IIIB (Parte 2). El  cáncer se diseminó a uno de los siguientes sitios: a) el diafragma, b) la vena ácigos, c) la pleura, d) el pericardio (membrana que rodea el corazón), o el peritoneo (no se muestra). Es posible que se encuentre cáncer en 0 a 2 ganglios linfáticos cercanos.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Adenocarcinoma de esófago en estadio IIIB (Parte 2). El  cáncer se diseminó a uno de los siguientes sitios: a) el diafragma, b) la vena ácigos, c) la pleura, d) el pericardio (membrana que rodea el corazón), o el peritoneo (no se muestra). Es posible que se encuentre cáncer en 0 a 2 ganglios linfáticos cercanos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary><Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary>
+  <Glossary cdr:ref="CDR0000720254">stage III esophageal adenocarcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of Caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue><ProcessingStatusDate>2019-08-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-16</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed with SCC images</Comment>
+       <Comment audience="Internal" date="2019-07-16" user="adlerm2">Updated text per latest pub revisions in Eng (v. 11); please QC all text (I used approved markup to avoid confusion).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-06</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC for Caption and Content Desc.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-30</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Translated captions and content descriptions. In Spanish "pericardio" is the correct medical term. For PAT, suggest using technical term followed by explanation:  pericardio (membrana que rodea el corazón). This works well because unlike the other terms labeled on the image (e.g., azygos vein), "pericardio" does  not have its own GTN. For HP, no explanation is needed. </Comment><Comment audience="Internal" date="2019-02-01" user="adlerm2">Used "ganglios linfáticos cercanos" vs. "ganglios linfáticos cerca del tumor" for consistency with staging terminology used in Spanish; confirmed w/Amy that this does not change the meaning; 01/30/19;MA.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-04</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>2 Qc for labels//En otras partes del contenido hemos usado más "que rodea el corazón" vs "alrededor del corazón". Ambas son opciones correctas.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only; changed language attribute of labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000794333">esophageal adenocarcinoma stage IIIB (2)</TranslationOf></Media>

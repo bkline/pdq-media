@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Soft Tissue Sarcoma - Distribution of Nonrhabdomyosarcomatous Soft Tissue Sarcomas by Tumor Site-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Distribución del sarcoma de tejido blando según el sitio del tumor</LabelName><LabelName language="es">Porcentaje del total</LabelName><LabelName language="es">100%</LabelName><LabelName language="es">90%</LabelName><LabelName language="es">80%</LabelName><LabelName language="es">70%</LabelName><LabelName language="es">60%</LabelName><LabelName language="es">50%</LabelName><LabelName language="es">40%</LabelName><LabelName language="es">30%</LabelName><LabelName language="es">20%</LabelName><LabelName language="es">10%</LabelName><LabelName language="es">0%</LabelName><LabelName language="es">Edad (años)</LabelName><LabelName language="es">0 - &lt;10</LabelName><LabelName language="es">10 - &lt;20</LabelName><LabelName language="es">20 - &lt;30</LabelName><LabelName language="es">30 - &lt;40</LabelName><LabelName language="es">40 - &lt;50</LabelName><LabelName language="es">50 - &lt;60</LabelName><LabelName language="es">60 - &lt;70</LabelName><LabelName language="es">70+</LabelName><LabelName language="es">Otro</LabelName><LabelName language="es">Extremidades</LabelName><LabelName language="es">Tronco</LabelName><LabelName language="es">Intratorácico</LabelName><LabelName language="es">Intrabdominal</LabelName><LabelName language="es">Cabeza y cuello</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1080</HeightPixels>
+    <WidthPixels>1800</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">En el gráfico se observa la distribución del sarcoma de tejido blando no rabdomiosarcomatoso por edad de acuerdo con el sitio del tumor.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">La distribución del sarcoma de tejido blando no rabdomiosarcomatoso por edad de acuerdo con el sitio del tumor.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

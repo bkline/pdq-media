@@ -1,0 +1,62 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>throat anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Throat</LabelName><LabelName language="en">Pharynx</LabelName><LabelName language="en">Nasopharynx</LabelName><LabelName language="en">Oropharynx</LabelName><LabelName language="en">Hypopharynx</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Adenoid</LabelName><LabelName language="en">Tonsil</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-07-31</DateCreated>
+   <SourceFilename>ThroatAnatomy1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Race>White</Race>
+  <SkinTone>Type II – Fair skin</SkinTone>
+  
+ <DateLastReviewed>2023-07-31</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the throat; drawing shows the pharynx, which includes the nasopharynx, oropharynx, and hypopharynx. Also shown are the adenoids, tonsils, larynx, esophagus, and trachea.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the throat. The throat is a hollow, muscular tube inside the neck that acts as a passageway for air to enter the lungs and for food and liquid to enter the esophagus. It contains many structures, including the adenoids, tonsils, pharynx (the nasopharynx, oropharynx, and hypopharynx), larynx, esophagus, and trachea. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000439429">throat</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2023-07-31</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added ThroatAnatomy1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery, Mohs - skin cancer, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cirugía de Mohs</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Lesión visible</LabelName><LabelName language="es">1. Extracción de la primera capa delgada de piel</LabelName><LabelName language="es">2. Extracción de otra capa delgada de piel</LabelName><LabelName language="es">3. Extracción de otra capa delgada de piel</LabelName><LabelName language="es">4. Extracción de la capa final con cáncer</LabelName>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  
+ <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     
+    <MediaID cdr:ref="CDR0000803044">surgery, Mohs - skin cancer, child</MediaID></FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MOHS15yrFemaleBlackSpanish.jpg</SourceFilename>
+  </DerivedFrom></MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="es">Cirugía de Mohs. En la imagen se observa un paciente con cáncer de piel en la cara. En la ampliación se muestra un trozo de piel con un cáncer en la epidermis (capa exterior de la piel) y la dermis (capa interna de la piel). También se muestra una lesión visible en la superficie de la piel. En cuatro ampliaciones numeradas se observa la extracción de capas delgadas de la piel, una por una hasta que se termina de extirpar todo el cáncer.</ContentDescription>
+   
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cirugía de Mohs.  Procedimiento quirúrgico de varios pasos que se usa para extraer una lesión visible en la piel. Primero se extrae una capa delgada de tejido canceroso. Después se extrae una segunda capa delgada de tejido y se observa al microscopio para verificar si hay células cancerosas. Se extraen más capas de tejido una por una hasta que ya no se ve cáncer en el tejido que se observa al microscopio. Este tipo de cirugía se usa para extraer la menor cantidad posible de tejido sano.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  
+ <Summary cdr:ref="CDR0000800620">Tratamiento del carcinoma de células basales y el carcinoma de células escamosas de piel infantil</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed caption, content description and labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of image, caption and content descr.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-16</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        <Comment>Translated content description and caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-03</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of labels//Pending translation o caption and content descrip.</Comment>
+       <Comment audience="Internal" date="2020-11-03" user="lansberryic">See "surgery, Mohs - skin cancer-Spanish", added "de piel", in Spanish it will be more clear. </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-11-02</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy><Comment audience="Internal" date="2020-11-02" user="imasduchovnyv">Translated labels</Comment>
+        
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000803044">surgery, Mohs - skin cancer, child</TranslationOf></Media>

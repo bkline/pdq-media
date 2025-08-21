@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>benign prostatic hyperplasia-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>973</HeightPixels>
+    <WidthPixels>1575</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000462221">benign prostatic hyperplasia</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Un dibujo en dos paneles muestra la anatomía reproductora y urinaria normal así como hiperplasia prostática benigna (HPB).  El panel de la izquierda muestra la próstata normal y el flujo de orina de la vejiga a la uretra.  El panel de la derecha muestra un agrandamiento de próstata que ejerce presión sobre la vejiga y la uretra, con la obstrucción del flujo de la orina.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Próstata normal e hiperplasia prostática benigna (HPB). Una próstata normal no obstruye el flujo de la orina desde la vejiga. El agrandamiento de la próstata  ejerce presión sobre la vejiga y la uretra, y obstruye el flujo de la orina.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+</Media>

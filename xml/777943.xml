@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Cancer Genomics - Neuroblastoma Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Mutations per Mb</LabelName><LabelName language="en">8.0</LabelName><LabelName language="en">6.0</LabelName><LabelName language="en">4.0</LabelName><LabelName language="en">2.0</LabelName><LabelName language="en">0</LabelName><LabelName language="en">Silent</LabelName><LabelName language="en">Nonsilent</LabelName><LabelName language="en">Data source (exome or genome)</LabelName><LabelName language="en">Clinical variables</LabelName><LabelName language="en">Gender</LabelName><LabelName language="en">Age</LabelName><LabelName language="en">Copy-number alterations</LabelName><LabelName language="en">Hyperdiploid</LabelName><LabelName language="en">MYCN amp</LabelName><LabelName language="en">1q+</LabelName><LabelName language="en">2p+</LabelName><LabelName language="en">17q+</LabelName><LabelName language="en">1p–</LabelName><LabelName language="en">3p–</LabelName><LabelName language="en">11q–</LabelName><LabelName language="en">Significantly mutated</LabelName><LabelName language="en">ALK</LabelName><LabelName language="en">ATRX</LabelName><LabelName language="en">PTPN11</LabelName><LabelName language="en">MYCN</LabelName><LabelName language="en">NRAS</LabelName><LabelName language="en">Germline</LabelName><LabelName language="en">CHEK2</LabelName><LabelName language="en">PINK1</LabelName><LabelName language="en">BARD1</LabelName><LabelName language="en">PALB2</LabelName><LabelName language="en">TP53</LabelName><LabelName language="en">DNA repair</LabelName><LabelName language="en">MLH1</LabelName><LabelName language="en">DDB1</LabelName><LabelName language="en">Exome, native DNA</LabelName><LabelName language="en">Exome, WGA DNA</LabelName><LabelName language="en">Genome, Illumina</LabelName><LabelName language="en">Genome, Complete Genomics</LabelName><LabelName language="en">Male</LabelName><LabelName language="en">Female</LabelName><LabelName language="en">Age 0–5+ years</LabelName><LabelName language="en">Unknown ploidy or MYCN status</LabelName><LabelName language="en">Hyperdiploid</LabelName><LabelName language="en">Not hyperdiploid</LabelName><LabelName language="en">Copy-number gain</LabelName><LabelName language="en">Copy-number loss</LabelName><LabelName language="en">Missense</LabelName><LabelName language="en">Nonsense, splice site or frameshift</LabelName><LabelName language="en">Silent</LabelName><LabelName language="en">Germline</LabelName><ImageDimensions>
+    <HeightPixels>469</HeightPixels>
+    <WidthPixels>946</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Nature Genetics</Creator>
+   <SourcePublication>Pugh TJ, Morozova O, Attiyeh EF, et al.: The genetic landscape of high-risk neuroblastoma. Nat Genet 45 (3): 279-84, 2013.</SourcePublication><DateCreated>2016-01-11</DateCreated>
+   <SourceFilename>Genomics of Neuroblastoma Pugh Figure 1-11-16.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2016-02-10</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted by permission from Macmillan Publishers Ltd: Nature Genetics (Pugh TJ, Morozova O, Attiyeh EF, et al.: The genetic landscape of high-risk neuroblastoma. Nat Genet 45 (3): 279-84, 2013), copyright (2013).</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062786">Neuroblastoma Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <CitationLink cdr:ref="CDR0000748902">The genetic landscape of high-risk neuroblastoma.</CitationLink><Comment audience="Internal" date="2016-03-01" user="kuhlmanna">Figure approved by PDQ Pediatric Treatment Editorial Board &amp; permissions received; per Sharon, image will not be translated into Spanish, but okay to translate caption - 03/01/16</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042067">neuroblastoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing the landscape of genetic variation in neuroblastoma.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es"><Insertion UserName="lansberryic" Time="Wednesday, March 02, 2016 1:12:39 PM" RevisionLevel="approved">En el diagrama se muestra el  panorama de las variaciones genéticas del neuroblastoma.</Insertion></ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Data tracks (rows) facilitate the comparison of clinical and genomic data across neuroblastoma cases (columns). The data sources and sequencing technology used were whole-exome sequencing (WES) from whole-genome amplification (WGA) (light purple), WES from native DNA (dark purple), Illumina WGS (green), and Complete Genomics WGS (yellow). Striped blocks indicate cases analyzed using two approaches. The clinical variables included were gender (male, blue; female, pink) and age (brown spectrum). Copy number alterations indicate ploidy measured by flow cytometry (with hyperdiploid meaning DNA index &gt;1) and clinically relevant copy number alterations derived from sequence data. Significantly mutated genes are those with statistically significant mutation counts given the background mutation rate, gene size, and expression in neuroblastoma. Germline indicates genes with significant numbers of germline ClinVar variants or loss-of-function cancer gene variants in our cohort. DNA repair indicates genes that may be associated with an increased mutation frequency in two apparently hypermutated tumors. Predicted effects of somatic mutations are color coded according to the legend. Reprinted by permission from Macmillan Publishers Ltd: <ExternalRef cdr:xref="http://www.nature.com/ng/index.html">Nature Genetics</ExternalRef> (Pugh TJ, Morozova O, Attiyeh EF, et al.: The genetic landscape of high-risk neuroblastoma. Nat Genet 45 (3): 279-84, 2013), copyright (2013).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es"><Insertion UserName="lansberryic" Time="Wednesday, March 02, 2016 1:12:54 PM" RevisionLevel="approved">Las datos en posición horizontal (filas) facilitan la comparación de la información clínica y genómica en los casos de neuroblastoma (columnas). Los siguientes tipos de tecnologías de secuenciación  se usaron como fuente de datos: secuenciación de exoma completo (WES) de la amplificación del genoma completo (WGA) (morado claro), WES del ADN natural (morado oscuro), secuenciación del genoma completo (WGS) de  Illumina (verde) y WGS de Complete Genomics (amarillo). Los bloques con bandas señalan casos en los que se usaron dos métodos. Las variables clínicas fueron sexo (masculino, azul; femenino, rosado) y edad (espectro en color marrón). Las alteraciones en el número de copias indican ploidia medida mediante citometría de flujo (hiperploidia indica un índice de ADN &gt;1) y alteraciones en el número de copias de importancia clínica derivadas de los datos de secuenciación. Los genes con mutaciones importantes son los que tienen recuentos de mutaciones estadísticamente significativos en relación con la tasa de mutación histórica, el tamaño del gen y la expresión en neuroblastoma. La línea germinal indica los genes con números significativos de variantes ClinVar de líneas germinales o  variantes génicas de cáncer con pérdida de función en nuestra cohorte. La reparación de ADN indica genes que se podrían relacionar con un aumento de la frecuencia de mutaciones en dos tumores aparentemente hipermutados El efecto previsto de las mutaciones somáticas se codifica según el color descrito en la leyenda. Reproducido con permiso y traducción autorizada por Macmillan Publishers Ltd: Nature Genetics (Pugh TJ, Morozova O, Attiyeh EF, et al.: The genetic landscape of high-risk neuroblastoma. Nat Genet 45 (3): 279-84, 2013), derechos de autor  (2013). Mutations per Mb: mutaciones por Mb; Mb: mil bases; data source: origen de los datos; exome: exoma; genome: genoma; clinical variables: variables clínicas, gender: sexo; age: edad; copy-number alterations: alteraciones en el número de copias; hyperdiploid: hiperdiploidia; amp: amplificación; significantly mutated: número significativo de mutaciones; germline: línea germinal, DNA repair: reparación del ADN; silent: silenciosa; nonsilent: expresiva; native DNA: ADN natural; male: masculino; female: femenino; age 0–5 years: edad 0–5 años; unknown ploidy or MYCM status: ploidíia o estado de MYCM desconocidos; hyperdiploid: hiperdiploidia; not hyperdiploid: sin hiperdiploidia; copy-number gain: ganancia en número de copias; copy-number loss: pérdida en número de copias; missense: mutación de aminoácido; nonsense, splice site or frameshit: mutación de  terminación, sitio de empalme o marco de lectura.</Insertion></MediaCaption></Captions>
+ </MediaContent>
+ 
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062786">Neuroblastoma Treatment</Summary>
+       <Summary cdr:ref="CDR0000774921">Childhood Cancer Genomics</Summary><Summary cdr:ref="CDR0000256683">Neuroblastoma: Tratamiento</Summary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Added first Spanish draft of cont.desc, caption and summary in Spanish. Added translations of tags at the end of caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per Sharon, image will not be translated into Spanish, but okay to translate caption</Comment>
+       </ProcessingStatus>
+       </ProcessingStatuses><RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000779176">Pugh_GenomicsofNeuroblastoma_CopyrightPermissions_2016-02-29</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

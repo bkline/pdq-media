@@ -1,0 +1,112 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage IA and IB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IA Melanoma</LabelName><LabelName language="en">Tumor is 1 mm or less</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">Ulcer</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">No ulcer</LabelName><LabelName language="en">Stage IB Melanoma</LabelName><LabelName language="en">Tumor is more than 1 mm but not more than 2 mm</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">2 mm</LabelName><LabelName language="en">1 mm</LabelName><LabelName language="en">2 mm</LabelName><LabelName language="en">No ulcer</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels><WidthPixels>3225</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-10-11</DateCreated>
+   
+   
+   <SourceFilename>MelanomaStage1A FP III Stage1B FP IV.1.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" date="2023-10-11" audience="Internal">For stage IA, updated skin tone to FP III; for stage IB, updated skin tone to FP IV</Comment><Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Removed the bracket between 1-2 mm on the left-hand panel</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2008-06-02" user="dbuchhagen">Spaces between brackets made uniform. </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2023-10-11</DateLastReviewed></DemographicInformation><DemographicInformation>
+  
+  
+  
+  <SkinTone>Type IV – Light brown skin</SkinTone>
+  
+ <DateLastReviewed>2023-10-11</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000682692">stage IA melanoma</Diagnosis>
+   
+  <Diagnosis cdr:ref="CDR0000682693">stage IB melanoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Two-panel drawing of stage I melanoma; the panel on the left shows a stage IA tumor that is not more than 1 millimeter thick, with ulceration (a break in the skin) and without ulceration. The panel on the right shows a stage IB tumor that is more than 1 but not more than 2 millimeters thick, without ulceration. Also shown are the epidermis (outer layer of the skin), the dermis (inner layer of the skin), and the subcutaneous tissue below the dermis.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Two-panel drawing of stage I melanoma; the panel on the left shows a stage IA tumor that is not more than 1 millimeter thick, with ulceration (a break in the skin) and without ulceration. The panel on the right shows a stage IB tumor that is more than 1 but not more than 2 millimeters thick, without ulceration. Also shown are the epidermis (outer layer of the skin), the dermis (inner layer of the skin), and the subcutaneous tissue below the dermis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage I melanoma. In stage IA, the tumor is not more than 1 millimeter thick, with or without ulceration (a break in the skin). In stage IB, the tumor is more than 1 but not more than 2 millimeters thick, without ulceration. Skin thickness is different on different parts of the body.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage I melanoma. In stage IA, the tumor is not more than 1 millimeter thick, with or without ulceration (a break in the skin). In stage IB, the tumor is more than 1 but not more than 2 millimeters thick, without ulceration. Skin thickness is different on different parts of the body.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045136">stage I melanoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment>MelanomaStage1A FP III Stage1B FP IV.1.jpg</Comment><Comment audience="Internal" date="2019-05-14" user="yousufzaimg">Updated to MelanomaStage1AandB10.jpg</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Updated to MelanomaStage1AandB9.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-11-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommendations: Emphasize junction of epidermis &amp; dermis. Divide dermis into papillary dermis &amp; reticular dermis. Change label from "fatty tissue" to "subcutaneous layer". </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-10-15" user="rharrison">2008-10-15 revised to match recent summary text changes. </Comment><Comment audience="Internal" date="2008-09-26" user="rharrison">2008-09-26 changed "deep" to "thick" throughout per OCCM. </Comment><Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; rev cont desc. </Comment><Comment audience="Internal" date="2008-08-28" user="rharrison">2008-08-28 added epidermis &amp; dermis to content desc. </Comment><Comment audience="Internal" date="2008-07-31" user="rharrison">2008-07-31 revised beg. of caption/content to read "stage I melanoma" rather than IA, IB - consistent with other staging illustrations. </Comment>
+        <Comment>2008-07-28 caption and content desc approved w/ edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-06-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ <RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000800425">Illustration Review Sheet: melanoma stage I</SupplementaryInfoLink>
+        
+       <SupplementaryInfoLink cdr:ref="CDR0000579052">Sample Illustration: stage I melanoma</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000793545">Sample Illustration: melanoma staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments>
+</Media>

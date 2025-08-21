@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>magnetic resonance imaging, abdominal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+   
+   
+   <DateCreated>2012-11-09</DateCreated><SourceFilename>AbdominalMRI4.jpg</SourceFilename><Comment audience="Internal" date="2012-11-09" user="anjamison">Added title.</Comment>
+   
+  <Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Magnetic resonance imaging (MRI) of the abdomen; drawing shows the patient on a table that slides into the MRI machine, which takes pictures of the inside of the body. The pad on the patient’s abdomen helps make the pictures clearer.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Magnetic resonance imaging (MRI) of the abdomen. The patient lies on a table that slides into the MRI machine, which takes pictures of the inside of the body. The pad on the patient’s abdomen helps make the pictures clearer.</MediaCaption>
+  </Captions>
+  
+  
+ <Comment audience="Internal" date="2013-01-18" user="lsaucedo">Deleted Spanish caption and content description</Comment><Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Made r in resonance and i in imaging lower case, added "drawing" and "the" to cont desc and added "Magnetic resonance imaging (MRI)" and "the" to cap; dlb. </Comment></MediaContent>
+ 
+</Media>

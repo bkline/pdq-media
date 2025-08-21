@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin, Merkel cell, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Merkel cell</LabelName><LabelName language="en">Nerve</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Sweat gland</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Hair follicle</LabelName><LabelName language="en">Nerve</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Hair shaft</LabelName><LabelName language="en">Oil gland</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>2190</HeightPixels>
+    <WidthPixels>3088</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-09-24</DateCreated>
+   
+   <SourceFilename>MerkelAnatomy8.jpg</SourceFilename>
+   
+    <Comment>Spaces between brackets made uniform. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions><ContentDescription audience="Health_professionals" language="en">Anatomy of the skin with Merkel cells; drawing shows normal skin anatomy, including the epidermis, dermis, hair follicles, sweat glands, hair shafts, veins, arteries, fatty tissue, nerves, lymph vessels, oil glands, and subcutaneous tissue. The pullout shows a close-up of the epidermis with Merkel cells above the dermis with a vein and artery. Nerves are connected to Merkel cells.</ContentDescription>
+   <ContentDescription audience="Patients" language="en">Anatomy of the skin with Merkel cells; drawing shows normal skin anatomy, including the epidermis, dermis, hair follicles, sweat glands, hair shafts, veins, arteries, fatty tissue, nerves, lymph vessels, oil glands, and subcutaneous tissue. The pullout shows a close-up of the epidermis with Merkel cells above the dermis with a vein and artery. Nerves are connected to Merkel cells.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the skin showing the epidermis, dermis, and subcutaneous tissue. Merkel cells are in the layer of basal cells at the deepest part of the epidermis and are connected to nerves.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">Anatomy of the skin showing the epidermis, dermis, and subcutaneous tissue. Merkel cells are in the layer of basal cells at the deepest part of the epidermis and are connected to nerves.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000441548">Merkel Cell Carcinoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046106">Merkel cell cancer</Glossary>
+ <Glossary cdr:ref="CDR0000386222">trabecular cancer</Glossary><Glossary cdr:ref="CDR0000579914">neuroendocrine carcinoma of the skin</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommends adding "subcutaneous layer" label, and making border between epidermis and dermis more prominent. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment>Sent to Russ Berman.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-09-25" user="rharrison">2008-09-25 revised caption to include subcutaneous tissue. </Comment>
+        <Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; Rev content desc per revisions. (added subcutaneous tissue) </Comment><Comment>2008-07-30 caption and content desc approved w/ edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-04-17</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-03-07</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-29" user="dbuchhagen">2008-09-29; updated to MerkelAnatomy8.jpg; dlb. </Comment><Comment audience="Internal" date="2008-09-22" user="dbuchhagen">2008-09-22; updated to MerkelAnatomy7.jpg; dlb. </Comment><Comment>2008-07-15; updated to MerkelAnatomy6.jpg; dlb. </Comment><Comment audience="Internal" date="2008-06-30" user="dbuchhagen">2008-06-30; updated to MerkelAnatomy5.jpg; dlb.</Comment><Comment>2008-06-13; updated to MerkelAnatomy4.jpg; dlb. </Comment><Comment audience="Internal" date="2008-06-02" user="dbuchhagen">2008-05-30; updated to MerkelAnatomy3.jpg; dlb. </Comment><Comment>2008-03-11 updated to MerkelAnatomy2.jpg; rh. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ <RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000579040">Sample Illustration: Merkel Cell</SupplementaryInfoLink>
+       </RelatedDocuments>
+</Media>

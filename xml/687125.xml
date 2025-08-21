@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>adjustment disorders-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Continuo del sufrimiento</LabelName><LabelName language="es">Adaptación normal</LabelName><LabelName language="es">Trastornos de la adaptación</LabelName><LabelName language="es">Subumbral de los trastornos mentales</LabelName><LabelName language="es">Trastornos mentales
+diagnosticables (es decir, trastorno depresivo mayor)
+</LabelName>
+  <ImageDimensions>
+    <HeightPixels>342</HeightPixels>
+    <WidthPixels>1245</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>National Cancer Institute</Creator>
+   
+   <DateCreated>2010-10-11</DateCreated>
+   
+   
+   <SourceFilename>AdjustmentSpn.jpeg</SourceFilename>
+   <Comment audience="Internal" date="2017-02-24" user="lansberryic">Linked revised image</Comment><Comment audience="Internal" date="2015-11-02" user="kuhlmanna">Updated Creator per OCC</Comment><Comment audience="Internal" date="2010-10-15" user="lsaucedo">Revised illustration to make more clear</Comment><Comment>Created a new illustration using drawing provided by Margaret</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042479">anxiety disorder</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El diagrama del continuo del sufrimiento muestra que  el sufrimiento psicosocial varía desde asuntos relacionados con la adaptación normal, los trastornos de la adaptación, el subumbral de los trastornos mentales hasta los trastornos mentales diagnosticables (es decir, un trastorno depresivo mayor).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Continuo del sufrimiento. El sufrimiento psicosocial se presenta como un continuo que varía desde asuntos relacionados con la adaptación normal hasta síndromes que cumplen con  todos los criterios diagnósticos de un trastorno mental.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256643">Adaptación al cáncer: ansiedad y sufrimiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-02-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation QC of updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-06-18</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Media doc unblocked and ProposedUse element updated</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added image and revised translated caption and content description</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, created image. Caption and content description translations pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

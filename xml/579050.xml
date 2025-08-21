@@ -1,0 +1,107 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage 0</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage 0 Melanoma</LabelName><LabelName language="en">Abnormal melanocytes</LabelName><LabelName language="en">Epidermis</LabelName><LabelName language="en">Dermis</LabelName><LabelName language="en">Subcutaneous tissue</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2019-04-29</DateCreated>
+   
+   <SourceFilename>MelanomaStage0.12.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2019-04-29" user="kuhlmanna">Removed box and label for Melanin</Comment><Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2008-03-11" user="rharrison">Moved "dermis" label up a bit.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042623">stage 0 melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage 0 melanoma; drawing shows an abnormal area on the surface of the skin and abnormal melanocytes in the epidermis (outer layer of the skin). Also shown are the dermis (inner layer of the skin) and the subcutaneous tissue below the dermis.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage 0 melanoma; drawing shows an abnormal area on the surface of the skin and abnormal melanocytes in the epidermis (outer layer of the skin). Also shown are the dermis (inner layer of the skin) and the subcutaneous tissue below the dermis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage 0 melanoma. Abnormal melanocytes are found in the epidermis (outer layer of the skin). These abnormal melanocytes may become cancer and spread into nearby normal tissue.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage 0 melanoma. Abnormal melanocytes are found in the epidermis (outer layer of the skin). These abnormal melanocytes may become cancer and spread into nearby normal tissue.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000352156">stage 0 melanoma</Glossary>
+ <Glossary cdr:ref="CDR0000522541">melanoma in situ</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-11-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2018-09-18" user="yousufzaimg">Updated to MelanomaStage0.12.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Recommendations: Emphasize junction of epidermis &amp; dermis. Divide dermis into papillary dermis &amp; reticular dermis. "Fatty tissue" should be renamed "subcutaneous layer".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-30</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Sent to Russ Berman.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-07-11</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment audience="Internal" date="2008-09-23" user="dbuchhagen">2008-09-23; rev cont desc. </Comment><Comment audience="Internal" date="2008-08-28" user="rharrison">2008-08-28 revised content desc to reflect revised illustration. </Comment><Comment>2008-07-21 caption and content desc approved with edits; rh.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-06-19</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-11-09</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ <RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000800424">Illustration Review Sheet: melanoma stage 0</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000579049">Sample Illustration: Melanoma Stage 0</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793545">Sample Illustration: melanoma staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments>
+</Media>

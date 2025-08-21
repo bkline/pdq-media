@@ -1,0 +1,101 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage III (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage III Nonmelanoma Skin Cancer of the Head and Neck (2)</LabelName><LabelName language="en">Primary tumor</LabelName><LabelName language="en">Tumor is 4 cm or smaller</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">Cancer in one lymph node</LabelName><LabelName language="en">3 cm
+or smaller</LabelName><LabelName language="en">Lymph node</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels><WidthPixels>2700</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-02-20</DateCreated>
+   <SourceFilename>NonMelanomaStage3Part2 FP I.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-02-21" audience="Internal">Diversity updates: changed figure to an older male; updated skin tone to FP type I</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Moved the box with the large, cancerous lymph node up to a lymph node near the neck; added "of the Head and Neck" to the title</Comment><Comment audience="Internal" date="2019-12-16" user="kuhlmanna">Made the cancer in the lymph node a little bigger and darker</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Changed text in top inset box to "Tumor is 4 cm or smaller"</Comment><Comment audience="Internal" date="2018-08-06" user="kuhlmanna">Removed the bones that show through on the right side of the face</Comment><Comment audience="Internal" date="2018-07-24" user="kuhlmanna">Revised image per AJCC 8th edition updates</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Added Lymph nodes label.</Comment><Comment audience="Internal" date="2012-04-19" user="anjamison">In upper right inset, replaced "plus" with "and may have".</Comment><Comment audience="Internal" date="2012-04-02" user="anjamison">Made the single large lymph node under the arm larger and put a box around it; flipped the grape so the stem is on top.</Comment><Comment audience="Internal" date="2012-03-15" user="anjamison">Replaced “factor” with “feature”; added hyphen to “high-risk”; deleted labels Side of skull, Eye socket, and Jaw; added a large lymph node where the left inset lines join the body; changed wording in left inset to say “3 cm or smaller”; added stem to grape.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone><DateLastReviewed>2024-02-21</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Patients" language="en">Stage III nonmelanoma skin cancer of the head and neck (2); drawing shows a primary tumor on the face and cancer in one lymph node on the same side of the body as the tumor. The top inset shows that the tumor is 4 centimeters or smaller and that 4 centimeters is about the size of a walnut. The bottom inset shows that the lymph node with cancer is 3 centimeters or smaller and that 3 centimeters is about the size of a grape.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage III nonmelanoma skin cancer of the head and neck (2); drawing shows a primary tumor on the face and cancer in one lymph node on the same side of the body as the tumor. The top inset shows that the tumor is 4 centimeters or smaller and that 4 centimeters is about the size of a walnut. The bottom inset shows that the lymph node with cancer is 3 centimeters or smaller and that 3 centimeters is about the size of a grape.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Stage III nonmelanoma skin cancer of the head and neck (2). The tumor is 4 centimeters or smaller. Cancer has spread to one lymph node on the same side of the body as the tumor and the node is 3 centimeters or smaller.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage III nonmelanoma skin cancer of the head and neck (2). The tumor is 4 centimeters or smaller. Cancer has spread to one lymph node on the same side of the body as the tumor and the node is 3 centimeters or smaller.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000368448">stage III nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-20</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2024-02-21" audience="Internal">Updated image to NonMelanomaStage3Part2 FP I.jpg</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Updated image to NonMelanomaRevStage3Part2.10.jpg</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Updated image to NonMelanomaRevStage3Part2.8.jpg</Comment><Comment audience="Internal" date="2018-08-06" user="kuhlmanna">Updated to NonMelanomaRevStage3Part2.7.jpg</Comment><Comment audience="Internal" date="2018-07-24" user="kuhlmanna">Updated to NonMelanomaRevStage3Part2.6.jpg</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Updated to NonMelanomaRevStage3Part2.5.jpg</Comment><Comment audience="Internal" date="2012-04-19" user="anjamison">Updated to NonMelanomaRevStage3Part2.4.jpg</Comment><Comment audience="Internal" date="2012-04-02" user="anjamison">Updated to NonMelanomaRevStage3Part2.3.jpg</Comment><Comment>Updated to NonMelanomaRevStage3Part2.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changes to image recommended per J. Jeter, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-17</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-14</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Added expert review sheet from Alberto S. Pappo</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        
+        
+        
+       <ProcessingStatusDate>2012-02-20</ProcessingStatusDate><EnteredBy>anjamison</EnteredBy><Comment audience="Internal" date="2012-02-20" user="anjamison">First draft</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-02-17</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  <Comment audience="Internal" date="2012-02-20" user="anjamison">First draft</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000800453">Illustration  Review Sheet: stage III nonmelanoma skin cancer (part 2)</SupplementaryInfoLink>
+         <SupplementaryInfoLink cdr:ref="CDR0000738610">Illustration Review Sheet: Stage III nonmelanoma skin cancer (2)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

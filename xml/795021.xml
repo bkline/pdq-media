@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>prostate cancer stage IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Prostate Cancer</LabelName><LabelName language="en">Prostate cancer spreads to other parts of the body:</LabelName><LabelName language="en">Distant lymph nodes</LabelName><LabelName language="en">Prostate</LabelName><LabelName language="en">Bone</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-11-02</DateCreated>
+   <SourceFilename>ProstateStage4B.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-11-06" user="kuhlmanna">Added an “s” to the Distant lymph node label </Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Put the Stage information first in title; aged the patient; removed the top line that points to the lymph nodes in the face;  moved lines pointing to the figure from the Prostate and Bone labels to the left a bit</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Made this image look like the other Stage IV images  with the inset box on the left that shows how cancer spreads</Comment><Comment audience="Internal" date="2018-10-01" user="kuhlmanna">New image per AJCC 8th edition updates</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038786">stage IV prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB prostate cancer; drawing shows other parts of the body where prostate cancer may spread, including the distant lymph nodes and bones. An inset shows cancer cells spreading from the prostate, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVB prostate cancer; drawing shows other parts of the body where prostate cancer may spread, including the distant lymph nodes and bones. An inset shows cancer cells spreading from the prostate, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB prostate cancer. Cancer has spread to other parts of the body, such as the bones or distant lymph nodes. </MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVB prostate cancer. Cancer has spread to other parts of the body, such as the bones or distant lymph nodes. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062965">Prostate Cancer Treatment</Summary><Summary cdr:ref="CDR0000062910">Prostate Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045132">stage IV prostate cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>No additional changes needed per OCC multimedia group</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-11-06" user="kuhlmanna">Updated image to ProstateStage4B.4.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to ProstateStage4B.3.jpg</Comment><Comment audience="Internal" date="2018-10-15" user="kuhlmanna">Updated image to ProstateStage4B.2.jpg</Comment><Comment>Added ProstateStage4B.1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-10-01</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000796483">Illustration review sheet: stage IVB prostate cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

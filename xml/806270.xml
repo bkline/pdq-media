@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>invasive ductal carcinoma of the breast</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Invasive Ductal Carcinoma (IDC) of the Breast</LabelName><LabelName language="en">Lobe</LabelName><LabelName language="en">Ducts</LabelName><LabelName language="en">Fatty tissue</LabelName><LabelName language="en">Normal duct</LabelName><LabelName language="en">Invasive ductal carcinoma</LabelName><LabelName language="en">Cancer cells</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-04-21</DateCreated>
+   <SourceFilename>InvasiveDuctalCarcinoma5.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-04-21">Revised image title per request from SWRB</Comment><Comment user="kuhlmanna" audience="Internal" date="2021-12-20">Added "cells" to the "Cancer" label in the pull-out box</Comment><Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Added a line from the small box on the main figure to the pull-out box showing the details of the IDC; changed the text in the pull-out box to say "Invasive ductal carcinoma"; and added  the label "Cancer" in the pull-out box</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039843">invasive ductal breast carcinoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Invasive ductal carcinoma (IDC) of the breast; drawing shows a lobe, ducts, and fatty tissue in a cross section of the breast. An inset shows a normal duct and a duct with IDC and cancer cells spreading outside it.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Invasive ductal carcinoma (IDC) of the breast begins in the lining of a breast duct (milk duct) and spreads outside the duct to other tissues in the breast. It can also spread through the blood and lymph system to other parts of the body. IDC is the most common type of invasive breast cancer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062955">Breast Cancer Treatment (Adult)</Summary>
+  <Glossary cdr:ref="CDR0000750209">invasive ductal carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Updated image to InvasiveDuctalCancerLightBrown3.jpg</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>salivary glands anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Salivary Glands</LabelName><LabelName language="en">Tongue</LabelName><LabelName language="en">Sublingual gland</LabelName><LabelName language="en">Submandibular gland</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Parotid gland</LabelName><ImageDimensions>
+    <HeightPixels>2255</HeightPixels>
+    <WidthPixels>2626</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-11-17</DateCreated>
+   <SourceFilename>SalivaryGlands7.jpg</SourceFilename><Comment audience="Internal" date="2017-11-20" user="kuhlmanna">REVISION: Removed a faint iris incorrectly located just below the eye</Comment><Comment audience="Internal" date="2013-03-21" user="anjamison">Deleted lymph nodes from parotid gland.</Comment><Comment audience="Internal" date="2013-02-05" user="anjamison">Moved Lymph nodes label.</Comment><Comment audience="Internal" date="2013-02-01" user="anjamison">Changed title to Anatomy of the Salivary Glands; moved label for Parotid gland; labeled lymph nodes; made middle-image muscular structure less prominent.</Comment>
+  <Comment audience="Internal" date="2012-12-11" user="anjamison">Integrated the glands more into the body and made the tissue look more glandular.</Comment><Comment audience="Internal" date="2012-11-05" user="anjamison">Of two drafts submitted, review group chose side view, not front view.</Comment><Comment audience="Internal" date="2012-10-25" user="akuhlmann">Added new image.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038946">salivary gland cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the salivary glands; drawing shows a cross section of the head  and the three main pairs of  salivary glands. The parotid glands  are in front of and just below each ear; the sublingual glands are under the tongue in the floor of the mouth; the submandibular glands are below each side of the jawbone. The tongue and lymph nodes are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the salivary glands. The three main pairs of salivary glands are the parotid glands, the sublingual glands, and the submandibular glands.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258034">Salivary Gland Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046196">salivary gland</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-20</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-25</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-21</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to SalivaryGlands6.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-02-01</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-02-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy><Comment audience="Internal" date="2013-02-05" user="anjamison">Updated to SalivaryGlands5.jpg</Comment><Comment audience="Internal" date="2013-02-01" user="anjamison">Updated to SalivaryGlands4.jpg</Comment>
+        <Comment audience="Internal" date="2012-12-11" user="anjamison">Updated to SalivaryGlands3.jpg</Comment><Comment>Updated to SalivaryGlands2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-10-25</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added new image: SalivaryGlands1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000747403">Illustration Review Sheet: salivary glands</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

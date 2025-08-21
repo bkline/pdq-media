@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIB (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIB Lung Cancer (2)</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Primary tumor is larger than 5 cm but not larger than 7 cm</LabelName><LabelName language="en">7 cm</LabelName><LabelName language="en">5 cm</LabelName><LabelName language="en">a</LabelName><LabelName language="en">b</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Membrane covering the lung</LabelName><LabelName language="en">Membrane covering chest wall</LabelName><LabelName language="en">e</LabelName><LabelName language="en">Sac around heart</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Nerve that controls diaphragm</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Pleura</LabelName><LabelName language="en">Lung</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2022-07-11</DateCreated>
+   <SourceFilename>LungStage2BPart2 FemaleFP III.2.jpg</SourceFilename>
+  <Comment user="kuhlmanna" audience="Internal" date="2022-07-11">Centered the figure in image</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-03-14">Updated skin tone to Fitzpatrick Type III</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Deleted the cancer spot to the left of the one labelled “a”, near the trachea per expert reviewer</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Added a spot of cancer to the nerve that controls the diaphragm</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Adjusted overall canvas size</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Moved 5 cm circle under peach; fixed inset type</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Changed the wording in the top  right inset to say “Primary tumor is larger than 5 cm…7 cm”; and moved the label for Diaphragm down and pointed the line to the bottom part of the diaphragm and add a label for Pleura right above it. </Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Bolded the letter “d”  to match the other letters</Comment><Comment audience="Internal" date="2018-10-02" user="yousufzaimg">Changed title to Stage IIB Lung Cancer (2); took off the clear-looking covering on the diaphragm; changed the letter “f” to “a” in the top inset and on the main figure; changed the letter “g” to “b”; changed “h” to “c”, “I” to “d”, and “j” to “e; and labeled “Lung” and “Diaphragm” on left side of the figure.</Comment><Comment audience="Internal" date="2018-10-02" user="kuhlmanna">New image per AJCC 8th edition updates: separated Stage IIB Lung  Cancer into two images, part 1 and part 2.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682742">stage IIB non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIB lung cancer (2); drawing shows (a) a primary tumor (larger than 5 cm but not larger than 7 cm) in the left lung (top inset) and (b) a separate tumor in the same lobe of the lung as the primary tumor. Also shown is cancer that has spread to (c) the chest wall and the membranes covering the lung and chest wall (middle inset); (d) the nerve that controls the diaphragm; and (e) the sac around the heart (bottom inset).  The pleura, diaphragm, heart, and a rib (middle inset) are also shown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IIB lung cancer (2); drawing shows (a) a primary tumor (larger than 5 cm but not larger than 7 cm) in the left lung (top inset) and (b) a separate tumor in the same lobe of the lung as the primary tumor. Also shown is cancer that has spread to (c) the chest wall and the membranes covering the lung and chest wall (middle inset); (d) the nerve that controls the diaphragm; and (e) the sac around the heart (bottom inset).  The pleura, diaphragm, heart, and a rib (middle inset) are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIB lung cancer (2). Cancer has not spread to lymph nodes and one or more of the following is found: (a) the primary tumor is larger than 5 centimeters but not larger than 7 centimeters; and/or (b) there are one or more separate tumors in the same lobe of the lung as the primary tumor; and/or cancer has spread to any of the following: (c) the chest wall and/or the membrane that lines the inside of the chest wall, (d) the nerve that controls the diaphragm, and/or (e) the outer layer of tissue of the sac around the heart.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IIB lung cancer (2). Cancer has not spread to lymph nodes and one or more of the following is found: (a) the primary tumor is larger than 5 centimeters but not larger than 7 centimeters; and/or (b) there are one or more separate tumors in the same lobe of the lung as the primary tumor; and/or cancer has spread to any of the following: (c) the chest wall and/or the membrane that lines the inside of the chest wall, (d) the nerve that controls the diaphragm, and/or (e) the outer layer of tissue of the sac around the heart.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000682419">stage IIB non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2022-03-14</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2022-03-14">Updated image to LungStage2BPart2 FemaleFP III.1.jpg</Comment><Comment audience="Internal" date="2019-04-24" user="yousufzaimg">Updated image to LungStage2BPart2.7.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage2BPart2.6.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage2BPart2.5.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage2BPart2.4.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated image to LungStage2BPart2.3.jpg</Comment><Comment audience="Internal" date="2018-10-29" user="yousufzaimg">Updated image to LungStage2BPart2.2.jpg</Comment><Comment>Added LungStage2BPart2.1.jpg; my</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-04-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-10-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

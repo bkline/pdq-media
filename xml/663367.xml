@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>sugery, Mohs - penile cancer-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cirugía de Mohs</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Lesión visible en la piel</LabelName><LabelName language="es">1.</LabelName><LabelName language="es">Extracción de la primera capa delgada de piel</LabelName><LabelName language="es">2.</LabelName><LabelName language="es">Extracción de otra capa delgada de piel</LabelName><LabelName language="es">3.</LabelName><LabelName language="es">Extracción de otra capa delgada de piel</LabelName><LabelName language="es">4.</LabelName><LabelName language="es">Extracción de la capa final con cáncer</LabelName><ImageDimensions>
+    <HeightPixels>2040</HeightPixels>
+    <WidthPixels>2859</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000599831">surgery, Mohs - skin cancer</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>MOHS-MaleSpanish2</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with titled image</Comment><Comment>Spanish filename: MOHS.Male.Spanish.jpg. Changed filename to Mohs surgery-generic-Spanish.</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cirugía de Mohs; el dibujo muestra una lesión visible en la piel. La imagen en detalle muestra un trozo de piel con cáncer en la epidermis (capa exterior de la piel) y la dermis (capa interna de la piel).  Se observa una lesión visible en la superficie de la piel. 
+Los cuatro cuadros numerados muestran la extracción de capas delgadas de piel una por una hasta que se termina de extraer todo el cáncer.
+</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cirugía de Mohs. Procedimiento quirúrgico que se usa para extraer el cáncer de piel en varias etapas. Primero se extrae una capa delgada de tejido canceroso. Después se extrae una segunda capa delgada de tejido y se observa al microscopio para verificar si hay células cancerosas. Se extraen más capas de tejido una por una hasta que el tejido que se observa al microscopio muestra que no queda cáncer. Este tipo de cirugía se usa para extraer la menor cantidad posible de tejido sano.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000502300">Cáncer de pene: Tratamiento</Summary><Glossary cdr:ref="CDR0000442898">Mohs micrographic surgery</Glossary>
+ <Glossary cdr:ref="CDR0000256570">Mohs surgery</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with new titled image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-03-27</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-01-08" user="dbuchhagen">Updated image to MOHS.male.Spanish.jpg.</Comment><Comment audience="Internal" date="2010-01-08" user="dbuchhagen">Updated image to MOHS.Spanish2.jpg.</Comment><Comment audience="Internal" date="2009-03-27" user="rharrison">Attached Spanish-labeled image. </Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-03-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-03-25</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-03-25" user="rharrison">Added translation of labels, caption, and content description.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-03-20</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

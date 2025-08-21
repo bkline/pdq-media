@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Visceral peritoneum</LabelName><LabelName language="en">Stage IIA</LabelName><LabelName language="en">Visceral peritoneum</LabelName><LabelName language="en">Blood vessel</LabelName><LabelName language="en">Serosa</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Stage IIB</LabelName><LabelName language="en">Cancer spreads to the visceral peritoneum</LabelName><LabelName language="en">Stage IIC</LabelName><LabelName language="en">Cancer spreads to nearby organs</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>3750</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2018-05-14</DateCreated>
+   
+   
+   <SourceFilename>ColonCaStageRev2.12.jpg  </SourceFilename>
+   
+  <Comment>Added the label “Visceral peritoneum” to the layer of tissue in the main figure and to the stage IIA panel; and changed the label in the Stage IIB panel to “Cancer spreads to the visceral peritoneum".</Comment><Comment audience="Internal" date="2018-04-30" user="kuhlmanna">Added purple layer to main image of colon on the left; changed the label in the IIB panel to read “Cancer spreads to tissue covering nearby organs” and moved the cancer spot up a bit more into the purple layer.</Comment><Comment audience="Internal" date="2018-04-16" user="kuhlmanna">In the middle panel, removed tiny picture of the inside of the colon with cancer growing in it and added purple shading. In the last panel, added blue arrow.</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Image revised per AJCC updates, 8th edition</Comment><Comment audience="Internal" date="2010-11-22" user="anjamison">Deleted the parts of the lymph vessels and blood vessels that touch the tumor; in IIA, made the dark lymph node light to match the others and lowered the top edge of the tumor so that it just touches the lower edge of the serosa; in IIB and IIC moved the middle lymph node up so the tumor doesn’t touch it; in IIC removed the free floating tumor cells near the lymph nodes.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037761">stage II colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II colorectal cancer; drawing shows a cross-section of the colon/rectum and a three-panel inset. Each panel shows the layers of the colon/rectum wall: the mucosa, submucosa, muscle layers, and serosa. Also shown are a blood vessel and lymph nodes. The first panel shows stage IIA with cancer in the mucosa, submucosa, muscle layers, and serosa. The second panel shows stage IIB with cancer in all layers and spreading through the serosa to the visceral peritoneum. The third panel shows stage IIC with cancer in all layers and spreading through the serosa to nearby organs.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage II colorectal cancer; drawing shows a cross-section of the colon/rectum and a three-panel inset. Each panel shows the layers of the colon/rectum wall: the mucosa, submucosa, muscle layers, and serosa. Also shown are a blood vessel and lymph nodes. The first panel shows stage IIA with cancer in the mucosa, submucosa, muscle layers, and serosa. The second panel shows stage IIB with cancer in all layers and spreading through the serosa to the visceral peritoneum. The third panel shows stage IIC with cancer in all layers and spreading through the serosa to nearby organs.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II colorectal cancer. In stage IIA, cancer has spread through the muscle layer of the colon/rectum wall to the serosa. In stage IIB, cancer has spread through the serosa of the colon/rectum wall to the visceral peritoneum (tissue that lines the organs in the abdomen).  In stage IIC, cancer has spread through the serosa of the colon/rectum wall to nearby organs.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage II colorectal cancer. In stage IIA, cancer has spread through the muscle layer of the colon/rectum wall to the serosa. In stage IIB, cancer has spread through the serosa of the colon/rectum wall to the visceral peritoneum (tissue that lines the organs in the abdomen). In stage IIC, cancer has spread through the serosa of the colon/rectum wall to nearby organs.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062954">Colon Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045891">stage II colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment audience="Internal" date="2018-05-14" user="yousufzaimg">Updated image to ColonCaStageRev2.12.jpg</Comment><Comment audience="Internal" date="2018-04-30" user="kuhlmanna">Updated image to ColonCaStageRev2.11.jpg</Comment><Comment audience="Internal" date="2018-04-16" user="kuhlmanna">Updated image to ColonCaStageRev2.10.jpg</Comment><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Updated image to ColonCaStageRev2.9a.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-29</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added ColonCaStageRev2.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

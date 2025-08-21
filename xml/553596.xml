@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>complete blood count-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Plasma</LabelName><LabelName language="es">Glóbulos blancos</LabelName><LabelName language="es">Plaquetas</LabelName><LabelName language="es">Glóbulos rojos</LabelName><ImageDimensions>
+    <HeightPixels>2240</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000526546">complete blood count</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment audience="Internal" date="2012-12-14" user="mzeleski">Replaced image with new title</Comment><Comment>2012-12-14; CBC.Spanish2.jpg. Added new copyright information. </Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Recuento sanguíneo completo (RSC); el panel de la izquierda muestra la sangre cuando se extrae de una vena de la parte anterior del codo mediante un tubo conectado a una jeringa; el panel de la derecha, muestra un tubo de ensayo de laboratorio con células sanguíneas separadas en capas: plasma, glóbulos blancos, plaquetas y glóbulos rojos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Recuento sanguíneo completo (RSC). Se extrae sangre introduciendo una aguja en una vena y se permite que la sangre fluya hacia un tubo. La muestra de sangre se envía al laboratorio y se cuentan los glóbulos rojos, los glóbulos blancos y las plaquetas. El RSC se usa para examinar, diagnosticar y vigilar muchas afecciones distintas.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256789">Leucemia linfoblástica aguda en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000256790">Leucemia mieloide aguda en adultos: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256765">Leucemia linfoblástica aguda infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000256797">Leucemia mieloide agudainfantil/  otras malignidades mieloides: Tratamiento</Summary><Summary cdr:ref="CDR0000256788">Leucemia linfocítica crónica: Tratamiento</Summary><Summary cdr:ref="CDR0000256791">Leucemia mielógena crónica: Tratamiento</Summary><Summary cdr:ref="CDR0000420952">Trastornos mieloproliferativos crónicos: Tratamiento</Summary><Summary cdr:ref="CDR0000256824">Leucemia de células pilosas: Tratamiento</Summary><Summary cdr:ref="CDR0000429622">Neoplasias de células plasmáticas (incluso mieloma múltiple): Tratamiento</Summary><Summary cdr:ref="CDR0000426393">Síndromes mielodisplásicos: Tratamiento</Summary><Summary cdr:ref="CDR0000256771">Linfoma no Hodgkin en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000256783">Linfoma no Hodgkin infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000256760">Linfoma de Hodgkin en adultos: Tratamiento</Summary><Summary cdr:ref="CDR0000256830">Linfoma de Hodgkin infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000420913">Linfoma relacionado con el sida: Tratamiento</Summary><Summary cdr:ref="CDR0000426390">Linfoma primario del sistema nervioso central: Tratamiento</Summary><Summary cdr:ref="CDR0000433316">Micosis fungoide yel síndrome de Sézary: Tratamiento</Summary><Glossary cdr:ref="CDR0000045107">complete blood count</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-04-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Titled image was linked</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-06-04 Artist completed and uploaded Spanish-labeled images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-08-07 caption translation correction completed. 2007-08-03 requested caption translation correction; 2007-05-18 label translations completed.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

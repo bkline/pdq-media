@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>HLA allele duplication and type of match</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">HLA Allele Duplication and Type of Match</LabelName><LabelName language="en">HLA allele</LabelName><LabelName language="en">Donor</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0401</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0401</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0401</LabelName><LabelName language="en">Recipient</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0401</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0401</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0201</LabelName><LabelName language="en">0301</LabelName><LabelName language="en">0401</LabelName><LabelName language="en">Type of Match</LabelName><LabelName language="en">Allele match</LabelName><LabelName language="en">Mismatch in the GVH-O direction</LabelName><LabelName language="en">Mismatch in the R-O direction</LabelName><LabelName language="en">Bidirectional mismatch</LabelName><ImageDimensions>
+    <HeightPixels>1800</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Board member: M Pulsipher</Creator>
+   <DateCreated>2015-01-07</DateCreated>
+   <SourceFilename>HLA Allele Duplication and Type of Match.2</SourceFilename>
+  <Comment audience="Internal" date="2015-01-07" user="akuhlmann">Image revised by Terese Winslow: removed extra white space to make image larger</Comment><Comment audience="Internal" date="2015-01-06" user="akuhlmann">Image revised by Terese Winslow: made image a high resolution to enlargen it</Comment><Comment audience="Internal" date="2014-04-03" user="akuhlmann">No copyright permission needed</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2014-04-01" user="akuhlmann">Image created by Board member: M Pulsipher; no copyright permission needed</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing HLA allele duplication and type of match between donor and recipient: an allele match (0201 and 0401 for both donor and recipient); a mismatch (0201 for both donor and recipient and 0201 for donor, 0401 for recipient) shown by an arrow pointing in a direction that promotes GVHD (GVH-O); a mismatch (0201 for both donor and recipient and 0401 for donor, 0201 for recipient) shown by an arrow pointing in a direction that promotes rejection (R-O); and a bidirectional mismatch (0201 for donor, 0301 for recipient, and 0401 for both  donor and recipient) shown by arrows pointing in two directions, a direction that promotes rejection (R-O) and a direction that promotes GVHD (GVH-O).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">HLA allele duplication in a donor or recipient results in a “half” match and a mismatch that will either occur in a direction that promotes GVHD (GVH-O) or a direction that promotes rejection (R-O).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000700000">Childhood Hematopoietic Cell Transplantation</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-01-07</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  <Comment audience="Internal" date="2015-01-07" user="akuhlmann">Added HLA Allele Duplication and Type of Match.2</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

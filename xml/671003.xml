@@ -1,0 +1,100 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ureteroscopy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ureteroscopia (Mujer)</LabelName><LabelName language="es">Riñón derecho</LabelName><LabelName language="es">Riñón izquierdo</LabelName><LabelName language="es">Pelvis renal</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Uretra</LabelName>
+  <LabelName language="es">Ureteroscopio</LabelName><LabelName language="es">Ureteroscopia (Hombre)</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Ureteroscopio</LabelName><ImageDimensions>
+    <HeightPixels>3000</HeightPixels><WidthPixels>3750</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000649520">ureteroscopy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>UreteroscopyFemaleMaleSpanish1.jp</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039798">kidney/urinary cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Se muestra un dibujo de una ureteroscopia en una mujer, en la que se observa la pelvis inferior y se señalan los riñones derecho e izquierdo, la pelvis renal, el uréter, el útero, la vejiga, y la uretra. Así mismo, se muestra un dibujo de una ureteroscopia en un hombre en la que se observa la pelvis inferior y se señalan el uréter, la vejiga, la próstata, la uretra y el pene. En ambos dibujos se ve un ureteroscopio (instrumento delgado en forma de tubo con una luz y una lente para observar) que pasa a través de la uretra hacia la vejiga y el uréter. En la figura de la mujer  el ureteroscopio también se introduce en la pelvis renal. Además, hay un recuadro en el que se observa a una persona acostada en una camilla con las rodillas flexionadas y las piernas separadas, cubiertas por una sábana, y un médico que mira una imagen del interior del uréter o la pelvis renal en el monitor de unacomputadora.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Una ureteroscopia es un procedimiento en el que se usa un ureteroscopio (instrumento delgado en forma de tubo con una luz y una lente para observar) para ver el interior del uréter y la pelvis renal, y verificar si hay áreas anormales.  El ureteroscopio se inserta a través de la uretra hacia la vejiga, el uréter y la pelvis renal.</MediaCaption>
+   </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256834">Tratamiento del cáncer de células de transición de pelvis renal y de uréter</Summary>
+  <Summary cdr:ref="CDR0000452956">Tratamiento del cáncer de vagina</Summary><Glossary cdr:ref="CDR0000354470">ureteroscopy</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, updated caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC of revised labels complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added new labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-06-23</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-05-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment audience="Internal" date="2010-06-04" user="dbuchhagen">Removed image and added correct one UreteroscopySpanish.jpg.</Comment><Comment>Added image CystoscopySpanish.jpg.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-15</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-05-17" user="dbuchhagen">Added Label Ureteroscopio.</Comment><Comment audience="Internal" date="2010-04-15" user="lsaucedo">Labels translated</Comment></ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-25</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy><Comment audience="Internal" date="2010-05-19" user="dbuchhagen">Additional label sent 2010-05-17</Comment>
+        
+       </ProcessingStatus></ProcessingStatuses>
+ <RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000649503">Sample illustration: ureteroscopy</SupplementaryInfoLink>
+       </RelatedDocuments>
+<TranslationOf cdr:ref="CDR0000649520">ureteroscopy</TranslationOf></Media>

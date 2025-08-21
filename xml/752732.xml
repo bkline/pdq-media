@@ -1,0 +1,113 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IIA (1)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIA Squamous Cell Carcinoma of the Esophagus (1)</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Stomach</LabelName><LabelName language="en">Cancer cells are grade 2 or 3 or unknown</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">Thin muscle layer</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Thick muscle layer</LabelName><LabelName language="en">Connective tissue</LabelName><LabelName language="en">Lymph node</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>2475</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2019-08-18</DateCreated><SourceFilename>EsophagealCaSquamousStage2APart1.9.jpg</SourceFilename><Comment audience="Internal" date="2019-08-19" user="kuhlmanna">Added a leader line to the Esophagus from the label</Comment><Comment audience="Internal" date="2019-07-19" user="yousufzaimg">Changed "Cancer" to "Carcinoma" in image title</Comment><Comment audience="Internal" date="2019-01-21" user="kuhlmanna">Changed label at top to say “Cancer cells are grade 2 or 3 or unknown”</Comment><Comment audience="Internal" date="2018-12-31" user="yousufzaimg">Image revisions made per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2014-09-10" user="myousufzai">Changed brackets to curly brackets with the label line pointing to the middle of the bracket; added label for Submucosa, pointing to the white band near the top, and made the mucosa layer just include the layers from the top of the submucosa to the top of the image; and made the connective tissue layer at the very bottom a little thicker</Comment><Comment audience="Internal" date="2014-04-07" user="akuhlmann">Changed label on body figure to “Upper and middle esophagus”.</Comment><Comment audience="Internal" date="2014-03-25" user="myousufzai">Moved the (1) to the end of the image title; removed the 5 little white holes (circles) from the upper mucosa (purple) layer; and	put a bracket around the top 2/3 of the esophagus and changed the label to “Upper to mid esophagus”.
+</Comment><Comment audience="Internal" date="2014-03-11" user="akuhlmann">Made cancer cells more yellow</Comment><Comment audience="Internal" date="2014-02-11" user="akuhlmann">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717441">stage IIA esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIA squamous cell carcinoma of the esophagus (1); drawing shows the esophagus and stomach. An inset shows grade 2 or 3 cancer cells or cancer cells of an unknown grade in the mucosa layer, thin muscle layer, submucosa layer, and thick muscle layer of the esophagus wall. Also shown are the connective tissue layer of the esophagus wall and the lymph nodes.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIA squamous cell carcinoma of the esophagus (1); drawing shows the esophagus and stomach. An inset shows grade 2 or 3 cancer cells or cancer cells of an unknown grade in the mucosa layer, thin muscle layer, submucosa layer, and thick muscle layer of the esophagus wall. Also shown are the connective tissue layer of the esophagus wall and the lymph nodes.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIA squamous cell carcinoma of the esophagus (1). Cancer has spread into the thick muscle layer of the esophagus wall. The cancer cells are grade 2 or 3 or the grade is not known. Grade 2 and 3 cancer cells look more abnormal under a microscope and grow and spread more quickly than grade 1 cancer cells.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIA squamous cell carcinoma of the esophagus (1). Cancer has spread into the thick muscle layer of the esophagus wall. The cancer cells are grade 2 or 3 or the grade is not known. Grade 2 and 3 cancer cells look more abnormal under a microscope and grow and spread more quickly than grade 1 cancer cells.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062960">Esophageal Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000720244">stage II esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-26</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-02-04</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-25</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2019-01-21" user="kuhlmanna">Updated image to EsophagealCaSquamousStage2APart1.7.jpg</Comment><Comment audience="Internal" date="2018-12-31" user="yousufzaimg">Updated image to EsophagealCaSquamousStage2APart1.6.jpg</Comment><Comment audience="Internal" date="2014-09-10" user="akuhlmann">Updated image to EsophagealCaSquamousStage2APart1.5.jpg</Comment><Comment audience="Internal" date="2014-04-07" user="akuhlmann">Added EsophagealCaSquamousStage2APart1.4.jpg</Comment><Comment audience="Internal" date="2014-03-25" user="myousufzai">Added EsophagealCaSquamousStage2APart1.3.jpg</Comment><Comment audience="Internal" date="2014-03-11" user="akuhlmann">Added EsophagealCaSquamousStage2APart1.2.jpg</Comment><Comment>Added EsophagealCaSquamousStage2APart1.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-09-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Image and caption need modifications per J. Faris</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-09</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-07</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-04-07</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-09-13</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000752729">Sample Illustration: esophageal squamous stages IIA and IIB</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000763675">Illustration Review Sheet: esophageal squamous cell stage IIA(1)</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000792773">Sample Illustration: Esophageal SCC AJCC Revisions</SupplementaryInfoLink></RelatedDocuments><Comment>Added HP caption/content description; my</Comment></Media>

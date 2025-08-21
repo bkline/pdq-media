@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>x-ray, abdominal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">X-ray of the Abdomen</LabelName><ImageDimensions>
+    <HeightPixels>3060</HeightPixels>
+    <WidthPixels>2415</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+   
+   
+   <DateCreated>2013-03-19</DateCreated><SourceFilename>XRayAbdomen5.jpg</SourceFilename><Comment audience="Internal" date="2013-03-21" user="anjamison">Increased white space around title.</Comment><Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment>
+   
+  <Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">X-ray of the abdomen; drawing shows the patient on a table and x-rays are used to take pictures of the inside of the body.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">X-ray of the abdomen. The patient lies on a table and x-rays are used to take pictures of the inside of the body.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-19</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2013-03-21" user="anjamison">Updated to XRayAbdomen5.jpg</Comment><Comment>Updated to XRayAbdomen4.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses><Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Added "drawing" and "the" in cont desc and "the" in cap; dlb.</Comment></Media>

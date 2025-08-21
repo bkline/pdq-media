@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>radioactive seeds</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Radioactive seeds</LabelName><ImageDimensions>
+    <HeightPixels>2100</HeightPixels>
+    <WidthPixels>2025</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2011-03-03</DateCreated>
+   <SourceFilename>Brachytherapy3.jpg</SourceFilename>
+  <Comment>Changed the label from “Brachytherapy seeds” to “Radioactive seeds”.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>treatment</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Radioactive seeds; drawing shows a gloved hand using an instrument to pick up small, radioactive seeds.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Radioactive seeds. Small, radioactive seeds may be placed in or near a tumor to kill cancer cells.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062965">Prostate Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000257219">radioactive seed</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-23</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Image name changed from "brachytherapy seeds."</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-15</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2011-03-04</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Updated to Brachytherapy3.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

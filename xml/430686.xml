@@ -1,0 +1,61 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>barium swallow, esophageal cancer</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Barium Swallow</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Barium liquid</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2775</HeightPixels><WidthPixels>2280</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-10-11</DateCreated>
+   
+   
+   <SourceFilename>BariumSwallowEsophagealCancerAsianMale1.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" date="2023-10-11" audience="Internal">Changed the figure to an East Asian male</Comment><Comment audience="Internal" date="2013-03-01" user="anjamison">Added title.</Comment><Comment>Added new copyright information and label names. </Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><Race>Asian</Race><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2023-10-11</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043615">esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Barium swallow; drawing shows barium liquid flowing down the esophagus and into the stomach. The barium coats and outlines the inside of the esophagus and stomach. The inset x-ray image shows a narrowing at the end of the esophagus caused by cancer. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Barium swallow for esophageal cancer. The patient drinks a liquid that contains barium (a silver-white metallic compound). The barium coats and outlines the inside of the esophagus and stomach. This allows abnormal areas, such as esophageal cancer, to be seen on x-rays.</MediaCaption>
+  </Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000046756">barium swallow</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to BariumSwallowEsophagealCancerAsianMale1.jpg</Comment>
+       </ProcessingStatus>
+       </ProcessingStatuses></Media>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>reproductive system, male, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Male Reproductive System</LabelName><LabelName language="en">Ureter</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Rectum</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">Prostate gland</LabelName><LabelName language="en">Vas deferens</LabelName><LabelName language="en">Urethra</LabelName><LabelName language="en">Penis</LabelName><LabelName language="en">Testis</LabelName><LabelName language="en">Seminal vesicle</LabelName><LabelName language="en">Ejaculatory duct</LabelName><ImageDimensions>
+    <HeightPixels>1890</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-11-03</DateCreated>
+   <SourceFilename>MaleReproductiveSystem1.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039801">male reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the  male reproductive and urinary systems; drawing shows front and side views of ureters, lymph nodes, rectum, bladder, prostate gland, vas deferens,  urethra, penis, testicles,  seminal vesicle, and ejaculatory duct.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the  male reproductive and urinary systems showing the prostate, testicles, bladder, and other organs.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046564">reproductive system</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-11-03</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

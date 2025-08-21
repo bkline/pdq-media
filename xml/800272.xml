@@ -1,0 +1,58 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>sebaceoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>328</HeightPixels>
+    <WidthPixels>863</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Edward Cowen, MD, MHSc</Creator>
+   <DateCreated>2019-12-20</DateCreated>
+   <SourceFilename>sebaceomas.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-01-02" user="kuhlmanna">Permissions not needed</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Two-panel photograph showing the forehead of an individual with three small, flesh-colored bumps on the surface of the skin (left panel) and a close-up of a single bump on the skin with hair surrounding it (right panel).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Sebaceous epitheliomas (or sebaceomas) are benign lesions originating from oil glands in the skin. They may be seen in individuals with Muir-Torre syndrome, a hereditary syndrome associated with the development of several types of cancer. They are commonly found on the face or neck.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+  <Glossary cdr:ref="CDR0000800260">sebaceoma</Glossary>
+ <Glossary cdr:ref="CDR0000800259">sebaceous epithelioma</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Please translate only the Content Description and Caption (image has no labels)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-12-20</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>Approved by PDQ Cancer Genetics Editorial Board</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

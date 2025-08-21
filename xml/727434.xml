@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Peak growth hormone according to hypothalamic mean dose and time after start or irradiation</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Peak GH (ng/mL)</LabelName><LabelName language="en">Time (months)</LabelName><ImageDimensions>
+    <HeightPixels>797</HeightPixels>
+    <WidthPixels>1280</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>http://jco.ascopubs.org/content/29/36/4776.long</Creator>
+   <DateCreated>2011-10-31</DateCreated>
+   <SourceFilename>Merchant Figure, Late Effects - Peak growth hormone according to hypothalamic mean dose and time after start or irradiation.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041394">long-term effects secondary to cancer therapy in children</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Graph shows peak growth hormone (in ng/mL) according to hypothalamic mean dose and time (in months) after start of irradiation. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Peak growth hormone (GH) according to hypothalamic mean dose and time after start of irradiation. According to equation 2, peak GH = exp{2.5947 + time × [0.0019 − (0.00079 × mean dose)]}. Thomas E. Merchant, Susan R. Rose, Christina Bosley, Shengjie Wu, Xiaoping Xiong, and Robert H. Lustig, Growth Hormone Secretion After Conformal Radiation Therapy in Pediatric Patients With Localized Brain Tumors, Journal of Clinical Oncology, volume 29, issue 36, pages 4776-4780. Reprinted with permission. © (2011) American Society of Clinical Oncology. All rights reserved.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       <Comment audience="Internal" date="2012-04-10" user="anjamison">Received permission to use image.</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-03-01</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added new image: Merchant Figure, Late Effects - Peak growth hormone according to hypothalamic mean dose and time after start or irradiation.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

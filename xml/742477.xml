@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Klatskin tumor anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Klatskin Tumor</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Right hepatic duct</LabelName><LabelName language="en">Left hepatic duct</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Common hepatic duct</LabelName><LabelName language="en">Gallbladder</LabelName><ImageDimensions>
+    <HeightPixels>2434</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-07-29</DateCreated>
+   <SourceFilename>KlatskinTumor2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-07-29" user="akuhlmann">Added labels for Right hepatic duct, Left hepatic duct, and Common hepatic duct; removed general label for Hepatic ducts</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038752">extrahepatic bile duct cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Klatskin tumor; drawing shows cancer in the common hepatic duct, the area where the right and left hepatic duct meet. Also shown are the liver and gallbladder.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Klatskin tumor; drawing shows cancer in the common hepatic duct, the area where the right and left hepatic duct meet. Also shown are the liver and gallbladder.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Klatskin tumor. A tumor that forms in the common hepatic duct, the area where the right and left hepatic duct meet. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Klatskin tumor. A tumor that forms in the common hepatic duct, the area where the right and left hepatic duct meet. </MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258011">Extrahepatic Bile Duct Cancer Treatment</Summary>
+  <Summary cdr:ref="CDR0000062905">Extrahepatic Bile Duct Cancer Treatment</Summary><Glossary cdr:ref="CDR0000335074">Klatskin tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-07</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Updated to KlatskinTumor2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>First image draft reviewed and approved by expert reviewers: Jen Wo, Franco Muggia, and Russ Berman</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-11-12</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        <Comment>Added KlatskinTumor1.jpg.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-11-02</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000742476">Klatskin tumor</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

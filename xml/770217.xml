@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>extracranial germ cell tumor</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Extracranial Germ Cell Tumor</LabelName><LabelName language="en">Female</LabelName><LabelName language="en">Male</LabelName><LabelName language="en">Head and neck</LabelName><LabelName language="en">Sacrum</LabelName><LabelName language="en">Coccyx</LabelName><LabelName language="en">Ovaries</LabelName><LabelName language="en">Testicles</LabelName><LabelName language="en">Mediastinum (blue)</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Peritoneum</LabelName><LabelName language="en">Retroperitoneum (red)</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3120</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-11-30</DateCreated>
+   <SourceFilename>ExtracranialGermCellTumor4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-11-29" user="kuhlmanna">Revised image: Added "Head and neck" label</Comment><Comment audience="Internal" date="2015-03-19" user="akuhlmann">Faded out the spine in the cross-section figure on the right.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043493">childhood extracranial germ cell tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Extracranial germ cell tumor; drawing shows parts of the body where extracranial germ cell tumors may form, including the head and neck, mediastinum (the area between the lungs, shown in blue), retroperitoneum (the area behind the abdominal organs, shown in red), sacrum, coccyx, testicles (in males), and ovaries (in females). Also shown are the heart and peritoneum.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Extracranial germ cell tumor; drawing shows parts of the body where extracranial germ cell tumors may form, including the head and neck, mediastinum (the area between the lungs, shown in blue), retroperitoneum (the area behind the abdominal organs, shown in red), sacrum, coccyx, testicles (in males), and ovaries (in females). Also shown are the heart and peritoneum.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Extracranial germ cell tumors form in parts of the body other than the brain.  This includes the testicles, ovaries, sacrum (lower part of the spine), coccyx (tailbone), mediastinum (area between the lungs), retroperitoneum (the back wall of the abdomen), and the head and neck.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Extracranial germ cell tumors form in parts of the body other than the brain.  This includes the testicles, ovaries, sacrum (lower part of the spine), coccyx (tailbone), mediastinum (area between the lungs), retroperitoneum (the back wall of the abdomen), and the head and neck.</MediaCaption></Captions>
+ <Comment audience="Internal" date="2018-11-29" user="kuhlmanna">2018-11-29: Revised HP and PT captions and content descriptions per SQK; ak</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062857">Childhood Extracranial Germ Cell Tumors Treatment</Summary>
+  <Summary cdr:ref="CDR0000062854">Childhood Extracranial Germ Cell Tumors Treatment</Summary><Glossary cdr:ref="CDR0000444992">extracranial germ cell tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-29</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-18</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2015-03-18</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

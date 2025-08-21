@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>neuroblastoma-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Espina vertebral</LabelName><LabelName language="es">Tejido nervioso paravertebral</LabelName><LabelName language="es">Glándulas suprarrenales</LabelName><LabelName language="es">Riñón derecho</LabelName><LabelName language="es">Riñon izquierdo</LabelName><ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000042067">neuroblastoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">El dibujo muestra las partes del cuerpo donde se puede encontrar un neuroblastoma, como el tejido nervioso paravertebral y las glándulas suprarrenales. También se ven la espina vertebral, y los riñones derecho e izquierdo.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">El dibujo muestra las partes del cuerpo donde se puede encontrar un neuroblastoma, como el tejido nervioso paravertebral y las glándulas suprarrenales. También se ven la espina vertebral, y los riñones derecho e izquierdo.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El neuroblastoma se puede encontrar en las glándulas suprarrenales y en el tejido nervioso paravertebral, que va desde el cuello a la pelvis.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">El neuroblastoma se puede encontrar en las glándulas suprarrenales y en el tejido nervioso paravertebral, que va desde el cuello a la pelvis.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256683">Neuroblastoma: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000391227">Neuroblastoma: Tratamiento</Summary><Glossary cdr:ref="CDR0000045418">neuroblastoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-28</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-28</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-08-12</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

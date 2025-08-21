@@ -1,0 +1,129 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage IVA and IVB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de vejiga en estadios IVA y IVB</LabelName><LabelName language="es">Arteria ilíaca común derecha</LabelName><LabelName language="es">(b) Cáncer en los ganglios linfáticos ubicados por encima de las arterias ilíacas comunes</LabelName><LabelName language="es">Arteria ilíaca común izquierda</LabelName><LabelName language="es">(a) Cáncer que se diseminó a la pared del abdomen o de la pelvis</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">(c) Cáncer que se diseminó a otras partes del cuerpo</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Hueso</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3165</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000749892">bladder cancer stage IVA and IVB</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BladderCancerStageIVAB FP II Spanish1.jpg</SourceFilename>
+  <Comment user="saucedol" audience="Internal" date="2023-02-05">Linked revised image</Comment><Comment audience="Internal" date="2013-09-25" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de vejiga en estadios IVA y IVB. En la imagen se observa cáncer que se diseminó de la vejiga a la pared del abdomen o de la pelvis (a); y a los ganglios linfáticos ubicados por encima de las arterias ilíacas comunes (b). En el recuadro se observa cáncer que se diseminó a otras partes del cuerpo, como el pulmón, el hígado y el hueso (c).</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de vejiga en estadios IVA y IVB. En la imagen se observa cáncer que se diseminó de la vejiga a la pared del abdomen o de la pelvis (a); y a los ganglios linfáticos ubicados por encima de las arterias ilíacas comunes (b). En el recuadro se observa cáncer que se diseminó a otras partes del cuerpo, como el pulmón, el hígado y el hueso (c).</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de vejiga en estadios IVA y IVB. En el estadio IVA, se presenta una de las siguientes situaciones: el cáncer se diseminó a la pared del abdomen o de la pelvis (a); o el cáncer se diseminó a los ganglios linfáticos ubicados por encima de las arterias ilíacas comunes (b). En el estadio IVB, el cáncer se diseminó a otras partes del cuerpo, como el pulmón, el hígado o el hueso (c).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de vejiga en estadios IVA y IVB. En el estadio IVA, se presenta una de las siguientes situaciones: el cáncer se diseminó a la pared del abdomen o de la pelvis (a); o el cáncer se diseminó a los ganglios linfáticos ubicados por encima de las arterias ilíacas comunes (b). En el estadio IVB, el cáncer se diseminó a otras partes del cuerpo, como el pulmón, el hígado o el hueso (c).</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256808">Tratamiento del cáncer de vejiga</Summary>
+  <Glossary cdr:ref="CDR0000045125">stage IV bladder cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-08</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-02-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC of labels as well as caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Two revised labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-04</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Labels, caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-14</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Labels, as well as caption and content description reviewed.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-26</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial change</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and descriptions, updated sourcefile name.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       <Comment audience="Internal" date="2018-03-14" user="adlerm2">Por favor, "ilíaca" con acento por ser esdrújula. Ver Navarro y DTM.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised labels, caption, and content description per AJCC updates//pending Spa QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-12</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000749892">bladder cancer stage IVA and IVB</TranslationOf></Media>

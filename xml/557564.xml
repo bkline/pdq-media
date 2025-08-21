@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, endoscopic (EUS), with biopsy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ecografía endoscópica (EE)</LabelName><LabelName language="es">Endoscopio con sonda de ecografía</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Aguja de biopsia</LabelName><LabelName language="es">Ganglios linfáticos con cáncer</LabelName><LabelName language="es">Cáncer</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>2625</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000466552">ultrasound, endoscopic (EUS), with biopsy</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>EndoscopicUltrasoundGuidedFineNeedleAspirationFP I Spanish1.jpg</SourceFilename><Comment audience="Internal" date="2014-02-20" user="lsaucedo">Linked title image</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded FineNeedleAspSpanish2.jpg with new copyright information. </Comment>
+  <Comment>Spanish filename: FineNeedleAspSpanish.jpg</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Biopsia por aspiración con aguja fina guiada mediante ecografía endoscópica. En la imagen se muestra un endoscopio con una sonda de ecografía y una aguja de biopsia que se introduce por la boca hasta el esófago. También se observan los ganglios linfáticos cerca del esófago y cáncer en un pulmón. En un recuadro se muestra la identificación de los ganglios linfáticos con cáncer mediante la sonda ecográfica y la extracción de tejido  de uno de los ganglios linfáticos cercanos al esófago con la aguja de biopsia. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Biopsia por aspiración con aguja fina guiada mediante ecografía endoscópica. Se introduce un endoscopio, que tiene una sonda de ecografía y una aguja de biopsia, por la boca hasta el esófago. La sonda hace rebotar ondas de sonido en los tejidos del cuerpo para  producir ecos que forman un ecograma (imagen computarizada) de los ganglios linfáticos cercanos al esófago. El ecograma ayuda a que el médico vea dónde colocar la aguja de biopsia para extraer tejido de los ganglios linfáticos. Este tejido se observa al microscopio para determinar si hay signos de cáncer.</MediaCaption>
+  </Captions>
+  
+ <Comment audience="Internal" date="2016-09-16" user="saucedol">Editorial change to Caption and Content description</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  
+ <Summary cdr:ref="CDR0000256767">Tratamiento del cáncer de pulmón de células pequeñas</Summary><Summary cdr:ref="CDR0000433305">Tratamiento del mesotelioma maligno en adultos</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-21</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-10-05</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist for diveersity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Title image linked</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-06-04 Artist completed and uploaded Spanish-labeled images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-07-23 caption/content translations completed. 2007-05-18 Label translations completed.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000466552">ultrasound, endoscopic (EUS), with biopsy</TranslationOf></Media>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>paranasal sinus anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Paranasal Sinuses</LabelName><LabelName language="en">Frontal sinus</LabelName><LabelName language="en">Ethmoid sinus</LabelName><LabelName language="en">Nasal cavity</LabelName><LabelName language="en">Maxillary sinus</LabelName><LabelName language="es">Sphenoid sinus</LabelName><LabelName language="en">Pharynx (throat)</LabelName><ImageDimensions>
+    <HeightPixels>2363</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2012-04-13</DateCreated>
+   <SourceFilename>Sinuses8.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-04-19" user="anjamison">Replaced Throat label with Pharynx (throat)</Comment><Comment audience="Internal" date="2012-02-06" user="akuhlmann">Changed title to Paranasal Sinuses</Comment><Comment audience="Internal" date="2012-01-20" user="anjamison">Increased font size.</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated copyright to 2012.</Comment><Comment audience="Internal" date="2011-11-08" user="anjamison">Added Sinuses title; moved the label for Nasal cavity to the middle to point to both panels. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the paranasal sinuses; drawing shows front and side views of the frontal sinus, ethmoid sinus, maxillary sinus, and sphenoid sinus. The nasal cavity and pharynx (throat) are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the paranasal sinuses (spaces between the bones around the nose).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse><Summary cdr:ref="CDR0000258028">Paranasal Sinus and Nasal Cavity Cancer Treatment</Summary>
+  
+  <Glossary cdr:ref="CDR0000557104">frontal sinus</Glossary><Glossary cdr:ref="CDR0000557101">ethmoid sinus</Glossary><Glossary cdr:ref="CDR0000557102">maxillary sinus</Glossary><Glossary cdr:ref="CDR0000518299">paranasal sinus</Glossary><Glossary cdr:ref="CDR0000557105">sphenoid sinus</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-23</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-13</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-10</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-12-16</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy><Comment audience="Internal" date="2012-02-20" user="anjamison">Revised caption from "spaces in the bones" to "spaces between the bones."</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-04-19</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment audience="Internal" date="2012-04-19" user="anjamison">Updated to Sinuses8.jpg</Comment><Comment audience="Internal" date="2012-02-06" user="akuhlmann">Updated to Sinuses7.jpg</Comment><Comment audience="Internal" date="2012-01-20" user="anjamison">Updated to Sinuses6.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to Sinuses5.jpg</Comment><Comment audience="Internal" date="2012-01-06" user="anjamison">Updated to Sinuses4.jpg</Comment><Comment audience="Internal" date="2011-12-16" user="anjamison">Updated to Sinuses3.jpg</Comment><Comment audience="Internal" date="2011-12-16" user="anjamison">Updated to Sinuses2.jpg</Comment><Comment>Added Sinuses1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000730674">Illustration review sheet: paranasal sinus anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

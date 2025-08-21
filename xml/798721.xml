@@ -1,0 +1,82 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>esophageal squamous cell carcinoma stage IIB (3)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Carcinoma de células escamosas de esófago en estadio IIB (Parte 3)</LabelName><LabelName language="es">Esófago</LabelName><LabelName language="es">Estómago</LabelName><LabelName language="es">Células cancerosas de cualquier grado</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Capa muscular delgada</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Capa muscular gruesa</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Cáncer en 1 o 2 ganglios linfáticos cercanos</LabelName><ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000796797">esophageal squamous cell carcinoma stage IIB (3)</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EsophagealSquamousStageIIBPart3Spanish.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000717460">stage IIB esophageal cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IIB (Parte 3). En la imagen se observan el esófago y el estómago. En una ampliación, se muestran células cancerosas de cualquier grado en la mucosa, la capa muscular delgada y la submucosa de la pared del esófago. También se  observan la capa muscular gruesa y el tejido conjuntivo de la pared del esófago. Además, se muestra cáncer en 1 ganglio linfático cercano.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IIB (Parte 3). En la imagen se observan el esófago y el estómago. En una ampliación, se muestran células cancerosas de cualquier grado en la mucosa, la capa muscular delgada y la submucosa de la pared del esófago. También se  observan la capa muscular gruesa y el tejido conjuntivo de la pared del esófago. Además, se muestra cáncer en 1 ganglio linfático cercano.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Carcinoma de células escamosas de esófago en estadio IIB (Parte 3). El cáncer se diseminó a la mucosa, la capa muscular delgada o la submucosa de la pared del esófago. Se encuentra cáncer en 1 o 2 ganglios linfáticos cercanos.</MediaCaption><MediaCaption audience="Health_professionals" language="es">Carcinoma de células escamosas de esófago en estadio IIB (Parte 3). El cáncer se diseminó a la mucosa, la capa muscular delgada o la submucosa de la pared del esófago. Se encuentra cáncer en 1 o 2 ganglios linfáticos cercanos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256679">Tratamiento del cáncer de esófago</Summary>
+  <Summary cdr:ref="CDR0000256773">Tratamiento del cáncer de esófago</Summary><Glossary cdr:ref="CDR0000720244">stage II esophageal squamous cell carcinoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-21</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-20</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; caption and content description revised</Comment>
+       <Comment audience="Internal" date="2019-08-20" user="adlerm2">English image links to another staging image; sent message to Amy.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-07-17" user="lansberryic">Translation Qc for labels</Comment>
+       <Comment audience="Internal" date="2019-07-17" user="lansberryic">In Spanish is better to match translation of media title "esophageal squamous cell carcinoma": "carcinoma de células escamosas de esófago" and label "Squamous Cell Cancer of the Esophagus": "carcinoma de células escamosas de esófago". This will work better with both HP and Pat summaries, and also with GTN/GTC.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-15</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000796797">esophageal squamous cell carcinoma stage IIB (3)</TranslationOf></Media>

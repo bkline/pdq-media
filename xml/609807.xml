@@ -1,0 +1,130 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma stage IIA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Melanoma en estadio IIA</LabelName><LabelName language="es">El tumor mide más de 1 mm pero no más de 2 mm</LabelName><LabelName language="es">1 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">1 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">Ulceración</LabelName><LabelName language="es">El tumor mide más de 2 mm pero no más de 4 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">5 mm</LabelName><LabelName language="es">2 mm</LabelName><LabelName language="es">3 mm</LabelName><LabelName language="es">4 mm</LabelName><LabelName language="es">No hay ulceración</LabelName><LabelName language="es">Epidermis</LabelName><LabelName language="es">Dermis</LabelName><LabelName language="es">Tejido subcutáneo</LabelName>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000579056">skin cancer, melanoma stage IIA </MediaID></FromCdrMedia></FromObject><Comment audience="Internal" date="2008-10-03" user="rharrison">MelanomaStage2ASpanish.jpg. </Comment>
+   
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses><Diagnosis cdr:ref="CDR0000682694">stage IIA melanoma</Diagnosis>
+   </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Dibujo de dos paneles del melanoma en estadio IIA. En el panel de la izquierda se observa un tumor que mide más de 1 mm pero no más de 2 mm de grosor y hay ulceración (rotura de la piel). En el panel de la derecha se observa un tumor que mide más de 2 mm pero no más de 4 mm de grosor y no hay ulceración. También se muestran la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Dibujo de dos paneles del melanoma en estadio IIA. En el panel de la izquierda se observa un tumor que mide más de 1 mm pero no más de 2 mm de grosor y hay ulceración (rotura de la piel). En el panel de la derecha se observa un tumor que mide más de 2 mm pero no más de 4 mm de grosor y no hay ulceración. También se muestran la epidermis (capa superficial o externa de la piel), la dermis (capa profunda o interna de la piel) y el tejido subcutáneo debajo de la dermis.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Melanoma en estadio IIA. Se encuentra una de las siguientes situaciones: 1) El tumor mide más de 1 mm pero no más de 2 mm de grosor  y hay ulceración  (rotura de la piel). 2) El tumor mide más de 2 mm pero no más de 4 mm de grosor y no hay ulceración.  El grosor de la piel es distinto en diferentes partes del cuerpo.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Melanoma en estadio IIA. Se encuentra una de las siguientes situaciones: 1) El tumor mide más de 1 mm pero no más de 2 mm de grosor  y hay ulceración  (rotura de la piel). 2) El tumor mide más de 2 mm pero no más de 4 mm de grosor y no hay ulceración.  El grosor de la piel es distinto en diferentes partes del cuerpo.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256816">Tratamiento del melanoma</Summary>
+  <Summary cdr:ref="CDR0000256722">Tratamiento del melanoma</Summary><Glossary cdr:ref="CDR0000045137">stage II melanoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        
+        <ProcessingStatusDate>2020-04-16</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>QCd caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-09</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-01</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image and translation of captions and content description. QC pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Replaced image.  Revisions to caption and content descriptions pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Labels revised, caption and CD updates pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-03-02</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-24</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised image, Spanish labels ready for 1st QC</Comment><Comment>Suggestion: keep Spanish style of other AJCC images and don`t use "O".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Changes reviewed.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-07-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Only Spanish updates in Caption and Content Descrip. per Spanis revision of Summary. Not changes in labels./pending QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-05-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-26</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy><Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 attached updated image with corrected tumor depths; rh.</Comment>
+        <Comment>2008-10-03 attached Spanish-labeled image; rh. </Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2008-09-05</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy><Comment audience="Internal" date="2008-10-16" user="rharrison">2008-10-16 revised caption/content. </Comment>
+        <Comment audience="Internal" date="2008-10-03" user="rharrison">2008-10-03 added final edits to content desc. </Comment><Comment>2008-09-09; Added cap and cont translations. </Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2008-06-24</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2008-07-01 translation of labels complete. </Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000579056">skin cancer, melanoma stage IIA </TranslationOf></Media>

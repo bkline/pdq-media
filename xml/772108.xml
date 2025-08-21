@@ -1,0 +1,154 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, lateral and medial, child, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ventrículos (espacios llenos de líquido)</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Meninges</LabelName><LabelName language="es">Cráneo</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Bulbo raquídeo</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Región supratentorial</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Plexo coroideo</LabelName><LabelName language="es">Glándula pineal</LabelName><LabelName language="es">Tercer ventrículo</LabelName><LabelName language="es">Ventrículo lateral</LabelName><LabelName language="es">Hipotálamo</LabelName><LabelName language="es">Hipófisis</LabelName><LabelName language="es">Nervio óptico</LabelName><LabelName language="es">Región infratentorial (fosa posterior)</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Techo</LabelName><LabelName language="es">Cuarto ventrículo</LabelName><LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Mesencéfalo</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Bulbo raquídeo</LabelName><LabelName language="es">Médula espinal</LabelName><ImageDimensions>
+    <HeightPixels>1883</HeightPixels><WidthPixels>3300</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000772103">brain, lateral and medial, child, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BrainChildLateralAndMedial FP IV Spanish2</SourceFilename>
+  <Comment user="saucedol" date="2024-02-14" audience="Internal">Revised label as per Carol L. suggestion</Comment><Comment audience="Internal" date="2015-11-19" user="saucedol">Revised image to include new labels</Comment></DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Child</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type IV – Light brown skin</SkinTone><DateLastReviewed>2024-03-12</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000041539">childhood brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del encéfalo. Dibujo dividido en dos paneles. En el panel derecho se observa el interior de la cabeza de una niña donde se señalan las dos regiones del encéfalo: supratentorial en la porción superior e infratentorial (fosa posterior) en la porción inferior y posterior. En la región supratentorial, se señala el cerebro, un ventrículo lateral, el tercer ventrículo con el líquido cefalorraquídeo en azul, el plexo coroideo, la glándula pineal, el hipotálamo, la hipófisis y un nervio óptico. En la región infratentorial (fosa posterior), se señala  el cerebelo, el techo del mesencéfalo, el cuarto ventrículo y las tres partes del tronco encefálico: mesencéfalo, protuberancia y bulbo raquídeo. También se señala  la médula espinal. En el panel izquierdo se observa el interior de la cabeza de una niña donde se señalan el cerebro, los ventrículos (espacios llenos de líquido), las meninges, el cráneo, el cerebelo, la médula espinal y dos partes del tronco encefálico:  protuberancia y bulbo raquídeo.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del encéfalo. Dibujo dividido en dos paneles.  En el panel derecho, se observa la región supratentorial (porción superior del encéfalo) que contiene  el cerebro, los ventrículos laterales, el tercer ventrículo con el líquido cefalorraquídeo en azul, el plexo coroideo, la glándula pineal, el hipotálamo, la hipófisis y el nervio óptico. También se observa la región infratentorial o fosa posterior (porción inferior y posterior del encéfalo) que contiene el cerebelo, el techo del mesencéfalo, el cuarto ventrículo y las tres partes del tronco encefálico: mesencéfalo, protuberancia y bulbo raquídeo.  En el panel izquierdo, se señalan el cráneo y las meninges que protegen el encéfalo y la médula espinal.</MediaCaption>
+  </Captions>
+ <Comment>Sources: DTM (dtme.ranm.es): "supratentorial", "infratentorial", "tienda del cerebelo", "techo del mesencéfalo", "bulbo raquídeo", "ventrículo lateral", "plexo coroideo", "hipófisis",    "encéfalo", "cerebro"./// Cosnautas: "medulla", "brain".</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000815004">Glioma pontino intrínseco difuso</Summary><Summary cdr:ref="CDR0000813729">Gliomas infantiles (incluso astrocitomas)</Summary>
+  <Summary cdr:ref="CDR0000632891">Tratamiento del tumor teratoide rabdoide atípico del sistema nervioso central infantil</Summary>
+ <Glossary cdr:ref="CDR0000637273">diffuse intrinsic pontine glioma</Glossary></ProposedUse>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-12</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>QC of caption and content complete.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-11</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-28</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>I aree with Carol. The tentorium should not be included in the supratentoral area.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-27</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image with diversity updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent image to artist to incorporate diveristy updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-02-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-31</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-01-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>SEO DIPG-Ependymoma</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-19</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised new image and translation QC of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised caption and description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-12</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-09-10</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Revised order of labels to match English, added one new label in Spanish for Midbrain</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-11-16</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-14</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-05-13</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000772103">brain, lateral and medial, child, anatomy</TranslationOf></Media>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>eye anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Eyelid</LabelName><LabelName language="en">Pupil</LabelName><LabelName language="en">Sclera</LabelName><LabelName language="en">Iris</LabelName><LabelName language="en">Retina</LabelName><LabelName language="en">Choroid</LabelName><LabelName language="en">Vitreous humor</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Cornea</LabelName><LabelName language="en">Lens</LabelName><LabelName language="en">Ciliary body</LabelName><ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2008-04-08</DateCreated>
+   
+   
+   <SourceFilename>Eye6.jpg</SourceFilename>
+   
+  <Comment audience="Internal" date="2007-06-05" user="mmulrow">Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038817">intraocular melanoma</Diagnosis><Diagnosis cdr:ref="CDR0000037764">intraocular retinoblastoma</Diagnosis><Diagnosis cdr:ref="CDR0000039197">eye cancer</Diagnosis><Diagnosis cdr:ref="CDR0000043733">retinoblastoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Eye anatomy; two-panel drawing shows the outside and inside of the eye. The top panel shows outside of the eye including the eyelid, pupil, sclera, and iris; the bottom panel shows inside of the eye including the cornea, lens, ciliary body, retina, choroid, optic nerve, and vitreous humor.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Eye anatomy; two-panel drawing shows the outside and inside of the eye. The top panel shows outside of the eye including the eyelid, pupil, sclera, and iris; the bottom panel shows inside of the eye including the cornea, lens, ciliary body, retina, choroid, optic nerve, and vitreous humor.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the eye, showing the outside and inside of the eye including the eyelid, pupil, sclera, iris, cornea, lens, ciliary body, retina, choroid, vitreous humor, and optic nerve. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the eye.</MediaCaption></Captions>
+  
+ <Comment audience="Internal" date="2012-09-25" user="anjamison">Added HP content description and caption for summary (62916) update.</Comment><Comment audience="Internal" date="2008-06-17" user="dbuchhagen">2008-06-17; Added "eyelid", "pupil", and "lens" to cap; dlb. </Comment><Comment>The following sentence will be added as the last sentence when making the media link in each summary because it will vary depending on whether the summary/text refers to children or adults: "The vitreous humor is a gel that fills the center of the eye." OR "The vitreous humor is a liquid that fills the center of the eye."</Comment></MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258015">Intraocular (Eye) Melanoma Treatment</Summary>
+  <Summary cdr:ref="CDR0000258033">Retinoblastoma Treatment</Summary><Glossary cdr:ref="CDR0000350232">intraocular</Glossary>
+ <Glossary cdr:ref="CDR0000269460">intraocular melanoma</Glossary><Glossary cdr:ref="CDR0000444991">eye cancer</Glossary><Glossary cdr:ref="CDR0000546600">pupil</Glossary><Glossary cdr:ref="CDR0000546599">sclera</Glossary><Glossary cdr:ref="CDR0000534221">iris</Glossary><Glossary cdr:ref="CDR0000440115">retina</Glossary><Glossary cdr:ref="CDR0000534223">choroid</Glossary><Glossary cdr:ref="CDR0000046248">optic nerve</Glossary><Glossary cdr:ref="CDR0000044199">cornea</Glossary><Glossary cdr:ref="CDR0000534222">ciliary body</Glossary><Glossary cdr:ref="CDR0000572035">lens</Glossary><Glossary cdr:ref="CDR0000570638">vitreous humor</Glossary></ProposedUse>
+ <DatedAction><ActionDescription>Add the glossary terms vitreous humor and lens to proposed use and link in the  glossary term documents for vitreous humor and lens when the definitions are written, approved, and published.</ActionDescription><ActionDate>2008-03-31</ActionDate><Comment>2008-03-31 action completed; rh</Comment></DatedAction><ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-23</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Reviewer recommendation: "Under Vitreous humor: should state “ gel” and not “liquid”. This suggestion was from our ophthalmologist, since the vitreous is not liquid in young children." </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-09-14</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-04-12</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-03-30</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>first rough; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000570135">Illustration Review Sheet: Eye Anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

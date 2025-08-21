@@ -1,0 +1,104 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage II-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de vejiga en estadio II</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Grasa que rodea la vejiga</LabelName><LabelName language="es">Capas de tejido muscular</LabelName><LabelName language="es">Tejido conjuntivo</LabelName><LabelName language="es">Revestimiento interno</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2250</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000749308">bladder cancer stage II</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BladderCaStage2Spanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-09-25" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038767">bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de vejiga en estadio ll (cáncer de vejiga con invasión muscular). En la imagen se observan la vejiga, el uréter, la próstata y la uretra.  En el recuadro se muestra el cáncer en el revestimiento interno de la vejiga, el tejido conjuntivo y las capas de tejido muscular. También se observa la capa de grasa que la rodea.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de vejiga en estadio ll (cáncer de vejiga con invasión muscular). En la imagen se observan la vejiga, el uréter, la próstata y la uretra.  En el recuadro se muestra el cáncer en el revestimiento interno de la vejiga, el tejido conjuntivo y las capas de tejido muscular. También se observa la capa de grasa que la rodea.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de vejiga en estadio ll (cáncer de vejiga con invasión muscular). El cáncer se diseminó a través del tejido conjuntivo a las capas de tejido muscular de la vejiga.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de vejiga en estadio ll (cáncer de vejiga con invasión muscular). El cáncer se diseminó a través del tejido conjuntivo a las capas de tejido muscular de la vejiga.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256808">Tratamiento del cáncer de vejiga</Summary>
+  <Glossary cdr:ref="CDR0000045123">stage II bladder cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Sent 2 revised labels to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-04</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Labels, caption and content QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-11-10</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>"capas de músculo" o "capas de tejido muscular", pero no diría "capas de tejido de músculo".</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial updates in Content. Descr. and Caption</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sugerencia para mantener la misma terminología "capas de músculo" que figura en la etiqueta en la imagen; esto ayuda a que el lector pueda seguir la explicación.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-13</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial changes to Spa cap and cont. per updates in summaries AJCC, pending Spa QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-12</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000749308">bladder cancer stage II</TranslationOf></Media>

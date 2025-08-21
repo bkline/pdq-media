@@ -1,0 +1,101 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage IIIA</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA</LabelName><LabelName language="en">Cancer in 1 to 3 lymph nodes or nearby tissue</LabelName><LabelName language="en">Blood vessel</LabelName><LabelName language="en">Serosa</LabelName><LabelName language="en">Muscle layers</LabelName><LabelName language="en">Submucosa</LabelName><LabelName language="en">Mucosa</LabelName><LabelName language="en">OR</LabelName><LabelName language="en">Cancer in 4 to 6 lymph nodes</LabelName><ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2018-04-02</DateCreated>
+   
+   
+   <SourceFilename>ColonCaStageRev3A.10.jpg</SourceFilename><Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Image revised per AJCC updates, 8th edition</Comment>
+   <Comment>Deleted shadows on lymph nodes without cancer.</Comment>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038379">stage III colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIA colorectal cancer; drawing shows a cross-section of the colon/rectum and a two-panel inset. Each panel shows the layers of the colon/rectum wall: the mucosa, submucosa, muscle layers, and serosa. Also shown are a blood vessel and lymph nodes. The first panel shows cancer in the mucosa, submucosa, and muscle layers and in 2 lymph nodes. The second panel shows cancer in the mucosa and submucosa and in 5 lymph nodes.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIA colorectal cancer; drawing shows a cross-section of the colon/rectum and a two-panel inset. Each panel shows the layers of the colon/rectum wall: the mucosa, submucosa, muscle layers, and serosa. Also shown are a blood vessel and lymph nodes. The first panel shows cancer in the mucosa, submucosa, and muscle layers and in 2 lymph nodes. The second panel shows cancer in the mucosa and submucosa and in 5 lymph nodes.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA colorectal cancer. Cancer has spread through the mucosa of the colon/rectum wall to the submucosa or to the muscle layer and has spread to one to three nearby lymph nodes or to tissue near the lymph nodes; OR cancer has spread through the mucosa of the colon/rectum wall to the submucosa and to four to six nearby lymph nodes.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIA colorectal cancer. Cancer has spread through the mucosa of the colon/rectum wall to the submucosa or to the muscle layer and has spread to one to three nearby lymph nodes or to tissue near the lymph nodes; OR cancer has spread through the mucosa of the colon/rectum wall to the submucosa and to four to six nearby lymph nodes.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062954">Colon Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045892">stage III colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-14</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-02</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-04-02" user="yousufzaimg">Updated to ColonCaStageRev3A.10.jpg</Comment><Comment audience="Internal" date="2011-10-12" user="anjamison">Updated to ColonCaStageRev3A.7.jpg</Comment><Comment audience="Internal" date="2011-08-04" user="anjamison">Updated to ColonCaStageRev3A.6.jpg</Comment><Comment>Updated to ColonCaStageRev3A.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-10-29</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added ColonCaStageRev3A.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000714213">Illustration Review Sheet: Colorectal Cancer Stage IIIA</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

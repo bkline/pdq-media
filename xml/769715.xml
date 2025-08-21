@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Risk of anthracycline-induced clinical heart failure-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Riesgo de ICC-A (%)</LabelName><LabelName language="es">0</LabelName><LabelName language="es">2</LabelName><LabelName language="es">4</LabelName><LabelName language="es">6</LabelName><LabelName language="es">8</LabelName><LabelName language="es">10</LabelName><LabelName language="es">12</LabelName><LabelName language="es">14</LabelName><LabelName language="es">16</LabelName><LabelName language="es">Dosis acumuladas de antraciclinas (mg/m²)</LabelName><LabelName language="es">&lt;150</LabelName><LabelName language="es">150-299</LabelName><LabelName language="es">300-449</LabelName><LabelName language="es">450-600</LabelName><LabelName language="es">&gt;600</LabelName><LabelName language="es">Media/mediana/tiempo de seguimiento  (años)</LabelName><LabelName language="es">7,9/3,8/0,01-26,2</LabelName><LabelName language="es">7,7/7,3/0,06-26,8</LabelName><LabelName language="es">9,2/8,4/0,13-28,4</LabelName><LabelName language="es">10,2/10,3/0,42-25,1</LabelName><LabelName language="es">6,1/3,6/2,0-17,7</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000767778">Late Effects - Risk of anthracycline-induced clinical heart failure</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>RiskofanthracyclineinducedclinicalheartfailureSpanish.jpg </SourceFilename>
+  <Comment audience="Internal" date="2015-04-23" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043724">childhood cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El gráfico muestra el riesgo de insuficiencia cardíaca clínica inducida por antraciclina (ICC-A) de acuerdo con la dosis acumulada de antraciclina.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Riesgo de insuficiencia cardíaca clínica inducida por antraciclina (ICC-A) de acuerdo con la dosis acumulada de antraciclina. Clinical heart failure in a cohort of children treated with anthracyclines: a long-term follow-up study. Reproducido de European Journal of Cancer, Volume 42, Elvira C. van Dalen, Helena J.H. van der Pal, Wouter E.M. Kok, Huib N. Caron, Leontien C.M. Kremer, Clinical heart failure in a cohort of children treated with anthracyclines: A long-term follow-up study, Páginas 3191-3198, Derechos de autor (2006), con permiso de Elsevier.  </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000371825">Efectos tardíos del tratamiento anticanceroso en la niñez</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-04-23</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-03-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

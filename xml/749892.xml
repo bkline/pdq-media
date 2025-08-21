@@ -1,0 +1,112 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bladder cancer stage IVA and IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVA and IVB Bladder Cancer</LabelName><LabelName language="en">Right common iliac artery</LabelName><LabelName language="en">b) Cancer in lymph nodes above the common iliac arteries</LabelName><LabelName language="en">Left common iliac artery</LabelName><LabelName language="en">a) Cancer spread to abdominal or pelvic wall</LabelName><LabelName language="en">Bladder</LabelName><LabelName language="en">c) Spread to other parts of the body </LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Bone</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3165</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-01-17</DateCreated>
+   <SourceFilename>BladderCancerStageIVAB FP II.1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2023-01-17">Diversity updates: Changed figure to an older male; added grey hair; kept skin tone as is</Comment><Comment audience="Internal" date="2018-01-09" user="yousufzaimg">Added brackets on each side of the common iliac arteries, going from where they join the main artery at the top to where they branch into the external iliac arteries at the bottom (right where the ureter crosses the blood vessels); took cancer out of lymph nodes near the bladder; Changed label for a) to say “Cancer spread to abdominal or pelvic wall”; Changed the title to say "Stage IVA and IVB Bladder Cancer".</Comment><Comment audience="Internal" date="2017-12-11" user="kuhlmanna">Changed title to Stage IV A and B Bladder Cancer and changed label for Common iliac artery to plural. </Comment><Comment audience="Internal" date="2017-11-27" user="kuhlmanna">Image revisions made per AJCC updates (8th edition)</Comment><Comment>Removed label Bladder from the inset;  made cancer in pelvic wall larger and more prominant; and shortened the line from the label “Spread to pelvic wall” a bit to point to the edge of the cancer spot  </Comment><Comment audience="Internal" date="2013-07-15" user="akuhlmann">Changed label from "Pelvic wall" to  “Spread to pelvic wall”; faded out the cut off part of the colon that sticks up in the middle of the main figure</Comment><Comment audience="Internal" date="2013-06-06" user="akuhlmann">Image split into two panels with first panel showing a close up of cancer spread from the bladder to abdominal wall, and some specific abdominal lymph nodes; second panel shows the body with labels for lung, liver, and bone..</Comment><Comment audience="Internal" date="2013-05-23" user="akuhlmann">Rough draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038777">stage IV bladder cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA and IVB bladder cancer; drawing shows cancer that has spread from the bladder to (a) the abdominal or pelvic wall and (b) lymph nodes above the  common iliac arteries. Also shown is cancer that has spread to (c) other parts of the body, including the lung, liver, and bone.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVA and IVB bladder cancer; drawing shows cancer that has spread from the bladder to (a) the abdominal or pelvic wall and (b) lymph nodes above the  common iliac arteries. Also shown is cancer that has spread to (c) other parts of the body, including the lung, liver, and bone.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA and IVB bladder cancer. In stage IVA, cancer has spread to (a) the abdominal or pelvic wall; or (b) lymph nodes above the common iliac arteries. In stage IVB, cancer has spread to (c) other parts of the body, such as the lung, liver, or bone.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IVA and IVB bladder cancer. In stage IVA, cancer has spread to (a) the abdominal or pelvic wall; or (b) lymph nodes above the common iliac arteries. In stage IVB, cancer has spread to (c) other parts of the body, such as the lung, liver, or bone.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062705">Bladder Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045125">stage IV bladder cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-01-17</ProcessingStatusDate>
+        
+        <EnteredBy>yousufzaimg</EnteredBy>
+       <Comment user="yousufzaimg" audience="Internal" date="2023-01-17">Updated image to BladderCancerStageIVAB FP II.1.jpg</Comment><Comment audience="Internal" date="2018-01-09" user="yousufzaimg">Updated image to BladderCaStage4AB9.jpg</Comment><Comment audience="Internal" date="2017-12-11" user="kuhlmanna">Updated image to BladderCaStage4AB8.jpg</Comment><Comment>Updated image to BladderCaStage.4.7.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-02-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-01-08</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-09-23</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Updated image to BladderCaStage4.5.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-12</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Reviewed by Tim Gilligan</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-15</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Updated to BladderCaStage4.4.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-06-06</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added BladderCaStage4.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792436">Illustration Review Sheet: Stage IVAB Bladder Cancer</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

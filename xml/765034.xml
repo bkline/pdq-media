@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, lateral and medial, adult, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Ventricles (fluid-filled spaces)</LabelName><LabelName language="en">Cerebrum</LabelName><LabelName language="en">Meninges</LabelName><LabelName language="en">Skull</LabelName><LabelName language="en">Cerebellum</LabelName><LabelName language="en">Brain stem</LabelName><LabelName language="en">Pons</LabelName><LabelName language="en">Medulla</LabelName><LabelName language="en">Spinal cord</LabelName><LabelName language="en">Choroid plexus</LabelName><LabelName language="en">Pineal gland</LabelName><LabelName language="en">Pituitary gland</LabelName><LabelName language="en">Optic nerve</LabelName><LabelName language="en">Hypothalamus</LabelName><ImageDimensions>
+    <HeightPixels>1883</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2014-09-22</DateCreated>
+   <SourceFilename>BrainAdultLateralandMedial10inch.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the brain; two-panel drawing showing the cerebrum,  ventricles (fluid-filled spaces), cerebellum, brain stem (pons and medulla), and spinal cord. Also shown are the meninges and skull (left panel) and the choroid plexus, hypothalamus, pineal gland, pituitary gland, and optic nerve (right panel).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the brain showing the cerebrum, ventricles (with cerebrospinal fluid shown in blue), cerebellum, brain stem (pons and medulla), and other parts of the brain.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062697">Adult Brain Tumors Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-01</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-09-22</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added BrainAdultLateralandMedial10inch.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

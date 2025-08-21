@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>exam, digital rectal</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2018</HeightPixels>
+    <WidthPixels>2025</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <SourcePublication>OESI Understanding Prostate Changes</SourcePublication>
+   
+   
+   
+   <SourceFilename>DREflat.jpg</SourceFilename>
+   
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Digital rectal exam; drawing shows a side view of the male reproductive and urinary anatomy, including the prostate, rectum, and bladder; also shows a gloved and lubricated finger inserted into the rectum to feel the prostate.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Digital rectal exam; drawing shows a side view of the male reproductive and urinary anatomy, including the prostate, rectum, and bladder; also shows a gloved and lubricated finger inserted into the rectum to feel the prostate.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Digital rectal exam (DRE). The doctor inserts a gloved, lubricated finger into the rectum and feels the prostate  to check for anything abnormal.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Digital rectal exam (DRE).</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-22</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added HP caption and content description.</Comment>
+       </ProcessingStatus></ProcessingStatuses></Media>

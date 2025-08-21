@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymphoma, Hodgkin, childhood, stage IIE</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIE Childhood Hodgkin Lymphoma</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Lymph vessel</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName><LabelName language="en">Cancer spread to nearby area</LabelName><LabelName language="en">Lung</LabelName><ImageDimensions>
+    <HeightPixels>3240</HeightPixels>
+    <WidthPixels>2970</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-04-10</DateCreated>
+   
+   
+   <SourceFilename>Stage2EChildHodgkinLymphoma FP VI.2.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2023-04-10">Removed the brain from inside the skull, highlighted the label  line leading to the cancer in the lymph nodes box
+</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-03-26">Diversity update: updated skin tone to FP VI</Comment><Comment audience="Internal" date="2020-05-08" user="yousufzaimg">Updated image to match Adult version, per AJCC 8th edition</Comment><Comment audience="Internal" date="2009-08-06" user="rharrison">Changed title from Child to Childhood.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040228">childhood Hodgkin lymphoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIE childhood Hodgkin lymphoma; drawing shows cancer in a lymph node group above the diaphragm  and cancer that has spread to a nearby area (the left lung). An inset shows a lymph node with a lymph vessel, an artery, and a vein. Cancer cells are shown inside the lymph node.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIE childhood Hodgkin lymphoma. Cancer is found in one or more lymph node groups either above or below the diaphragm and outside the lymph nodes in a nearby organ or area.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000257999">Childhood Hodgkin Lymphoma Treatment</Summary>
+  <Glossary cdr:ref="CDR0000430897">stage II childhood Hodgkin lymphoma</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-10</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-04-10</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment user="yousufzaimg" audience="Internal" date="2023-04-10">Updated image to Stage2EChildHodgkinLymphoma FP VI.2.jpg</Comment><Comment user="kuhlmanna" audience="Internal" date="2023-03-26">Updated image to Stage2EChildHodgkinLymphoma FP VI.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-30</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Sending to Dr. Gross.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>Caption and content desc adopted from adult Hodgkin lymphoma captions &amp; desc.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-07-01</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment audience="Internal" date="2009-08-06" user="rharrison">Updated to Stage3ChildHodgkinLymphoma2.jpg.</Comment><Comment>Developed from childhood NHL staging illustrations.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

@@ -1,0 +1,86 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Childhood Soft Tissue Sarcoma - Spunt Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Diagnosis of eligible soft-tissue sarcoma</LabelName><LabelName language="en">Non-metastatic</LabelName><LabelName language="en">Grossly resected</LabelName><LabelName language="en">Unresected (unresectable or high-grade tumor &gt;5 cm where delayed resection planned)</LabelName><LabelName language="en">Tumour grade</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">High</LabelName><LabelName language="en">Microscopic margins negative or positive</LabelName><LabelName language="en">Maximal tumour diameter</LabelName><LabelName language="en">≤5 cm</LabelName><LabelName language="en">&gt;5 cm</LabelName><LabelName language="en">Microscopic margins negative</LabelName><LabelName language="en">Microscopic margins positive</LabelName><LabelName language="en">Surgery alone</LabelName><LabelName language="en">Radiotherapy</LabelName><LabelName language="en">Chemoradio-therapy</LabelName><LabelName language="en">Neoadjuvant chemoradio-therapy</LabelName><LabelName language="en">Low risk</LabelName><LabelName language="en">Intermediate risk</LabelName><LabelName language="en">Metastatic to lymph nodes or distant sites, or both</LabelName><LabelName language="en">Tumour grade</LabelName><LabelName language="en">Low</LabelName><LabelName language="en">High</LabelName><LabelName language="en">All disease resected?</LabelName><LabelName language="en">Yes</LabelName><LabelName language="en">No</LabelName><LabelName language="en">Microscopic margins negative or positive</LabelName><LabelName language="en">Assess resection status of primary tumor</LabelName><LabelName language="en">Grossly resected</LabelName><LabelName language="en">Unresected</LabelName><LabelName language="en">Surgery alone</LabelName><LabelName language="en">Chemoradio-therapy</LabelName><LabelName language="en">Neoadjuvant chemoradio-therapy</LabelName><LabelName language="en">High risk</LabelName><ImageDimensions>
+    <HeightPixels>844</HeightPixels>
+    <WidthPixels>941</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>The Lancet Oncology</Creator>
+   <SourcePublication>Spunt SL, Million L, Chi Y, et al., A risk-based treatment strategy for non-rhabdomyosarcoma soft-tissue sarcomas in patients younger than 30 years (ARST0332): a Children's Oncology Group prospective study. The Lancet Oncology, Volume 21 (Issue 1), Pages 145–161, Copyright © 2020 </SourcePublication><DateCreated>2020-06-09</DateCreated>
+   <SourceFilename>Spunt Fig 1 Ch STS 6-9-20 v4</SourceFilename>
+  <Comment>Image approved by Board; copyright permissions received</Comment></OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2020-04-01</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from The Lancet Oncology, Volume 21 (Issue 1), Spunt SL, Million L, Chi YY, et al., A risk-based treatment strategy for non-rhabdomyosarcoma soft-tissue sarcomas in patients younger than 30 years (ARST0332): a Children's Oncology Group prospective study. Pages 145–161, Copyright © 2020, with permission from Elsevier.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse>
+    <CitationLink cdr:ref="CDR0000800284">A risk-based treatment strategy for non-rhabdomyosarcoma soft-tissue sarcomas in patients younger than 30 years (ARST0332): a Children's Oncology Group prospective study.</CitationLink></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040256">childhood soft tissue sarcoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Diagram showing risk group and treatment assignment for the Children’s Oncology Group ARST0332 trial.</ContentDescription><Insertion UserName="lansberryic" Time="Monday, May 11, 2020 12:19:43 PM" RevisionLevel="approved"><ContentDescription audience="Health_professionals" language="es">Diagrama en el que se muestra el grupo de riesgo y la asignación al tratamiento para el ensayo ARST0332 del Children’s Oncology Group.</ContentDescription></Insertion>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Risk group and treatment assignment for the Children’s Oncology Group ARST0332 trial. Reprinted from The Lancet Oncology, Volume 21 (Issue 1), Spunt SL, Million L, Chi YY, et al., A risk-based treatment strategy for non-rhabdomyosarcoma soft-tissue sarcomas in patients younger than 30 years (ARST0332): a Children's Oncology Group prospective study. Pages 145–161, Copyright © 2020, with permission from Elsevier.</MediaCaption><Insertion UserName="lansberryic" Time="Monday, May 11, 2020 12:19:53 PM" RevisionLevel="approved"><MediaCaption audience="Health_professionals" language="es">Grupo de riesgo y asignación al tratamiento <Deletion UserName="lansberryic" Time="Monday, May 11, 2020 1:24:00 PM" RevisionLevel="proposed">Risk group and treatment assignment </Deletion>para el ensayo ARST0332 del Children’s Oncology Group. Reproducción de The Lancet Oncology, Volume 21 (Issue 1), Spunt SL, Million L, Chi YY, et al., A risk-based treatment strategy for non-rhabdomyosarcoma soft-tissue sarcomas in patients younger than 30 years (ARST0332): a Children's Oncology Group prospective study. Páginas 145–161, Derechos de autor © 2020, autorizada por Elsevier. Diagnosis of eligible soft-tissue sarcoma: diagnóstico de pacientes con sarcoma de tejido blando aptos; Non-metastatic: no metastásico; Grossly resected: resección macroscópica; Unresected (unresectable or high-grade tumor &gt;5 cm where delayed resection planned): sin resecar (<Deletion UserName="lansberryic" Time="Monday, May 11, 2020 1:25:56 PM" RevisionLevel="proposed">no </Deletion><Insertion UserName="lansberryic" Time="Monday, May 11, 2020 1:25:58 PM" RevisionLevel="proposed">ir</Insertion>resecable o tumor de grado alto <Insertion UserName="lansberryic" Time="Monday, May 11, 2020 1:27:14 PM" RevisionLevel="proposed">que mide </Insertion>&gt;5 cm donde se planifica una resección diferida); Tumour grade: grado del tumor; Low: bajo; High: alto; Microscopic margins negative or positive: márgenes microscópicos negativos o positivos; Maximal tumour diameter: diámetro máximo del tumor; Microscopic margins negative: márgenes microscópicos negativos; Microscopic margins positive: márgenes microscópicos positivos; Surgery alone: cirugía sola; Radiotherapy: radioterapia; Chemoradio-therapy: quimiorradioterapia; Neoadjuvant chemoradio-therapy: quimiorradioterapia neoadyuvante;  Low risk: riesgo bajo; Intermediate risk: riesgo intermedio; Metastatic to lymph nodes or distant sites, or both: metástasis <Deletion UserName="lansberryic" Time="Monday, May 11, 2020 1:28:44 PM" RevisionLevel="proposed">a los ganglios linfáticos</Deletion><Insertion UserName="lansberryic" Time="Monday, May 11, 2020 1:28:49 PM" RevisionLevel="proposed">ganglionares</Insertion> o a sitios distantes, o ambos; All disease resected?: ¿se <Deletion UserName="lansberryic" Time="Monday, May 11, 2020 1:29:59 PM" RevisionLevel="proposed">ha </Deletion>resec<Insertion UserName="lansberryic" Time="Monday, May 11, 2020 1:30:02 PM" RevisionLevel="proposed">ó</Insertion><Deletion UserName="lansberryic" Time="Monday, May 11, 2020 1:30:07 PM" RevisionLevel="proposed">ado</Deletion> toda la enfermedad?; Yes: sí; Assess resection status of primary tumor: evaluar el estado de la resección del tumor primario; Unresected: sin resecar; High risk: riesgo alto.</MediaCaption></Insertion>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062934">Childhood Soft Tissue Sarcoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-11</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>QC of caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Image will not be re-created into Spanish; please translate Content Description and Caption, and add translated labels to Caption.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+ <ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-02</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-04-02</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000801182">Spunt_ChSoftTissueSarcoma_CopyrightPermissions_2020-04-02</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

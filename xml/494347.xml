@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery - resection, wedge-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Resección en cuña del pulmón</LabelName><LabelName language="es">Extirpación de tejido pulmonar</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Ganglios linfáticos</LabelName><ImageDimensions>
+    
+    
+   <HeightPixels>1912</HeightPixels><WidthPixels>1956</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000466555">surgery - resection, wedge</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>WedgeResectionLungSpanish5.jpg</SourceFilename><Comment audience="Internal" date="2013-03-06" user="lsaucedo">Replaced image with titled image</Comment><Comment>2008-03-27; Added WedgeResection9Spanish.jpg. Added new copyright information. 2007-01-18 linked WedgeResection8-Spn.jpg; mm 2006-08-16 final Spanish image WedgeResection8Spanish.jpg; mm 2006-08-03 waiting for publishable version of  English image; mm 2006-08-03 added Spanish labeled  image, WedgeResect7Spanish.jpg; mm</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Resección en cuña del pulmón. En la imagen se observan la tráquea y los pulmones con cáncer en uno de los lóbulos del pulmón. Se muestra el tejido extirpado del pulmón con cáncer y una pequeña cantidad del tejido sano que lo rodea; también se muestra el lóbulo del pulmón del que se extrajo.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Resección en cuña del pulmón. En la imagen se observan la tráquea y los pulmones con cáncer en uno de los lóbulos del pulmón. Se muestra el tejido extirpado del pulmón con cáncer y una pequeña cantidad del tejido sano que lo rodea; también se muestra el lóbulo del pulmón del que se extrajo.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Resección en cuña del pulmón. Se extirpa una parte del pulmón con cáncer y una pequeña cantidad del tejido sano que lo rodea.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Resección en cuña del pulmón.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Glossary cdr:ref="CDR0000322895">wedge resection</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QCd revisions to caption and CD.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-07</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment audience="Internal" date="2019-05-07" user="adlerm2">Revised label ("remoción"); revised caption and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added label and replaced image</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-11</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       <Comment>Spanish-labeled image from artist 2006-07-12; mm</Comment></ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-07-02</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2006-07-26 caption/ content desc translation completed; mm 2006-07-10 label translation completed; mm labels being translated; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000466555">surgery - resection, wedge</TranslationOf></Media>

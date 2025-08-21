@@ -1,0 +1,65 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, melanoma staging (in-transit metastases, satellite tumors, and microsatellite tumors)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Have cancer cells spread near the primary tumor?</LabelName><LabelName language="en">In-transit metastases</LabelName><LabelName language="en">Satellite tumors</LabelName><LabelName language="en">2 cm</LabelName><LabelName language="en">Microsatellite tumors (only seen with a microscope)</LabelName><ImageDimensions>
+    <HeightPixels>1200</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2019-10-17</DateCreated>
+   <SourceFilename>HaveCancerCellsSpreadNearPrimaryTumor2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2019-10-21" user="yousufzaimg">Removed the cancer spots from the lymph nodes, changed the parenthetical to say “only seen with a microscope”</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038833">melanoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Melanoma staging (in-transit metastases, satellite tumors, and microsatellite tumors); drawing shows in-transit metastases in a lymph vessel more than 2 centimeters away from the primary tumor and satellite tumors within 2 centimeters of the primary tumor. Microsatellite tumors are not shown because they can only be seen with a microscope.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Melanoma staging (in-transit metastases, satellite tumors, and microsatellite tumors). One of the factors that helps determine the stage of melanoma is whether there are (1) in-transit metastases (tumors that have spread to lymph vessels in the skin more than 2 centimeters away from the primary tumor); (2) satellite tumors (tumors that have spread within 2 centimeters of the primary tumor); or (3) microsatellite tumors (tumors that have spread to an area right beside or below the primary tumor but can only be seen with a microscope).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062713">Melanoma Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-02-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-28</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-10-21" user="yousufzaimg">Added HaveCancerCellsSpreadNearPrimaryTumor2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2019-09-27</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

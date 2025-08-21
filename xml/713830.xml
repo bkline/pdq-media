@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery, transsphenoidal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Cirugía transesfenoidal</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Hipófisis</LabelName><LabelName language="es">Hueso esfenoides</LabelName><LabelName language="es">Seno esfenoidal</LabelName><LabelName language="es">Endoscopio</LabelName><LabelName language="es">Cureta</LabelName><ImageDimensions>
+    <HeightPixels>2760</HeightPixels>
+    <WidthPixels>2700</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000680518">surgery, transsphenoidal</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>TranssphenoidalSurgerySpanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cirugía transesfenoidal; el dibujo muestra un endoscopio y una cureta introducidos a través de la nariz y el seno esfenoidal para extirpar un cáncer de la hipófisis. También se muestra el hueso esfenoides.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cirugía transesfenoidal. Se introduce un endoscopio y una cureta a través de la nariz y el seno esfenoidal para extirpar un cáncer de la hipófisis.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000632970">Craneofaringioma infantil: Tratamiento</Summary><Summary cdr:ref="CDR0000615278">Tumores de hipófisis: Tratamiento</Summary><Glossary cdr:ref="CDR0000476651">transsphenoidal surgery</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, caption, content description QCd and new image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels, caption and content description Qcd, labels sent to Terese and updated Proposed Used section</Comment>
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-03</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description translations pending</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

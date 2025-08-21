@@ -1,0 +1,59 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+ <MediaTitle>head and neck cancer regions</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Head and Neck Cancer Regions</LabelName><LabelName language="en">Pharynx</LabelName><LabelName language="en">Nasopharynx</LabelName><LabelName language="en">Oropharynx</LabelName><LabelName language="en">Hypopharynx</LabelName><LabelName language="en">Paranasal sinuses</LabelName><LabelName language="en">Nasal cavity</LabelName><LabelName language="en">Oral cavity</LabelName><LabelName language="en">Lips</LabelName><LabelName language="en">Tongue</LabelName><LabelName language="en">Salivary glands</LabelName><LabelName language="en">Larynx</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-03-08</DateCreated>
+   <SourceFilename>HeadNeckCancerRegions4.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2024-03-11" audience="Internal">Added a label for the lips</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation>
+  <Age>Adult</Age>
+  <Sex>Male</Sex>
+  <Race>White</Race>
+  <SkinTone>Type I – Pale white skin</SkinTone>
+  
+ <DateLastReviewed>2024-03-07</DateLastReviewed></DemographicInformation>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038961">head and neck cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Head and neck cancer regions; drawing shows areas of the head and neck where cancer can occur, including the paranasal sinuses, nasal cavity, oral cavity, lips, tongue, salivary glands, larynx (voice box), and pharynx. The pharynx includes the nasopharynx, oropharynx, and hypopharynx.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Cancers of the head and neck can form in the tissues of the paranasal sinuses, nasal cavity, oral cavity, lips, tongue, salivary glands, larynx (voice box), and pharynx. The pharynx includes the nasopharynx, oropharynx, and hypopharynx.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000257519">head and neck cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2024-03-11</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" date="2024-03-11" audience="Internal">Added HeadNeckCancerRegions4.jpg</Comment><Comment>Added HeadNeckCancerRegions3.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

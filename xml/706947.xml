@@ -1,0 +1,109 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>pedigree nomenclature-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>diagram</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Nomenclatura estándar de un árbol genealógico</LabelName><LabelName language="es">Línea de relación de pareja</LabelName><LabelName language="es">Línea fraterna (hermanos o hermanas)</LabelName><LabelName language="es">Línea de descendencia</LabelName><LabelName language="es">Masculino, femenino, sexo no especificado</LabelName><LabelName language="es">Probando (consultando)</LabelName><LabelName language="es">Fallecido</LabelName><LabelName language="es">Afectado con rasgo hereditario</LabelName><LabelName language="es">Portador (herencia recesiva: autosómica o ligada al cromosoma X)</LabelName><LabelName language="es">Portador asintomático o presintomático (herencia autosómica dominante)</LabelName><LabelName language="es">Adoptado</LabelName><LabelName language="es">Consanguinidad</LabelName><LabelName language="es">Gemelos dicigóticos</LabelName><LabelName language="es">Gemelos monocigóticos</LabelName><LabelName language="es">Reproducción</LabelName><LabelName language="es">Embarazo</LabelName><LabelName language="es">E</LabelName><LabelName language="es">E</LabelName><LabelName language="es">E</LabelName><LabelName language="es">Aborto espontáneo</LabelName><LabelName language="es">Aborto provocado</LabelName><LabelName language="es">Mortinato</LabelName><LabelName language="es">M</LabelName><LabelName language="es">M</LabelName><LabelName language="es">Esterilidad</LabelName><LabelName language="es">Sin descendientes por decisión propia</LabelName>
+  <ImageDimensions>
+    <HeightPixels>3300</HeightPixels>
+    <WidthPixels>2550</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000613538">pedigree nomenclature</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PedigreeSymbolsSpanish6.jpg</SourceFilename>
+  <Comment user="lansberryic" audience="Internal" date="2021-09-20">Replace pedigree chart, revised labels and update title</Comment><Comment audience="Internal" date="2011-08-03" user="anjamison">Replaced pedigree chart; revised labels</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   
+  <ContentDescription audience="Health_professionals" language="es">Nomenclatura estándar de  un árbol genealógico. En el diagrama se muestran los símbolos comunes utilizados para trazar un árbol genealógico.</ContentDescription><ContentDescription audience="Patients" language="es">Nomenclatura estándar de  un árbol genealógico. En el diagrama se muestran los símbolos comunes utilizados para trazar un árbol genealógico.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Health_professionals" language="es">Nomenclatura estándar de un árbol genealógico. Para trazar un árbol genealógico se usan símbolos comunes.  El árbol genealógico muestra las relaciones entre los miembros de una familia y la distribución hereditaria de ciertos rasgos y enfermedades.</MediaCaption><MediaCaption audience="Patients" language="es">Nomenclatura estándar de un árbol genealógico. Para trazar un árbol genealógico se usan símbolos comunes.  El árbol genealógico muestra las relaciones entre los miembros de una familia y la distribución hereditaria de ciertos rasgos y enfermedades.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000044868">pedigree</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       <Comment user="dossantosm2" audience="Internal" date="2021-10-04">Isabel, one of the labels was hard to interprate and in my opinion we made a mistake. I propose a change. Also, revised caption and content were reviewed.</Comment><Comment user="lansberryic" audience="Internal" date="2021-10-08">Revised label, to avoid long label and repetition of recessive: "Portador (herencia recesiva: autosómica o ligada al cromosoma X).</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-24</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC: Proposed change  to a label (further investigation needed).</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Final QC of media, Caption and content description pending before publishing</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-20</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy><Comment user="dossantosm2" audience="Internal" date="2021-09-21">Translation QC: Ilustrator used the plural for "Afectado con rasgos hereditarios" instead of "Afectado con rasgo hereditario" as it was in the label.</Comment>
+        <Comment>Added new image, revised caption and content description Qc pending</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to Terese</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-07</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC (labels as well as caption and content description)</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-08-27</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation revised per new genetic sum</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Updated to PedigreeSymbolsSpanish2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-07-31</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-07-31</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Labels, caption and content description QCd</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-07-28</ProcessingStatusDate>
+        <EnteredBy>2011-07-28</EnteredBy>
+        <Comment>Labels translation pending</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000613538">pedigree nomenclature</TranslationOf></Media>

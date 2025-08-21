@@ -1,0 +1,70 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, anaplastic, stage IVB (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Anaplastic Thyroid Cancer (2)</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Muscles</LabelName><LabelName language="en">Lymph node</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>2820</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-05-21</DateCreated>
+   <SourceFilename>AnaplasticThyroidCaStage4BPart2.3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-05-21" user="kuhlmanna">Changed image title</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Added a label for Muscles under the label for Cancer; made lines point to the two muscles where they split</Comment><Comment audience="Internal" date="2017-09-07" user="kuhlmanna">First draft, per AJCC updates (8th edition)</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000786477">stage IV anaplastic thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB  anaplastic thyroid cancer (2); drawing shows cancer in the thyroid gland and nearby muscles in the neck. The lymph nodes are also shown.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVB anaplastic thyroid cancer (2); drawing shows cancer in the thyroid gland and nearby muscles in the neck. The lymph nodes are also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB anaplastic thyroid cancer (2). The tumor is any size and cancer has spread from the thyroid to nearby muscles in the neck. Cancer may have spread to nearby lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVB anaplastic thyroid cancer (2). The tumor is any size and cancer has spread from the thyroid to nearby muscles in the neck. Cancer may have spread to nearby lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary>
+  <Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-03-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Updated image to AnaplasticThyroidCaStage4BPart2.2.jpg </Comment><Comment>Added AnaplasticThyroidCaStage4BPart2.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>gallbladder anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Liver</LabelName><LabelName language="en">Bile ducts</LabelName><LabelName language="en">Small intestine</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Gallbladder</LabelName><LabelName language="en">Cystic duct</LabelName><LabelName language="en">Common hepatic duct</LabelName><LabelName language="en">Common bile duct</LabelName><LabelName language="en">Pancreas</LabelName><LabelName language="en">Small instestine</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+    
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2010-03-24</DateCreated><SourceFilename>GallbladderAnatomy3.jpg</SourceFilename><Comment audience="Internal" date="2010-03-08" user="dbuchhagen">Labels resized to match Spanish image.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  
+  
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038747">gallbladder cancer</Diagnosis>
+  </Diagnoses><ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the gallbladder; shows the liver, common hepatic duct, cystic duct, common bile duct, pancreas, and small intestine. The inset shows the liver, bile ducts, gallbladder, pancreas, and small intestine.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the gallbladder. The gallbladder is just below the liver. Bile is stored in the gallbladder and flows through the cystic duct and the common bile duct into the small intestine when food is being digested. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000270720">Gallbladder Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000046395">gallbladder</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-04-06</ProcessingStatusDate>
+        <EnteredBy>2010-04-06</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-12</ProcessingStatusDate>
+        <EnteredBy>2010-04-06</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-12</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-03-01</ProcessingStatusDate>
+        <EnteredBy>2010-03-01</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-02-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       <Comment audience="Internal" date="2010-03-26" user="dbuchhagen">Updated image to GallbladderAnatomy3.jpg.</Comment><Comment audience="Internal" date="2010-03-08" user="dbuchhagen">Updated image to GallbladderAnatomy2.jpg.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-02-17</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-04</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000658889">Sample illustration: Gall bladder anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Colon Cancer Cases Arising in Various Family Risk Settings</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Colon Cancer Cases Arising in Various Family Risk Settings</LabelName><LabelName language="en">Cases with Familial Risk 10% to 30%</LabelName><LabelName language="en">Lynch Syndrome (Hereditary Nonpolyposis Colorectal Cancer) 2% to 3%</LabelName><LabelName language="en">Familial Adenomatous Polyposis &lt;1%</LabelName><LabelName language="en">Hamartomatous Polyposis Syndromes &lt;0.1%</LabelName><LabelName language="en">Sporadic Cases</LabelName><ImageDimensions>
+    <HeightPixels>839</HeightPixels>
+    <WidthPixels>1442</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromExternalFile>Reprinted from Gastroenterology Vol. 119, No. 3, Randall W. Burt, Colon Cancer Screening, Pages 837-853, Copyright (2000), with permission from Elsevier.</FromExternalFile>
+   </FromObject>
+   <SourceFilename>Pie Chart Adapted from Burt Gastro 2000 Review_Larger Font Size.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043419">colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Pie chart showing the fractions of colon cancer cases that arise in various family risk settings. The majority of colon cancer cases diagnosed in these settings are sporadic. The remaining cancer cases are: cases with familial risk (10%–30%); Lynch syndrome (hereditary nonpolyposis colorectal cancer) (2%–3%); familial adenomatous polyposis (&amp;lt;1%); and hamartomatous polyposis syndrome  (&amp;lt;0.1%).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">The fractions of colon cancer cases that arise in various family risk settings.  Reprinted from <Emphasis>Gastroenterology</Emphasis>, Vol. 119, No. 3, Randall W. Burt, Colon Cancer Screening, Pages 837-853, Copyright (2000), with permission from Elsevier.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062863">Genetics of Colorectal Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-17</ProcessingStatusDate>
+        <EnteredBy>cnorwood</EnteredBy>
+        <Comment>Added Pie Chart Adapted from Burt Gastro 2000 Review_Larger Font Size.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-05-07</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added Pie Chart Adapted from Burt Gastro 2000 Review.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000733554">Burt_Genetics of Colorectal Cancer_CopyrightPermissions_2012-05-02</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

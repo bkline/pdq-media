@@ -1,0 +1,103 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIB (2)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIB Lung Cancer (2)</LabelName><LabelName language="en">b) Cancer has spread to one or more of these organs or tissues:</LabelName><LabelName language="en">Nerve that controls voice box</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Carina</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">Breastbone</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Nerve that controls diaphragm</LabelName><LabelName language="en">Vena cava</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">Sac around heart</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Lung lining</LabelName><LabelName language="en">Chest wall lining</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Rib</LabelName><LabelName language="en">Chest wall</LabelName><LabelName language="en">Primary tumor</LabelName><LabelName language="en">Cancer in lymph nodes</LabelName>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ 
+  <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-09-12</DateCreated>
+   
+   
+   <SourceFilename>LungStage3BPart2 OlderMaleFP I.jpg</SourceFilename>
+   <Comment user="yousufzaimg" audience="Internal" date="2022-09-12">Made figure an older male, updated skin tone to FP I</Comment><Comment audience="Internal" date="2019-06-03" user="yousufzaimg">Added some of the lymph nodes to the paratracheal space (around the trachea) so they look the same as in Stage IIIA (1), per reviewer</Comment><Comment audience="Internal" date="2019-02-07" user="kuhlmanna">Made the primary tumor larger</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Moved the “Cancer in lymph nodes” label up closer to the face; moved the “Primary tumor” label to the right side of the figure, below the “Cancer in lymph nodes” label; removed the letters “b” and “c” from the insets; added a letter “b” before the label that starts “Cancer may have spread…” and changed that to say “b) Cancer has spread…”;	added a spot of cancer to the nerve that controls the diaphragm and the nerve that controls the voice box</Comment><Comment audience="Internal" date="2019-01-18" user="yousufzaimg">Removed all of the letters on the organs EXCEPT “a”, “b”, and “d”; changed  “d” to a “c”;	Added a label at the top left above all of the other labels that says “Cancer may have spread to one or more of these organs or tissues:”; 
+Moved the label for Diaphragm up a bit and made the line go over to the cancer spot on the diaphragm; Made the line for the Vena cava label point to the cancer spot on the vena cava</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Removed the letter “a” from the box with the lymph nodes and changed the letters for the rest of the labels; added the letters "j" and "l"; moved the label "Nerve that controls voicebox" to the left side of the figure; and added a cancer spot in the middle of the left lung (between the “g” and “a” letters) and labeled it Primary tumor</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment><Comment>Replaced "(part 2)" with "(2)".</Comment>
+  </OriginalSource>
+ </MediaSource><DemographicInformation>
+  <Age>Older Adult</Age>
+  <Sex>Male</Sex>
+  <Race>White</Race>
+  <SkinTone>Type I – Pale white skin</SkinTone>
+  <Ethnicity>Not Hispanic/Latino</Ethnicity>
+ </DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000038939">stage IIIB non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIB lung cancer (2); drawing shows a primary tumor in the left lung and (a) a separate tumor in a different lobe of the lung with the primary tumor. Also shown is cancer in lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are around the trachea or where the trachea divides into the bronchi. Also shown is (b) cancer that has spread to the following: the chest wall and the lining of the chest wall and lung, the nerve that controls the voice box, the trachea, the carina, the esophagus, the breastbone, the diaphragm, the nerve that controls the diaphragm, the aorta and vena cava, the heart, and the sac around the heart.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIB lung cancer (2); drawing shows a primary tumor in the left lung and (a) a separate tumor in a different lobe of the lung with the primary tumor. Also shown is cancer in lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are around the trachea or where the trachea divides into the bronchi. Also shown is (b) cancer that has spread to the following: the chest wall and the lining of the chest wall and lung, the nerve that controls the voice box, the trachea, the carina, the esophagus, the breastbone, the diaphragm, the nerve that controls the diaphragm, the aorta and vena cava, the heart, and the sac around the heart.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIB lung cancer (2). The tumor may be any size and cancer has spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are around the trachea or aorta (not shown), or where the trachea divides into the bronchi.  Also, one or more of the following is found: (a) there are one or more separate tumors in the same lobe or a different lobe of the lung with the primary tumor; and/or (b) cancer has spread to any of the following: the chest wall or the membrane that lines the inside of the chest wall, the nerve that controls the voice box, the trachea, the carina, the esophagus, the breastbone or backbone (not shown), the diaphragm, the nerve that controls the diaphragm, the heart, the major blood vessels that lead to or from the heart (aorta or vena cava), or the outer layer of tissue of the sac around the heart.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIB lung cancer (2). The tumor may be any size and cancer has spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are around the trachea or aorta (not shown), or where the trachea divides into the bronchi.  Also, one or more of the following is found: (a) there are one or more separate tumors in the same lobe or a different lobe of the lung with the primary tumor; and/or (b) cancer has spread to any of the following: the chest wall or the membrane that lines the inside of the chest wall, the nerve that controls the voice box, the trachea, the carina, the esophagus, the breastbone or backbone (not shown), the diaphragm, the nerve that controls the diaphragm, the heart, the major blood vessels that lead to or from the heart (aorta or vena cava), or the outer layer of tissue of the sac around the heart.</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000682421">stage IIIB non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-09-12">Updated image to LungStage3BPart2 OlderMaleFP I.jpg</Comment><Comment audience="Internal" date="2019-06-03" user="yousufzaimg">Updated image to LungStage3BPart2Rev8.jpg</Comment><Comment audience="Internal" date="2019-02-07" user="kuhlmanna">Updated image to LungStage3BPart2Rev7.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage3BPart2Rev6.jpg</Comment><Comment audience="Internal" date="2019-01-18" user="yousufzaimg">Updated image to LungStage3BPart2Rev5.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage3BPart2Rev4.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage3BPart2Rev3.jpg</Comment><Comment>Updated to LungStage3Bb2Rev2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added Supp Info Doc for revisions to stage IIIB part 2.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000798323">Illustration Review Sheet: non-small cell lung cancer stage IIIB (2)</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000682123">Sample illustration: NSCLC stage IIIB part 2</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments></Media>

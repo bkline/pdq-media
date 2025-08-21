@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>bone anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Bone Anatomy</LabelName><LabelName language="en">Spongy bone (contains red marrow)</LabelName><LabelName language="en">Yellow marrow</LabelName><LabelName language="en">Compact bone</LabelName><LabelName language="en">Blood vessels in bone marrow</LabelName><LabelName language="en">Blood stem cell</LabelName><LabelName language="en">Red blood cells</LabelName><LabelName language="en">White blood cells</LabelName><LabelName language="en">Platelets</LabelName><ImageDimensions>
+    <HeightPixels>2925</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2014-05-12</DateCreated><SourceFilename>BoneAnatomy4.jpg</SourceFilename><Comment audience="Internal" date="2014-01-28" user="myousufzai">Removed the pull outs (labeled Compact bone) from the right of the main bone image, but kept the blood cells; kept same version of main bone image but made the blood vessels come out of the bone; moved  the cut-out portion of the bone (labeled Blood vessels in bone marrow ) to the right side of the main bone image and the blood cells to the right of the cut-out; made the cut-out portion of the bone come from more towards the end of the bone so that it  shows more  spongy bone; made spongy bone trabecular in cut-out; changed image title to Bone Anatomy</Comment><Comment audience="Internal" date="2014-01-16" user="myousufzai">Changed label to Spongy bone (contains red marrow); added an inset for Spongy bone and included the labels Blood vessel and Blood stem cell, Red blood cells, and White blood cells pointing to the inset; removed the different white blood cell types; added separate insets for Blood vessels in bone marrow and Compact bone; and made change from red marrow to yellow marrow more gradual in main bone figure</Comment><Comment audience="Internal" date="2013-12-30" user="akuhlmann">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039808">bone cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the bone; drawing shows spongy bone, red marrow, and yellow marrow. A cross section of the bone shows compact bone and blood vessels in the bone marrow. Also shown are red blood cells, white blood cells, platelets, and a blood stem cell.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the bone. The bone is made up of compact bone, spongy bone, and bone marrow. Compact bone makes up the outer layer of the bone. Spongy bone is found mostly at the ends of bones and contains red marrow. Bone marrow is found in the center of most bones and has many blood vessels. There are two types of bone marrow: red and yellow. Red marrow contains blood stem cells that can become red blood cells, white blood cells, or platelets. Yellow marrow is made mostly of fat.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000062949">Osteosarcoma and Malignant Fibrous Histiocytoma of Bone Treatment</Summary>
+       <Glossary cdr:ref="CDR0000434562">bone cancer</Glossary><Glossary cdr:ref="CDR0000045622">bone marrow</Glossary><Glossary cdr:ref="CDR0000430857">bone marrow cancer</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-06-03</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-03-10</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-01-29</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-01-27</ProcessingStatusDate>
+        <EnteredBy>myousufzai</EnteredBy>
+        <Comment>Updated image to  BoneAnatomy3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-12-30</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        <Comment>Added BoneAnatomy1.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-12-11</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000755926">Sample Illustration: bone anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

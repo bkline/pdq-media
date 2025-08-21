@@ -1,0 +1,80 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage II</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stages IIA1 and IIA2 Cervical Cancer</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Vagina</LabelName><LabelName language="en">4 cm</LabelName><LabelName language="en">Cancer</LabelName>
+  <LabelName language="en">Stage IIB Cervical Cancer </LabelName><LabelName language="en">Uterus</LabelName><LabelName language="en">Cancer</LabelName><ImageDimensions>
+    <HeightPixels>2550</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   
+  <DateCreated>2020-04-14</DateCreated><SourceFilename>CervicalCaStage2A1.2A2.2B.5.jpg</SourceFilename><Comment>Extended the cancer down a bit farther into the vagina since it is in upper 2/3 of vagina</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Added the label Cancer to the stage IIB panel</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Revisions made to image per FIGO staging updates</Comment><Comment audience="Internal" date="2012-03-15" user="anjamison">Removed cancer growing into vagina per expert reviewer.</Comment><Comment audience="Internal" date="2011-09-16" user="anjamison">Changed titles; added 4 cm scale to left panel.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038063">stage II cervical cancer</Diagnosis>
+  </Diagnoses>
+  <Topics>
+   <Topic cdr:ref="CDR0000037892">cervical cancer</Topic>
+  </Topics>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II cervical cancer; drawing shows two cross-sections of the uterus, cervix, and vagina. The drawing on the left shows stages IIA1 and IIA2 cancer in the cervix that is 4 cm and has spread to the upper two-thirds of the vagina. The drawing on the right shows stage IIB cancer that has spread from the cervix to the tissue around the uterus.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage II cervical cancer; drawing shows two cross-sections of the uterus, cervix, and vagina. The drawing on the left shows stages IIA1 and IIA2 cancer in the cervix that is 4 cm and has spread to the upper two-thirds of the vagina. The drawing on the right shows stage IIB cancer that has spread from the cervix to the tissue around the uterus.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II cervical cancer. In stages IIA1 and IIA2, cancer has spread from the cervix to the upper two-thirds of the vagina but has not spread to the tissue around the uterus. In stage IIA1, the cancer is 4 centimeters or smaller. In stage IIA2, the cancer is larger than 4 centimeters. In stage IIB, cancer has spread from the cervix to the tissue around the uterus.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage II cervical cancer. In stages IIA1 and IIA2, cancer has spread from the cervix to the upper two-thirds of the vagina but has not spread to the tissue around the uterus. In stage IIA1, the cancer is 4 centimeters or smaller. In stage IIA2, the cancer is larger than 4 centimeters. In stage IIB, cancer has spread from the cervix to the tissue around the uterus.</MediaCaption></Captions><Comment audience="Internal" date="2012-10-05" user="anjamison">Added HP content description and caption for reformatted HP summary.</Comment>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045887">stage II cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2020-04-15" user="yousufzaimg">Updated image to CervicalCaStage2A1.2A2.2B.5.jpg</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated image to CervicalCaStage2A1.2A2.2B.4.jpg</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Updated image to CervicalCaStage2A1.2A2.2B.3.jpg</Comment><Comment audience="Internal" date="2012-03-15" user="anjamison">Updated to CervicalCaStage2A1.2A2.2B.jpg</Comment><Comment audience="Internal" date="2011-10-04" user="anjamison">Updated to CervicalCaStage2A1and2A2.3.jpg</Comment><Comment audience="Internal" date="2011-09-16" user="anjamison">Updated to CervicalCaStage2A1and2A2.2.jpg</Comment><Comment>Added image CervicalCaStage2A.jpg.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-11-04</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000658893">Sample illustration: cervical cancer stage II</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000728801">Illustration Review Sheet: cervical cancer stage II</SupplementaryInfoLink></RelatedDocuments></Media>

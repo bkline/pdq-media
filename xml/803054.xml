@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Late Effects - Dixon Figure</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Cancer Diagnosis</LabelName><LabelName language="en">Tumor (histology, site, biology)</LabelName><LabelName language="en">Demographics (Age, Sex, Race/Ethnicity)</LabelName><LabelName language="en">Growth, Development, Aging, Psychological Factors</LabelName><LabelName language="en">Genetics</LabelName><LabelName language="en">Cancer Treatment</LabelName><LabelName language="en">Cancer Treatment Events</LabelName><LabelName language="en">Premorbid Conditions </LabelName><LabelName language="en">Comorbid Conditions</LabelName><LabelName language="en">Access to Care, Health Knowledge, Perceptions, Behaviors</LabelName><LabelName language="en">Acquired Risk Factors (smoking, inactivity, etc.)</LabelName><LabelName language="en">Early Morbidity</LabelName><LabelName language="en">Late Morbidity</LabelName><LabelName language="en">Mortality</LabelName><LabelName language="en">Cancer Treatment-related</LabelName><LabelName language="en">Non-treatment-related</LabelName><ImageDimensions>
+    <HeightPixels>388</HeightPixels>
+    <WidthPixels>1167</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>CA: Cancer Journal for Clinicians</Creator>
+   <SourcePublication>CA: A Cancer Journal for Clinicians, Volume 68, Issue 2, Dixon SB, Bjornard KL, Alberts NM, et al., Factors influencing risk-based care of the childhood cancer survivor in the 21st century, Pages 133-152, Copyright © 2018 American Cancer Society</SourcePublication><DateCreated>2020-01-29</DateCreated>
+   <SourceFilename>Dixon Fig 1 for Late Effects 10-5-20.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>Yes</PermissionRequested>
+    
+    <PermissionResponse>Permission Granted</PermissionResponse>
+    <PermissionResponseDate>2020-10-05</PermissionResponseDate>
+    
+    <PublisherPermissionText>Reprinted from CA: A Cancer Journal for Clinicians, Volume 68, Issue 2, Dixon SB, Bjornard KL, Alberts NM, et al., Factors influencing risk-based care of the childhood cancer survivor in the 21st century, Pages 133-152, Copyright © 2018 American Cancer Society, with permission from John Wiley and Sons.</PublisherPermissionText>
+    <ApprovedUse>
+     <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+     
+    </ApprovedUse>
+    <SpanishTranslationPermissionRequested>Yes</SpanishTranslationPermissionRequested>
+    
+    <SpanishTranslationPermissionResponse>Permission Granted</SpanishTranslationPermissionResponse><CitationLink cdr:ref="CDR0000800436">Factors influencing risk-based care of the childhood cancer survivor in the 21st century.</CitationLink><Comment audience="Internal" date="2020-10-06" user="kuhlmanna">Per OCC, only labels, caption, and content description may be translated</Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Chart showing factors influencing morbidity and mortality in the childhood cancer survivor.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Factors influencing morbidity and mortality of the childhood cancer survivor. Each arrow indicates a different factor affecting morbidity and mortality that exerts its effect along a continuum of care. Note that all effectors can begin exerting influence on morbidity during the period of cancer-directed therapy. Factors are separated into those that cannot be modified (red), those for which future interventions are plausible (yellow), and those for which there are known targets for interventions or areas in which therapy and surveillance have already been modified (blue). Reprinted from CA: A Cancer Journal for Clinicians, Volume 68, Issue 2, Dixon SB, Bjornard KL, Alberts NM, et al., Factors influencing risk-based care of the childhood cancer survivor in the 21st century, Pages 133-152, Copyright © 2018 American Cancer Society, with permission from John Wiley and Sons.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000343584">Late Effects of Treatment for Childhood Cancer</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Translation</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Per OCC, only labels, caption, and content description may be translated</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Copyright Permissions Received</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>HP illustration approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-10-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000803055">Dixon_Figure_CopyrightPermissions_2020-10-06</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

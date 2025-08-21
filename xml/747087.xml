@@ -1,0 +1,41 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr" Usage="External">
+ 
+ <MediaTitle>variable expressivity-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <SoundData>
+   <SoundType>Speech</SoundType>
+   <SoundEncoding>MP3</SoundEncoding>
+   <RunSeconds>2</RunSeconds>
+  </SoundData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Vanessa Richardson, VR Voice</Creator>
+   <DateCreated>2023-12-20</DateCreated>
+   <SourceFilename>Week_2023_49/339331_es_rr.mp3</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>pronunciation</Category>
+  </Categories>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Pronunciation of dictionary term "expresividad variable"</ContentDescription>
+  </ContentDescriptions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000339331">variable expression</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus><ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2024-01-31</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus><ProcessingStatusValue>Audio re-recording approved</ProcessingStatusValue><ProcessingStatusDate>2024-01-31</ProcessingStatusDate><EnteredBy>oseipokuw</EnteredBy></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-02-28</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Audio approved</ProcessingStatusValue>
+   <ProcessingStatusDate>2013-02-28</ProcessingStatusDate>
+   <EnteredBy>lsaucedo</EnteredBy>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

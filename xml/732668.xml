@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>radiation therapy, external beam (EBRT), brain</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2520</HeightPixels>
+    <WidthPixels>3150</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2016-03-21</DateCreated>
+   <SourceFilename>External BeamBrain8.jpg</SourceFilename>
+  <Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Made the black crosses on the tape closer to the size of the tape so they aren’t on the mesh</Comment><Comment audience="Internal" date="2016-02-23" user="yousufzaimg">Added another piece of white tape on the person’s forehead and put part of the black cross in it that would be seen from this side of the body; added a black cross in the white tape on the side of the head; and made the drape on the inset match the blue drape on the main figure</Comment><Comment audience="Internal" date="2016-02-08" user="kuhlmanna">Removed red marking from tape</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Updated machine and table.</Comment><Comment audience="Internal" date="2012-06-29" user="anjamison">Made mask on main image look more like mesh; made the person African-American.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">External-beam radiation therapy of the brain; drawing shows a patient lying on a table under a machine that is used to aim high-energy radiation. An inset shows a mesh mask that helps keep the patient's head from moving during treatment. The mask has pieces of white tape with small ink marks on it. The ink marks are used to line up the radiation machine in the same position before each treatment.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">External-beam radiation therapy of the brain. A machine is used to aim high-energy radiation. The machine can rotate around the patient, delivering radiation from many different angles. A mesh mask helps keep the patient’s head from moving during treatment. Small ink marks are put on the mask. The ink marks are used to line up the radiation machine in the same position before each treatment.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062697">Adult Central Nervous System Tumors Treatment</Summary>
+  
+ <Glossary cdr:ref="CDR0000046751">external-beam radiation therapy</Glossary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-04-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Minor edits made to the caption per reviewer</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-02-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-03-21</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Updated to External BeamBrain8.jpg</Comment><Comment audience="Internal" date="2016-02-23" user="yousufzaimg">Updated to External BeamBrain7.jpg</Comment><Comment audience="Internal" date="2016-02-08" user="kuhlmanna">Updated to External BeamBrain6.jpg</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Updated to External BeamBrain5.jpg</Comment><Comment audience="Internal" date="2012-07-09" user="anjamison">Updated to External BeamBrain4.jpg</Comment><Comment audience="Internal" date="2012-06-29" user="anjamison">Updated to External BeamBrain3.jpg</Comment><Comment>Updated to External BeamBrain2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-04-13</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added ExternalBeamHeadNeckCloseUp1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

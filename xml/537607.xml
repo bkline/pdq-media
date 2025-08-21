@@ -1,0 +1,127 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIB (1)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio IIIB (Parte 1)</LabelName><LabelName language="es">Ganglios linfáticos cancerosos</LabelName><LabelName language="es">Carina</LabelName><LabelName language="es">Bronquio principal izquierdo</LabelName><LabelName language="es">a</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Todo el pulmón o una parte de este se desinfló o presenta neumonitis</LabelName><LabelName language="es">c</LabelName><LabelName language="es">El tumor primario mide 5 cm o menos</LabelName><LabelName language="es">5 cm</LabelName><LabelName language="es">Membrana que recubre el pulmón</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Costilla</LabelName><LabelName language="es">Pulmón</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    
+    
+   <FromCdrMedia cdr:id="_2"><MediaID cdr:ref="CDR0000521915">lung cancer, stage IIIB (1)</MediaID></FromCdrMedia></FromObject>
+   <SourceFilename>LungStage3BPart1 FemaleHispanicLatinoFP III Spanish1.jpeg</SourceFilename><Comment audience="Internal" date="2010-10-14" user="lsaucedo">Replaced old illustration. Uploaded LungStage3BaRevSpanish.jpg</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">2008-03-12; uploaded LungStage3BSpanish2.jpg with new copyright information. </Comment><Comment>Spanish file name: LungStage3BSpanish.jpg</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IIIB (Parte 1). En la imagen se observan un tumor primario que mide 5 cm o menos en el pulmón izquierdo, y ganglios linfáticos cancerosos encima de la clavícula del mismo lado del tórax que el tumor primario  y en el lado contrario al tumor primario. También se observan las siguientes situaciones: a) el cáncer se diseminó al bronquio principal; b) el cáncer se diseminó a la membrana que recubre el pulmón; c)
+todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). Además, se muestran la carina, la pleura y, en un recuadro, una costilla.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIB (Parte 1). En la imagen se observan un tumor primario que mide 5 cm o menos en el pulmón izquierdo, y ganglios linfáticos cancerosos encima de la clavícula del mismo lado del tórax que el tumor primario  y en el lado contrario al tumor primario. También se observan las siguientes situaciones: a) el cáncer se diseminó al bronquio principal; b) el cáncer se diseminó a la membrana que recubre el pulmón; c)
+todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). Además, se muestran la carina, la pleura y, en un recuadro, una costilla.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IIIB (Parte 1). El tumor primario mide 5 cm o menos y el cáncer se diseminó a los ganglios linfáticos encima de la clavícula del mismo lado del tórax que el tumor primario o a cualquiera de los ganglios linfáticos del lado contrario al tumor primario. Además, se encuentran uno o más de los siguientes casos:
+
+a) el cáncer se diseminó al bronquio principal, pero no a la carina; b) el cáncer se diseminó a la capa más interna de la membrana que recubre el pulmón; c)
+todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IIIB (Parte 1). El tumor primario mide 5 cm o menos y el cáncer se diseminó a los ganglios linfáticos encima de la clavícula, del mismo lado del tórax que el tumor primario o a cualquiera de los ganglios linfáticos del lado contrario al tumor primario. Además, se encuentran uno o más de los siguientes casos:
+
+a) el cáncer se diseminó al bronquio principal, pero no a la carina; b) el cáncer se diseminó a la capa más interna de la membrana que recubre el pulmón; c)
+todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Glossary cdr:ref="CDR0000045367">stage IIIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image only.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Emailed image to artist to make changes to skin tone and facial features as per EN version </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-01-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-14</ProcessingStatusDate>
+        <EnteredBy>2010-10-14</EnteredBy>
+        <Comment>Added  new revised illustration</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd revised labels, caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-01-18</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        <Comment>2007-01-25 Spanish labels added to images; mm</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-01-08</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   <Comment>2007-02-20 captions and content descriptions completed; rh 2007-01-18 Label translations completed; mm</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<TranslationOf cdr:ref="CDR0000521915">lung cancer, stage IIIB (1)</TranslationOf></Media>

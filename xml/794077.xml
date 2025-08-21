@@ -1,0 +1,78 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, nonmelanoma stage IV (3)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IV Nonmelanoma Skin Cancer of the Head and Neck (3)</LabelName><LabelName language="en">Primary tumor</LabelName><LabelName language="en">Cancer spreads to other parts of the body:</LabelName><LabelName language="en">Base of skull </LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Bone and bone marrow</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><ImageDimensions>
+    <HeightPixels>2250</HeightPixels><WidthPixels>2700</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-11-20</DateCreated>
+   <SourceFilename>NonMelanomaStage IVPart3 FP I.jpg</SourceFilename>
+  <Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Diversity update: Aged the figure and updated skin tone to FP I</Comment><Comment audience="Internal" date="2020-02-19" user="yousufzaimg">Made small change to an eyebrow</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Added "of the Head and Neck" to the title; and removed the word “bone” from the Label “Base of the skull bone” </Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">No changes since previous version (Part3.2)</Comment><Comment audience="Internal" date="2018-08-06" user="kuhlmanna">Showed the full bones in the upper and lower arm instead of the fragment.</Comment><Comment audience="Internal" date="2018-07-24" user="kuhlmanna">First draft</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type I – Pale white skin</SkinTone><DateLastReviewed>2023-11-27</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038781">skin cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IV nonmelanoma skin cancer of the head and neck (3); drawing shows a primary skin tumor on the face and other parts of the body where nonmelanoma skin cancer may spread, including the base of the skull, the lung, the bone, and the bone marrow. An inset shows cancer cells spreading through the blood and lymph system to another part of the body where metastatic cancer has formed.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IV nonmelanoma skin cancer of the head and neck (3); drawing shows a primary skin tumor on the face and other parts of the body where nonmelanoma skin cancer may spread, including the base of the skull, the lung, the bone, and the bone marrow. An inset shows cancer cells spreading through the blood and lymph system to another part of the body where metastatic cancer has formed.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IV nonmelanoma skin cancer of the head and neck (3). The tumor is any size and cancer has spread to bone marrow or to bone, including the base of the skull, and the bone has been damaged; or cancer has spread to other parts of the body, such as the lung.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IV nonmelanoma skin cancer of the head and neck (3). The tumor is any size and cancer has spread to bone marrow or to bone, including the base of the skull, and the bone has been damaged; or cancer has spread to other parts of the body, such as the lung.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000368449">stage IV nonmelanoma skin cancer on the head and neck (not on the eyelid)</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-11-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2023-11-21" audience="Internal">Updated image to NonMelanomaStage IVPart3 FP I.jpg</Comment><Comment>Updated image to NonMelanomaRevStage4Part3.5.jpg</Comment><Comment audience="Internal" date="2020-02-10" user="yousufzaimg">Updated image to NonMelanomaRevStage4Part3.4.jpg</Comment><Comment audience="Internal" date="2019-10-23" user="kuhlmanna">Updated image to NonMelanomaRevStage4Part3.3.jpg</Comment><Comment>Updated image to NonMelanomaRevStage4Part3.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-16</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment>Changes to image recommended per J. Jeter, MD</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-01-09</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2018-07-23</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment>Added NonMelanomaRevStage4Part3.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

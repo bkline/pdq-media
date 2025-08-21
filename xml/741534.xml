@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endometrial cancer stage IVA-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de endometrio en estadio IVA</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Endometrio</LabelName><LabelName language="es">Intestino delgado</LabelName><LabelName language="es">Intestino grueso (parte del intestino)</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Cuello uterino</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2688</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000735680">endometrial cancer stage IVA</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EndometrialCaStage4ASpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-10-16" user="lsaucedo">Linked new image and QCd translations</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038737">endometrial cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">El dibujo muestra un cáncer de endometrio en estadio IVA en una sección transversal lateral del útero, la vejiga, el cuello uterino, la vagina, el intestino delgado y el intestino grueso. Se muestra el cáncer en la vejiga, el útero y los intestinos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de endometrio en estadio IVA. El cáncer se diseminó hasta la vejiga o los intestinos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256803">Cáncer del endometrio: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000045119">stage IV endometrial cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new image and QCd translations</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

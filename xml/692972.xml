@@ -1,0 +1,139 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>colon or rectal cancer stage II-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Peritoneo visceral</LabelName><LabelName language="es">Estadio IIA</LabelName><LabelName language="es">Peritoneo visceral</LabelName><LabelName language="es">Vaso sanguíneo</LabelName><LabelName language="es">Serosa</LabelName><LabelName language="es">Capas de músculo</LabelName><LabelName language="es">Submucosa</LabelName><LabelName language="es">Mucosa</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Estadio IIB</LabelName><LabelName language="es">El cáncer se disemina al peritoneo visceral</LabelName><LabelName language="es">Estadio IIC</LabelName><LabelName language="es">El cáncer se disemina a órganos cercanos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>3750</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000688428">colon or rectal cancer stage II</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ColonCaStageRev2Spanish4.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2011-10-27" user="lsaucedo">Added revised image</Comment><Comment audience="Internal" date="2011-01-25" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037761">stage II colon cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer colorrectal en estadio II. En la imagen  se observa un corte transversal del colon o el recto, y un recuadro de tres paneles. En cada panel se muestran las capas de la pared del colon o el recto: la mucosa, la submucosa, las capas de músculo y la serosa. También se muestran vasos sanguíneos y ganglios linfáticos. En el primer panel se observa el cáncer en estadio IIA en la mucosa, la submucosa, las capas de músculo y la serosa. En el segundo panel se observa el cáncer en estadio IIB en todas las capas que se disemina a través de la serosa al peritoneo visceral. En el tercer panel se observa el cáncer en estadio IIC que se disemina a órganos cercanos.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Cáncer colorrectal en estadio II. En la imagen  se observa un corte transversal del colon o el recto, y un recuadro de tres paneles. En cada panel se muestran las capas de la pared del colon o el recto: la mucosa, la submucosa, las capas de músculo y la serosa. También se muestran vasos sanguíneos y ganglios linfáticos. En el primer panel se observa el cáncer en estadio IIA en la mucosa, la submucosa, las capas de músculo y la serosa. En el segundo panel se observa el cáncer en estadio IIB en todas las capas que se disemina a través de la serosa al peritoneo visceral. En el tercer panel se observa el cáncer en estadio IIC que se disemina a órganos cercanos.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer colorrectal en estadio II. En el estadio IIA, el cáncer se diseminó a través de la capa de músculo de la pared del colon o el recto a la serosa. En el estadio IIB, el cáncer se diseminó a través de la serosa de la pared del colon o el recto al peritoneo visceral (tejido que reviste los órganos del abdomen). En el estadio IIC, el cáncer se diseminó a través de la serosa de la pared del colon o el recto a órganos cercanos.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Cáncer colorrectal en estadio II. En el estadio IIA, el cáncer se diseminó a través de la capa de músculo de la pared del colon o el recto a la serosa. En el estadio IIB, el cáncer se diseminó a través de la serosa de la pared del colon o el recto al peritoneo visceral (tejido que reviste los órganos del abdomen). En el estadio IIC, el cáncer se diseminó a través de la serosa de la pared del colon o el recto a órganos cercanos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256761">Tratamiento del cáncer de colon</Summary>
+  <Glossary cdr:ref="CDR0000045891">stage II colorectal cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Image sent back to Terese to add missing arrows.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-14</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-11-09</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>AJCC updates</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised image linked, pending caption and content description QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-09-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>QCd revised labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-24</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment>
+        <Comment audience="Internal" date="2018-08-24" user="adlerm2">Actualicé también las descripciones según los cambios en EN.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-17</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of new labels/pending QC for labels</Comment>
+       <Comment audience="Internal" date="2018-08-17" user="lansberryic">Para las etiquetas sugiero unificar con la opción más corta por el espacio del texto en la imágen: "al peritoneo visceral"/"a órganos cercanos" en lugar de "hasta el peritoneo visceral"/"hasta órganos cercanos".</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-28</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Added HP caption and content descriptions</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-10-27</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-03-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Revised caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-17</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added new image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-11</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>QCd translated labels</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translated labels</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000688428">colon or rectal cancer stage II</TranslationOf></Media>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hyperplasia/dysplasia/cancer progression-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Las células normales se pueden convertir en células cancerosas</LabelName><LabelName language="es">Normal</LabelName><LabelName language="es">Hiperplasia</LabelName><LabelName language="es">Displasia</LabelName><LabelName language="es">Cáncer</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1575</HeightPixels>
+    <WidthPixels>2430</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000761240">hyperplasia/dysplasia/cancer progression</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>HyperplasiDysplasiaCancerProgressionSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-10-20" user="lsaucedo">Added new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la ilustración de cuatro paneles, se muestra cómo las células normales se convierten en cancerosas. En el primer panel, se muestran las células normales. En el segundo y tercer paneles, se muestran los cambios de las células anormales, que se llaman hiperplasia y displasia. En el cuarto panel, se muestran las células cancerosas.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Las células normales se pueden convertir en cancerosas. Antes de que se formen las células cancerosas en los tejidos del cuerpo, estas pasan por cambios anormales que se llaman hiperplasia y displasia. En la hiperplasia, hay un aumento del número de células en un órgano o un tejido, que parecen normales al microscopio. En la displasia, las células tienen aspecto anormal al microscopio, pero no son cancerosas. Es posible que la hiperplasia y la displasia se conviertan o no en cáncer.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       
+       <Glossary cdr:ref="CDR0000045956">hyperplasia</Glossary><Glossary cdr:ref="CDR0000045675">dysplasia</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-21</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-06</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

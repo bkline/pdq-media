@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, papillary and follicular, stage II (3) (55 years and older)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage II Papillary and Follicular Thyroid Cancer (3) (55 years and older)</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Muscles</LabelName><ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>2820</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-05-21</DateCreated>
+   <SourceFilename>PapillaryFollicularThyroidCaStage2Part3Over55.3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-05-21" user="kuhlmanna">Changed Image title</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Added lymph nodes; added an "s" to the label for Muscle;  drew another line from the label to the muscle right below where the muscles split</Comment><Comment audience="Internal" date="2017-09-06" user="kuhlmanna">First draft, per AJCC updates (8th edition)</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038806">stage II follicular thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000038803">stage II papillary thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage II papillary and follicular thyroid cancer (3) in patients 55 years and older; drawing shows cancer in the thyroid gland and nearby muscles in the neck. Also shown are the larynx and trachea.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage II papillary and follicular thyroid cancer (3) in patients 55 years and older; drawing shows cancer  in the thyroid gland and nearby muscles in the neck. Also shown are the larynx and trachea.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage II papillary and follicular thyroid cancer (3) in patients 55 years and older. The tumor is any size and cancer has spread from the thyroid to nearby muscles in the neck. Cancer may have spread to nearby lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage II papillary and follicular thyroid cancer (3) in patients 55 years and older. The tumor is any size and cancer has spread from the thyroid to nearby muscles in the neck. Cancer may have spread to nearby lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary><Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-21</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+   <EnteredBy>kuhlmanna</EnteredBy>
+   <Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage2Part3Over55.2.jpg</Comment><Comment>Added PapillaryFollicularThyroidCaStage2Part3Over55.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000792856">Illustration Review Sheet: stage II (part 3) papillary and follicular thyroid cancer (55 years and older)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

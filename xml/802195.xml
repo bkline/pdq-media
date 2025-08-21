@@ -1,0 +1,68 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>autosomal recessive inheritance</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Autosomal Recessive Inheritance</LabelName><LabelName language="en">Unaffected father (Carrier)</LabelName><LabelName language="en">Unaffected mother (Carrier)</LabelName><LabelName language="en">Chromosome pair</LabelName><LabelName language="en">Mutated gene</LabelName><LabelName language="en">Normal gene</LabelName><LabelName language="en">Unaffected daughter</LabelName><LabelName language="en">Unaffected son (Carrier)</LabelName><LabelName language="en">Unaffected daughter (Carrier)</LabelName><LabelName language="en">Affected son</LabelName><ImageDimensions>
+    <HeightPixels>2670</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2020-09-14</DateCreated>
+   <SourceFilename>AutosomalRecessiveInheritance3.jpg</SourceFilename>
+  <Comment audience="Internal" date="2020-09-14" user="yousufzaimg">Added an outline around the Affected individuals and around the mutated gene on the chromosomes</Comment><Comment audience="Internal" date="2020-08-31" user="yousufzaimg">Changed lines connecting the parents to the children to black and white straight lines</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>genetics</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing showing an autosomal recessive inheritance pattern between a father, mother, and their four children: an unaffected father (carrier) with a mutated gene and a normal gene on a chromosome pair;  an unaffected mother (carrier) with a mutated gene and a normal gene; an unaffected daughter with two normal genes; an unaffected son (carrier) with a mutated gene and a normal gene; an unaffected daughter (carrier) with a mutated gene and a normal gene; and an affected son with two mutated genes.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Drawing showing an autosomal recessive inheritance pattern between a father, mother, and their four children: an unaffected father (carrier) with a mutated gene and a normal gene on a chromosome pair;  an unaffected mother (carrier) with a mutated gene and a normal gene; an unaffected daughter with two normal genes; an unaffected son (carrier) with a mutated gene and a normal gene; an unaffected daughter (carrier) with a mutated gene and a normal gene; and an affected son with two mutated genes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Autosomal recessive inheritance is a way a genetic trait or condition can be passed down from parent to child. A genetic condition can occur when the child inherits one copy of a mutated (changed) gene from each parent. The parents of a child with an autosomal recessive condition usually do not have the condition. Unaffected parents are called carriers because they each carry one copy of the mutated gene and can pass it to their children.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Autosomal recessive inheritance is a way a genetic trait or condition can be passed down from parent to child. A genetic condition can occur when the child inherits one copy of a mutated (changed) gene from each parent. The parents of a child with an autosomal recessive condition usually do not have the condition. Unaffected parents are called carriers because they each carry one copy of the mutated gene and can pass it to their children.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000339339">autosomal recessive inheritance</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-15</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-09-14</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       <Comment audience="Internal" date="2020-09-14" user="yousufzaimg">Updated image to AutosomalRecessiveInheritance3.jpg</Comment><Comment audience="Internal" date="2020-08-31" user="kuhlmanna">Updated image to AutosomalRecessiveInheritance2.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>financial toxicity-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Salud previa a la enfermedad, activos, deudas, ingresos</LabelName><LabelName language="es">Enfermedad o lesión</LabelName><LabelName language="es">Elección de tratamiento</LabelName><LabelName language="es">Seguro médico</LabelName><LabelName language="es">Gastos médicos</LabelName><LabelName language="es">Gastos de otra índole</LabelName><LabelName language="es">Sufrimiento y presión financiera</LabelName><LabelName language="es">Desenlaces clínicos</LabelName><LabelName language="es">Declaración de bancarrota (quiebra)</LabelName>
+  <ImageDimensions>
+    <HeightPixels>398</HeightPixels>
+    <WidthPixels>1039</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000782949">financial toxicity</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>FinancialToxicity_Spanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2016-12-08" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Diagrama que muestra el marco conceptual relacionado con una enfermedad grave, la elección de tratamiento y los desenlaces clínicos y financieros.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Marco conceptual relacionado con una enfermedad grave, la elección de tratamiento y los desenlaces clínicos y financieros. Autor: Scott Ramsey, MD, PhD</MediaCaption>
+  </Captions>
+ </MediaContent>
+ 
+ <ProposedUse>
+       <Summary cdr:ref="CDR0000785723">Toxicidad financiera del tratamiento del cáncer</Summary>
+       </ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-20</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-18</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Proposed updates per change in title/pending Spanish QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-12-13" user="saucedol">Revised caption.  Changed Crédito por Autor.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Spanish QC (labels). New translation Cont. Descr. and Caption.</Comment>
+       <Comment audience="Internal" date="2016-11-14" user="lansberryic">Pending link to Spanish summary (not yet in CDR).</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

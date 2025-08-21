@@ -1,0 +1,102 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>transcription and translation-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Transcripción</LabelName><LabelName language="es">ADN</LabelName><LabelName language="es">Codón</LabelName><LabelName language="es">Par de bases</LabelName><LabelName language="es">Pre-ARNm</LabelName><LabelName language="es">ARNm</LabelName><LabelName language="es">Núcleo de la célula</LabelName><LabelName language="es">Citoplasma</LabelName><LabelName language="es">Traducción</LabelName><LabelName language="es">ARNt</LabelName><LabelName language="es">Aminoácidos</LabelName><LabelName language="es">Ribosoma</LabelName><LabelName language="es">Codón</LabelName><LabelName language="es">Cadena de proteína en crecimiento</LabelName><LabelName language="es">Proteína</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2475</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000761782">transcription and translation</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>TranscriptionTranslationSpanish3.jpg</SourceFilename>
+  <Comment user="lansberryic" audience="Internal" date="2021-12-23">Linked new image</Comment><Comment audience="Internal" date="2017-09-29" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>biological process</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Transcripción y traducción. En la parte superior de la figura se observa la transcripción en el núcleo de la célula: una porción de ADN que codifica un gen específico se copia en un ARNm. Las bases del ADN copiado, adenina (A), citosina (C), guanina (G) y timina (T), forman pares específicos con las bases del ARNm; excepto la adenina (A) del ADN que forma par con el uracilo (U) del ARNm (también se muestra una secuencia de 3 bases en el ARNm que se llama codón). Luego, el ARNm lleva la información genética del ADN al citoplasma. En la parte inferior de la figura se muestra la traducción en el citoplasma de la célula: el ARNm se une al ribosoma y pasa a través de este, a su vez el ARNt lleva un aminoácido hacia el ribosoma en donde se une a un codón  de la secuencia compatible de ARNm, este aminoácido se une a otros aminoácidos para formar una cadena de proteína que crece poco a poco hasta que la proteína completa se desprende del ribosoma.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Transcripción y traducción. En la parte superior de la figura se observa la transcripción en el núcleo de la célula: una porción de ADN que codifica un gen específico se copia en un ARNm. Las bases del ADN copiado, adenina (A), citosina (C), guanina (G) y timina (T), forman pares específicos con las bases del ARNm; excepto la adenina (A) del ADN que forma par con el uracilo (U) del ARNm (también se muestra una secuencia de 3 bases en el ARNm que se llama codón). Luego, el ARNm lleva la información genética del ADN al citoplasma. En la parte inferior de la figura se muestra la traducción en el citoplasma de la célula: el ARNm se une al ribosoma y pasa a través de este, a su vez el ARNt lleva un aminoácido hacia el ribosoma en donde se une a un codón  de la secuencia compatible de ARNm, este aminoácido se une a otros aminoácidos para formar una cadena de proteína que crece poco a poco hasta que la proteína completa se desprende del ribosoma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">La transcripción y traducción son procesos que la célula usa para elaborar todas las proteínas que el cuerpo necesita para funcionar a partir de la información almacenada en las secuencias de bases del ADN. La cuatro bases (C, A, T/U y G de la figura) son los bloques que componen el ADN y el ARN. Durante la transcripción, una porción de ADN que codifica un gen específico se copia  en un ARN mensajero (ARNm) en el núcleo de la célula. Luego, el ARNm lleva la información genética del ADN al citoplasma, en donde ocurre la traducción. Durante la traducción, se elaboran las proteínas usando la información almacenada en la secuencia de ARNm. El ARNm se une a una estructura llamada ribosoma que puede leer la información genética. A medida que el ARNm pasa a través del ribosoma, otro tipo de ARN llamado ARN de transferencia (ARNt) lleva hacia el ribosoma los bloques que forman las proteínas, llamado aminoácidos. El ARNt que lleva el aminoácido se une a una secuencia de ARNm compatible. A medida que cada ARNt se une con la cadena de ARNm, el aminoácido que lleva se enlaza con los otros aminoácidos para formar una cadena de aminoácidos. Cuando todos los aminoácidos codificados en una porción de ARNm se han unido, la proteína completa se desprende del ribosoma.</MediaCaption><MediaCaption audience="Health_professionals" language="es">La transcripción y traducción son procesos que la célula usa para elaborar todas las proteínas que el cuerpo necesita para funcionar, a partir de la información almacenada en las secuencias de bases del ADN. La cuatro bases (C, A, T/U y G de la figura) son los bloques que componen el ADN y el ARN. Durante la transcripción, una porción de ADN que codifica un gen específico se copia  en un ARN mensajero (ARNm) en el núcleo de la célula. Luego, el ARNm lleva la información genética del ADN al citoplasma, en donde ocurre la traducción. Durante la traducción, se elaboran las proteínas usando la información almacenada en la secuencia de ARNm. El ARNm se une a una estructura llamada ribosoma que puede leer la información genética. A medida que el ARNm pasa a través del ribosoma, otro tipo de ARN llamado ARN de transferencia (ARNt) lleva hacia el ribosoma los bloques que forman las proteínas, llamado aminoácidos. El ARNt que lleva el aminoácido se une a una secuencia de ARNm compatible. A medida que cada ARNt se une con la cadena de ARNm, el aminoácido que lleva se enlaza con los otros aminoácidos para formar una cadena de aminoácidos. Cuando todos los aminoácidos codificados en una porción de ARNm se han unido, la proteína completa se desprende del ribosoma.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000390290">transcription</Glossary><Glossary cdr:ref="CDR0000460221">translation</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Linked new image, editorial changes in caption and content description and added HP caption and content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-04</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image and QCd caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-08-03</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised 2 labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-17</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Made aditional editorial changes.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-10-10</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Editorial change to one label "par de bases" instead of "par de base".//Editorial changes to content. Descrip.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Labels, Caption and Content Descr. Pending Spanish QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000761782">transcription and translation</TranslationOf></Media>

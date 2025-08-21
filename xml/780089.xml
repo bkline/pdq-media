@@ -1,0 +1,118 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, papillary and follicular, stage IVA (55 years and older)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Stage IVA Papillary and Follicular Thyroid Cancer (55 years and older)</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Spine</LabelName><LabelName language="en">Tissue in front of the spine</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Common carotid artery</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Lymph node</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">c</LabelName><ImageDimensions>
+    <HeightPixels>2880</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2018-04-20</DateCreated>
+   <SourceFilename>PapillaryFollicularThyroidCaStage4AOver55.4.jpg</SourceFilename>
+  <Comment audience="Internal" date="2018-04-24" user="yousufzaimg">Made the cancer spot in lobe above the letter “b” larger so that it takes up almost the whole lobe; Extended the line from the label Thyroid gland all the way over to the lobe with the big mass in it</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Removed label for Internal jugular vein; faded out lymph nodes; defined the borders for the cancer spot shown in "c"</Comment><Comment audience="Internal" date="2017-09-06" user="kuhlmanna">Image revisions made per AJCC updates (8th edition) </Comment><Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Changed age on label to "55 years and older", per comments from expert reviewer</Comment><Comment audience="Internal" date="2016-10-03" user="kuhlmanna">Moved label for Trachea up and to the left, and made the line point to the center of the trachea a little bit closer to the cancer spot.</Comment><Comment audience="Internal" date="2016-08-23" user="kuhlmanna">No change made from previous image</Comment><Comment audience="Internal" date="2016-04-19" user="kuhlmanna">Added (45 years and older) under the title; changed the figure to an older woman; emphasized (enlarged) the area from the chin down so that it is easier to see all of the detail</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000683097">stage IVA papillary thyroid cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000683090">stage IVA follicular thyroid cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVA papillary and follicular thyroid cancer in patients 55 years and older; drawing shows cancer has (a) spread to tissue in front of the spine (inset), (b) surrounded the common carotid artery, and (c) surrounded the blood vessels in the area between the lungs. Also shown are the thyroid gland, trachea, and lymph nodes.</ContentDescription><ContentDescription audience="Health_professionals" language="en">Stage IVA papillary and follicular thyroid cancer in patients 55 years and older; drawing shows cancer has (a) spread to tissue in front of the spine, (b) surrounded the common carotid artery, and (c) surrounded the blood vessels in the area between the lungs. Also shown are the thyroid gland, trachea, and lymph nodes.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVA papillary and follicular thyroid cancer in patients 55 years and older. The tumor is any size and cancer has (a) spread to tissue in front of the spine; or (b)  surrounded the carotid artery; or (c)  surrounded the blood vessels in the area between the lungs. Cancer may have spread to lymph nodes.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVA papillary and follicular thyroid cancer in patients 55 years and older. The tumor is any size and cancer has (a) spread to tissue in front of the spine; or (b)  surrounded the carotid artery; or (c)  surrounded the blood vessels in the area between the lungs. Cancer may have spread to lymph nodes.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258038">Thyroid Cancer Treatment (Adult)</Summary><Summary cdr:ref="CDR0000062913">Thyroid Cancer Treatment (Adult)</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-05-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-02</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-18</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-04-16</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment audience="Internal" date="2018-04-24" user="yousufzaimg">Updated image to PapillaryFollicularThyroidCaStage4AOver55.4.jpg</Comment><Comment audience="Internal" date="2017-09-18" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage4AOver55.3.jpg</Comment><Comment>Updated image to PapillaryFollicularThyroidCaStage4AOver55.2.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-04-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-11-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-10-03</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-09-19</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-08-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-12-12</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       <Comment audience="Internal" date="2016-12-12" user="kuhlmanna">Updated image to PapillaryFollicularThyroidCaStage4AOver55.jpg</Comment><Comment audience="Internal" date="2016-10-03" user="kuhlmanna">Updated to PapillaryFollicularThyroidCaStage4A.4.jpg</Comment><Comment audience="Internal" date="2016-08-23" user="kuhlmanna">Updated to PapillaryFollicularThyroidCaStage4A.3.jpg</Comment><Comment audience="Internal" date="2016-08-09" user="yousufzaimg">Added PapillaryFollicularThyroidCaStage4A.2.jpg</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2016-07-25</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2016-04-04</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000780090">Sample Illustration: stage IV thyroid cancer</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000792859">Illustration Review Sheet: stage IVA papillary and follicular thyroid cancer (55 years and older)</SupplementaryInfoLink></RelatedDocuments></Media>

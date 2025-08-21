@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>Effects of Screening on Prostate Cancer Mortality-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Estudio o subgrupo</LabelName><LabelName language="es">Bélgica</LabelName><LabelName language="es">Finlandia</LabelName><LabelName language="es">Italia</LabelName><LabelName language="es">Países Bajos</LabelName><LabelName language="es">España</LabelName><LabelName language="es">Suecia</LabelName><LabelName language="es">Suiza</LabelName><LabelName language="es">Total (IC 95 %)</LabelName><LabelName language="es">Total de episodios</LabelName><LabelName language="es">Examen de detección con PSA</LabelName><LabelName language="es">Episodios</LabelName><LabelName language="es">18</LabelName><LabelName language="es">170</LabelName><LabelName language="es">26</LabelName><LabelName language="es">85</LabelName><LabelName language="es">2</LabelName><LabelName language="es">38</LabelName><LabelName language="es">16</LabelName><LabelName language="es">355</LabelName><LabelName language="es">Total</LabelName><LabelName language="es">4307</LabelName><LabelName language="es">31970</LabelName><LabelName language="es">7266</LabelName><LabelName language="es">17443</LabelName><LabelName language="es">1056</LabelName><LabelName language="es">5901</LabelName><LabelName language="es">4948</LabelName><LabelName language="es">72891</LabelName><LabelName language="es">Control</LabelName><LabelName language="es">Episodios</LabelName><LabelName language="es">23</LabelName><LabelName language="es">284</LabelName><LabelName language="es">32</LabelName><LabelName language="es">126</LabelName><LabelName language="es">4</LabelName><LabelName language="es">62</LabelName><LabelName language="es">14</LabelName><LabelName language="es">545</LabelName><LabelName language="es">Total</LabelName><LabelName language="es">4255</LabelName><LabelName language="es">48409</LabelName><LabelName language="es">7251</LabelName><LabelName language="es">17390</LabelName><LabelName language="es">1141</LabelName><LabelName language="es">5951</LabelName><LabelName language="es">4955</LabelName><LabelName language="es">89352</LabelName><LabelName language="es">Cociente de riesgos</LabelName><LabelName language="es">M-H, Aleatorio, IC 95 %</LabelName><LabelName language="es">0,77 [0,42, 1,43]</LabelName><LabelName language="es">0,91 [0,75, 1,10]</LabelName><LabelName language="es">0,81 [0,48, 1,36]</LabelName><LabelName language="es">0,67 [0,51, 0,88]</LabelName><LabelName language="es">0,54 [0,10, 2,94]</LabelName><LabelName language="es">0,62 [0,41, 0,92]</LabelName><LabelName language="es">1,14 [0,56, 2,34]</LabelName><LabelName language="es">0,80 [0,70, 0,92]</LabelName><LabelName language="es">Cociente de riesgos</LabelName><LabelName language="es">M-H, Aleatorio, IC 95 %</LabelName><LabelName language="es">0,01</LabelName><LabelName language="es">0,1</LabelName><LabelName language="es">1</LabelName><LabelName language="es">10</LabelName><LabelName language="es">100</LabelName><LabelName language="es">Favorece los exámenes de detección</LabelName><LabelName language="es">Favorece el control</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1050</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000791030">Effects of Screening on Prostate Cancer Mortality</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>ProstateCancerScreeningGraphSpanish3.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2017-10-06" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">El diagrama muestra el riesgo de mortalidad por cáncer de próstata durante 13 años de seguimiento en los grupos de exámenes de detección  versus  los grupos de control.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Riesgo de mortalidad por cáncer de próstata en el European Randomized Study of Screening for Prostate Cancer (ERSPC) según el centro de estudio durante 13 años de seguimiento en los grupos de exámenes de detección  versus  los grupos de control.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000747922">Exámenes de detección del cáncer de próstata</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-26</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-25</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation of Labels, Caption and Content Descr. Pending Spanish QC</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-09-25</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,83 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr"> 
+  
+ <MediaTitle>malignant mesothelioma, child-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Partes del cuerpo donde es posible que se forme un mesotelioma maligno</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Pericardio</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Peritoneo (revestimiento de la cavidad abdominal)</LabelName><LabelName language="es">Testículos</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000805930">malignant mesothelioma, child</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MalignantMesotheliomaChildSpanish.jpg</SourceFilename>
+  <Comment user="lansberryic" audience="Internal" date="2021-09-28">New image linked</Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038142">malignant mesothelioma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">En la imagen se muestran las partes del cuerpo donde es posible que se forme un mesotelioma maligno, como la pleura (tejido que reviste la cavidad torácica y cubre los pulmones), el pericardio (tejido que rodea el corazón), el peritoneo (tejido que reviste el abdomen y cubre la mayoría de los órganos del abdomen)  y los testículos. También se observan el corazón y los pulmones.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El mesotelioma maligno se forma en el tejido que reviste el tórax o el abdomen, incluso en la pleura (tejido que reviste la cavidad torácica y cubre los pulmones), el  pericardio (tejido que rodea el corazón) y el peritoneo (tejido que reviste el abdomen y cubre la mayoría de los órganos del abdomen). También es posible que el mesotelioma maligno se forme en los testículos,  pero esto es poco frecuente.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000800370">Tratamiento del mesotelioma infantil</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-13</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Reviewed caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-10-04</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-30</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Translation caption and description completed</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-28</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>New image linked, translation of Cont. Descr. and Caption pending.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-22</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-21</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Translation QC: only labels</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-09-21</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        <Comment>Translation of labels pending</Comment>
+       </ProcessingStatus></ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000805930">malignant mesothelioma, child</TranslationOf></Media>

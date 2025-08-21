@@ -1,0 +1,84 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cerebrospinal fluid (CSF) shunt</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="en">Cerebrospinal Fluid (CSF) Shunt</LabelName><LabelName language="en">Cerebrospinal fluid</LabelName><LabelName language="en">Shunt</LabelName><LabelName language="en">Ventricle</LabelName><LabelName language="en">Valve</LabelName><LabelName language="en">Cerebrospinal fluid</LabelName><ImageDimensions>
+    <HeightPixels>3180</HeightPixels><WidthPixels>2449</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2023-08-30</DateCreated>
+   
+   
+   <SourceFilename>Cerebrospinal Fluid CSF Shunt1.jpg</SourceFilename>
+   
+  <Comment user="kuhlmanna" date="2023-08-30" audience="Internal">Updated title in image</Comment><Comment audience="Internal" date="2010-12-06" user="anjamison">Moved valve closer to ear.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Child</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2023-08-31</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain neoplasm</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Drawing shows extra cerebrospinal fluid (CSF) flowing through a shunt (a long, thin tube) from a ventricle (fluid-filled space) in the brain into the abdomen. The shunt goes from the ventricle, under the skin in the neck and chest, and into the abdomen. Also shown is a shunt valve that controls the flow of CSF.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">A cerebrospinal fluid (CSF) shunt (a long, thin tube) carries extra CSF away from the brain so it may be absorbed elsewhere in the body. The shunt is placed in a ventricle (fluid-filled space) in  the brain and threaded under the skin to another part of the body, usually the abdomen. The shunt has a valve that controls the flow of CSF.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062962">Childhood Brain Stem Glioma Treatment</Summary><Summary cdr:ref="CDR0000574295">Childhood Astrocytomas Treatment</Summary>
+  <Glossary cdr:ref="CDR0000044801">cerebrospinal fluid diversion</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-08-31</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        <Comment user="kuhlmanna" date="2023-08-30" audience="Internal">Updated image to Cerebrospinal Fluid CSF Shunt1.jpg</Comment><Comment audience="Internal" date="2011-09-16" user="anjamison">Updated to CSF.Diversion5.jpg</Comment><Comment audience="Internal" date="2011-09-02" user="anjamison">Updated to CSF.Diversion4.jpg</Comment><Comment>Updated to CSF.Diversion3.jpg</Comment>
+       <Comment audience="Internal" date="2011-09-02" user="anjamison">Added draft illustration CSF.Diversion1.jpg</Comment></ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-08-08</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-02-23</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2011-01-07</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2010-06-21</ProcessingStatusDate>
+   <EnteredBy>dbuchhagen</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000708370">Illustration Review Sheet: CSF diversion</SupplementaryInfoLink><SupplementaryInfoLink cdr:ref="CDR0000680514">Sample illustration: CSF diversion</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

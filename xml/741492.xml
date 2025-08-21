@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endometrial cancer stage IA and IB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de endometrio en estadio IA</LabelName><LabelName language="es">Útero</LabelName><LabelName language="es">Cuello uterino</LabelName><LabelName language="es">Trompa de Falopio</LabelName><LabelName language="es">Ovario</LabelName><LabelName language="es">Endometrio</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Miometrio</LabelName><LabelName language="es">Vagina</LabelName><LabelName language="es">Cáncer de endometrio en estadio IB</LabelName><LabelName language="es">Cáncer</LabelName>
+  </ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000735233">endometrial cancer stage IA and IB</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>EndometrialCaStage1A.1BSpanish.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038737">endometrial cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Los dibujos muestran el cáncer de endometrio en estadio IA y estadio IB en dos secciones transverales del útero y el cuello uterino. El dibujo de la izquierda muestra el estadio IA con cáncer en el endometrio y el miometrio del útero. El dibujo de la derecha muestra el estadio IB con cáncer que atravesó más de la mitad del miometrio. También se muestran las trompas de Falopio, los ovarios y la vagina.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Estadio IA y estadio IB del cáncer de endometrio. En el estadio IA, el cáncer está solamente en el endometrio o a menos de la mitad de camino a través del miometrio (capa muscular del útero). En el estadio IB, el cáncer se diseminó hasta la mitad o más del miometrio.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256803">Cáncer del endometrio: Tratamiento</Summary>
+  <Glossary cdr:ref="CDR0000045116">stage I endometrial cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked new image and QCd translations</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>lsaucedo</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Spanish labels sent 10/8/12</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-10-09</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

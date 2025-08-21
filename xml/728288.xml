@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>skin cancer, basal cell carcinoma, superficial</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>photo</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>2848</HeightPixels>
+    <WidthPixels>4272</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Kelly Nelson, MD</Creator>
+   <DateCreated>2012-03-02</DateCreated>
+   <SourceFilename>sBCC back 1_24.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <PermissionInformation>
+    <PermissionRequested>No</PermissionRequested>
+    
+    
+    
+    
+    
+    
+    <SpanishTranslationPermissionRequested>No</SpanishTranslationPermissionRequested>
+    
+    <Comment audience="Internal" date="2015-04-28" user="akuhlmann">Photo provided by Genetics Board Member with unrestricted permission for reuse </Comment></PermissionInformation><MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039109">basal cell carcinoma of the skin</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Photograph of a pink, scaly lesion on the skin.</ContentDescription>
+  <ContentDescription audience="Patients" language="en">Photograph showing a skin cancer lesion that looks reddish brown and slightly raised.</ContentDescription><ContentDescription audience="Patients" language="es">La fotografía muestra una lesión cancerosa en la piel de color rojiza marrón y ligeramente levantada.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Superficial basal cell carcinoma.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">A skin cancer lesion that looks reddish brown and slightly raised.</MediaCaption><MediaCaption audience="Patients" language="es">Lesión cancerosa en la piel de color rojiza marrón y ligeramente levantada.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000552637">Genetics of Skin Cancer</Summary>
+  
+ <Summary cdr:ref="CDR0000258035">Skin Cancer Treatment</Summary><Summary cdr:ref="CDR0000256809">Cáncer de piel: Tratamiento</Summary></ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation Qcd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Pending caption and content descriptions translations for patients</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-06</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Ready to publish with patient caption.</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-08-03</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment>Added patient caption/content description.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-03-05</ProcessingStatusDate>
+   <EnteredBy>cnorwood</EnteredBy>
+   <Comment>Added sBCC back 1_24.jpg.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

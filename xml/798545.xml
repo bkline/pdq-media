@@ -1,0 +1,91 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IB-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de pulmón en estadio  IB</LabelName><LabelName language="es">El tumor mide más de 3 cm, pero no más de 4 cm</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">3 cm</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">Pleura</LabelName><LabelName language="es">Diafragma</LabelName><LabelName language="es">Carina</LabelName><LabelName language="es">Bronquio principal izquierdo</LabelName><LabelName language="es">a</LabelName><LabelName language="es">El tumor primario mide 4 cm o menos</LabelName><LabelName language="es">Membrana interna que recubre el pulmón</LabelName><LabelName language="es">b</LabelName><LabelName language="es">Costilla</LabelName><LabelName language="es">Pulmón</LabelName><LabelName language="es">c</LabelName><LabelName language="es">Todo el pulmón o una parte de este se desinfló o presenta neumonitis</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>4230</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000794784">lung cancer, stage IB</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>LungStageIB Older Female  FV Spanish1.jpg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000682740">stage IB non-small cell lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de pulmón en estadio IB. Se observan dos imágenes. En la imagen de la izquierda, se observa un tumor en el pulmón derecho que mide más de 3 cm, pero no más de 4 cm. También se muestran la pleura y el diafragma. En la imagen de la derecha, se observa un tumor primario en el pulmón izquierdo que mide 4 cm o menos; además, se observan las siguientes situaciones: a) cáncer en el bronquio principal izquierdo; b) cáncer en la membrana interna que recubre el pulmón (recuadro inferior); c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). También se observan la carina y, en el  recuadro inferior, una costilla.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de pulmón en estadio IB. Se observan dos imágenes. En la imagen de la izquierda, se observa un tumor en el pulmón derecho que mide más de 3 cm, pero no más de 4 cm. También se muestran la pleura y el diafragma. En la imagen de la derecha, se observa un tumor primario en el pulmón izquierdo que mide 4 cm o menos; además, se observan las siguientes situaciones: a) cáncer en el bronquio principal izquierdo; b) cáncer en la membrana interna que recubre el pulmón (recuadro inferior); c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón). También se observan la carina y, en el recuadro inferior, una costilla.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Cáncer de pulmón en estadio IB. Se presenta una de las siguientes situaciones: 1) El tumor mide más de 3 cm, pero no más de 4 cm, y el cáncer no se diseminó a los ganglios linfáticos. 2) El tumor mide 4 cm o menos, el cáncer no se diseminó a los ganglios linfáticos y se encuentran uno o más de los siguientes casos: a) el cáncer se diseminó al bronquio principal, pero no a la carina; b) el cáncer se diseminó a la membrana interna que recubre el pulmón; c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption><MediaCaption audience="Health_professionals" language="es">Cáncer de pulmón en estadio IB. Se presenta una de las siguientes situaciones: 1) El tumor mide más de 3 cm, pero no más de 4 cm, y el cáncer no se diseminó a los ganglios linfáticos. 2) El tumor mide 4 cm o menos, el cáncer no se diseminó a los ganglios linfáticos y se encuentran uno o más de los siguientes casos: a) el cáncer se diseminó al bronquio principal, pero no a la carina; b) el cáncer se diseminó a la membrana interna que recubre el pulmón; c) todo el pulmón o una parte de este se desinfló o presenta neumonitis (inflamación del pulmón).</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256766">Tratamiento del cáncer de pulmón de células no pequeñas</Summary><Summary cdr:ref="CDR0000256672">Tratamiento del cáncer de pulmón de células no pequeñas</Summary>
+  <Glossary cdr:ref="CDR0000682415">stage IB non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-04-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Asked Terese to make the diversity changes</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-31</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-23</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        
+       <Comment audience="Internal" date="2019-07-23" user="lansberryic">Translation Qc of media file, Cap. and Cont. Descr.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Reviewed image; translated captions and descriptions</Comment><Comment audience="Internal" date="2019-07-19" user="adlerm2">Updated "neumonitis (inflamación del pulmón)" for consistency in these images.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-19</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-07-05</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC of labels only</Comment>
+       <Comment audience="Internal" date="2019-07-05" user="adlerm2">In Spanish, a hanging “O” (= OR) between the images creates a readability issue. Suggestion:
+Remove “O” label; make “El tumor primario mide 4 cm o menos” (=Primary tumor is 4 cm or smaller) bold and adjust the pointer line so that it goes upwards and helps to introduce the content (a, b, c) that appears on the right side of the image.</Comment><Comment audience="Internal" date="2019-07-05" user="adlerm2">Added translation of captions and descriptions in proposed markup. In Spanish, "1)" and "2)" must be used to separate concepts divided by “OR”. This works well with the text already in the PAT summary.
+</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-24</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Translated new labels</Comment>
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000794784">lung cancer, stage IB</TranslationOf></Media>

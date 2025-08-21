@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>surgery - resection, abdominoperineal </MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Resection of the Colon with Colostomy</LabelName><LabelName language="en">Cancer</LabelName><LabelName language="en">Cancer and nearby tissue removed</LabelName><LabelName language="en">Stoma</LabelName><LabelName language="en">Colostomy bag</LabelName><ImageDimensions>
+    <HeightPixels>1381</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2013-03-04</DateCreated><SourceFilename>ResectionColonWithColostomy7.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-03-04" user="anjamison">Added title.</Comment><Comment>Added new copyright information and label names. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+   <Category>treatment</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039550">anal cancer</Diagnosis>
+  </Diagnoses>
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Three-panel drawing showing anal cancer surgery with colostomy; first panel shows area of anus with cancer, middle panel shows cancer and nearby tissue removed and stoma created, last panel shows a colostomy bag attached to the stoma.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Resection of the colon with colostomy. Part of the colon containing the cancer and nearby healthy tissue are removed, a stoma is created, and a colostomy bag is attached to the stoma.</MediaCaption>
+  </Captions>
+ </MediaContent>
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-04</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-04</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        <Comment audience="Internal" date="2013-03-04" user="anjamison">Updated to ResectionColonWithColostomy7.jpg</Comment><Comment>Updated to ResectionColonWithColostomy6.jpg</Comment>
+       </ProcessingStatus></ProcessingStatuses><Comment audience="Internal" date="2013-02-11" user="anjamison">Updated caption per SQK.</Comment><Comment>2008-06-17; Inserted hypen in three-panel cont desc; dlb.</Comment></Media>

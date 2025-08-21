@@ -1,0 +1,72 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>cervical cancer stage IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Cervical Cancer</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Cervical cancer has spread to other parts of the body:</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Lung</LabelName><LabelName language="en">Liver</LabelName><LabelName language="en">Cervix</LabelName><LabelName language="en">Bone</LabelName><ImageDimensions>
+    <HeightPixels>2610</HeightPixels>
+    <WidthPixels>2400</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2021-12-06</DateCreated>
+   <SourceFilename>CervicalCaStage4BSkinTypeII 1.jpg</SourceFilename>
+  <Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Faded out the brain and added a face of a woman of Latina ethnicity</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Darkened skin tone</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Revisions made to image per FIGO staging updates</Comment><Comment audience="Internal" date="2016-03-31" user="kuhlmanna">Removed the label for Abdominal wall</Comment><Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Darkened the area between the inset and the main figure</Comment><Comment audience="Internal" date="2016-02-08" user="yousufzaimg">Removed lines connecting the inset box to the primary tumor on the main figure; shaded in the area connecting the primary tumor in the inset box to the primary tumor on the main figure; made the left leg look more like the other stage IV figures (it is faded out here)</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Used the Lung Rev. #4 body as the template; moved the inset box down a bit so that the lines connecting the box to the cancer spot on the cervix aren’t so long</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Replaced metastasis inset with a new inset from the Metastasis image</Comment><Comment audience="Internal" date="2012-04-19" user="anjamison">Fixed label spacing</Comment><Comment audience="Internal" date="2011-10-17" user="anjamison">Made the font size of the Abdominal wall, Bone, and Intestinal tract labels match the font size of the other labels.</Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000037892">cervical cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions><ContentDescription audience="Patients" language="en">Stage IVB cervical cancer; drawing shows other parts of the body where cervical cancer may spread, including the lymph nodes, lung, liver, and bone. An inset shows cancer cells spreading from the cervix, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription>
+   
+  <ContentDescription audience="Health_professionals" language="en"> Stage IVB cervical cancer; drawing shows other parts of the body where cervical cancer may spread, including the lymph nodes, lung, liver, and bone. An inset shows cancer cells spreading from the cervix, through the blood and lymph system, to another part of the body where metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   
+  <MediaCaption audience="Patients" language="en">Stage IVB cervical cancer. Cancer has spread to other parts of the body, such as the lymph nodes, lung, liver, or bone.</MediaCaption><MediaCaption audience="Health_professionals" language="en">Stage IVB cervical cancer. Cancer has spread to other parts of the body, such as the lymph nodes, lung, liver, or bone.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062961">Cervical Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045889">stage IV cervical cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2021-12-06</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment user="yousufzaimg" audience="Internal" date="2021-12-06">Updated to CervicalCaStage4BSkinTypeII 1.jpg</Comment><Comment audience="Internal" date="2020-04-13" user="kuhlmanna">Updated to CervicalCaStage4B.14.jpg</Comment><Comment audience="Internal" date="2020-03-31" user="yousufzaimg">Updated to CervicalCaStage4B.13.jpg</Comment><Comment audience="Internal" date="2016-04-05" user="kuhlmanna">Updated to CervicalCaStage4B.12.jpg</Comment><Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Updated to CervicalCaStage4B.11.jpg</Comment><Comment audience="Internal" date="2016-02-08" user="yousufzaimg">Updated to CervicalCaStage4B.10.jpg</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Updated to CervicalCaStage4B.9.jpg</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Updated to CervicalCaStage4B.7.jpg</Comment><Comment audience="Internal" date="2011-11-10" user="cnorwood">Updated to CervicalCaStage4B.4.jpg</Comment><Comment audience="Internal" date="2011-11-08" user="anjamison">Updated to CervicalCaStage4B.3.jpg</Comment><Comment audience="Internal" date="2011-10-17" user="anjamison">Updated to CervicalCaStage4B.2.jpg</Comment><Comment>Added CervicalCaStage4B.1jpg</Comment>
+  </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-05-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2020-04-27</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000728810">Illustration Review Sheet: cervical cancer stage IVB</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

@@ -1,0 +1,97 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lung cancer, stage IIIA (3)</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IIIA Lung Cancer (3)</LabelName><LabelName language="en">a</LabelName><LabelName language="en">Primary tumor is larger than 7 cm</LabelName><LabelName language="en">7 cm</LabelName><LabelName language="en">a</LabelName><LabelName language="en">b</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">c</LabelName><LabelName language="en">Carina</LabelName><LabelName language="en">d</LabelName><LabelName language="en">Esophagus</LabelName><LabelName language="en">e</LabelName><LabelName language="en">Breastbone</LabelName><LabelName language="en">f</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">g</LabelName><LabelName language="en">Heart</LabelName><LabelName language="en">h</LabelName><LabelName language="en">Aorta</LabelName><LabelName language="en">i</LabelName><LabelName language="en">Vena Cava</LabelName>
+  <LabelName language="en">Vertebrae</LabelName><LabelName language="en">Breastbone</LabelName><LabelName language="en">Cancer</LabelName></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2022-07-10</DateCreated>
+   
+   
+   <SourceFilename>LungStage3APart3 MaleFP V.2.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Faded the L scapula a bit more</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-06-27">Diversity updates: Made figure male, updated skin tone to Fitzpatrick Type V</Comment><Comment audience="Internal" date="2019-08-06" user="kuhlmanna">Added white outline on tiny box “b”</Comment><Comment audience="Internal" date="2019-06-11" user="yousufzaimg">In the vertebrae inset box, changed the label “Sternum” to “Breastbone” and moved the inset down;
+moved the Diaphragm label, letter “g”,  and cancer spot on the diaphragm to the right;
+and moved the Carina label and leader line down to fill in the empty space</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Revised name credit</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Adjusted overall canvas size</Comment><Comment audience="Internal" date="2018-12-06" user="kuhlmanna">Added the letter “a” to the cancer spot in the upper part of the lung where the shaded area from the inset comes in.</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Revisions made to image per AJCC 8th edition staging</Comment><Comment audience="Internal" date="2010-09-17" user="anjamison">Replaced  "(part 3)" with "(3)".</Comment></OriginalSource>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  <Diagnosis cdr:ref="CDR0000040862">non-small cell lung cancer</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IIIA lung cancer (3); drawing shows (a) a primary tumor (larger than 7 cm) in the left lung and (b) separate tumors in a different lobe of the lung with the primary tumor. Also shown is cancer that has spread to the (c) trachea, (d) carina, (e) esophagus, (f) breastbone, (g) diaphragm, (h) heart, and (i) the aorta and vena cava.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IIIA lung cancer (3); drawing shows (a) a primary tumor (larger than 7 cm) in the left lung and (b) separate tumors in a different lobe of the lung with the primary tumor. Also shown is cancer that has spread to the (c) trachea, (d) carina, (e) esophagus, (f) breastbone, (g) diaphragm, (h) heart, and (i) the aorta and vena cava.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IIIA lung cancer (3). Cancer may have spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are in the lung or near the bronchus. Also, one or more of the following is found: (a) the primary tumor is larger than 7 centimeters; and/or (b) there are one or more separate tumors in a different lobe of the lung with the primary tumor; and/or the tumor is any size and cancer has spread to any of the following: (c) trachea, (d) carina, (e) esophagus, (f) breastbone or backbone, (g) diaphragm, (h) heart, (i) major blood vessels that lead to or from the heart (aorta or vena cava), or the nerve that controls the larynx (not shown).</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IIIA lung cancer (3). Cancer may have spread to lymph nodes on the same side of the chest as the primary tumor. The lymph nodes with cancer are in the lung or near the bronchus. Also, one or more of the following is found: (a) the primary tumor is larger than 7 centimeters; and/or (b) there are one or more separate tumors in a different lobe of the lung with the primary tumor; and/or the tumor is any size and cancer has spread to any of the following: (c) trachea, (d) carina, (e) esophagus, (f) breastbone or backbone, (g) diaphragm, (h) heart, (i) major blood vessels that lead to or from the heart (aorta or vena cava), or the nerve that controls the larynx (not shown).</MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045367">stage IIIA non-small cell lung cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-20</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-07-18</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-07-12">Updated image to LungStage3APart3 MaleFP V.2.jpg</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-06-27">Updated to LungStage3APart3 MaleFP V 1.jpg</Comment><Comment audience="Internal" date="2019-06-11" user="yousufzaimg">Updated image to LungStage3APart3Rev11.jpg</Comment><Comment audience="Internal" date="2019-02-04" user="yousufzaimg">Updated image to LungStage3APart3Rev8.jpg</Comment><Comment audience="Internal" date="2018-12-13" user="kuhlmanna">Updated image to LungStage3APart3Rev7.jpg</Comment><Comment audience="Internal" date="2018-12-10" user="kuhlmanna">Updated image to LungStage3APart3Rev6.jpg</Comment><Comment audience="Internal" date="2018-12-06" user="kuhlmanna">Updated to LungStage3APart3Rev5.jpg</Comment><Comment audience="Internal" date="2018-11-28" user="kuhlmanna">Updated to LungStage3APart3Rev4.jpg</Comment><Comment>Updated to LungStage3AcRev3.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer with changes</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-06-10</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-01-24</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-11</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-10-05</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-09-20</ProcessingStatusDate>
+        <EnteredBy>anjamison</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sample illustrations sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-07-19</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        <Comment>Added Supp Info Doc for stage IIIA part 3.</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments><SupplementaryInfoLink cdr:ref="CDR0000798321">Illustration Review Sheet: non-small cell lung cancer stage IIIA (3)</SupplementaryInfoLink>
+        <SupplementaryInfoLink cdr:ref="CDR0000682117">Sample illustration: NSCLC stage IIIA part 3</SupplementaryInfoLink>
+       <SupplementaryInfoLink cdr:ref="CDR0000793666">Sample Illustration: NSCLC staging revisions AJCC 8th Ed</SupplementaryInfoLink></RelatedDocuments></Media>

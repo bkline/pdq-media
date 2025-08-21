@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle> Unusual Cancers – Cancer incidence rates for young patients in the SEER program-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tasas de incidencia ajustadas por edad y específicas para la edad para pacientes de cáncer de 0-19 años (SEER  2005-2009)</LabelName><LabelName language="es">0-14 Años</LabelName><LabelName language="es">31,1% Leucemia</LabelName><LabelName language="es">10,0% Linfomas</LabelName><LabelName language="es">25,4% SNC</LabelName><LabelName language="es">6,1% Neuroblastoma</LabelName><LabelName language="es">2,5% Retinoblastoma</LabelName><LabelName language="es">4,7% Renal</LabelName><LabelName language="es">1,5% Hepático</LabelName>
+  <LabelName language="es">4,4% Tumores óseos</LabelName><LabelName language="es">6,6% Tejido blando</LabelName><LabelName language="es">3,4% Célula germinal</LabelName><LabelName language="es">4,0% Carcinomas &amp; melanoma</LabelName><LabelName language="es">0,3% Otros</LabelName><LabelName language="es">15-19 Años</LabelName><LabelName language="es">13,8% Leucemia</LabelName><LabelName language="es">20,7% Linfomas</LabelName><LabelName language="es">18,7% SNC</LabelName><LabelName language="es">0,4% Neuroblastoma</LabelName><LabelName language="es">0,7% Renal</LabelName><LabelName language="es">0,6% Hepático</LabelName><LabelName language="es">6,2% Tumores óseos</LabelName><LabelName language="es">6,8% Tejido blando</LabelName><LabelName language="es">12,3% Célula germinal</LabelName><LabelName language="es">19,6% Carcinomas &amp; melanoma</LabelName><LabelName language="es">0,3% Otro</LabelName><ImageDimensions>
+    <HeightPixels>2205</HeightPixels>
+    <WidthPixels>3225</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000732714">Unusual Cancers – Cancer incidence rates for young patients in the SEER program</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>UnusualCancersPieChartAge0-19Spanish2.jpg</SourceFilename>
+  <Comment audience="Internal" date="2012-06-25" user="lsaucedo">Replaced image</Comment><Comment audience="Internal" date="2012-05-04" user="lsaucedo">Linked image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>measurement</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="es">Tasas de incidencia ajustadas por edad y específicas para la edad para pacientes de cáncer de 0-19 años de edad (SEER 2005-2009); el diagrama muestra el porcentaje de incidencia de leucemia, linfoma, tumores del sistema nervioso central (SNC), neuroblastoma, retinoblastoma, tumores renales, tumores hepáticos, tumores óseos, tumores del tejido blando, tumores de célula germinal, carcinomas y melanomas, y otros cánceres.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Tasas de incidencia de cáncer para pacientes de 0 a 14 años y 15 a 19 años en el programa Surveillance Epidemiology and End Results (SEER) de 2005 to 2009. Las tasas de incidencia están ajustadas por edad  y son específicas para la edad y  muestran    leucemia, linfoma, tumores del sistema nervioso central (SNC), neuroblastoma, retinoblastoma, tumores renales, tumores hepáticos, tumores óseos, tumores de tejido blando, tumores de célula germinal, carcinomas y melanomas y otros cánceres. El retinoblastoma se presenta con poca frecuencia en adolescentes entre 15 a 19 años.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256757">Cánceres poco comunes de la niñez: Tratamiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-06-27</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Caption, content description reviewed, image linked</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-16</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Figure revised, new labels sent to Terese and caption an content description revised</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Linked image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-05-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translation QCd</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2012-04-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

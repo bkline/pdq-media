@@ -1,0 +1,88 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>respiratory system anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Lymph node</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Bronchi</LabelName><LabelName language="en">Right lung</LabelName><LabelName language="en">Left lung</LabelName><LabelName language="en">Upper lobe</LabelName><LabelName language="en">Middle lobe</LabelName><LabelName language="en">Lower lobe</LabelName><LabelName language="en">Diaphragm</LabelName><LabelName language="en">Artery</LabelName><LabelName language="en">Vein</LabelName><LabelName language="en">Bronchiole</LabelName><LabelName language="en">Alveoli</LabelName><ImageDimensions>
+    <HeightPixels>3090</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-03-27</DateCreated>
+   
+   
+   <SourceFilename>RespiratorySystemAnatomy HispanicMale FP IV 2022.3.jpg </SourceFilename>
+   <Comment user="kuhlmanna" date="2024-03-28" audience="Internal">Shortened the leader line for "Middle lobe" so it doesn't overlap label</Comment><Comment user="kuhlmanna" date="2023-07-25" audience="Internal">Refined the head and neck in the figure</Comment><Comment user="yousufzaimg" audience="Internal" date="2022-09-26">Diversity updates: Made figure a middle-aged Hispanic male, 
+updated skin tone to FP IV,
+and enhanced facial features</Comment><Comment audience="Internal" date="2008-03-12" user="dbuchhagen">Added new copyright information. </Comment>
+  </OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Adult</Age><Sex>Male</Sex><SkinTone>Type IV – Light brown skin</SkinTone><Ethnicity>Hispanic/Latino</Ethnicity><DateLastReviewed>2022-09-26</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000040209">lung cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Respiratory system anatomy; drawing shows the right lung with the upper, middle, and lower lobes, the left lung with the upper and lower lobes, and the trachea, bronchi, lymph nodes, and diaphragm. An inset shows the bronchioles, alveoli, artery, and vein.  
+
+</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Respiratory system anatomy; drawing shows the right lung with the upper, middle, and lower lobes, the left lung with the upper and lower lobes, and the trachea, bronchi, lymph nodes, and diaphragm. An inset shows the bronchioles, alveoli, artery, and vein.  
+
+</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the respiratory system showing the trachea, the right and left lungs and their lobes, and the bronchi. The lymph nodes and the diaphragm are also shown. Oxygen is inhaled into the lungs and passes through the alveoli (the tiny air sacs at the end of the bronchioles) and into the bloodstream (see inset), where it travels to the tissues throughout the body.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Anatomy of the respiratory system.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProposedUse>
+       <Summary cdr:ref="CDR0000062956">Non-Small Cell Lung Cancer Treatment</Summary>
+       <Summary cdr:ref="CDR0000062947">Small Cell Lung Cancer Treatment</Summary><Summary cdr:ref="CDR0000269299">Malignant Mesothelioma Treatment</Summary><Glossary cdr:ref="CDR0000270740">lung</Glossary><Glossary cdr:ref="CDR0000046209">alveoli</Glossary><Glossary cdr:ref="CDR0000046493">bronchi</Glossary><Glossary cdr:ref="CDR0000046494">bronchiole</Glossary><Glossary cdr:ref="CDR0000046623">trachea</Glossary><Glossary cdr:ref="CDR0000046451">diaphragm</Glossary><Glossary cdr:ref="CDR0000046566">respiratory system</Glossary><Glossary cdr:ref="CDR0000044490">respiratory tract</Glossary></ProposedUse><ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-03-28</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2022-09-26</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" audience="Internal" date="2022-09-26">Updated image to RespiratorySystemAnatomy HispanicMale FP IV 2022.1.jpg</Comment></ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-08-15</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-18</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Janet Dancey</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-07-02</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy><Comment audience="Internal" date="2010-03-17" user="dbuchhagen">Added HP caption and content desc for pilot project.</Comment>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2006-05-08</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>In review  by group.</Comment>
+       </ProcessingStatus></ProcessingStatuses><RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000514469">Illustration Review Sheet: Respiratory Anatomy</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

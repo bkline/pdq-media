@@ -1,0 +1,75 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, medial, child, anatomy-ependymoma</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Brain (Medial)</LabelName><LabelName language="en">Lateral ventricle</LabelName><LabelName language="en">Cerebrum</LabelName><LabelName language="en">Third ventricle</LabelName><LabelName language="en">Cerebellum</LabelName><LabelName language="en">Fourth ventricle</LabelName><LabelName language="en">Spinal cord</LabelName><LabelName language="en">Brain stem</LabelName><LabelName language="en">Pons</LabelName><LabelName language="en">Medulla</LabelName><ImageDimensions>
+    <HeightPixels>2910</HeightPixels><WidthPixels>2940</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2024-04-01</DateCreated>
+   <SourceFilename>BrainMedialChildMaleEpendymoma FP V.2.jpg</SourceFilename><Comment user="kuhlmanna" date="2024-04-02" audience="Internal">Small refinements made to the facial features</Comment>
+  <Comment user="kuhlmanna" date="2024-04-01" audience="Internal">Diversity update: Changed figure to a male; updated skin tone to FP V</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Child</Age><Sex>Male</Sex><SkinTone>Type V – Brown skin</SkinTone><DateLastReviewed>2024-04-01</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000043448">childhood ependymoma</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Drawing of the inside of the brain showing the lateral ventricle, third ventricle, fourth ventricle, and the passageways between the ventricles (with cerebrospinal fluid shown in blue). Also shown are the cerebrum, cerebellum, brain stem (pons and medulla), and spinal cord.</ContentDescription>
+  <ContentDescription audience="Patients" language="en">Drawing of the inside of the brain showing the lateral ventricle, third ventricle, fourth ventricle, and the passageways between the ventricles (with cerebrospinal fluid shown in blue). Also shown are the cerebrum, cerebellum, brain stem (pons and medulla), and spinal cord.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Anatomy of the inside of the brain showing the lateral ventricle, third ventricle, fourth ventricle, and the passageways between the ventricles (with cerebrospinal fluid shown in blue). Also shown are the cerebrum, cerebellum, brain stem (pons and medulla), and spinal cord.</MediaCaption>
+  <MediaCaption audience="Patients" language="en">Anatomy of the inside of the brain showing the lateral ventricle, third ventricle, fourth ventricle, and the passageways between the ventricles (with cerebrospinal fluid shown in blue). Also shown are the cerebrum, cerebellum, brain stem (pons and medulla), and spinal cord.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000813718">Childhood Ependymoma</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment>Updated image to BrainMedialChildEpendymoma FP V.1.jpg</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-03-13</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-02-11</ProcessingStatusDate>
+        <EnteredBy>akuhlmann</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2014-02-10</ProcessingStatusDate>
+   <EnteredBy>akuhlmann</EnteredBy>
+   <Comment>Added BrainMedialChildEpendymoma1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000757887">Sample Illustration: anatomy of the brain (medial)</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

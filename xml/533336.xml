@@ -1,0 +1,85 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Philadelphia chromosome</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Normal chromosome 9</LabelName><LabelName language="en">ABL1 gene</LabelName><LabelName language="en">Normal chromosome 22</LabelName><LabelName language="en">BCR gene</LabelName><LabelName language="en">Chromosomes break</LabelName><LabelName language="en">Changed chromosome 9</LabelName><LabelName language="en">Changed chromosome 22 (Philadelphia chromosome)</LabelName><LabelName language="en">BCR::ABL1 fusion gene</LabelName><ImageDimensions>
+    <HeightPixels>2190</HeightPixels><WidthPixels>3180</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   
+   <DateCreated>2024-11-12</DateCreated>
+   
+   <SourceFilename>PhiladelphiaChromosome9.jpg</SourceFilename>
+   
+  <Comment user="yousufzaimg" date="2024-11-12" audience="Internal">Updated the Philadelphia chromosome illustration to change ABL to ABL1</Comment><Comment user="kuhlmanna" date="2023-06-29" audience="Internal">Removed the italics from the double colon (::) in the fusion gene label</Comment><Comment user="kuhlmanna" date="2023-06-21" audience="Internal">Revised the labels for  "ABL", "BCR", and "BCR-ABL" to reflect recent formatting updates to fusion gene terminology </Comment><Comment audience="Internal" date="2018-10-01" user="kuhlmanna">Revised labels for "abl", "bcr", and "bcr-abl" and made them all uppercase per human gene naming convention</Comment><Comment>Added new copyright information. </Comment></OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>abnormal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Philadelphia chromosome; three-panel drawing shows a piece of chromosome 9 and a piece of chromosome 22 breaking off and trading places, creating a changed chromosome 22 called the Philadelphia chromosome. In the left panel, the drawing shows a normal chromosome 9 with the ABL1 gene and a normal chromosome 22 with the BCR gene. In the center panel, the drawing shows part of the ABL1 gene breaking off from chromosome 9 and a piece of chromosome 22 breaking off, below the BCR gene. In the right panel, the drawing shows chromosome 9 with the piece from chromosome 22 attached. It also shows a shortened version of chromosome 22 with the piece from chromosome 9 containing part of the ABL1 gene attached. The ABL1 gene joins to the BCR gene on chromosome 22 to form the BCR::ABL1 fusion gene. The changed chromosome 22 with the BCR::ABL1 fusion gene on it is called the Philadelphia chromosome.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Philadelphia chromosome; three-panel drawing shows a piece of chromosome 9 and a piece of chromosome 22 breaking off and trading places, creating a changed chromosome 22 called the Philadelphia chromosome. In the left panel, the drawing shows a normal chromosome 9 with the ABL1 gene and a normal chromosome 22 with the BCR gene. In the center panel, the drawing shows part of the ABL1 gene breaking off from chromosome 9 and a piece of chromosome 22 breaking off, below the BCR gene. In the right panel, the drawing shows chromosome 9 with the piece from chromosome 22 attached. It also shows a shortened version of chromosome 22 with the piece from chromosome 9 containing part of the ABL1 gene attached. The ABL1 gene joins to the BCR gene on chromosome 22 to form the BCR::ABL1 fusion gene. The changed chromosome 22 with the BCR::ABL1 fusion gene on it is called the Philadelphia chromosome.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">The Philadelphia (Ph) chromosome is an abnormal chromosome that is made when pieces of chromosomes 9 and 22 break off and trade places. The <GeneName>ABL1</GeneName> gene from chromosome 9 joins to the <GeneName>BCR</GeneName> gene on chromosome 22 to form the <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> fusion gene. The changed chromosome 22 with the fusion gene on it is called the Ph chromosome. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">The Philadelphia (Ph) chromosome is an abnormal chromosome that is made when pieces of chromosomes 9 and 22 break off and trade places. The <GeneName>ABL1</GeneName> gene from chromosome 9 joins to the <GeneName>BCR</GeneName> gene on chromosome 22 to form the <GeneName>BCR</GeneName>::<GeneName>ABL1</GeneName> fusion gene. The changed chromosome 22 with the fusion gene on it is called the Ph chromosome. </MediaCaption></Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000258006">Chronic Myelogenous Leukemia Treatment</Summary><Summary cdr:ref="CDR0000258001">Childhood Acute Lymphoblastic Leukemia</Summary><Summary cdr:ref="CDR0000257989">Acute Lymphoblastic Leukemia Treatment</Summary>
+  <Glossary cdr:ref="CDR0000044179">Philadelphia chromosome</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-11-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-11-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Caption and content approved</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-11-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-11-12</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2024-11-12" audience="Internal">Updated image to PhiladelphiaChromosome9.jpg</Comment><Comment user="kuhlmanna" date="2023-06-22" audience="Internal">Updated image to PhilaChromosome7.jpg</Comment><Comment>2007-02-26 fourth and final image; mm 2007-02-16 third draft; mm second draft</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Approved by expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-08-03</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Sent to expert reviewer</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-07-05</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>Sent to Eric Seifter.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2006-12-19</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>first draft</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+<RelatedDocuments>
+        <SupplementaryInfoLink cdr:ref="CDR0000577396">Illustration Review Sheet: Philadelphia Chromosome</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

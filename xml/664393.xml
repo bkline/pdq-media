@@ -1,0 +1,105 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>lymph system, female, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Sistema linfático</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Arteria</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Vaso linfático</LabelName><LabelName language="es">Amígdalas</LabelName><LabelName language="es">Timo</LabelName><LabelName language="es">Bazo</LabelName><LabelName language="es">Intestino delgado (sitio de tejido linfoide asociado a mucosas)</LabelName>
+  <LabelName language="es">Médula ósea</LabelName><ImageDimensions>
+    <HeightPixels>3120</HeightPixels><WidthPixels>3000</WidthPixels></ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000661751">lymph system, female, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>Lymphatic System Female Spanish1.jpg  </SourceFilename>
+  </DerivedFrom>
+ </MediaSource><DemographicInformation><Age>Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   
+  <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000041429">lymphoma</Diagnosis></Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Sistema linfático. Dibujo de una mujer adulta en el que se señala un vaso linfático y los órganos del sistema linfático que incluyen los ganglios, las amígdalas, el timo, el bazo y la médula ósea. También se señala el intestino delgado (sitio de tejido linfoide asociado a mucosas). En la parte superior izquierda, se observa una ampliación de la estructura interna de un ganglio linfático con una arteria, una vena y cuatro vasos linfáticos con flechas que señalizan la forma en que la linfa (líquido claro de aspecto acuoso) entra y sale del ganglio linfático. En la parte inferior derecha, se observa otra ampliación donde se observa la médula ósea con células de la sangre.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Sistema linfático. Dibujo de una mujer adulta en el que se señala un vaso linfático y los órganos del sistema linfático que incluyen los ganglios, las amígdalas, el timo, el bazo y la médula ósea. También se señala el intestino delgado (sitio de tejido linfoide asociado a mucosas). En la parte superior izquierda, se observa una ampliación de la estructura interna de un ganglio linfático con una arteria, una vena y cuatro vasos linfáticos con flechas que señalizan la forma en que la linfa (líquido claro de aspecto acuoso) entra y sale del ganglio linfático. En la parte inferior derecha, se observa otra ampliación donde se observa la médula ósea con células de la sangre.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">El sistema linfático es una parte del sistema inmunitario y se compone de tejidos y órganos que ayudan a proteger el cuerpo de infecciones y enfermedades. Estos tejidos y órganos son las amígdalas, el timo, el bazo y la médula ósea, los vasos y los ganglios linfáticos. El tejido linfático también se encuentra en muchas otras partes del cuerpo, como en el intestino delgado. La linfa (líquido claro de aspecto acuoso) y los linfocitos (tipo de glóbulos blancos) circulan por los conductos linfáticos hacia los ganglios linfáticos donde los linfocitos destruyen las sustancias dañinas. La linfa entra al torrente sanguíneo por una vena grande que está cerca al corazón.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">El sistema linfático es una parte del sistema inmunitario y se compone de tejidos y órganos que ayudan a proteger el cuerpo de infecciones y enfermedades. Estos tejidos y órganos son las amígdalas, el timo, el bazo y la médula ósea, los vasos y los ganglios linfáticos. El tejido linfático también se encuentra en muchas otras partes del cuerpo, como en el intestino delgado. La linfa (líquido claro de aspecto acuoso) y los linfocitos (tipo de glóbulos blancos) circulan por los conductos linfáticos hacia los ganglios linfáticos donde los linfocitos destruyen las sustancias dañinas. La linfa entra al torrente sanguíneo por una vena grande que está cerca al corazón.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Glossary cdr:ref="CDR0000045359">lymphedema</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-18</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-02</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Suggest to use also called "vaso linfático" instead of "conducto linfático". It is more common in this context in Spanish.//Qc for labels</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2024-04-01</ProcessingStatusDate>
+        <EnteredBy>lujanca</EnteredBy>
+        
+       <Comment>New image, Spanish labels ready for 1st QC</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-22</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-16</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Translation Qc</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish Caption and content revised</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-08-16</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Revised captions and descriptions</Comment>
+       <Comment audience="Internal" date="2019-08-16" user="adlerm2">Please note  there are male and female versions of this image; any edits to descriptions and captions should match.</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-07-31</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP caption and content description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-27</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-27</ProcessingStatusDate>
+        <EnteredBy>dbuchhagen</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2010-01-25</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+<TranslationOf cdr:ref="CDR0000661751">lymph system, female, anatomy</TranslationOf></Media>

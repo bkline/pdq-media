@@ -1,0 +1,87 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>ultrasound, transrectal-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ecografía transrectal</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Próstata</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Ano</LabelName><LabelName language="es">Sonda de ecografía</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels><WidthPixels>3168</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000446202">ultrasound, transrectal</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <SourceFilename>TransrectalUltrasound Provider FP VI 2023 Spanish1.jpg</SourceFilename><Comment audience="Internal" date="2013-03-05" user="lsaucedo">Replaced image with new titled image</Comment>
+  </DerivedFrom>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>Black or African American</Race><SkinTone>Type VI – Dark brown or black skin</SkinTone></DemographicInformation><DemographicInformation><Age>Older Adult</Age><Sex>Male</Sex><Race>White</Race><SkinTone>Type II – Fair skin</SkinTone><DateLastReviewed>2023-09-25</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>test or procedure</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Ecografía transrectal. En el dibujo se observa una vista lateral de la anatomía del aparato reproductor y del aparato urinario masculinos, incluso la vejiga y la próstata. Además, se muestra el recto y el ano. También se observa una sonda de ecografía que se introduce en el recto para examinar la próstata. En un recuadro, se muestra a un proveedor de atención de la salud que introduce la sonda  de ecografía en el recto del paciente mientras observa una imagen de la ecografía en la pantalla de la computadora. El paciente está acostado boca arriba en una camilla.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Ecografía transrectal. En el dibujo se observa una vista lateral de la anatomía del aparato reproductor y aparato urinario masculinos, incluso la vejiga y la próstata. Además, se muestra el recto y el ano. También se observa una sonda de ecografía que se introduce en el recto para examinar la próstata. En un recuadro, se muestra a un proveedor de atención de la salud que introduce la sonda  de ecografía en el recto del paciente mientras observa una imagen de la ecografía en la pantalla de la computadora. El paciente está acostado boca arriba en una camilla.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Ecografía transrectal. Se introduce una sonda de ecografía en el recto para examinar la próstata. La sonda hace rebotar ondas sonoras en los tejidos del cuerpo para producir ecos, que forman una ecografía (imagen computarizada) de la próstata.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Ecografía transrectal.</MediaCaption></Captions>
+  
+  
+ </MediaContent>
+ 
+<ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-10-02</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       <Comment>Requested revision to image to reflect recent diversity changes</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-25</ProcessingStatusDate>
+        <EnteredBy>bringascasadop2</EnteredBy>
+        <Comment>Translation QC</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-09-25</ProcessingStatusDate>
+        <EnteredBy>dossantosm2</EnteredBy>
+        <Comment>Demographic information and content description were revised.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-29</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image, reviewed captions and content descriptions.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-17</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Revised labels sent to artist</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2019-05-14</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2019-05-14" user="lansberryic">Translation QC</Comment><Comment>Revised label, caption and description</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-08</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus>
+       <ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-03-05</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Replaced image with new titled image</Comment>
+       </ProcessingStatus></ProcessingStatuses><TranslationOf cdr:ref="CDR0000446202">ultrasound, transrectal</TranslationOf></Media>

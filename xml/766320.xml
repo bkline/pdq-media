@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>reproductive system, male, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Aparato reproductor masculino</LabelName><LabelName language="es">Uréter</LabelName><LabelName language="es">Ganglio linfático</LabelName><LabelName language="es">Recto</LabelName><LabelName language="es">Vejiga</LabelName><LabelName language="es">Glándula prostática</LabelName><LabelName language="es">Conducto deferente</LabelName><LabelName language="es">Uretra</LabelName><LabelName language="es">Pene</LabelName><LabelName language="es">Testículo</LabelName><LabelName language="es">Vesícula seminal</LabelName><LabelName language="es">Conducto eyaculador</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1890</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000766188">reproductive system, male, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>MaleReproductiveSystemSpanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-19" user="lsaucedo">Replaced image</Comment><Comment audience="Internal" date="2014-11-17" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039801">male reproductive cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del aparato reproductor y urinario masculino; en las ilustraciones, se muestra una  vista frontal y lateral de los uréteres, los ganglios linfáticos, el recto, la vejiga, la glándula prostática, el conducto deferente, la uretra, el pene, los testículos, la vesícula seminal y el conducto eyaculador. </ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del aparato reproductor y urinario masculino en la que se muestran la próstata, los testículos, la vejiga y otros órganos. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000046564">reproductive system</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-19</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-10</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

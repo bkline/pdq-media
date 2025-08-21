@@ -1,0 +1,65 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>endometrial cancer stage IVB</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Stage IVB Endometrial Cancer</LabelName><LabelName language="en">Metastatic cancer</LabelName><LabelName language="en">Cancer cells in lymph system</LabelName><LabelName language="en">Cancer cells in the blood</LabelName><LabelName language="en">Primary cancer</LabelName><LabelName language="en">Endometrial cancer has spread to parts of the body outside the pelvis:</LabelName><LabelName language="en">Abdomen</LabelName><LabelName language="en">Pelvis</LabelName><LabelName language="en">Lymph nodes</LabelName><LabelName language="en">Endometrium</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels><WidthPixels>2400</WidthPixels></ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2023-12-11</DateCreated>
+   <SourceFilename>Endometrial Cancer Stage IVB FP III.2.jpg</SourceFilename>
+  <Comment user="yousufzaimg" date="2023-12-11" audience="Internal">Finished aging the figure</Comment><Comment user="kuhlmanna" date="2023-11-27" audience="Internal">Updated skin tone to FP III; removed the brain; and changed the figure to a middle-aged female</Comment><Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Changed the wording in the text on the right side of the figure to say “…body outside the pelvis”.</Comment><Comment audience="Internal" date="2016-02-08" user="yousufzaimg">Removed lines connecting the inset box to the primary tumor on the main figure; shaded in the area connecting the primary tumor in the inset box to the primary tumor on the main figure; changed label "Cancer in endometrium" to  "Endometrium"</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Used the Lung Rev. #4 body as the template; removed the breasts from main figure; added a colon at the end of the label “Endometrial cancer has spread…pelvis:”</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Replaced metastasis inset with a new inset from the Metastasis image</Comment><Comment audience="Internal" date="2012-08-31" user="anjamison">Faded long bone in right leg.</Comment><Comment audience="Internal" date="2012-08-17" user="anjamison">Cut main figure off at the knees; added bracket to show Pelvis; changed wording under title.</Comment></OriginalSource>
+ </MediaSource>
+ <DemographicInformation><Age>Older Adult</Age><Sex>Female</Sex><Race>White</Race><SkinTone>Type III – Darker white skin</SkinTone><DateLastReviewed>2023-11-27</DateLastReviewed></DemographicInformation><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038737">endometrial cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Stage IVB endometrial cancer; drawing shows cancer that has spread to parts of the body outside the pelvis, including the abdomen and lymph nodes in the groin. An inset shows cancer cells spreading from the endometrium, through the blood and lymph system, to another part of the body where  metastatic cancer has formed.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="en">Stage IVB endometrial cancer; drawing shows cancer that has spread to parts of the body outside the pelvis, including the abdomen and lymph nodes in the groin. An inset shows cancer cells spreading from the endometrium, through the blood and lymph system, to another part of the body where  metastatic cancer has formed.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Stage IVB endometrial cancer. The cancer has spread to parts of the body outside the pelvis, including the abdomen and/or lymph nodes in the groin.</MediaCaption>
+  <MediaCaption audience="Health_professionals" language="en">Stage IVB endometrial cancer. The cancer has spread to parts of the body outside the pelvis, including the abdomen and/or lymph nodes in the groin.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062964">Endometrial Cancer Treatment</Summary>
+  <Glossary cdr:ref="CDR0000045119">stage IV endometrial cancer</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-11</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+        <ProcessingStatusDate>2023-12-11</ProcessingStatusDate>
+        <EnteredBy>yousufzaimg</EnteredBy>
+        <Comment user="yousufzaimg" date="2023-12-11" audience="Internal">Updated to Endometrial Cancer Stage IVB FP III.2.jpg</Comment><Comment user="kuhlmanna" date="2023-11-27" audience="Internal">Updated to Endometrial Cancer Stage IVB FP III.1.jpg</Comment><Comment audience="Internal" date="2016-03-22" user="yousufzaimg">Updated to EndometrialCaStage4B.8.jpg</Comment><Comment audience="Internal" date="2016-02-08" user="yousufzaimg">Updated to EndometrialCaStage4B.7.jpg</Comment><Comment audience="Internal" date="2016-01-15" user="yousufzaimg">Updated to EndometrialCaStage4B.6.jpg</Comment><Comment audience="Internal" date="2015-12-16" user="yousufzaimg">Updated to EndometrialCaStage4B.5.jpg</Comment><Comment audience="Internal" date="2012-08-31" user="anjamison">Updated to EndometrialCaStage4B.3.jpg</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2012-08-03</ProcessingStatusDate>
+   <EnteredBy>anjamison</EnteredBy>
+   <Comment>Added new illustration: EndometrialCaStage4B.1.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+<RelatedDocuments>
+         <SupplementaryInfoLink cdr:ref="CDR0000740449">Illustration Review Sheet: endometrial cancer stage IVB</SupplementaryInfoLink>
+       </RelatedDocuments></Media>

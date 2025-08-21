@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>brain, lateral and medial, adult, anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Ventrículos (espacios llenos de líquido)</LabelName><LabelName language="es">Cerebro</LabelName><LabelName language="es">Meninges</LabelName><LabelName language="es">Cráneo</LabelName><LabelName language="es">Cerebelo</LabelName><LabelName language="es">Tronco encefálico</LabelName><LabelName language="es">Protuberancia</LabelName><LabelName language="es">Bulbo raquídeo</LabelName><LabelName language="es">Médula espinal</LabelName><LabelName language="es">Plexo coroideo</LabelName><LabelName language="es">Glándula pineal</LabelName><LabelName language="es">Hipófisis</LabelName><LabelName language="es">Nervio óptico</LabelName><LabelName language="es">Hipotálamo</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1883</HeightPixels>
+    <WidthPixels>3008</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000765034">brain, lateral and medial, adult, anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>BrainAdultLateralAndMedialSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2014-11-04" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038958">brain tumor</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Anatomía del cerebro; un dibujo de dos paneles muestra el cerebro, los ventrículos (espacios llenos de líquido), el cerebelo, el tronco encefálico (protuberancia y médula) y la columna vertebral. También se muestra las meninges y el cráneo (panel izquierdo) y el plexo coroide, el hipotálamo, la glándula pineal, la hipófisis y el nervio óptico (panel derecho).</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Anatomía del cerebro donde se muestra el cerebro, los ventrículos (con el líquido cefalorraquídeo en azul), el cerebelo, el tronco encefálico (la protuberancia y la médula) y otras partes del cerebro.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256800">Tumores cerebrales en adultos: Tratamiento</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-11-04</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2014-10-20</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

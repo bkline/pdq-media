@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr" BlockedFromVOL="Yes">
+ 
+ <MediaTitle>SPCG-4 study - cumulative incidence graphs</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>chart</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>BW</Color>
+   <Labeled>No</Labeled>
+   <ImageDimensions>
+    <HeightPixels>550</HeightPixels>
+    <WidthPixels>1065</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   
+   <SourcePublication>JNCI. Vol 100, Issue 16. August 20, 2008. Page 1148.</SourcePublication>
+   
+   
+   
+   <SourceFilename>Figure2_NC.jpg</SourceFilename>
+   
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>to be specified</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038782">prostate cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Health_professionals" language="en">Scandinavian Prostate Cancer Group-4 study cumulative incidence; six line graphs show the cumulative incidence of six different endpoints in the radical prostatectomy and watchful waiting groups. The probability of a given endpoint is shown on the y-axis, and time (from 0-12 years) is shown on the x-axis. Endpoints include overall mortality, prostate cancer death, metastases, local progression, the use of hormonal treatment, and the use of other palliative treatment.  Higher cumulative incidence of each endpoint is shown in the watchful waiting group, with statistically significant differences shown for all endpoints except overall mortality. 95% confidence intervals are shown at 4, 6, and 8 years of follow-up.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="en">Cumulative incidence with 95% confidence intervals (CIs) at 4, 8, and 12 years of endpoints for all patients. A) Overall mortality: relative
+risk (RR) equal to  0.82, 95% CI equal to 0.65 to 1.03; Pequal to .09. B) Prostate cancer (PC) death: RR equal to 0.65, 95% CI equal to  0.45 to 0.94; P equal to .03. C) Metastases: RR equal to 0.65,
+95% CI equal to 0.47 to 0.88; P equal to .006. D) Local progression: RR equal to 0.36, 95% CI equal to 0.27 to 0.47; P less than .001. E) Hormonal treatment: RR = 0.54, 95% CI equal to 0.44 to
+0.68; P less than .001. F) Other palliative treatment: RR equal to  0.63, 95% CI equal to 0.41 to 0.97; P equal to .04. P values (two-sided) were calculated using Gray’s test.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000062910">Prostate Cancer Treatment</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Caption and content pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2009-02-16</ProcessingStatusDate>
+        <EnteredBy>rharrison</EnteredBy>
+        
+       <Comment audience="Internal" date="2009-02-17" user="rharrison">Removed emphasis tags from caption. </Comment><Comment audience="Internal" date="2009-02-17" user="rharrison">Plan to add sentence to caption re: permission.</Comment></ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Draft illustration from artist</ProcessingStatusValue>
+   <ProcessingStatusDate>2009-02-16</ProcessingStatusDate>
+   <EnteredBy>rharrison</EnteredBy>
+   
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

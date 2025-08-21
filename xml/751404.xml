@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>Klatskin tumor anatomy-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Tumor de Klatskin</LabelName><LabelName language="es">Hígado</LabelName><LabelName language="es">Conducto hepático derecho</LabelName><LabelName language="es">Conducto hepático izquierdo</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">Conducto hepático común</LabelName><LabelName language="es">Vesícula biliar</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2434</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000742477">Klatskin tumor anatomy</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>KlatskinTumorSpanish.jpg</SourceFilename>
+  <Comment audience="Internal" date="2013-08-07" user="lsaucedo">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038752">extrahepatic bile duct cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Tumor de Klatskin; el dibujo muestra cáncer en el conducto hepático común, el área donde el conducto hepático derecho e izquierdo se unen. También se muestran el hígado y la vesícula biliar.</ContentDescription>
+  <ContentDescription audience="Health_professionals" language="es">Tumor de Klatskin; el dibujo muestra cáncer en el conducto hepático común, el área donde el conducto hepático derecho e izquierdo se unen. También se muestran el hígado y la vesícula biliar.</ContentDescription></ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Tumor de Klatskin. Un tumor que se forma en el conducto hepático común, el área donde el conducto hepático derecho e izquierdo se unen. </MediaCaption>
+  <MediaCaption audience="Health_professionals" language="es">Tumor de Klatskin. Un tumor que se forma en el conducto hepático común, el área donde el conducto hepático derecho e izquierdo se unen. </MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256805">Cáncer de las vías biliares extrahepáticas: Tratamiento</Summary>
+  <Summary cdr:ref="CDR0000256711">Cáncer de las vías biliares extrahepáticas: Tratamiento</Summary><Glossary cdr:ref="CDR0000335074">Klatskin tumor</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-27</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Added HP content description and caption </Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-07</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-08-02</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        <Comment>Translations QCd</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2013-07-30</ProcessingStatusDate>
+        <EnteredBy>lsaucedo</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ </ProcessingStatuses>
+</Media>

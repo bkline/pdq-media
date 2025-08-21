@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>catheter, central venous-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   
+  <LabelName language="es">Catéter venoso central</LabelName><LabelName language="es">Catéter venoso central</LabelName><LabelName language="es">Vena cava superior</LabelName><LabelName language="es">Corazón</LabelName><LabelName language="es">Catéter venoso central</LabelName><LabelName language="es">Vena cava superior</LabelName><ImageDimensions>
+    <HeightPixels>2400</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000756806">catheter, central venous</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>CentralVenousCatheterSpanish1.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-07-14" user="saucedol">Linked new image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>medical device</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Catéter venoso central; dibujo de un catéter venoso central que va desde una vena debajo de la clavícula derecha a una vena grande sobre el lado derecho del corazón llamada vena cava superior. En un recuadro se muestra un catéter venoso central en el lado derecho del pecho con un vendaje plástico transparente sobre este.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Catéter venoso central. Un catéter venoso central es un tubo delgado y flexible que se introduce en una vena, por lo general por debajo de la clavícula derecha, y guiado (insertado) hacia una vena grande sobre el lado derecho del corazón que se llama vena cava superior. Se utiliza para administrar líquidos intravenosos, transfusiones de sangre, quimioterapia y otros medicamentos. El catéter también se utiliza para tomar muestras de sangre. Puede permanecer en el lugar durante semanas o meses, y ayuda a evitar la necesidad de pinchazos repetidos.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000045962">central venous access catheter</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue><ProcessingStatusDate>2015-07-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-14</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        
+       </ProcessingStatus>
+  
+ <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus></ProcessingStatuses>
+</Media>

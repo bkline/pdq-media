@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>hematopoietic tree, basic-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Célula madre sanguínea</LabelName><LabelName language="es">Célula madre mieloide</LabelName><LabelName language="es">Célula madre linfoide</LabelName><LabelName language="es">Mieloblasto</LabelName><LabelName language="es">Linfoblasto</LabelName><LabelName language="es">Glóbulos rojos</LabelName><LabelName language="es">Plaquetas</LabelName><LabelName language="es">Glóbulos blancos</LabelName><ImageDimensions>
+    <HeightPixels>2226</HeightPixels>
+    <WidthPixels>2640</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1"><MediaID cdr:ref="CDR0000526219">hematopoietic tree, basic</MediaID></FromCdrMedia>
+    
+   </FromObject>
+   <Comment>Spanish filename: HematopoieticBasicSpanish3.jpg.</Comment>
+  <Comment audience="Internal" date="2008-02-06" user="rharrison">2008-02-06 Added new copyright information. </Comment></DerivedFrom>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>normal cells or tissues</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000039800">hematopoietic/lymphoid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Evolución de una célula sanguínea; el dibujo muestra el proceso por el que pasa una célula madre sanguínea para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco. Este dibujo muestra una célula madre mieloide que se convierte en un glóbulo rojo, una plaqueta, o un mieloblasto, el cual luego se convierte en un glóbulo blanco. También muestra una célula  madre linfoide que se convierte en un linfoblasto y luego en uno de varios tipos diferentes de glóbulos blancos.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Evolución de una célula sanguínea. Una célula madre sanguínea pasa por varias etapas para convertirse en un glóbulo rojo, una plaqueta o un glóbulo blanco.</MediaCaption>
+  </Captions>
+  
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256790">Leucemia mieloide aguda en adultos: Tratamiento</Summary>
+  
+ <Summary cdr:ref="CDR0000256797">Leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles: Tratamiento</Summary><Summary cdr:ref="CDR0000256791">Leucemia mielógena crónica: Tratamiento</Summary><Summary cdr:ref="CDR0000426393">Síndromes mielodisplásicos: Tratamiento</Summary><Summary cdr:ref="CDR0000453835">Neoplasias mielodisplásicas o mieloproliferativas: Tratamiento</Summary></ProposedUse>
+ <ProcessingStatuses>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2007-06-04</ProcessingStatusDate>
+        <EnteredBy>mmulrow</EnteredBy>
+        <Comment>2007-06-04 Artist completed and uploaded Spanish-labeled images. 2007-09-14 Artist completed and uploaded Spanish image with revised labels.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+   <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+   <ProcessingStatusDate>2007-05-04</ProcessingStatusDate>
+   <EnteredBy>mmulrow</EnteredBy>
+   <Comment>2007-05-18 label translation completed. 2007-09-12 Translation of caption/content completed and translation of two revised labels.</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+ 
+</Media>

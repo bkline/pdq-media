@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid and parathyroid gland, child, anatomy</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="en">Anatomy of the Thyroid and Parathyroid Glands</LabelName><LabelName language="en">Larynx</LabelName><LabelName language="en">Thyroid gland</LabelName><LabelName language="en">Trachea</LabelName><LabelName language="en">Thyroid gland (front view)</LabelName><LabelName language="en">Right lobe</LabelName><LabelName language="en">Isthmus</LabelName><LabelName language="en">Left lobe</LabelName><LabelName language="en">Thyroid gland (back view)</LabelName><LabelName language="en">Parathyroid glands</LabelName><ImageDimensions>
+    <HeightPixels>2700</HeightPixels>
+    <WidthPixels>3075</WidthPixels>
+   </ImageDimensions>
+  </ImageData>
+ </PhysicalMedia>
+ <MediaSource>
+  <OriginalSource>
+   <Creator>Terese Winslow</Creator>
+   <DateCreated>2017-10-16</DateCreated>
+   <SourceFilename>ThyroidParathyroidAnatomy15yrs.jpg</SourceFilename>
+  </OriginalSource>
+ </MediaSource>
+ <MediaContent>
+  <Categories>
+   <Category>anatomy</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038073">unusual cancers of childhood</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="en">Anatomy of the thyroid and parathyroid glands; drawing shows the thyroid gland at the base of the throat near the trachea. An inset shows the front and back views. The front view shows that the thyroid is shaped like a butterfly, with the right lobe and left lobe connected by a thin piece of tissue called the isthmus. The back view shows the four pea-sized parathyroid glands. The larynx is also shown.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="en">Anatomy of the thyroid and parathyroid glands. The thyroid gland lies at the base of the throat near the trachea. It is shaped like a butterfly, with the right lobe and left lobe connected by a thin piece of tissue called the isthmus. The parathyroid glands are four pea-sized organs found in the neck near the thyroid. The thyroid and parathyroid glands make hormones.</MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Summary cdr:ref="CDR0000062878">Unusual Cancers of Childhood Treatment</Summary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Ready for Publishing</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-13</ProcessingStatusDate>
+        <EnteredBy>kuhlmanna</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+   <ProcessingStatusValue>Illustration review by group</ProcessingStatusValue>
+   <ProcessingStatusDate>2017-10-16</ProcessingStatusDate>
+   <EnteredBy>yousufzaimg</EnteredBy>
+   <Comment>Added ThyroidParathyroidAnatomy15yrs.jpg</Comment>
+  </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

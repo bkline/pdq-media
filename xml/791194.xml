@@ -1,0 +1,89 @@
+<Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>thyroid cancer, papillary and follicular, stage II (2) (55 years and older)-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes de 55 años o más (Parte 2)</LabelName><LabelName language="es">Laringe</LabelName><LabelName language="es">Glándula tiroidea</LabelName><LabelName language="es">Tráquea</LabelName><LabelName language="es">Cáncer</LabelName><LabelName language="es">El tumor mide más de 4 cm</LabelName><LabelName language="es">4 cm</LabelName><LabelName language="es">Ganglio linfático</LabelName>
+  <ImageDimensions>
+    <HeightPixels>2625</HeightPixels>
+    <WidthPixels>2820</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000790804">thyroid cancer, papillary and follicular, stage II (2) (55 years and older) </MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PapillaryFollicularThyroidCaStage2Part2Over55Spanish3.jpeg</SourceFilename>
+  </DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>staging</Category>
+  </Categories>
+  <Diagnoses>
+   <Diagnosis cdr:ref="CDR0000038806">stage II follicular thyroid cancer</Diagnosis><Diagnosis cdr:ref="CDR0000038803">stage II papillary thyroid cancer</Diagnosis>
+  </Diagnoses>
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes de 55 años o más (Parte 2). En la imagen se muestran el cáncer en la glándula tiroidea y el tumor que mide más de 4 cm. En el recuadro se observa que 4 cm es casi del tamaño de una nuez. También se muestran los ganglios linfáticos, la laringe y la tráquea.</ContentDescription><ContentDescription audience="Health_professionals" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes de 55 años o más (Parte 2). En la imagen se muestran el cáncer en la glándula tiroidea y el tumor que mide más de 4 cm. En el recuadro se observa que 4 cm es casi del tamaño de una nuez. También se muestran los ganglios linfáticos, la laringe y la tráquea.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Health_professionals" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes de 55 años o más (Parte 2). El cáncer se encuentra en la glándula tiroidea (tiroides), y el tumor mide más de 4 cm. Es posible que el cáncer se haya diseminado a los ganglios linfáticos cercanos.</MediaCaption>
+  <MediaCaption audience="Patients" language="es">Cáncer de tiroides papilar y folicular en estadio II en pacientes de 55 años o más (Parte 2). El cáncer se encuentra en la glándula tiroidea (tiroides), y el tumor mide más de 4 cm. Es posible que el cáncer se haya diseminado a los ganglios linfáticos cercanos.</MediaCaption></Captions>
+ </MediaContent>
+ <ProposedUse>
+  <Summary cdr:ref="CDR0000256718">Tratamiento del cáncer de tiroides en adultos</Summary><Summary cdr:ref="CDR0000584552">Tratamiento del cáncer de tiroides en adultos</Summary>
+  
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-08-01</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Linked revised image</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-24</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>Sp QC completed</Comment><Comment audience="Internal" date="2018-07-24" user="adlerm2">En la leyenda, en inglés solo dice "thyroid" (vs. thyroid gland), pero la imagen dice "thyroid gland". Sugiero poner lo mismo en la leyenda y la imagen para no confundir al paciente; entre paréntesis se incluirá "(tiroides)". Esta solución "glándula tiroidea (tiroides)" solo se usará en la leyenda de las imágenes de tiroides donde en inglés figura "thyroid gland" en la imagen y "thyroid" en la leyenda.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-23</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>Pending 2nd peer-review</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation reviewed</ProcessingStatusValue>
+        <ProcessingStatusDate>2018-07-05</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment audience="Internal" date="2018-07-05" user="lansberryic">Pending translation QC</Comment><Comment audience="Internal" date="2018-07-05" user="lansberryic">Revised labels, caption and cont. Descr. per terminology meeting July 2018 and AJCC updates. Group agreement to use thyroid gland:glándula tiroidea;thyroid:tiroides; also related GTN/GTC.</Comment>
+       <Comment>Cleaned old markup</Comment></ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-10</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-11-06</ProcessingStatusDate>
+        <EnteredBy>adlerm2</EnteredBy>
+        <Comment>QC completed--labels and content description. Sugerencia: Arriba, sugerencia para que no parezca que el estadio tiene una "parte 2" (parece que el estadio tiene tres imágenes); se evitan también los dos paréntesis pegados.</Comment>
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-30</ProcessingStatusDate>
+        <EnteredBy>lansberryic</EnteredBy>
+        <Comment>Qc for updates</Comment>
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2017-10-06</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        <Comment>New</Comment>
+       </ProcessingStatus>
+ </ProcessingStatuses>
+</Media>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><Media xmlns:cdr="cips.nci.nih.gov/cdr">
+ 
+ <MediaTitle>catheter, peripheral venous-Spanish</MediaTitle>
+ <PhysicalMedia>
+  <ImageData>
+   <ImageType>drawing</ImageType>
+   <ImageEncoding>JPEG</ImageEncoding>
+   <Color>Color</Color>
+   <Labeled>Yes</Labeled>
+   <LabelName language="es">Catéter venoso periférico</LabelName><LabelName language="es">Vena</LabelName><LabelName language="es">Catéter</LabelName>
+  <ImageDimensions>
+    <HeightPixels>1950</HeightPixels>
+    <WidthPixels>3000</WidthPixels>
+    
+   </ImageDimensions></ImageData>
+ </PhysicalMedia>
+ 
+ <MediaSource>
+  <DerivedFrom>
+   <FromObject>
+    <FromCdrMedia cdr:id="_1">
+     <MediaID cdr:ref="CDR0000771773">catheter, peripheral venous</MediaID>
+    </FromCdrMedia>
+   </FromObject>
+   <SourceFilename>PeripheralVenousCatheterSpanish2.jpeg</SourceFilename>
+  <Comment audience="Internal" date="2015-07-15" user="saucedol">Linked revised image</Comment></DerivedFrom>
+ </MediaSource><MediaContent>
+  <Categories>
+   <Category>medical device</Category>
+  </Categories>
+  
+  
+  <ContentDescriptions>
+   <ContentDescription audience="Patients" language="es">Catéter venoso periférico; dibujo de un catéter venoso periférico dentro de una vena en la parte inferior del brazo con el tubo del catéter sujeto y sellado al final.</ContentDescription>
+  </ContentDescriptions>
+  <Captions>
+   <MediaCaption audience="Patients" language="es">Catéter venoso periférico.  Un catéter venoso periférico es un tubo delgado y flexible que se inserta en una vena. Normalmente, se inserta en la parte inferior del brazo o la parte posterior de la mano.  Se usa para administrar líquidos, transfusiones de sangre, quimioterapia y otros medicamentos por vía intravenosa. </MediaCaption>
+  </Captions>
+ </MediaContent>
+ <ProposedUse>
+  
+  <Glossary cdr:ref="CDR0000463728">peripheral venous catheter</Glossary>
+ </ProposedUse>
+ <ProcessingStatuses><ProcessingStatus>
+        <ProcessingStatusValue>Processing Complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Translation complete</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-15</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus><ProcessingStatus>
+        <ProcessingStatusValue>Spanish labels sent to artist</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-08</ProcessingStatusDate>
+        <EnteredBy>saucedol</EnteredBy>
+        
+       </ProcessingStatus>
+  <ProcessingStatus>
+        <ProcessingStatusValue>Translation pending</ProcessingStatusValue>
+        <ProcessingStatusDate>2015-07-06</ProcessingStatusDate>
+        <EnteredBy>imasduchovnyv</EnteredBy>
+        
+       <Comment audience="Internal" date="2015-07-06" user="imasduchovnyv">Only labels translated.</Comment></ProcessingStatus>
+ </ProcessingStatuses>
+</Media>
