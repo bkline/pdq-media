@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Stage media and store it on Akamai"s servers"""
+"""Stage media and store it on Akamai's servers"""
 
 from argparse import ArgumentParser
 from datetime import datetime
@@ -52,7 +52,7 @@ class Control:
                 newpath.hardlink_to(path)
             else:
                 image = Image.open(path)
-                if image.mode== "P":
+                if image.mode == "P":
                     image = image.convert("RGB")
                 newpath = self.images / f"{doc_id:d}.jpg"
                 image.save(newpath, "JPEG", **opts)
@@ -62,6 +62,7 @@ class Control:
                     if width < image.width:
                         height = int(round(width * ratio))
                         size = width, height
+                        # pylint: disable=no-member
                         scaled_image = image.resize(size, Image.LANCZOS)
                     else:
                         scaled_image = image
@@ -119,8 +120,11 @@ class Control:
         return self.opts.checksums
 
     @cached_property
-    def count(self):
-        """Keep track of the number of files we process"""
+    def count(self):  # pylint: disable=method-hidden
+        """Keep track of the number of files we process
+
+        pylint bug (https://github.com/pylint-dev/pylint/issues/8753)
+        """
         return 0
 
     @cached_property
@@ -190,8 +194,13 @@ class Control:
     def __add_key_to_agent(self):
         """Add our credentials"""
 
-        opts = {"input": self.key_data, "capture_output": True, "text": True}
-        proc = run(["ssh-add", "-"], **opts)
+        proc = run(
+            ["ssh-add", "-"],
+            input=self.key_data,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
         output = (proc.stdout.strip() + "\n" + proc.stderr.strip()).strip()
         if proc.returncode != 0:
             self.logger.error("failure adding SSH key to agent: %s", output)
@@ -202,7 +211,7 @@ class Control:
     def __start_ssh_agent(self):
         """Start the agent that will support authorization of our connection"""
 
-        result = run(["ssh-agent", "-s"], capture_output=True, text=True)
+        result = run(["ssh-agent", "-s"], capture_output=True, text=True, check=False)
         for line in result.stdout.splitlines():
             for key in self.KEYS:
                 if line.startswith(key):
@@ -213,7 +222,7 @@ if __name__ == "__main__":
     control = Control()
     try:
         control.run()
-    except Exception as e:
+    except Exception as e:  # pylint: disable=broad-exception-caught
         control.logger.exception("sync failed")
         if control.verbose:
             stderr.write(f"\nsync failed: {e}\n")

@@ -6,3 +6,4 @@ venv/
 .vscode/
 .secrets.json
 .DS_Store
+dross/
