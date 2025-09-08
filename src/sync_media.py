@@ -175,7 +175,7 @@ class Control:
 
     @cached_property
     def rsync(self):
-        """Tuple of values used to invoke rsync with checksum comparison"""
+        """Tuple of values used to invoke rsync"""
 
         local, remote = "../akamai/", f"sshacs@{self.host}:media"
         check = "--checksum" if self.checksums else "--size-only"
